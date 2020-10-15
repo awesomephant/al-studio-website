@@ -1,1 +1,25 @@
-{}
+{
+  "widgets": [
+    {
+      "title": "Enquiries",
+      "text": "[info@adalbertolonardi.com](mailto:info@adalbertolonardi.com)"
+    },
+    {
+      "title": "Address",
+      "text": "186 Homerton High Street\\\nLondon E9 6AG\\\nUnited Kingdom"
+    },
+    {
+      "title": "Updates",
+      "text": "[Instagram](https://www.instagram.com/adalberto_lonardi_works/)\\\n[Newsletter](https://www.instagram.com/adalberto_lonardi_works/)"
+    }
+  ],
+  "content": "## Interdisciplinary communication and architecture practice focused on developing strategies for the social needs of tomorrow.\n\nFounded in 2015 by Adalberto Lonardi, we specialise in architecture and visual communication concepts. We seek simple, straightforward solutions, bold aesthetics, and meaningful narratives to develop projects that will contribute to the empowerment of the community. A balanced combination of creativity and methodology describe the approach to out everyday design.",
+  "clients": [
+    "Royal College of Art (UK)",
+    "FABRICA (IT)",
+    "Domain de Boisbuchet (FR)",
+    "Frahm & Frahm (UK)",
+    "Swisscare (IT)",
+    "OGM Plant (IT)"
+  ]
+}

@@ -4,12 +4,13 @@
 }
 
 .project-filters {
-  grid-column: 1 / 15;
   @extend %uppercase;
-  position: sticky;
-  top: 0;
+  position: fixed;
+  bottom: 0;
   background: $blue;
-  border-bottom: 1px solid rgba(white, 0.5);
+  z-index: 1000;
+  width: 100%;
+  border-top: 1px solid rgba(white, 0.5);
   padding: 1rem var(--padding);
   display: flex;
   justify-content: space-between;
@@ -40,6 +41,7 @@
   font-weight: 600;
   font-size: var(--ms-1);
   grid-column: 2 / 5;
+  line-height: 1.1;
   @extend %uppercase;
   padding-right: 1rem;
   span {
@@ -49,10 +51,12 @@
 .project-tags {
   grid-column: 11 / 14;
   list-style: none;
+  font-size: var(--ms--1);
   @extend %uppercase;
 }
 
 .project-media {
+  padding-top: 2rem;
   grid-column: 2 / 15;
   display: flex;
   max-width: 100%;

@@ -11,7 +11,7 @@
   position: absolute;
   bottom: 0;
   width: 100%;
-  background: rgba(229, 238, 240, 0.8);
+  background: rgba(229, 238, 240, 0.99);
   padding: 1rem var(--padding);
   display: flex;
   z-index: 2000;
@@ -27,16 +27,10 @@
 .home-project {
   height: 100vh;
   width: 100vw;
-  position: relative;
   overflow: hidden;
+  display: flex;
   img {
-    display: block;
-    position: absolute;
     z-index: -100;
-    left: 50%;
-    top: 50%;
-    transform: translateX(-50%) translateY(-50%);
-    min-width: 100%;
-    min-height: 100%;
+    object-fit: cover;
   }
 }

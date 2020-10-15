@@ -5,26 +5,45 @@
   }
 }
 .information-copy {
-  min-height: 80vh;
-  grid-column: 2 / 7;
   font-size: var(--ms-2);
-  line-height: 1.2;
+  line-height: 1.15;
+  letter-spacing: 0.005em;
+  font-weight: 400;
+  grid-column: 2 / 14;
+  margin-bottom: 1em;
+  @include bp(m) {
+    min-height: 80vh;
+    grid-column: 2 / 7;
+  }
   h2 {
-    font-weight: bold;
-    margin-bottom: 1em;
+    font-weight: 700;
+    margin-bottom: 0.5em;
   }
 }
 .information-clients {
-  grid-column: 8 / 10;
+  grid-column: 2 / 14;
+  margin-bottom: 1em;
+  @include bp(s) {
+    grid-column: 2 / 7;
+  }
+  @include bp(m) {
+    grid-column: 8 / 10;
+  }
   ul {
     list-style: none;
   }
   li {
-    margin-bottom: .2em;
+    white-space: nowrap;
   }
 }
 .information-blocks {
-  grid-column: 11 / 14;
+  grid-column: 2 / 14;
+  @include bp(s) {
+    grid-column: 8 / 14;
+  }
+  @include bp(m) {
+    grid-column: 11 / 14;
+  }
   section {
     margin-bottom: 1.5em;
   }

@@ -4,16 +4,15 @@ class: home
 ---
 
 <ul class="home-projects">
-    {% assign p = collections.project[0] %}
+    {% assign p = collections.project[1] %}
     <li class="home-project">
         <img src="{{p.data.media[0].url}}" alt="{{p.data.media[0].alt}}">
         <div class="home-caption">
             <h2>
-                {{p.data.title}} <span>
+                <a href="{{p.link}}">{{p.data.title}}</a><span>
                     – {{p.data.subtitle}}
                 </span>
             </h2>
-            <a href="{{p.link}}">Read more</a>
         </div>
     </li>
 </ul>

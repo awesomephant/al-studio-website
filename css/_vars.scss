@@ -28,17 +28,18 @@
 
 %uppercase {
   text-transform: uppercase;
-  letter-spacing: 0.015em;
+  letter-spacing: 0.04em;
 }
 
-$sans: Helvetica, sans-serif;
+$sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial,
+  sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 $blue: rgb(25, 51, 228);
 $black: rgb(4, 4, 7);
 
 :root {
   --padding: 3%;
   --ratio: 1.25;
-  --ms-0: clamp(1rem, 3vw, 1.1rem);
+  --ms-0: clamp(1.1rem, 1.5vw, 1.2rem);
   --ms--2: calc(var(--ms--1) / var(--ratio));
   --ms--1: calc(var(--ms-0) / var(--ratio));
   --ms-1: calc(var(--ms-0) * var(--ratio));

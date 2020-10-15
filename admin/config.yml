@@ -4,20 +4,89 @@ backend:
 media_folder: "/assets/uploads"
 collections:
   - name: "settings"
-    label: "Site Settings"
-    folder: "settings/"
-    create: false
-    slug: "{{slug}}"
-    fields:
-      - { label: "Body", name: "body", widget: "markdown" }
+    label: "Settings"
+    files:
+      - file: "_data/settings.json"
+        name: "settings"
+        label: "Site Settings"
+        fields:
+          - label: "Site Title"
+            name: "site_title"
+            widget: "string"
+          - label: "Site Description"
+            name: "site_description"
+            widget: "string"
+            hint: "This is displayed in the header, search results and social media cards."
+          - label: "Featured Projects"
+            name: "featured-projects"
+            hint: "Only featured projects appear on the homepage."
+            widget: "relation"
+            collection: "projects"
+            value_field: "title"
+            search_fields: ["title"]
+            multiple: true
+      - file: "_data/about.json"
+        name: "about"
+        label: "Information"
+        fields:
+          - label: "Copy"
+            name: "content"
+            widget: "markdown"
+          - label: "Clients and Collaborators"
+            name: "clients"
+            widget: "list"
+            hint: "Separate multiple entries by comma."
+          - label: Information Blocks
+            name: widgets
+            widget: list
+            fields:
+              - {name: title, label: Title, widget: string}
+              - {name: text, label: Text, widget: markdown, buttons: [bold, italic, link, heading-two, bulleted-list], editor_components: []}
   - name: "projects"
     label: "Projects"
     folder: "projects/"
     create: true
     slug: "{{slug}}"
     fields:
-      - { label: "Layout", name: "layout", widget: "hidden", default: "blog" }
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Featured Image", name: "thumbnail", widget: "image" }
-      - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Layout"
+        name: "layout"
+        widget: "hidden"
+        default: "project"
+      - label: "Title"
+        name: "title"
+        widget: "string"
+      - label: "Subtitle"
+        name: "subtitle"
+        widget: "string"
+      - label: "Publish Date"
+        name: "date"
+        widget: "datetime"
+      - label: "Start Year"
+        name: "start_year"
+        widget: "number"
+        default: 2020
+        value_type: "int"
+      - label: "End Year"
+        name: "end_year"
+        widget: "number"
+        default: 2020
+        value_type: "int"
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+        hint: "Separate multiple tags by comma."
+      - label: "Project Media"
+        name: "media"
+        widget: "list"
+        summary: "{{fields.url}}"
+        fields:
+          - label: Image
+            name: url
+            widget: "image"
+          - label: Caption
+            name: caption
+            widget: string
+          - label: "Description"
+            name: "alt"
+            widget: "text"
+            hint: "You can add a description to your media items so they’re accessible to more people, including those who are blind or visually impaired. Good descriptions are concise, but present what’s in your photos accurately enough to understand their context."

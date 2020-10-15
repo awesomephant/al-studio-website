@@ -1,9 +1,15 @@
 const pluginSass = require("eleventy-plugin-sass");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
+const markdownIt = require("markdown-it");
+const md = new markdownIt();
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addCollection("project", function (collectionApi) {
     return collectionApi.getFilteredByGlob(["./projects/*.md"]);
+  });
+
+  eleventyConfig.addFilter("renderMarkdown", function (value) {
+    return md.render(value);
   });
 
   eleventyConfig.addPassthroughCopy("./admin");
@@ -12,7 +18,6 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("*.png");
   eleventyConfig.addPassthroughCopy("/*.xml");
   eleventyConfig.addPassthroughCopy("favicon.ico");
-
   eleventyConfig.addWatchTarget("./dist/main.js");
 
   eleventyConfig.addPlugin(pluginRss);

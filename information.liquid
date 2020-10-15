@@ -1,6 +1,28 @@
 ---
 layout: base
-class: home
+class: information
 ---
 
-hi
+<article class="information-copy">
+    {{about.content | renderMarkdown }}
+</article>
+<aside class="information-clients">
+    <h3>Clients and Collaborators</h3>
+    <ul>
+        {% for client in about.clients %}
+        <li>
+            {{client}}
+        </li>
+        {% endfor %}
+    </ul>
+</aside>
+<aside class="information-blocks">
+    {% for w in about.widgets %}
+    <section>
+        <h3>{{w.title}}</h3>
+        <div>
+            {{w.text | renderMarkdown}}
+        </div>
+    </section>
+    {% endfor %}
+</aside>

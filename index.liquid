@@ -4,7 +4,7 @@ class: home
 ---
 
 <ul class="home-projects">
-    {% for p in collections.project %}
+    {% assign p = collections.project[0] %}
     <li class="home-project">
         <img src="{{p.data.media[0].url}}" alt="{{p.data.media[0].alt}}">
         <div class="home-caption">
@@ -16,5 +16,4 @@ class: home
             <a href="{{p.link}}">Read more</a>
         </div>
     </li>
-    {% endfor %}
 </ul>

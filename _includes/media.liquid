@@ -1,0 +1,4 @@
+{% if media.url contains "mp4" %}
+{% else %}
+    <img src="{{media.url}}" alt="{{media.alt}}">
+{% endif %}

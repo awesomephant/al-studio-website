@@ -1,0 +1,44 @@
+.site-header {
+  grid-column: 1 / 15;
+  grid-row: 1 / 2;
+  padding: 1rem var(--padding);
+  display: flex;
+  margin-bottom: -1rem;
+  justify-content: space-between;
+  a {
+    @extend %uppercase;
+    text-decoration: none;
+    &:hover,
+    &:focus {
+      text-decoration: underline;
+    }
+  }
+  h1 {
+    flex-basis: 50%;
+    @include bp(l) {
+      white-space: nowrap;
+    }
+    line-height: 1.2;
+  }
+  color: white;
+  border-bottom: 1px solid rgba(white, 0.5);
+  .home & {
+    border-bottom: 0;
+    color: black;
+  }
+}
+
+.site-nav {
+  a {
+    margin-left: 1em;
+  }
+}
+
+.site-footer {
+  grid-column: 2 / 14;
+  font-size: var(--ms--1);
+  opacity: 0.5;
+  .home & {
+    display: none;
+  }
+}

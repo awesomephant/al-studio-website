@@ -1,0 +1,41 @@
+.home {
+}
+
+.home-projects {
+  grid-column: 1 / 13;
+  grid-row: 1 / 3;
+  z-index: -100;
+  position: relative;
+}
+
+.home-caption {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background: rgba(229, 238, 240, .8);
+  padding: 1rem var(--padding);
+  display: flex;
+  justify-content: space-between;
+  h2 {
+      font-weight: 600;
+  }
+  span {
+      font-weight: normal;
+  }
+}
+
+.home-project {
+  height: 100vh;
+  width: 100vw;
+  position: relative;
+  overflow: hidden;
+  img {
+    display: block;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    min-width: 100%;
+    min-height: 100%;
+  }
+}

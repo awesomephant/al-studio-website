@@ -1,0 +1,20 @@
+---
+layout: base
+class: home
+---
+
+<ul class="home-projects">
+    {% for p in collections.project %}
+    <li class="home-project">
+        <img src="{{p.data.media[0].url}}" alt="{{p.data.media[0].alt}}">
+        <div class="home-caption">
+            <h2>
+                {{p.data.title}} <span>
+                    – {{p.data.subtitle}}
+                </span>
+            </h2>
+            <a href="{{p.link}}">Read more</a>
+        </div>
+    </li>
+    {% endfor %}
+</ul>

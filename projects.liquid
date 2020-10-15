@@ -1,0 +1,48 @@
+---
+layout: base
+class: projects
+---
+
+<nav class="project-filters">
+    <span>View</span>
+    {% assign tags = "" | split: "" %}
+    {% for p in collections.project %}
+    {% for tag in p.data.tags %}
+    {% assign taglist = tags | join: "" %}
+    {% unless taglist contains tag%}
+    {% assign tags = tags | concat: tag%}
+    {% endunless %}
+    {% endfor %}
+    {% endfor %}
+
+    <div>
+
+        {%for tag in tags %}
+        <button>{{tag}}</button>
+        {% endfor %}
+    </div>
+</nav>
+
+<ul class="projects-list">
+    {% assign projects = collections.project | reverse %}
+    {% for p in projects %}
+    <li class="project-item" data-image-size="{{p.data.image_size}}">
+        <h2 class='project-title'>{{p.data.title}}<span>{{p.data.start_year}}–{{p.data.end_year}}</span></h2>
+        <div class='project-content'>
+            {{ p.templateContent | safe }}
+        </div>
+        <ul class="project-tags">
+            {% for tag in p.data.tags %}
+            <li class="project-tag">{{tag}}</li>
+            {% endfor %}
+        </ul>
+        <ul class="project-media">
+            {% for media in p.data.media %}
+            <li class="project-media-item">
+                {% include media with media %}
+            </li>
+            {% endfor %}
+        </ul>
+    </li>
+    {% endfor %}
+</ul>

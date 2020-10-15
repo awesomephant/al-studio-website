@@ -1,0 +1,52 @@
+@mixin bp($point) {
+  @if $point==xl {
+    @media (min-width: 1800px) {
+      @content;
+    }
+  }
+  @if $point==l {
+    @media (min-width: 1400px) {
+      @content;
+    }
+  } @else if $point==m {
+    @media (min-width: 1000px) {
+      @content;
+    }
+  } @else if $point==s {
+    @media (min-width: 600px) {
+      @content;
+    }
+  }
+}
+
+%hide-scrollbars {
+  &::-webkit-scrollbar {
+    display: none;
+  }
+  scrollbar-width: none;
+}
+
+%uppercase {
+  text-transform: uppercase;
+  letter-spacing: 0.015em;
+}
+
+$sans: Helvetica, sans-serif;
+$blue: rgb(25, 51, 228);
+$black: rgb(4, 4, 7);
+
+:root {
+  --padding: 3%;
+  --ratio: 1.25;
+  --ms-0: clamp(1rem, 3vw, 1.1rem);
+  --ms--2: calc(var(--ms--1) / var(--ratio));
+  --ms--1: calc(var(--ms-0) / var(--ratio));
+  --ms-1: calc(var(--ms-0) * var(--ratio));
+  --ms-2: calc(var(--ms-1) * var(--ratio));
+  --ms-3: calc(var(--ms-2) * var(--ratio));
+  --ms-4: calc(var(--ms-3) * var(--ratio));
+  --ms-5: calc(var(--ms-4) * var(--ratio));
+  --ms-6: calc(var(--ms-5) * var(--ratio));
+  --ms-7: calc(var(--ms-6) * var(--ratio));
+  --ms-8: calc(var(--ms-7) * var(--ratio));
+}

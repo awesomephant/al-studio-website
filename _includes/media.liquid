@@ -1,4 +1,8 @@
 {% if media.url contains "mp4" %}
 {% else %}
-    <img src="{{media.url}}" alt="{{media.alt}}">
+<picture>
+    <source type="image/webp" srcset="{{media.url | srcset: "webp" }}">
+    </source>
+    <img loading="lazy" src="1024x576.jpg" srcset="{{media.url | srcset: "jpg" }}" alt="{{media.alt}}" />
+</picture>
 {% endif %}

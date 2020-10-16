@@ -6,7 +6,7 @@ class: home
 <ul class="home-projects">
     {% assign p = collections.project[1] %}
     <li class="home-project">
-        <img src="{{p.data.media[0].url}}" alt="{{p.data.media[0].alt}}">
+        {% include media with p.data.media[0] %}
         <div class="home-caption">
             <h2>
                 <a href="{{p.link}}">{{p.data.title}}</a><span>

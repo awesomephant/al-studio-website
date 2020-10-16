@@ -16,16 +16,12 @@
     @include bp(m){
       display: inline;
     }
-    .information & {
-      display: none;
-    }
   }
   a {
-    @extend %uppercase;
-    text-decoration: none;
+    text-decoration: underline;
     &:hover,
     &:focus {
-      text-decoration: underline;
+      text-decoration: none;
     }
   }
   h1 {
@@ -34,7 +30,7 @@
     font-weight: 700;
     @include bp(s) {
       margin-bottom: 0;
-      font-weight: 600;
+      font-weight: 500;
     }
     @include bp(xl) {
       white-space: nowrap;
@@ -56,9 +52,6 @@
 .site-nav {
   white-space: nowrap;
   font-weight: 500;
-  @include bp(s) {
-    font-weight: 600;
-  }
   a {
       margin-left: 1em;
       &:first-of-type {

@@ -1,0 +1,9 @@
+.slide {
+    opacity: 0;
+    transition: $slow;
+    pointer-events: none;
+    &.active {
+        opacity: 1;
+        pointer-events: all;
+    }
+}

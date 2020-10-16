@@ -7,21 +7,25 @@
   position: relative;
 }
 
+.home-project {
+  position: absolute;
+  top: 0;
+}
+
 .home-caption {
   position: absolute;
   bottom: 0;
   width: 100%;
-  background: rgba(229, 238, 240, 0.99);
+  background: rgba(233, 244, 246, 0.99);
   padding: 1rem var(--padding);
-  display: flex;
+  font-size: var(--ms--1);
   z-index: 2000;
-  justify-content: space-between;
   h2 {
-    font-weight: 600;
+    display: flex;
+    justify-content: space-between;
   }
   span {
     font-weight: normal;
-    font-style: italic;
   }
   a {
     text-decoration: none;

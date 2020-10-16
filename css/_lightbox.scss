@@ -11,6 +11,7 @@
   transition: $fast;
   display: flex;
   padding: 3%;
+  cursor: zoom-out;
   .lightbox-active & {
     pointer-events: all;
     opacity: 1;

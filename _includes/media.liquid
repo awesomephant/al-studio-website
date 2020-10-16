@@ -1,8 +1,7 @@
 {% if media.url contains "mp4" %}
 {% else %}
 <picture class='media-item-media' data-full="{{media.url}}">
-    <source type="image/webp" srcset="{{media.url | srcset: "webp" }}">
-    </source>
+    <source type="image/webp" srcset="{{media.url | srcset: "webp" }}"/>
     <img loading="lazy" src="1024x576.jpg" srcset="{{media.url | srcset: "jpg" }}" alt="{{media.alt}}" />
 </picture>
 {% endif %}

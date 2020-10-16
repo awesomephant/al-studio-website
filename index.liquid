@@ -4,15 +4,17 @@ class: home
 ---
 
 <ul class="home-projects">
-    {% assign p = collections.project[1] %}
-    <li class="home-project">
+    {% for p in collections.featuredProjects %}
+    <li class="home-project slide">
         {% include media with p.data.media[0] %}
         <div class="home-caption">
             <h2>
-                <a href="{{p.link}}">{{p.data.title}}</a><span>
-                    – {{p.data.subtitle}}
+                <a href="/projects#{{p.data.title | slug}}">{{p.data.title}}</a>
+                <span>
+                    {{p.data.subtitle}}
                 </span>
             </h2>
         </div>
     </li>
+    {% endfor %}
 </ul>

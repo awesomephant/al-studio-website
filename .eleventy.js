@@ -2,6 +2,7 @@ const pluginSass = require("eleventy-plugin-sass");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const markdownIt = require("markdown-it");
 const md = new markdownIt();
+const siteSettings = require("./_data/settings.json");
 const fs = require("fs");
 
 module.exports = function (eleventyConfig) {
@@ -26,6 +27,14 @@ module.exports = function (eleventyConfig) {
       }
     });
     return output.join(",");
+  });
+
+  eleventyConfig.addCollection("featuredProjects", function (collectionApi) {
+    return collectionApi
+      .getFilteredByGlob(["./projects/*.md"])
+      .filter(function (item) {
+        return siteSettings.featured_projects.indexOf(item.data.title) > -1;
+      });
   });
 
   eleventyConfig.addFilter("size", function (url, size) {

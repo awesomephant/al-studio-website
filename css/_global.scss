@@ -16,6 +16,7 @@ body {
   column-gap: 0;
   row-gap: 1rem;
   font-size: var(--ms-0);
+  letter-spacing: .005em;
   &.lightbox-active {
   }
 }

@@ -2,51 +2,49 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>{{settings.site_title}}</title>
-    <link rel="shortcut icon" href='{{"/assets/favicon.ico" | url }}'>
-    <meta name="theme-color" content="#fcf8d3">
-    <link rel="stylesheet" href=" {{'/css/style.css' | url}}">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-    <!--
-      <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-    -->
-
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>{{settings.site_title}}</title>
+  <link rel="shortcut icon" href='{{"/assets/favicon.ico" | url }}'>
+  <meta name="theme-color" content="#fcf8d3">
+  <link rel="stylesheet" href=" {{'/css/style.css' | url}}">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>
 
 <body class='{{class}}'>
-    <header class="site-header">
-        <h1 class="site-title">
-            <a href="/">Adalberto Londardi</a> <span class="site-description">is an interdisciplinary design practice developing creative strategies to
-              empower the community.</span>
-        </h1>
-        <nav class='site-nav'>
-            <a href="/projects/">Projects Archive</a>
-            <a href="/information/">Information</a>
-        </nav>
-    </header>
-    {{ content | safe }}
-    <footer class="site-footer">
-        <nav class="footer-nav-secondary">
-            © 2015–{{"now" | date: "%Y"}} Adalberto Londardi Studio 
-        </nav>
-    </footer>
-    <div class="lightbox-container"></div>
-    <script src="{{'/dist/main.js' | url}}"></script>
-    <script>
-        if (window.netlifyIdentity) {
-          window.netlifyIdentity.on("init", user => {
-            if (!user) {
-              window.netlifyIdentity.on("login", () => {
-                document.location.href = "/admin/";
-              });
-            }
+  <header class="site-header">
+    <h1 class="site-title">
+      <a href="/">Adalberto Londardi</a> <span class="site-description">is an interdisciplinary design practice
+        developing creative strategies to
+        empower the community.</span>
+    </h1>
+    <nav class='site-nav'>
+      <a href="/projects/">Projects Archive</a>
+      <a href="/information/">Information</a>
+    </nav>
+  </header>
+  {{ content | safe }}
+  <footer class="site-footer">
+    <nav class="footer-nav-secondary">
+      © 2015–{{"now" | date: "%Y"}} Adalberto Londardi Studio
+    </nav>
+  </footer>
+  <div class="lightbox-container"></div>
+  <script src="{{'/dist/main.js' | url}}"></script>
+  <script>
+    if (window.netlifyIdentity) {
+      window.netlifyIdentity.on("init", user => {
+        if (!user) {
+          window.netlifyIdentity.on("login", () => {
+            document.location.href = "/admin/";
           });
         }
-      </script>
+      });
+    }
+  </script>
 </body>
 
 </html>

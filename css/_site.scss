@@ -18,13 +18,16 @@
     }
   }
   a {
-    text-decoration: underline;
+    text-decoration: none;
     &:hover,
     &:focus {
-      text-decoration: none;
+      text-decoration: underline;
     }
   }
   h1 {
+    a {
+      font-style: italic;
+    }
     flex-basis: 50%;
     margin-bottom: .5em;
     font-weight: 700;

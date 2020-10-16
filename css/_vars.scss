@@ -40,7 +40,7 @@ $fast: 220ms;
 :root {
   --padding: 3%;
   --ratio: 1.25;
-  --ms-0: clamp(1.1rem, 1.5vw, 1.2rem);
+  --ms-0: clamp(1.1rem, 1.5vw, 1.3rem);
   --ms--2: calc(var(--ms--1) / var(--ratio));
   --ms--1: calc(var(--ms-0) / var(--ratio));
   --ms-1: calc(var(--ms-0) * var(--ratio));

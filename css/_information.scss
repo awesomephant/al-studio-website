@@ -1,15 +1,16 @@
 .information {
   h3 {
     @extend %uppercase;
-    margin-bottom: 0.5em;
+    margin-bottom: 0.125em;
   }
 }
 .information-copy {
-  font-size: var(--ms-2);
-  line-height: 1.15;
+  font-size: var(--ms-1);
+  line-height: 1.2;
   letter-spacing: 0.005em;
   font-weight: 400;
   grid-column: 2 / 14;
+  hyphens: auto;
   margin-bottom: 1em;
   @include bp(m) {
     min-height: 80vh;
@@ -17,7 +18,9 @@
   }
   h2 {
     font-weight: 700;
-    margin-bottom: 0.5em;
+    line-height: 1.1;
+    margin-bottom: 0.25em;
+    hyphens: none;
   }
 }
 .information-clients {

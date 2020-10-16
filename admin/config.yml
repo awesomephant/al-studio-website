@@ -18,7 +18,7 @@ collections:
             widget: "string"
             hint: "This is displayed in the header, search results and social media cards."
           - label: "Featured Projects"
-            name: "featured-projects"
+            name: "featured_projects"
             hint: "Only featured projects appear on the homepage."
             widget: "relation"
             collection: "projects"

@@ -16,6 +16,8 @@ body {
   column-gap: 0;
   row-gap: 1rem;
   font-size: var(--ms-0);
+  &.lightbox-active {
+  }
 }
 
 button,

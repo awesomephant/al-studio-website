@@ -1,0 +1,27 @@
+.lightbox-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  background: rgba($blue, 0.98);
+  z-index: 1000;
+  opacity: 0;
+  pointer-events: none;
+  transition: $fast;
+  display: flex;
+  padding: 3%;
+  .lightbox-active & {
+    pointer-events: all;
+    opacity: 1;
+  }
+}
+
+.lightbox-media {
+  display: block;
+  object-fit: scale-down;
+  width: 100%;
+  height: 100%;
+  .lightbox-active & {
+  }
+}

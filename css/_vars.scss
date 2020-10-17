@@ -5,7 +5,7 @@
     }
   }
   @if $point==l {
-    @media (min-width: 1400px) {
+    @media (min-width: 1500px) {
       @content;
     }
   } @else if $point==m {
@@ -23,7 +23,7 @@
   display: grid;
   grid-template-columns: 3vw repeat(12, 1fr) 3vw;
   grid-template-rows: auto auto;
-  column-gap: 0;
+  column-gap: .5rem;
   row-gap: 0.5rem;
 }
 

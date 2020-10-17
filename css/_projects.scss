@@ -33,6 +33,7 @@
 
 .project-content {
   grid-column: 2 / 14;
+  margin-bottom: 2em;
   @include bp(s) {
     grid-column: 2 / 10;
   }
@@ -59,7 +60,7 @@
 }
 .project-tags {
   list-style: none;
-  font-size: var(--ms--1);
+  font-size: var(--ms-0);
   grid-column: 2 / 10;
   columns: 2;
   @include bp(s) {
@@ -78,27 +79,23 @@
 .project-media {
   padding-top: 2rem;
   padding-bottom: 1rem;
-  grid-column: 2 / 14;
-  display: flex;
   margin-bottom: 4rem;
+  display: contents;
+  .spacer {
+    grid-column: 1 / 2;
+  }
 }
 
 .project-media-item {
   list-style: none;
-  margin-right: .5rem;
-  flex-basis: 20%;
-  flex-grow: 1;
+  grid-column-end: span 3;
   display: block;
-  &:last-of-type {
-    margin-right: 0;
-  }
+  margin-bottom: 4rem;
   button {
     appearance: none;
     border: 0;
     background: transparent;
     display: block;
-    border: 2px solid transparent;
-    border-radius: 2px;
     cursor: zoom-in;
     overflow: hidden;
     img {
@@ -107,8 +104,6 @@
       height: auto;
     }
     &:focus {
-      outline: 0;
-      border: 2px solid white;
     }
   }
 }

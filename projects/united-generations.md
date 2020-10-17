@@ -1,6 +1,13 @@
 ---
 end_year: 2020
-media: []
+media:
+  - url: /assets/uploads/2000x1125px_01web.jpg
+    caption: "Crescent House Apartments: The Friendship Bench (Coloured pencil and
+      oil stick mixed drawing , 29.7 x 20 cm)"
+    alt: Perspective coloured pencil and oil stick hand drawing representing two
+      people of different ethnicities sitting on a wooden bench with a cat and
+      dog in front of their houses underneath a yellow arched roof with solar
+      panels.
 image_size: small
 title: The United Generations
 subtitle: Regeneration of a community through architectural programming.

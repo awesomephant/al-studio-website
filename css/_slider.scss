@@ -1,7 +1,8 @@
 .slide {
     opacity: 0;
-    transition: $slow;
+    transition: $slow opacity;
     pointer-events: none;
+    cursor: pointer;
     &.active {
         opacity: 1;
         pointer-events: all;

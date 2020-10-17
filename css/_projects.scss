@@ -33,32 +33,29 @@
 
 .project-content {
   grid-column: 2 / 14;
-  @include bp(s){
+  @include bp(s) {
     grid-column: 2 / 10;
   }
-  @include bp(m){
+  @include bp(m) {
     grid-column: 5 / 10;
   }
   p {
-    hyphens: auto;
-    letter-spacing: .01em;
+    letter-spacing: 0.01em;
     line-height: 1.3;
     max-width: 35em;
   }
 }
 .project-title {
-  font-weight: 600;
   font-size: var(--ms-0);
   line-height: 1.4;
   @extend %uppercase;
   padding-right: 1rem;
   grid-column: 2 / 14;
-  @include bp(m){
+  @include bp(m) {
     grid-column: 2 / 5;
   }
   span {
     display: block;
-    font-weight: normal;
   }
 }
 .project-tags {
@@ -66,17 +63,17 @@
   font-size: var(--ms--1);
   grid-column: 2 / 10;
   columns: 2;
-  @include bp(s){
+  @include bp(s) {
     columns: 1;
     grid-column: 11 / 14;
   }
-  @include bp(m){
+  @include bp(m) {
     grid-column: 11 / 14;
   }
 }
 
 .project-tag {
-  margin-bottom: .1em;
+  margin-bottom: 0.1em;
 }
 
 .project-media {
@@ -84,9 +81,18 @@
   padding-bottom: 1rem;
   grid-column: 2 / 14;
   display: flex;
-  max-width: 100%;
-  overflow-x: auto;
   margin-bottom: 4rem;
+}
+
+.project-media-item {
+  list-style: none;
+  margin-right: .5rem;
+  flex-basis: 20%;
+  flex-grow: 1;
+  display: block;
+  &:last-of-type {
+    margin-right: 0;
+  }
   button {
     appearance: none;
     border: 0;
@@ -95,24 +101,15 @@
     border: 2px solid transparent;
     border-radius: 2px;
     cursor: zoom-in;
+    overflow: hidden;
+    img {
+      display: block;
+      width: 100%;
+      height: auto;
+    }
     &:focus {
       outline: 0;
       border: 2px solid white;
-    }
-  }
-}
-
-.project-media-item {
-  list-style: none;
-  margin-right: 1rem;
-  img,
-  video {
-    margin-bottom: -5px;
-    [data-image-size="large"] & {
-      height: 40vh;
-    }
-    [data-image-size="small"] & {
-      height: 20vh;
     }
   }
 }

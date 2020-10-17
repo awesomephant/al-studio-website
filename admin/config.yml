@@ -19,12 +19,16 @@ collections:
             hint: "This is displayed in the header, search results and social media cards."
           - label: "Featured Projects"
             name: "featured_projects"
-            hint: "Only featured projects appear on the homepage."
+            hint: "Featured projects appear on the homepage."
             widget: "relation"
             collection: "projects"
             value_field: "title"
             search_fields: ["title"]
             multiple: true
+          - label: "Show the projects archive?"
+            name: "show_archive"
+            widget: "boolean"
+            default: false
       - file: "_data/about.json"
         name: "about"
         label: "Information"

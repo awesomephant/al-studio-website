@@ -17,10 +17,17 @@ function initLightbox() {
     item.addEventListener("click", (e) => {
       document.body.classList.add("lightbox-active");
       const mediaEl = item.querySelector("picture");
+      
+      const captionEl = document.createElement("p");
+      captionEl.classList.add("lightbox-caption");
+      captionEl.innerText = mediaEl.getAttribute("data-caption")
+      
       const newMediaEl = document.createElement("img");
       newMediaEl.setAttribute("src", mediaEl.getAttribute("data-full"));
       newMediaEl.classList.add("lightbox-media");
+      
       lightbox.appendChild(newMediaEl);
+      lightbox.appendChild(captionEl);
     });
   });
   window.addEventListener("keyup", (e) => {

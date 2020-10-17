@@ -9,13 +9,25 @@
   opacity: 0;
   pointer-events: none;
   transition: $fast;
+  padding: 4rem 3%;
   display: flex;
-  padding: 3%;
+  flex-flow: column;
+  align-items: center;
+  justify-content: center;
   cursor: zoom-out;
   .lightbox-active & {
     pointer-events: all;
     opacity: 1;
   }
+}
+
+.lightbox-caption {
+  padding: 1rem var(--padding);
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  border-bottom: 1px solid rgba(white, 0.5);
 }
 
 .lightbox-media {

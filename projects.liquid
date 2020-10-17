@@ -26,8 +26,9 @@ class: projects
 <ul class="projects-list">
     {% assign projects = collections.project | reverse %}
     {% for p in projects %}
-    <li  class="project-item" data-image-size="{{p.data.image_size}}">
-        <h2 id="{{p.data.title | slug}}" class='project-title'>{{p.data.title}}<span>{{p.data.start_year}}–{{p.data.end_year}}</span></h2>
+    <li class="project-item" data-image-size="{{p.data.image_size}}">
+        <h2 id="{{p.data.title | slug}}" class='project-title'>
+            {{p.data.title}}<span>{{p.data.start_year}}–{{p.data.end_year}}</span></h2>
         <div class='project-content'>
             {{ p.templateContent | safe }}
         </div>

@@ -10,4 +10,10 @@ tags:
   - Education
   - Identity
   - Printed matter
+media:
+  - url: /assets/uploads/iotest.jpg
+    caption: Selected posters of Inside/Out Lecture Series (2018-2020) for RCA
+      Interior Design Programl.
+    alt: Three posters of invited speakers Formafantasma, Flores and Prats,
+      Formafantasma.
 ---

@@ -3,23 +3,19 @@
   position: fixed;
   top: 0;
   width: 100%;
-  padding-top: 0.5rem;
-  padding-bottom: 0.2rem;
+  padding-top: 0.75rem;
+  padding-bottom: 0.4rem;
   line-height: 1;
   color: $black;
   background: white;
   z-index: 1000;
   border-bottom: 1px solid rgba($black, 1);
   .projects & {
+    color: white;
     background: $blue;
   }
-  border-bottom: 1px solid rgba(white, 0.5);
-  .site-description {
-    display: none;
-    .home & {
-      display: inline;
-    }
-  }
+  border-bottom: 1px solid rgba(white, 1);
+
   a {
     text-decoration: none;
     &:hover,
@@ -32,11 +28,27 @@
 .site-title {
   grid-row: 1 / 2;
   grid-column: 2 / 11;
+  @include bp(s) {
+    grid-column: 2 / 6;
+  }
   position: relative;
   z-index: 1000;
   white-space: nowrap;
-  .home & a {
+  margin-bottom: -0.2em;
+  .site-description {
     display: none;
+    @include bp(l) {
+      .home & {
+        display: inline;
+      }
+    }
+  }
+  a {
+    @include bp(l){
+      .home & {
+        display: none;
+      }
+    }
   }
 }
 
@@ -46,9 +58,15 @@
   .home & {
     background: white;
   }
-  grid-column: 11 / 14;
+  grid-column: 2 / 14;
   display: flex;
-  justify-content: space-between;
+  @include bp(s) {
+    grid-column: 9 / 14;
+    justify-content: space-between;
+  }
+  @include bp(m) {
+    grid-column: 11 / 14;
+  }
   a {
     margin-left: 1em;
     &:first-of-type {

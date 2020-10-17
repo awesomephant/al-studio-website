@@ -14,7 +14,9 @@ body {
   font-size: var(--ms-0);
   letter-spacing: .005em;
   font-weight: 300;
-  &.lightbox-active {
+  padding-top: 5rem;
+  &.home {
+    padding-top: 0;
   }
 }
 

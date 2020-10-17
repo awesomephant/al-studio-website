@@ -10,7 +10,7 @@
   background: $blue;
   z-index: 1000;
   width: 100%;
-  border-top: 1px solid rgba(white, 0.5);
+  border-top: 1px solid rgba(white, 1);
   padding: 1rem var(--padding);
   display: flex;
   justify-content: space-between;
@@ -46,9 +46,8 @@
   }
 }
 .project-title {
-  font-size: var(--ms-0);
-  line-height: 1.4;
-  @extend %uppercase;
+  font-size: var(--ms-2);
+  line-height: 1.1;
   padding-right: 1rem;
   grid-column: 2 / 14;
   @include bp(m) {

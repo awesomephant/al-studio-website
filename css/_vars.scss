@@ -21,7 +21,7 @@
 
 %grid {
   display: grid;
-  grid-template-columns: 3% repeat(12, 1fr) 3%;
+  grid-template-columns: 3vw repeat(12, 1fr) 3vw;
   grid-template-rows: auto auto;
   column-gap: 0;
   row-gap: 0.5rem;
@@ -48,7 +48,7 @@ $fast: 220ms;
 $slow: 550ms;
 
 :root {
-  --padding: 3%;
+  --padding: 3vw;
   --ratio: 1.25;
   --ms-0: clamp(1rem, 1.3vw, 1.15rem);
   --ms--2: calc(var(--ms--1) / var(--ratio));

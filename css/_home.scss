@@ -17,15 +17,21 @@
   bottom: 0;
   width: 100%;
   background: rgba(255, 255, 255, 0.99);
-  padding: .5rem var(--padding);
+  padding: .75rem var(--padding);
   font-size: var(--ms-0);
   z-index: 2000;
   h2 {
     display: flex;
+    flex-flow: column;
+    @include bp(m){
+      flex-flow: row;
+    }
     font-weight: bold;
   }
   span {
-    padding-left: 1rem;
+    @include bp(m){
+      padding-left: 1rem;
+    }
     font-weight: normal;
   }
   a {

@@ -13,9 +13,6 @@ media:
   - url: /assets/uploads/test.png
     caption: The caption goes here
     alt: The alt goes here
-  - url: /assets/uploads/test.png
-    caption: The caption goes here
-    alt: The alt goes here
 image_size: small
 title: The United Generations
 subtitle: Limited publication for the Royal College of Art

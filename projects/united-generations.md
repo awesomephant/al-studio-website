@@ -1,29 +1,16 @@
 ---
 end_year: 2020
-media:
-  - url: /assets/uploads/1920x1234px.jpg
-    caption: The caption goes here
-    alt: this is the alt
-  - url: /assets/uploads/test.png
-    caption: The caption goes here
-    alt: The alt goes here
-  - url: /assets/uploads/test.png
-    caption: The caption goes here
-    alt: The alt goes here
-  - url: /assets/uploads/test.png
-    caption: The caption goes here
-    alt: The alt goes here
+media: []
 image_size: small
 title: The United Generations
-subtitle: Limited publication for the Royal College of Art
-date: 2020-07-31
+subtitle: Regeneration of a community through architectural programming.
+date: 2020-10-17T21:19:57.922Z
 start_year: 2019
 tags:
   - Architecture
-  - Culture
-  - Sustainability
   - Community
-  - Editorial
+  - Sustainability
+  - Education
 ---
 
 The United Generations proposes a new, fulfilling vision to create a thriving community of all ages and celebrate the advantages of shared recources. Integrateed solutions like harvesting, renewable energy, local producion, and smart homes allow sustainable living to be a seamless part of everyday life.

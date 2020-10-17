@@ -10,4 +10,10 @@ tags:
   - identity
   - social empowerment
   - art direction
+media:
+  - url: /assets/uploads/ogm_home_web.jpg
+    caption: Cosmogonic line part of OGM launching campaign 2017
+    alt: Two girls of different ethnicities wearing white clothes and aluminium
+      jewelries, sin the shape of a dove and butterfly, in front of white
+      greenhouse with palms shadows.
 ---

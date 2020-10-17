@@ -35,6 +35,9 @@ function initSlider(container) {
     }
   });
   slides[state.currentSlide].classList.add("active");
+  window.setInterval(function () {
+    advance(1);
+  }, 5000);
 }
 
 export { initSlider };

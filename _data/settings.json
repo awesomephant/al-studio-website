@@ -2,8 +2,9 @@
   "site_title": "Adalberto Lonardi",
   "featured_projects": [
     "The United Generations",
-    "How to take care of the old"
+    "How to take care of the old",
+    "Inside/Out"
   ],
   "site_description": "ADALBERTO LONARDI is an interdisciplinary design practice developing creative strategies to empower the community.",
-  "show_archive": false
+  "show_archive": true
 }

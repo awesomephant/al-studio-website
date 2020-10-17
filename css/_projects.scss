@@ -33,8 +33,9 @@
 
 .project-content {
   grid-column: 2 / 14;
-  margin-bottom: 2em;
+  margin-bottom: 1rem;
   @include bp(s) {
+    margin-bottom: 2em;
     grid-column: 2 / 10;
   }
   @include bp(m) {
@@ -47,10 +48,13 @@
   }
 }
 .project-title {
-  font-size: var(--ms-2);
-  line-height: 1.1;
+  font-size: var(--ms-1);
+  line-height: 1.2;
   padding-right: 1rem;
   grid-column: 2 / 14;
+  @include bp(s) {
+    font-size: var(--ms-2);
+  }
   @include bp(m) {
     grid-column: 2 / 5;
   }
@@ -60,10 +64,13 @@
 }
 .project-tags {
   list-style: none;
-  font-size: var(--ms-0);
   grid-column: 2 / 10;
   columns: 2;
+  font-size: var(--ms--1);
+  margin-bottom: 1rem;
   @include bp(s) {
+    margin-bottom: 0;
+    font-size: var(--ms-0);
     columns: 1;
     grid-column: 11 / 14;
   }

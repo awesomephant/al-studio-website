@@ -4,7 +4,10 @@
   top: 0;
   width: 100%;
   padding-top: 0.75rem;
-  padding-bottom: 0.4rem;
+  padding-bottom: 0.75rem;
+  @include bp(m) {
+    padding-bottom: 0.4rem;
+  }
   line-height: 1;
   color: $black;
   background: white;
@@ -28,7 +31,9 @@
 .site-title {
   grid-row: 1 / 2;
   grid-column: 2 / 11;
+  margin-bottom: -.25em;
   @include bp(s) {
+    margin-bottom: 0;
     grid-column: 2 / 6;
   }
   position: relative;

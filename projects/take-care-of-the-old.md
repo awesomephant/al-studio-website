@@ -2,8 +2,10 @@
 end_year: 2019
 media:
   - url: /assets/uploads/2000x1200px20_web.jpg
-    caption: The caption goes here
-    alt: The alt goes here
+    caption: Publication book cover (14.8x21cm)
+    alt: A5 yellow book cover with title "how to take care of the old" and subtitle
+      "Architecture, design and technology supporting an aging population in
+      black on gray textured background.
 image_size: large
 title: How to take care of the old
 subtitle: Publication for the Royal College of Art

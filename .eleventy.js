@@ -52,6 +52,7 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addPassthroughCopy("./assets");
   eleventyConfig.addPassthroughCopy("./admin");
+  eleventyConfig.addPassthroughCopy({"./admin/config.yml": "config.yml"});
   eleventyConfig.addPassthroughCopy("./dist");
   eleventyConfig.addPassthroughCopy("*.png");
   eleventyConfig.addPassthroughCopy("/*.xml");

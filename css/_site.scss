@@ -1,7 +1,18 @@
 .site-header {
-  display: contents;
-  position: relative;
+  @extend %grid;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  padding-top: 0.5rem;
+  padding-bottom: 0.2rem;
+  line-height: 1;
   color: $black;
+  background: white;
+  z-index: 1000;
+  border-bottom: 1px solid rgba($black, 1);
+  .projects & {
+    background: $blue;
+  }
   border-bottom: 1px solid rgba(white, 0.5);
   .site-description {
     display: none;
@@ -16,41 +27,28 @@
       text-decoration: underline;
     }
   }
-  .projects & {
-    color: white;
-  }
-  .information & {
-    border-bottom: 1px solid rgba($black, 0.3);
-  }
-  .home & {
-    border-bottom: 0;
-  }
 }
 
 .site-title {
   grid-row: 1 / 2;
-  grid-column: 2 / 8;
-  padding-top: 1rem;
+  grid-column: 2 / 11;
   position: relative;
   z-index: 1000;
-  .home & {
-    a {
-      display: none;
-    }
-  }
-  .projects &,
-  .information & {
-    padding-bottom: 2rem;
+  white-space: nowrap;
+  .home & a {
+    display: none;
   }
 }
 
 .site-nav {
-  white-space: nowrap;
-  padding-top: 1rem;
   position: relative;
   z-index: 1000;
-  grid-row: 1 / 2;
+  .home & {
+    background: white;
+  }
   grid-column: 11 / 14;
+  display: flex;
+  justify-content: space-between;
   a {
     margin-left: 1em;
     &:first-of-type {

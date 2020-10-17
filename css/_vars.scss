@@ -19,6 +19,14 @@
   }
 }
 
+%grid {
+  display: grid;
+  grid-template-columns: 3% repeat(12, 1fr) 3%;
+  grid-template-rows: auto auto;
+  column-gap: 0;
+  row-gap: 0.5rem;
+}
+
 %hide-scrollbars {
   &::-webkit-scrollbar {
     display: none;
@@ -31,9 +39,10 @@
   letter-spacing: 0.04em;
 }
 
-$sans: -apple-system, BlinkMacSystemFont, "San Francisco Text", Roboto, Helvetica, Arial,
-  sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-$blue: rgb(25, 51, 228);
+$sans: -apple-system, BlinkMacSystemFont, "San Francisco Text", Roboto,
+  Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+  "Segoe UI Symbol";
+$blue: rgb(19, 38, 231);
 $black: rgb(4, 4, 7);
 $fast: 220ms;
 $slow: 550ms;
@@ -41,7 +50,7 @@ $slow: 550ms;
 :root {
   --padding: 3%;
   --ratio: 1.25;
-  --ms-0: clamp(1rem, 1.3vw, 1.25rem);
+  --ms-0: clamp(1rem, 1.3vw, 1.15rem);
   --ms--2: calc(var(--ms--1) / var(--ratio));
   --ms--1: calc(var(--ms-0) / var(--ratio));
   --ms-1: calc(var(--ms-0) * var(--ratio));

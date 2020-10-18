@@ -21,9 +21,8 @@
 
   a {
     text-decoration: none;
-    &:hover,
-    &:focus {
-      text-decoration: underline;
+    &:hover {
+      @extend %underline;
     }
   }
 }
@@ -31,7 +30,10 @@
 .site-title {
   grid-row: 1 / 2;
   grid-column: 2 / 11;
-  margin-bottom: -.25em;
+  margin-bottom: -0.25em;
+  .information &, .projects & {
+    @extend %uppercase;
+  }
   @include bp(s) {
     margin-bottom: 0;
     grid-column: 2 / 6;
@@ -81,10 +83,10 @@
 }
 
 .projects .site-nav a[href*="projects"] {
-  text-decoration: underline;
+  @extend %underline;
 }
 .information .site-nav a[href*="information"] {
-  text-decoration: underline;
+  @extend %underline;
 }
 
 .site-footer {

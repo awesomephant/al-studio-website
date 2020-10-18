@@ -39,6 +39,21 @@
   letter-spacing: 0.04em;
 }
 
+%underline {
+  display: inline-block;
+  position: relative;
+  text-decoration: none;
+  &:after {
+    content: "";
+    height: 1px;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 100%;
+    background: currentColor;
+  }
+}
+
 $sans: -apple-system, BlinkMacSystemFont, "San Francisco Text", Roboto,
   Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
   "Segoe UI Symbol";

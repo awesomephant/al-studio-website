@@ -75,6 +75,11 @@ collections:
         widget: "number"
         default: 2020
         value_type: "int"
+      - label: "Description"
+        name: "body"
+        widget: markdown
+        buttons: [bold, italic, link, heading-two, heading-three, heading-four, bulleted-list, numbered-list]
+
       - label: "Tags"
         name: "tags"
         widget: "list"

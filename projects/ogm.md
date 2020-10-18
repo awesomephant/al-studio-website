@@ -17,3 +17,4 @@ media:
       jewelries, sin the shape of a dove and butterfly, in front of white
       greenhouse with palms shadows.
 ---
+Developed the branding, digital and printed marketing campaigns, and lead the still and moving images art direction, for OGM Plant, recycled aluminum accessories fashion brand. OGM Plant believes in the respect of nature with a no-waste philosophy. From production to packaging, the whole chain focuses its attention on recycling, eco-sustainability, and social inclusion.

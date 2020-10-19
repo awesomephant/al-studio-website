@@ -24,13 +24,13 @@
   h2 {
     display: flex;
     flex-flow: column;
-    @include bp(m) {
+    @include bp(s) {
       flex-flow: row;
     }
     font-weight: bold;
   }
   span {
-    @include bp(m) {
+    @include bp(s) {
       padding-left: 1rem;
     }
     font-weight: normal;

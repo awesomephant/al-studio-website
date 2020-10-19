@@ -9,7 +9,7 @@
       @content;
     }
   } @else if $point==m {
-    @media (min-width: 1000px) {
+    @media (min-width: 1100px) {
       @content;
     }
   } @else if $point==s {
@@ -36,7 +36,7 @@
 
 %uppercase {
   text-transform: uppercase;
-  letter-spacing: 0.04em;
+  letter-spacing: 0.002em;
 }
 
 %underline {
@@ -54,7 +54,7 @@
   }
 }
 
-$sans: -apple-system, BlinkMacSystemFont, "San Francisco Text", Roboto,
+$sans: -apple-system, BlinkMacSystemFont, Roboto,
   Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
   "Segoe UI Symbol";
 $blue: rgb(19, 38, 231);

@@ -37,7 +37,6 @@
   position: relative;
   z-index: 1000;
   white-space: nowrap;
-  font-weight: bold;
   .site-description {
     display: none;
     @include bp(m) {
@@ -67,6 +66,7 @@
   }
   a {
     margin-left: 1em;
+    text-transform: uppercase;
     &:first-of-type {
       margin-left: 0;
     }
@@ -81,7 +81,7 @@
 }
 
 .site-footer {
-  font-size: var(--ms--2);
+  font-size: 15px;
   grid-column: 2 / 14;
   opacity: 0.5;
   padding-top: 2rem;

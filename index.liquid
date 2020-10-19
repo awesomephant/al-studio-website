@@ -6,7 +6,10 @@ class: home
 <ul class="home-projects">
     {% for p in collections.featuredProjects %}
     <li class="home-project slide">
-        {% include media with p.data.media[0] %}
+        <div class="hero-image">
+            <img class='media-item-media' src="{{p.data.media[0].url | resize: 1500 }}"
+                alt="{{p.data.media[0].alt | replace: '"', "'"}}" />
+        </div>
         <div class="home-caption">
             <h2>
                 <a href="/projects#{{p.data.title | slug}}">{{p.data.title}}</a>

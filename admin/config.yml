@@ -16,7 +16,7 @@ collections:
           - label: "Site Description"
             name: "site_description"
             widget: "string"
-            hint: "This is displayed in the header, search results and social media cards."
+            hint: "This is displayed in the header and social media cards."
           - label: "Featured Projects"
             name: "featured_projects"
             hint: "Featured projects appear on the homepage."
@@ -29,6 +29,17 @@ collections:
             name: "show_archive"
             widget: "boolean"
             default: false
+          - label: "Copyright Notice"
+            name: "copyright_text"
+            widget: "string"
+          - label: "Meta Title"
+            name: "meta_title"
+            widget: "string"
+            hint: "This will be appear in search results."
+          - label: "Meta Description"
+            name: "meta_description"
+            widget: "string"
+            hint: "This might appear in search results."
       - file: "_data/about.json"
         name: "about"
         label: "Information"
@@ -44,8 +55,14 @@ collections:
             name: widgets
             widget: list
             fields:
-              - {name: title, label: Title, widget: string}
-              - {name: text, label: Text, widget: markdown, buttons: [bold, italic, link, heading-two, bulleted-list], editor_components: []}
+              - { name: title, label: Title, widget: string }
+              - {
+                  name: text,
+                  label: Text,
+                  widget: markdown,
+                  buttons: [bold, italic, link, heading-two, bulleted-list],
+                  editor_components: [],
+                }
   - name: "projects"
     label: "Projects"
     folder: "projects/"
@@ -78,7 +95,17 @@ collections:
       - label: "Description"
         name: "body"
         widget: markdown
-        buttons: [bold, italic, link, heading-two, heading-three, heading-four, bulleted-list, numbered-list]
+        buttons:
+          [
+            bold,
+            italic,
+            link,
+            heading-two,
+            heading-three,
+            heading-four,
+            bulleted-list,
+            numbered-list,
+          ]
 
       - label: "Tags"
         name: "tags"

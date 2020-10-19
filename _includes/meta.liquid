@@ -1,7 +1,12 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+{% if class == "home" %}
+<title>{{settings.meta_title}}</title>
+{% else %}
 <title>{{settings.site_title}}{% if title %} / {{title}}{% endif %}</title>
+{% endif %}
 
 <meta property="og:image" content="/og-image.jpg">
 <meta property="og:title" content="{{settings.site_title}}{% if title %} / {{title}}{% endif %}">
@@ -13,6 +18,6 @@
 <meta name="twitter:creator" content="@adalbertolonard">
 <meta name="twitter:title" content="{{settings.site_title}}{% if title %} / {{title}}{% endif %}">
 <meta name="twitter:description" content="{{settings.site_description}}">
-<meta name="twitter:image" content="">
+<meta name="twitter:image" content="https://adalbertolonardi.com/assets/uploads/2000x1125px_01web@1000w.jpg">
 
 <meta name="theme-color" content="#fcf8d3">

@@ -29,6 +29,20 @@ module.exports = function (eleventyConfig) {
     return output.join(",");
   });
 
+  eleventyConfig.addFilter("resize", function (url, size) {
+    let file = url.split(".");
+    let output = "";
+    let filename = `${file[0]}@${size}w.jpg`;
+    let path = `_site${filename}`;
+    try {
+      fs.accessSync(path, fs.constants.R_OK);
+      output = `${filename}`;
+    } catch (err) {
+      console.log(`Media file ${path} does not exist, skipping.`);
+    }
+    return output;
+  });
+
   eleventyConfig.addCollection("featuredProjects", function (collectionApi) {
     return collectionApi
       .getFilteredByGlob(["./projects/*.md"])
@@ -52,7 +66,7 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addPassthroughCopy("./assets");
   eleventyConfig.addPassthroughCopy("./admin");
-  eleventyConfig.addPassthroughCopy({"./admin/config.yml": "config.yml"});
+  eleventyConfig.addPassthroughCopy({ "./admin/config.yml": "config.yml" });
   eleventyConfig.addPassthroughCopy("./dist");
   eleventyConfig.addPassthroughCopy("*.png");
   eleventyConfig.addPassthroughCopy("/*.xml");

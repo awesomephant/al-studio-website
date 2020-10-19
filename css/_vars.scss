@@ -16,12 +16,15 @@
     @media (min-width: 600px) {
       @content;
     }
+  } @else if $point== "landscape" {
+    @media (orientation: landscape) {
+      @content;
+    }
   }
 }
 
-$sans: -apple-system, BlinkMacSystemFont, Roboto,
-  Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
-  "Segoe UI Symbol";
+$sans: -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif,
+  "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 $blue: rgb(19, 38, 231);
 $black: rgb(4, 4, 7);
 $fast: 220ms;
@@ -31,7 +34,7 @@ $slow: 550ms;
   display: grid;
   grid-template-columns: 3vw repeat(12, 1fr) 3vw;
   grid-template-rows: auto auto;
-  column-gap: .5rem;
+  column-gap: 0.5rem;
   row-gap: 0.5rem;
 }
 
@@ -62,7 +65,6 @@ $slow: 550ms;
     background: currentColor;
   }
 }
-
 
 :root {
   --padding: 3vw;

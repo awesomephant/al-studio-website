@@ -49,6 +49,17 @@
   width: 100vw;
   overflow: hidden;
   user-select: none;
+  .landscape {
+    display: none;
+  }
+  @include bp(landscape) {
+    .landscape {
+      display: block;
+    }
+    .portrait {
+      display: none;
+    }
+  }
   .hero-image {
     width: 100%;
     height: 100%;

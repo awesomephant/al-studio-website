@@ -7,8 +7,13 @@ class: home
     {% for p in collections.featuredProjects %}
     <li class="home-project slide">
         <div class="hero-image">
-            <img class='media-item-media landscape' src="{{p.data.featured_landscape | resize: 1500 }}" alt="" />
-            <img class='media-item-media portrait' src="{{p.data.featured_portrait | resize: 1500 }}" alt="" />
+            {% if p.data.featured_image %}
+            <img class='media-item-media landscape' src="{{p.data.featured_image.landscape | resize: 1500 }}"/>
+            <img class='media-item-media portrait'  src="{{p.data.featured_image.portrait | resize: 1500 }}"/>
+            {% else %}
+            <img class='media-item-media' src="{{p.data.media[0].url | resize: 1500 }}"
+                alt="{{p.data.media[0].alt | replace: '"', "'"}}" />
+            {% endif %}
         </div>
         <div class="home-caption">
             <h2>

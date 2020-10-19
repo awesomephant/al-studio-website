@@ -111,6 +111,20 @@ collections:
         name: "tags"
         widget: "list"
         hint: "Separate multiple tags by comma."
+      - label: Featured Image
+        name: featured_image
+        widget: object
+        summary: "{{fields.url}}"
+        fields:
+          - label: Landscape Image
+            name: landscape
+            widget: "image"
+          - label: Portrait Image
+            name: portrait
+            widget: "image"
+          - label: Description
+            name: alt
+            widget: "string"
       - label: "Project Media"
         name: "media"
         widget: "list"

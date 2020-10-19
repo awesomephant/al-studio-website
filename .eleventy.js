@@ -14,7 +14,7 @@ module.exports = function (eleventyConfig) {
     return md.render(value);
   });
   eleventyConfig.addFilter("srcset", function (url, format) {
-    const sizes = [500, 1000, 1500, 2000];
+    const sizes = [1000, 1500, 2000];
     let file = url.split(".");
     let output = [];
     sizes.forEach((s) => {

@@ -55,5 +55,10 @@
   a {
     margin-bottom: 0.25em;
     @extend %underline;
+    &:hover, &:focus {
+      &:after {
+        opacity: 0;
+      }
+    }
   }
 }

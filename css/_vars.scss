@@ -19,6 +19,14 @@
   }
 }
 
+$sans: -apple-system, BlinkMacSystemFont, Roboto,
+  Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+  "Segoe UI Symbol";
+$blue: rgb(19, 38, 231);
+$black: rgb(4, 4, 7);
+$fast: 220ms;
+$slow: 550ms;
+
 %grid {
   display: grid;
   grid-template-columns: 3vw repeat(12, 1fr) 3vw;
@@ -45,6 +53,7 @@
   text-decoration: none;
   &:after {
     content: "";
+    transition: 60ms;
     height: 1px;
     position: absolute;
     bottom: -3px;
@@ -54,13 +63,6 @@
   }
 }
 
-$sans: -apple-system, BlinkMacSystemFont, Roboto,
-  Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
-  "Segoe UI Symbol";
-$blue: rgb(19, 38, 231);
-$black: rgb(4, 4, 7);
-$fast: 220ms;
-$slow: 550ms;
 
 :root {
   --padding: 3vw;

@@ -4,7 +4,7 @@ title: Inside/Out
 subtitle: Visual Identity and Campaign for public lecture series by RCA Interior
   Design program.
 date: 2020-10-17T21:40:48.074Z
-start_year: 2020
+start_year: 2018
 end_year: 2020
 tags:
   - Education
@@ -17,3 +17,4 @@ media:
     alt: Three posters of invited speakers Formafantasma, Flores and Prats,
       Formafantasma.
 ---
+Curated the printed and digital visual communication for the public lecture series, Inside-Out, run by the RCA School of Architecture, Interior Design Programme. The lectures are concerned with interrogating and understanding the interior architecture spaces as a medium of expression of individuals in the urban space, and an opportunity of experience for the collectivity.

@@ -13,35 +13,6 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter("renderMarkdown", function (value) {
     return md.render(value);
   });
-  eleventyConfig.addFilter("srcset", function (url, format) {
-    const sizes = [1000, 1500, 2000];
-    let file = url.split(".");
-    let output = [];
-    sizes.forEach((s) => {
-      let filename = `${file[0]}@${s}w.${format}`;
-      try {
-        fs.accessSync(`./_site/${filename}`, fs.constants.R_OK);
-        output.push(`${filename} ${s}w`);
-      } catch (err) {
-        // console.log(`Media file ${filename} does not exist, skipping.`);
-      }
-    });
-    return output.join(",");
-  });
-
-  eleventyConfig.addFilter("resize", function (url, size) {
-    let file = url.split(".");
-    let output = "";
-    let filename = `${file[0]}@${size}w.jpg`;
-    let path = `_site${filename}`;
-    try {
-      fs.accessSync(path, fs.constants.R_OK);
-      output = `${filename}`;
-    } catch (err) {
-      console.log(`Media file ${path} does not exist, skipping.`);
-    }
-    return output;
-  });
 
   eleventyConfig.addCollection("featuredProjects", function (collectionApi) {
     return collectionApi
@@ -51,20 +22,6 @@ module.exports = function (eleventyConfig) {
       });
   });
 
-  eleventyConfig.addFilter("size", function (url, size) {
-    let file = url.split(".");
-    let filename = `${file[0]}@${size}w.jpg`;
-    let output = "";
-    try {
-      fs.accessSync(`./_site/${filename}`, fs.constants.R_OK);
-      output = `${filename}`;
-    } catch (err) {
-      console.log(`Media file ${filename} does not exist, skipping.`);
-    }
-    return output;
-  });
-
-  eleventyConfig.addPassthroughCopy("./assets");
   eleventyConfig.addPassthroughCopy("./admin");
   eleventyConfig.addPassthroughCopy({ "./admin/config.yml": "config.yml" });
   eleventyConfig.addPassthroughCopy("./dist");

@@ -10,6 +10,10 @@ tags:
   - Education
   - Identity
   - Printed matter
+featured_image:
+  landscape: /assets/uploads/tga-7050ph-800-1_10.jpg
+  portrait: /assets/uploads/iotest.jpg
+  alt: test
 media:
   - url: /assets/uploads/iotest.jpg
     caption: Selected posters of Inside/Out Lecture Series (2018-2020) for RCA

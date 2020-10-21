@@ -2,6 +2,7 @@ backend:
   name: git-gateway
   branch: main
 media_folder: "/assets/uploads"
+site_url: https://adalbertolonardi.com
 collections:
   - name: "settings"
     label: "Settings"

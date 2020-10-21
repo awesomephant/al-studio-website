@@ -5,7 +5,6 @@ function initSlider(container) {
     nextSlide: 0,
     prevSlide: 0,
   };
-  function render() {}
   function advance(increment) {
     slides[state.currentSlide].classList.remove("active");
 

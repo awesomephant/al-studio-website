@@ -27,8 +27,10 @@
 .site-title {
   grid-row: 1 / 2;
   grid-column: 2 / 9;
-  .information &, .projects & {
+  a {
     @extend %uppercase;
+  }
+  .information &, .projects & {
   }
   @include bp(s) {
     margin-bottom: 0;

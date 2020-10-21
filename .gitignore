@@ -3,3 +3,5 @@ _site/
 dist/
 documentation/
 *.psd
+# Local Netlify folder
+.netlify

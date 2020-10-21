@@ -11,7 +11,7 @@ tags:
   - Identity
   - Printed matter
 featured_image:
-  landscape: /assets/uploads/tga-7050ph-800-1_10.jpg
+  landscape: /assets/uploads/iotest.jpg
   portrait: /assets/uploads/iotest.jpg
   alt: test
 media:

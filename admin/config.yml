@@ -7,7 +7,7 @@ show_preview_links: false
 collections:
   - name: "settings"
     label: "Settings"
-    preview: false
+    editor: {preview: false}
     files:
       - file: "_data/settings.json"
         name: "settings"
@@ -67,8 +67,8 @@ collections:
                   editor_components: [],
                 }
   - name: "projects"
-    preview: false
     label: "Projects"
+    editor: {preview: false}
     folder: "projects/"
     create: true
     slug: "{{slug}}"

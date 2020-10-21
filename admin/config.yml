@@ -3,9 +3,11 @@ backend:
   branch: main
 media_folder: "/assets/uploads"
 site_url: https://adalbertolonardi.com
+show_preview_links: false
 collections:
   - name: "settings"
     label: "Settings"
+    preview: false
     files:
       - file: "_data/settings.json"
         name: "settings"
@@ -65,6 +67,7 @@ collections:
                   editor_components: [],
                 }
   - name: "projects"
+    preview: false
     label: "Projects"
     folder: "projects/"
     create: true

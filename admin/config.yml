@@ -7,7 +7,7 @@ show_preview_links: false
 collections:
   - name: "settings"
     label: "Settings"
-    editor: {preview: false}
+    editor: { preview: false }
     files:
       - file: "_data/settings.json"
         name: "settings"
@@ -68,7 +68,7 @@ collections:
                 }
   - name: "projects"
     label: "Projects"
-    editor: {preview: false}
+    editor: { preview: false }
     folder: "projects/"
     create: true
     slug: "{{slug}}"
@@ -123,9 +123,15 @@ collections:
           - label: Landscape Image
             name: landscape
             widget: "image"
+            media_library:
+              config:
+                max_file_size: 3000000
           - label: Portrait Image
             name: portrait
             widget: "image"
+            media_library:
+              config:
+                max_file_size: 3000000
           - label: Description
             name: alt
             widget: "string"
@@ -137,6 +143,9 @@ collections:
           - label: Image
             name: url
             widget: "image"
+            media_library:
+              config:
+                max_file_size: 3000000
           - label: Caption
             name: caption
             widget: string

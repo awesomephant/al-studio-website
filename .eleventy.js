@@ -25,6 +25,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("./admin");
   eleventyConfig.addPassthroughCopy({ "./admin/config.yml": "config.yml" });
   eleventyConfig.addPassthroughCopy("./dist");
+  eleventyConfig.addPassthroughCopy("./assets/");
   eleventyConfig.addPassthroughCopy("*.png");
   eleventyConfig.addPassthroughCopy("/*.xml");
   eleventyConfig.addPassthroughCopy("favicon.ico");

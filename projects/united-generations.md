@@ -12,7 +12,7 @@ tags:
   - Sustainability
   - Education
 featured_image:
-  landscape: /assets/uploads/iotest.jpg
+  landscape: /assets/uploads/1920x1234px-2.jpg
   portrait: /assets/uploads/1920x1234px-2.jpg
   alt: Perspective coloured pencil and oil stick hand drawing representing two
     people of different ethnicities sitting on a wooden bench with a cat and dog

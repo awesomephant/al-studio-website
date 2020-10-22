@@ -11,8 +11,8 @@ tags:
   - social empowerment
   - art direction
 featured_image:
-  landscape: /assets/uploads/ogm_home_web-1-.jpg
-  portrait: /assets/uploads/ogm_home_web-1-.jpg
+  landscape: /assets/uploads/ogm_home_web.jpg
+  portrait: /assets/uploads/ogm_home_web.jpg
   alt: Two girls of different ethnicities wearing white clothes and aluminium
     jewelries, sin the shape of a dove and butterfly, in front of white
     greenhouse with palms shadows.

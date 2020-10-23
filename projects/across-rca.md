@@ -1,7 +1,7 @@
 ---
 layout: project
 title: ACROSS RCA
-subtitle: Workshop Programming
+subtitle: RCA Workshop Programming
 date: 2020-10-23T22:43:28.502Z
 start_year: 2019
 end_year: 2020

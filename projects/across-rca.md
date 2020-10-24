@@ -1,7 +1,7 @@
 ---
 layout: project
-title: Interdisciplinary workshop and publication for Across RCA
-subtitle: RCA Workshop Programming
+title: Across RCA
+subtitle: Interdisciplinary creative workshop and publication for Across RCA
 date: 2020-10-23T22:43:28.502Z
 start_year: 2019
 end_year: 2020

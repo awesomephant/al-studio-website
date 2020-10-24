@@ -20,12 +20,11 @@ function initSlider(container) {
 
   slides.forEach((slide) => {
     const media = slide.querySelector(".media-item-media");
-    media.addEventListener("click", (e) => {
+    slide.addEventListener("click", (e) => {
       advance(1);
     });
   });
   window.addEventListener("keyup", (e) => {
-    console.log(e.key);
     if (e.key === "ArrowRight") {
       advance(1);
     }

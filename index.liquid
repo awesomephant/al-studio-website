@@ -8,10 +8,10 @@ class: home
     <li class="home-project slide">
         <div class="hero-image">
             {% if p.data.featured_image %}
-            <img class='media-item-media landscape' src="{{p.data.featured_image.landscape }}?nf_resize=fit&w=1600" />
+            <img class='media-item-media landscape' src="{{p.data.featured_image.landscape }}?nf_resize=fit&w=2000" />
             <img class='media-item-media portrait' src="{{p.data.featured_image.portrait }}?nf_resize=fit&w=1200" />
             {% else %}
-            <img class='media-item-media' src="{{p.data.media[0].url }}?nf_resize=fit&w=1600"
+            <img class='media-item-media' src="{{p.data.media[0].url }}?nf_resize=fit&w=2000"
                 alt="{{p.data.media[0].alt | replace: '"', "'"}}" />
             {% endif %}
             

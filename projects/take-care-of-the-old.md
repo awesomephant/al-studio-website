@@ -1,9 +1,10 @@
 ---
+title: How to take care of the old
 end_year: 2019
 media: []
 image_size: large
-title: How to take care of the old
-subtitle: Publication for the Royal College of Art
+subtitle: Limited edition publication about ageing and wellbeing for the Royal
+  College of Arts
 date: 2020-07-30
 start_year: 2018
 tags:

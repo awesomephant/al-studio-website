@@ -3,7 +3,7 @@ title: The United Generations
 end_year: 2020
 media: []
 image_size: small
-subtitle: Regeneration of a community through architectural programming.
+subtitle: A vision of the regeneration of a community through architectural programming.
 date: 2020-10-17T21:19:57.922Z
 start_year: 2019
 tags:

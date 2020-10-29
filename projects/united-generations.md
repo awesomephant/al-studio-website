@@ -3,7 +3,7 @@ title: The United Generations
 end_year: 2020
 media: []
 image_size: small
-subtitle: A vision of a sustainable intergenerational community through
+subtitle: A vision for a sustainable intergenerational community through
   architectural reprogramming.
 date: 2020-10-17T21:19:57.922Z
 start_year: 2019

@@ -10,7 +10,7 @@ tags:
   - Education
   - Programming
 featured_image:
-  landscape: /assets/uploads/img_6638.jpeg
+  landscape: /assets/uploads/dscf2652.jpg
   portrait: /assets/uploads/img_6638.jpeg
   alt: xxx
 ---

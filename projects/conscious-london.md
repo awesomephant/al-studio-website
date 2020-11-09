@@ -1,8 +1,7 @@
 ---
 layout: project
 title: Conscious London
-subtitle: Visual Identity for conscious London part of the Conscious Cities
-  Festival 2020.
+subtitle: Visual Identity for the London chapter of the Conscious Cities Festival 2020.
 date: 2020-10-23T22:51:31.736Z
 start_year: 2020
 end_year: 2020

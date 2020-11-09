@@ -7,7 +7,7 @@ start_year: 2020
 end_year: 2020
 featured_image:
   landscape: /assets/uploads/screen-shot-2020-10-18-at-9.56.04-pm.png
-  portrait: /assets/uploads/screen-shot-2020-10-18-at-9.56.04-pm.png
+  portrait: /assets/uploads/cl_mobile.jpg
   alt: xxxx
 ---
 We have programmed 3 afternoons of inspiration and information bringing together leaders from the science, design and creative communities.

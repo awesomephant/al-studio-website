@@ -3,8 +3,7 @@ title: The United Generations
 end_year: 2020
 media: []
 image_size: small
-subtitle: A vision for a sustainable intergenerational community through
-  architectural reprogramming.
+subtitle: A vision for a sustainable intergenerational community.
 date: 2020-10-17T21:19:57.922Z
 start_year: 2019
 tags:
@@ -14,7 +13,7 @@ tags:
   - Education
 featured_image:
   landscape: /assets/uploads/2000x1125px3_web.jpg
-  portrait: /assets/uploads/2000x1125px_web.jpg
+  portrait: /assets/uploads/ug_mobile.jpg
   alt: Perspective coloured pencil and oil stick hand drawing representing two
     people of different ethnicities sitting on a wooden bench with a cat and dog
     in front of their houses underneath a yellow arched roof with solar panels.

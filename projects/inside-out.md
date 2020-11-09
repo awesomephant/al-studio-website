@@ -12,7 +12,7 @@ tags:
   - Printed matter
 featured_image:
   landscape: /assets/uploads/iotest-scaled-1-.jpg
-  portrait: /assets/uploads/iotest-scaled-1-.jpg
+  portrait: /assets/uploads/io_mobile2.jpg
   alt: test
 media:
   - url: /assets/uploads/iotest.jpg

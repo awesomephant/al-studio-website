@@ -1,7 +1,7 @@
 ---
 layout: project
 title: The Nativity Museum
-subtitle: Temporary installation proposal for the Nativity Museum in London.
+subtitle: Installation proposal for the Nativity tradition in London.
 date: 2020-11-09T19:17:06.511Z
 start_year: 2019
 end_year: 2019

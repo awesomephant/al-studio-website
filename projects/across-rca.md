@@ -10,7 +10,7 @@ tags:
   - Education
   - Programming
 featured_image:
-  landscape: /assets/uploads/dscf2652.jpg
+  landscape: /assets/uploads/arca_desktop.jpg
   portrait: /assets/uploads/arca_mobile.jpg
   alt: xxx
 ---

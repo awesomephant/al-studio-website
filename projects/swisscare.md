@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Swisscare
-subtitle: Branding, art direction and campaigns for beauty and wellbeing brand.
+subtitle: Branding, art direction and campaigns for wellbeing and beauty brand.
 date: 2020-11-09T19:09:23.482Z
 start_year: 2017
 end_year: 2018

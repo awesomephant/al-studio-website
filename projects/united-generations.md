@@ -3,7 +3,7 @@ title: The United Generations
 end_year: 2020
 media: []
 image_size: small
-subtitle: A vision for a sustainable intergenerational community in London.
+subtitle: A vision for a sustainable, intergenerational, thriving community.
 date: 2020-10-17T21:19:57.922Z
 start_year: 2019
 tags:

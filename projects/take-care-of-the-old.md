@@ -12,7 +12,7 @@ tags:
   - Education
   - Wellbeing
 featured_image:
-  landscape: /assets/uploads/book-cover-edit.jpg
+  landscape: /assets/uploads/old_desktop.jpg
   alt: A5 yellow book cover with title "how to take care of the old" and subtitle
     "Architecture, design and technology supporting an aging population in black
     on gray textured background.

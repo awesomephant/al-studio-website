@@ -8,6 +8,6 @@ end_year: 2020
 featured_image:
   landscape: /assets/uploads/cl_desktop.jpg
   portrait: /assets/uploads/cl_mobile.jpg
-  alt: xxxx
+  alt: "Round shape with bright colors on blue gradient "
 ---
 We have programmed 3 afternoons of inspiration and information bringing together leaders from the science, design and creative communities.

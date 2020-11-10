@@ -11,7 +11,7 @@ tags:
   - Identity
   - Printed matter
 featured_image:
-  landscape: /assets/uploads/iotest-scaled-1-.jpg
+  landscape: /assets/uploads/io_desktop2.jpg
   portrait: /assets/uploads/io_mobile2.jpg
   alt: test
 media:

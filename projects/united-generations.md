@@ -13,7 +13,7 @@ tags:
   - Education
 featured_image:
   landscape: /assets/uploads/2000x1125px3_web.jpg
-  portrait: /assets/uploads/ug_mobile.jpg
+  portrait: /assets/uploads/ug_mobile1.jpg
   alt: Perspective coloured pencil and oil stick hand drawing representing two
     people of different ethnicities sitting on a wooden bench with a cat and dog
     in front of their houses underneath a yellow arched roof with solar panels.

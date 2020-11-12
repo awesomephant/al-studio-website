@@ -6,9 +6,6 @@ function initSlider(container) {
     prevSlide: 0,
   };
   function advance(increment) {
-    slides[state.currentSlide].classList.remove("active");
-    slides[state.currentSlide].classList.add("prev");
-
     state.currentSlide += increment;
     if (state.currentSlide > slides.length - 1) {
       state.currentSlide = 0;
@@ -16,29 +13,15 @@ function initSlider(container) {
     if (state.currentSlide < 0) {
       state.currentSlide = slides.length - 1;
     }
-    slides[state.currentSlide].classList.add("active");
-    slides[state.currentSlide].classList.remove("next");
-    slides[state.currentSlide].classList.remove("prev");
-
-    if (state.currentSlide > 0) {
-      slides[state.currentSlide - 1].classList.add("prev");
-    } else {
-      slides[slides.length - 1].classList.add("prev");
-    }
-    if (state.currentSlide < slides.length - 1) {
-      slides[state.currentSlide + 1].classList.add("next");
-      slides[state.currentSlide + 1].classList.remove("prev");
-    } else {
-      slides[0].classList.remove("prev");
-      slides[0].classList.add("next");
-    }
+    container.setAttribute("data-slide", state.currentSlide);
   }
 
-  slides.forEach((slide) => {
-    const media = slide.querySelector(".media-item-media");
-    slide.addEventListener("click", (e) => {
+  container.addEventListener("click", (e) => {
+    if (e.clientX > window.innerWidth / 2){
       advance(1);
-    });
+    } else {
+      advance(-1);
+    }
   });
   window.addEventListener("keyup", (e) => {
     if (e.key === "ArrowRight") {
@@ -51,7 +34,7 @@ function initSlider(container) {
   slides[state.currentSlide].classList.add("active");
   slides[state.currentSlide + 1].classList.add("next");
   window.setInterval(function () {
-    advance(1);
+    //    advance(1);
   }, 4000);
 }
 

@@ -1,28 +1,25 @@
-.slide {
-  pointer-events: none;
-  cursor: pointer;
-  position: absolute;
-  width: 100vw;
-  left: 0;
-  transform: translateX(100%);
-  z-index: 100;
-  transition: $slow transform;
-  &.active {
-    transform: translateX(0);
-    opacity: 1;
-    pointer-events: all;
-    opacity: 10;
-    & + .home-caption {
-      opacity: 1;
-      pointer-events: all;
+$slideWidth: 100vw;
+
+.home-slides {
+  display: flex;
+  transition: $slow;
+  @for $i from 0 to 20 {
+    [data-slide="#{$i}"] & {
+      transform: translateX(-$slideWidth * $i);
     }
   }
-  &.next {
-    pointer-events: all;
-    transform: translateX(100%);
-    opacity: 0;
+}
+
+@for $i from 0 to 20 {
+  [data-slide="#{$i}"] {
+    .home-caption:nth-of-type(#{$i + 1}) {
+      color: $black;
+    }
   }
-  &.prev {
-    transform: translateX(-100%);
-  }
+}
+.slide {
+  cursor: pointer;
+  width: $slideWidth;
+  z-index: 100;
+  transition: $slow transform;
 }

@@ -6,37 +6,30 @@
   grid-row: 1 / 3;
   position: relative;
   &:after {
-    height: 2.8rem;
-    width: 100vw;
-    position: absolute;
     content: "";
-    background: white;
+    display: block;
+    height: 2.8rem;
+    position: fixed;
     bottom: 0;
     left: 0;
-    z-index: 1000;
-    border-top: 1px solid rgba($black, 1);
+    width: 100%;
+    background: white;
+    border-top: 1px solid $black;
   }
 }
 
-.home-project {
-  top: 0;
-}
-.active + .home-caption {
-  color: black;
-}
-
 .home-caption {
+  color: transparent;
   position: fixed;
   display: flex;
   justify-content: space-between;
+  transition: $fast;
   left: 0;
   bottom: 0;
   width: 100%;
-  color: transparent;
-  transition: $slow;
   padding: 0.75rem var(--padding);
   font-size: var(--ms-0);
-  z-index: 2000;
+  z-index: 1500;
   h2 {
     display: flex;
     flex-flow: column;

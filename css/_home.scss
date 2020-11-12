@@ -21,6 +21,8 @@
   border-top: 1px solid rgba($black, 1);
   font-size: var(--ms-0);
   z-index: 2000;
+  display: flex;
+  justify-content: space-between;
   h2 {
     display: flex;
     flex-flow: column;
@@ -29,11 +31,14 @@
     }
     font-weight: bold;
   }
-  span {
-    @include bp(s) {
+  .description {
+    display: none;
+    font-weight: 400;
+  
+    @include bp(m) {
       padding-left: 1rem;
+      display: inline;
     }
-    font-weight: normal;
   }
   a {
     text-decoration: none;
@@ -71,5 +76,6 @@
     object-fit: cover;
     height: 100%;
     user-select: none;
+    object-position: center;
   }
 }

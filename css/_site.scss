@@ -1,15 +1,16 @@
 .site-header {
-  @extend %grid;
+  display: flex;
+  justify-content: space-between;
   position: fixed;
   top: 0;
   width: 100%;
-  padding-top: 0.75rem;
-  padding-bottom: 0.4rem;
+  padding: 0.75rem var(--padding);
   line-height: 1;
   color: $black;
   background: white;
   z-index: 1000;
   border-bottom: 1px solid rgba($black, 1);
+  font-weight: 400;
   .projects & {
     border-bottom: 1px solid rgba(white, 1);
     color: white;
@@ -29,8 +30,7 @@
   grid-column: 2 / 9;
   a {
     @extend %uppercase;
-  }
-  .information &, .projects & {
+    font-weight: 600;
   }
   @include bp(s) {
     margin-bottom: 0;
@@ -41,6 +41,7 @@
   white-space: nowrap;
   .site-description {
     display: none;
+    font-weight: 600;
     @include bp(m) {
       .home & {
         display: inline;
@@ -82,12 +83,20 @@
   @extend %underline;
 }
 
+.site-wrapper {
+  display: contents;
+  position: relative;
+}
+
 .site-footer {
   font-size: 15px;
-  grid-column: 2 / 14;
+  grid-column: 1 / 14;
   opacity: 0.5;
-  padding-top: 2rem;
-  padding-bottom: 2rem;
+  padding: 0.75rem var(--padding);
+  left: 0;
+  display: flex;
+  flex-flow: column;
+  justify-content: flex-end;
   .home & {
     display: none;
   }

@@ -50,11 +50,26 @@ collections:
           - label: "Copy"
             name: "content"
             widget: "markdown"
-          - label: "Clients and Collaborators"
-            name: "clients"
+          - label: "Sidebar A Items"
+            name: "sidebar_a"
             widget: "list"
-            hint: "Separate multiple entries by comma."
-          - label: Information Blocks
+            label_singular: Sidebar Item
+            fields:
+              - name: title
+                label: Title
+                widget: string
+              - name: text
+                label: Text
+                widget: markdown
+                buttons:
+                  - bold
+                  - italic
+                  - link
+                  - heading-two
+                  - bulleted-list
+                editor_components: []
+          - label: Sidebar B Items
+            label_singular: Sidebar Item
             name: widgets
             widget: list
             fields:

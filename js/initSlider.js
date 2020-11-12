@@ -35,7 +35,7 @@ function initSlider(container) {
   slides[state.currentSlide].classList.add("active");
   window.setInterval(function () {
     advance(1);
-  }, 6000);
+  }, 4000);
 }
 
 export { initSlider };

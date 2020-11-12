@@ -10,12 +10,16 @@
   font-size: var(--ms-1);
   line-height: 1.2;
   letter-spacing: 0.005em;
-  grid-column: 2 / 14;
+  grid-column: 1 / 14;
+  padding: 0 var(--padding);
   margin-bottom: 1em;
   @include bp(m) {
-    min-height: 80vh;
+    font-size: var(--ms-1);
+    grid-column: 1 / 8;
+  }
+  @include bp(l) {
+    grid-column: 1 / 9;
     font-size: var(--ms-2);
-    grid-column: 2 / 7;
   }
   h2 {
     font-weight: 600;
@@ -28,13 +32,17 @@
   }
 }
 .information-clients {
-  grid-column: 2 / 14;
+  grid-column: 1 / 14;
+  padding: 0 var(--padding);
   margin-bottom: 1em;
   @include bp(s) {
-    grid-column: 2 / 7;
+    grid-column: 1 / 7;
   }
   @include bp(m) {
     grid-column: 8 / 10;
+  }
+  @include bp(l) {
+    grid-column: 10 / 11;
   }
   ul {
     list-style: none;
@@ -44,7 +52,8 @@
   }
 }
 .information-blocks {
-  grid-column: 2 / 14;
+  grid-column: 1 / 14;
+  padding: 0 var(--padding);
   @include bp(s) {
     grid-column: 8 / 14;
   }

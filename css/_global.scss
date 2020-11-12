@@ -16,7 +16,10 @@ body {
   font-size: var(--ms-0);
   letter-spacing: .005em;
   font-weight: 300;
-  padding-top: 5rem;
+  padding-top: 4rem;
+  min-height: 100vh;
+  width: 100vw;
+  overflow-x: hidden;
   &.home {
     padding-top: 0;
   }

@@ -4,7 +4,10 @@ class: home
 ---
 
 <ul class="home-projects">
-    {% for p in collections.featuredProjects %}
+    {% for fp in settings.featured_projects %}
+    {% assign index = forloop.index %}
+    {% for p in collections.project %}
+    {% if fp == p.data.title %}
     <li class="home-project slide">
         <div class="hero-image">
             {% if p.data.featured_image %}
@@ -14,16 +17,21 @@ class: home
             <img class='media-item-media' src="{{p.data.media[0].url }}?nf_resize=fit&w=2000"
                 alt="{{p.data.media[0].alt | replace: '"', "'"}}" />
             {% endif %}
-            
+
         </div>
         <div class="home-caption">
             <h2>
                 <a href="/projects#{{p.data.title | slug}}">{{p.data.title}}</a>
-                <span>
+                <span class='description'>
                     {{p.data.subtitle}}
                 </span>
             </h2>
+            <span class="home-project--index">
+                {{index}}/{{settings.featured_projects | size}} Works
+            </span>
         </div>
     </li>
+    {% endif %}
+    {% endfor %}
     {% endfor %}
 </ul>

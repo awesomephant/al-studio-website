@@ -5,36 +5,50 @@
   grid-column: 1 / 13;
   grid-row: 1 / 3;
   position: relative;
+  &:after {
+    height: 2.8rem;
+    width: 100vw;
+    position: absolute;
+    content: "";
+    background: white;
+    bottom: 0;
+    left: 0;
+    z-index: 1000;
+    border-top: 1px solid rgba($black, 1);
+  }
 }
 
 .home-project {
-  position: absolute;
   top: 0;
+}
+.active + .home-caption {
+  color: black;
 }
 
 .home-caption {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  background: rgba(255, 255, 255, 0.99);
-  padding: 0.75rem var(--padding);
-  border-top: 1px solid rgba($black, 1);
-  font-size: var(--ms-0);
-  z-index: 2000;
+  position: fixed;
   display: flex;
   justify-content: space-between;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: transparent;
+  transition: $slow;
+  padding: 0.75rem var(--padding);
+  font-size: var(--ms-0);
+  z-index: 2000;
   h2 {
     display: flex;
     flex-flow: column;
+    font-weight: bold;
     @include bp(s) {
       flex-flow: row;
     }
-    font-weight: bold;
   }
   .description {
     display: none;
     font-weight: 400;
-  
+
     @include bp(m) {
       padding-left: 1rem;
       display: inline;

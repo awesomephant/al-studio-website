@@ -3,35 +3,41 @@ layout: base
 class: home
 ---
 
-<ul class="home-projects">
+<section class="home-projects">
     {% for fp in settings.featured_projects %}
     {% assign index = forloop.index %}
     {% for p in collections.project %}
     {% if fp == p.data.title %}
-    <li class="home-project slide">
+    <figure class="home-project slide {% if forloop.index == 1%}active{% endif %}">
         <div class="hero-image">
             {% if p.data.featured_image %}
-            <img class='media-item-media landscape' src="{{p.data.featured_image.landscape }}?nf_resize=fit&w=2000" />
-            <img class='media-item-media portrait' src="{{p.data.featured_image.portrait }}?nf_resize=fit&w=1200" />
+            {% if p.data.featured_image.alt %}
+                {% assign alt = p.data.featured_image.alt %}
+                {% else %}
+                {% assign alt = p.data.title %}
+            {% endif %}
+            <img alt="{{alt | replace: '"', "'"}}" class='media-item-media landscape'
+                src="{{p.data.featured_image.landscape }}?nf_resize=fit&w=2000" />
+            <img alt="{{alt | replace: '"', "'"}}" class='media-item-media portrait'
+                src="{{p.data.featured_image.portrait }}?nf_resize=fit&w=1200" />
             {% else %}
             <img class='media-item-media' src="{{p.data.media[0].url }}?nf_resize=fit&w=2000"
-                alt="{{p.data.media[0].alt | replace: '"', "'"}}" />
+                alt="{{alt | replace: '"', "'"}}" />
             {% endif %}
-
         </div>
-        <div class="home-caption">
-            <h2>
-                <a href="/projects#{{p.data.title | slug}}">{{p.data.title}}</a>
-                <span class='description'>
-                    {{p.data.subtitle}}
-                </span>
-            </h2>
-            <span class="home-project--index">
-                {{index}}/{{settings.featured_projects | size}} Works
+    </figure>
+    <aside class="home-caption">
+        <h2>
+            <a href="/projects#{{p.data.title | slug}}">{{p.data.title}}</a>
+            <span class='description'>
+                {{p.data.subtitle}}
             </span>
-        </div>
-    </li>
+        </h2>
+        <span class="home-project--index">
+            {{index}}/{{settings.featured_projects | size}} Works
+        </span>
+    </aside>
     {% endif %}
     {% endfor %}
     {% endfor %}
-</ul>
+</section>

@@ -1,10 +1,28 @@
 .slide {
-    opacity: 0;
-    transition: $slow opacity;
-    pointer-events: none;
-    cursor: pointer;
-    &.active {
-        opacity: 1;
-        pointer-events: all;
+  pointer-events: none;
+  cursor: pointer;
+  position: absolute;
+  width: 100vw;
+  left: 0;
+  transform: translateX(100%);
+  z-index: 100;
+  transition: $slow transform;
+  &.active {
+    transform: translateX(0);
+    opacity: 1;
+    pointer-events: all;
+    opacity: 10;
+    & + .home-caption {
+      opacity: 1;
+      pointer-events: all;
     }
+  }
+  &.next {
+    pointer-events: all;
+    transform: translateX(100%);
+    opacity: 0;
+  }
+  &.prev {
+    transform: translateX(-100%);
+  }
 }

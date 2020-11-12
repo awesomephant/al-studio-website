@@ -22,5 +22,11 @@
     "Frahm & Frahm",
     "Swisscare",
     "OGM Plant"
+  ],
+  "sidebar_a": [
+    {
+      "title": "Clients and Collaborators",
+      "text": "* Royal College of Art\n* FABRICA\n* Istituto Marangoni\n* Domain de Boisbuchet\n* Frahm & Frahm\n* Swisscare\n* OGM Plant"
+    }
   ]
 }

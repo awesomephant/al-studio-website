@@ -3,7 +3,7 @@ layout: base
 class: home
 ---
 
-<section class="home-projects" data-slide="0">
+<section class="home-projects" data-slide="0" style="--slideCount: {{settings.featured_projects | size}}">
     <div class="home-slides">
         {% for fp in settings.featured_projects %}
         {% assign index = forloop.index %}

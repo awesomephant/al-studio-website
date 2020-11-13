@@ -17,7 +17,7 @@ function initSlider(container) {
   }
 
   container.addEventListener("click", (e) => {
-    if (e.clientX > window.innerWidth / 2){
+    if (e.clientX > window.innerWidth / 2) {
       advance(1);
     } else {
       advance(-1);
@@ -34,7 +34,7 @@ function initSlider(container) {
   slides[state.currentSlide].classList.add("active");
   slides[state.currentSlide + 1].classList.add("next");
   window.setInterval(function () {
-    //    advance(1);
+    advance(1);
   }, 4000);
 }
 

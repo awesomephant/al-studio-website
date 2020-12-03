@@ -4,6 +4,7 @@ function initSlider(container) {
     currentSlide: 0,
     nextSlide: 0,
     prevSlide: 0,
+    autoAdvance: true,
   };
   function advance(increment) {
     state.currentSlide += increment;
@@ -22,19 +23,34 @@ function initSlider(container) {
     } else {
       advance(-1);
     }
+    state.autoAdvance = false;
+    window.setTimeout(() => {
+      state.autoAdvance = true;
+    }, 4000);
   });
   window.addEventListener("keyup", (e) => {
     if (e.key === "ArrowRight") {
       advance(1);
+      state.autoAdvance = false;
+      window.setTimeout(() => {
+        state.autoAdvance = true;
+      }, 4000);
     }
     if (e.key === "ArrowLeft") {
       advance(-1);
+      state.autoAdvance = false;
+      window.setTimeout(() => {
+        state.autoAdvance = true;
+      }, 4000);
     }
   });
   slides[state.currentSlide].classList.add("active");
   slides[state.currentSlide + 1].classList.add("next");
   window.setInterval(function () {
-    advance(1);
+    console.log(state.autoAdvance)
+    if (state.autoAdvance === true) {
+      advance(1);
+    }
   }, 4000);
 }
 

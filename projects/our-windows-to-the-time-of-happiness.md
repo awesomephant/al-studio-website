@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Our windows to the time of happiness
+title: To the time of happiness
 subtitle: Printed and digital artworks for private event.
 date: 2020-10-23T23:16:34.970Z
 start_year: 2020

@@ -10,7 +10,7 @@ tags:
   - art
   - installation
 featured_image:
-  landscape: /assets/uploads/restore1_desktop2.jpg
+  landscape: /assets/uploads/cl_desktop.jpg
   alt: "two colorful stained glass windows representing families with animals
     around a table "
   portrait: /assets/uploads/restore_mobile.jpg

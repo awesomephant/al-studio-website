@@ -12,7 +12,7 @@ tags:
   - Sustainability
   - Education
 featured_image:
-  landscape: /assets/uploads/2000x1125px3_web.jpg
+  landscape: /assets/uploads/ug_desktop2.jpg
   portrait: /assets/uploads/ug_mobile1.jpg
   alt: Perspective coloured pencil and oil stick hand drawing.
 ---

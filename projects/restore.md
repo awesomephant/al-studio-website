@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Restore
-subtitle: Handpainted public glass artwork for the Nine Elms Council in London.
+subtitle: Handpainted public glass installation for the Nine Elms Council in London.
 date: 2020-12-09T16:14:26.351Z
 start_year: 2020
 end_year: 2020

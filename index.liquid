@@ -37,13 +37,13 @@ class: home
     {% if fp == p.data.title %}
     <aside class="home-caption">
         <h2>
-            <a href="/projects#{{p.data.title | slug}}">{{p.data.title}}</a>
+            <a href="{{p.url}}">{{p.data.title}}</a>
             <span class='description'>
                 {{p.data.subtitle}}
             </span>
         </h2>
         <span class="home-project--index">
-            {{index}}/{{settings.featured_projects | size}} Works
+            {{index}}/{{settings.featured_projects | size}}
         </span>
     </aside>
     {% endif %}

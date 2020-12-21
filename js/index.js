@@ -1,5 +1,6 @@
-const { initLightbox } = require("./initLightbox.js");
-const { initSlider } = require("./initSlider.js");
+const { initLightbox } = require("./initLightbox");
+const { initSlider } = require("./initSlider");
+const { initFilters } = require("./initFilters");
 
 window.addEventListener("DOMContentLoaded", () => {
   initLightbox();
@@ -7,4 +8,8 @@ window.addEventListener("DOMContentLoaded", () => {
   if (homeSlider) {
     initSlider(homeSlider);
   }
+  initFilters()
+});
+window.addEventListener("scroll", (e) => {
+  document.body.style.setProperty("--y", window.scrollY);
 });

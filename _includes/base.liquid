@@ -12,13 +12,13 @@
 
 <body class='{{class}}'>
   <header class="site-header">
-    <h1 class="site-title">
-      <a href="/">{{settings.site_title}}</a> <span class="site-description">{{settings.site_description}}</span>
-    </h1>
     <nav class='site-nav'>
-      {% if settings.show_archive == true %}
-      <a href="/projects/">Projects Archive</a>
-      {% endif %}
+      <a href="/projects/">Projects</a>
+      <a href="/">
+        <h1 class="site-title">
+          {{settings.site_title}}
+        </h1>
+      </a>
       <a href="/information/">Information</a>
     </nav>
   </header>

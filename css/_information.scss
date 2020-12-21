@@ -9,18 +9,24 @@
 }
 .information-copy {
   font-size: var(--ms-1);
-  line-height: 1.2;
+  line-height: 1.3;
   letter-spacing: 0.005em;
-  grid-column: 1 / 14;
-  padding: 0 var(--padding);
+  grid-column: 1 / 13;
   margin-bottom: 1em;
+  max-width: 31em;
   @include bp(m) {
     font-size: var(--ms-1);
-    grid-column: 1 / 8;
+    grid-column: 1 / 10;
+    grid-row: span 3;
   }
   @include bp(l) {
-    grid-column: 1 / 9;
+    grid-row: auto;
+    grid-column: 1 / 10;
+  }
+  @include bp(xl) {
     font-size: var(--ms-2);
+    max-width: 40em;
+    grid-row: auto;
   }
   h2 {
     font-weight: 600;
@@ -33,14 +39,13 @@
   }
 }
 .information-clients {
-  grid-column: 1 / 14;
-  padding: 0 var(--padding);
+  grid-column: 1 / 13;
   margin-bottom: 1em;
   @include bp(s) {
     grid-column: 1 / 7;
   }
   @include bp(m) {
-    grid-column: 8 / 10;
+    grid-column: 10 / 13;
   }
   @include bp(l) {
     grid-column: 10 / 11;
@@ -53,24 +58,21 @@
   }
 }
 .information-blocks {
-  grid-column: 1 / 14;
-  padding: 0 var(--padding);
+  grid-column: 1 / 13;
   @include bp(s) {
-    grid-column: 8 / 14;
+    grid-column: 8 / 13;
   }
   @include bp(m) {
-    grid-column: 11 / 14;
+    grid-column: 10 / 12;
+  }
+  @include bp(l) {
+    grid-column: 12 / 13;
   }
   section {
     margin-bottom: 1.5em;
   }
   a {
     margin-bottom: 0.25em;
-    @extend %underline;
-    &:hover, &:focus {
-      &:after {
-        opacity: 0;
-      }
-    }
+    @include underline(1px);
   }
 }

@@ -7,6 +7,7 @@ function initSlider(container) {
     autoAdvance: true,
   };
   function advance(increment) {
+    slides[state.currentSlide].classList.remove("active");
     state.currentSlide += increment;
     if (state.currentSlide > slides.length - 1) {
       state.currentSlide = 0;
@@ -15,6 +16,7 @@ function initSlider(container) {
       state.currentSlide = slides.length - 1;
     }
     container.setAttribute("data-slide", state.currentSlide);
+    slides[state.currentSlide].classList.add("active");
   }
 
   container.addEventListener("click", (e) => {
@@ -44,14 +46,13 @@ function initSlider(container) {
       }, 4000);
     }
   });
-  slides[state.currentSlide].classList.add("active");
-  slides[state.currentSlide + 1].classList.add("next");
   window.setInterval(function () {
-    console.log(state.autoAdvance)
     if (state.autoAdvance === true) {
       advance(1);
     }
   }, 4000);
+  slides[state.currentSlide].classList.add("active");
+  slides[state.currentSlide + 1].classList.add("next");
 }
 
 export { initSlider };

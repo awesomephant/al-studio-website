@@ -1,0 +1,30 @@
+---
+layout: base
+class: projects
+title: Projects
+---
+
+<nav class="project-filters">
+    {% assign tags = "" | split: "" %}
+    {% for p in collections.project %}
+    {% for tag in p.data.tags %}
+    {% assign taglist = tags | join: "" %}
+    {% unless taglist contains tag%}
+    {% assign tags = tags | concat: tag%}
+    {% endunless %}
+    {% endfor %}
+    {% endfor %}
+    <div>
+        <button class="active" data-filter="all">All</button>
+        {%for tag in tags %}
+        <button data-filter="{{tag | slug}}">{{tag}}</button>
+        {% endfor %}
+    </div>
+</nav>
+
+<ul class="projects-list">
+    {% assign projects = collections.project | reverse %}
+    {% for p in projects %}
+    {% include project_card with {p: p}%}
+    {% endfor %}
+</ul>

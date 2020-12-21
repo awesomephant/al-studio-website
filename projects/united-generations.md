@@ -1,4 +1,5 @@
 ---
+layout: project
 title: The United Generations
 end_year: 2020
 media: []

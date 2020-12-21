@@ -5,11 +5,11 @@
     }
   }
   @if $point==l {
-    @media (min-width: 1500px) {
+    @media (min-width: 1200px) {
       @content;
     }
   } @else if $point==m {
-    @media (min-width: 800px) {
+    @media (min-width: 750px) {
       @content;
     }
   } @else if $point==s {
@@ -27,16 +27,10 @@ $sans: -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif,
   "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 $blue: rgb(19, 38, 231);
 $black: rgb(4, 4, 7);
+$gray: rgb(112, 112, 112);
+$lightgray: rgb(155, 148, 148);
 $fast: 220ms;
 $slow: 850ms;
-
-%grid {
-  display: grid;
-  grid-template-columns: 3vw repeat(12, 1fr) 3vw;
-  grid-template-rows: auto auto;
-  column-gap: 0.5rem;
-  row-gap: 0.5rem;
-}
 
 %hide-scrollbars {
   &::-webkit-scrollbar {
@@ -50,7 +44,7 @@ $slow: 850ms;
   letter-spacing: 0.002em;
 }
 
-%underline {
+@mixin underline($offset) {
   display: inline-block;
   position: relative;
   text-decoration: none;
@@ -59,15 +53,20 @@ $slow: 850ms;
     transition: 60ms;
     height: 1px;
     position: absolute;
-    bottom: -3px;
+    bottom: $offset;
     left: 0;
     width: 100%;
+    opacity: .25;
+    transition: $fast;
     background: currentColor;
+  }
+  &:hover:after, &:focus:after {
+    opacity: 1;
   }
 }
 
 :root {
-  --padding: 3vw;
+  --padding: max(1.5rem, 3vw);
   --ratio: 1.25;
   --ms-0: clamp(0.95rem, 1.3vw, 1.05rem);
   --ms--2: calc(var(--ms--1) / var(--ratio));

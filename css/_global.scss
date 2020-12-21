@@ -6,20 +6,33 @@
   font-weight: inherit;
   color: inherit;
   -webkit-tap-highlight-color: transparent;
-
 }
 
 body {
-  @extend %grid;
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  grid-auto-rows: min-content;
+  padding-left: var(--padding);
+  padding-right: var(--padding);
+  column-gap: 1.5rem;
+  row-gap: 1rem;
   font-family: $sans;
   color: $black;
   font-size: var(--ms-0);
-  letter-spacing: .005em;
+  letter-spacing: 0.005em;
   font-weight: 300;
   padding-top: 4rem;
   min-height: 100vh;
-  width: 100vw;
+  position: relative;
   overflow-x: hidden;
+  padding-bottom: 4rem;
+  &.home {
+    padding-bottom: 0;
+  }
+  &.projects {
+    overflow-y: scroll;
+  }
+
   &.home {
     padding-top: 0;
   }

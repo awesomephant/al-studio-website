@@ -129,7 +129,6 @@ collections:
             bulleted-list,
             numbered-list,
           ]
-
       - label: "Tags"
         name: "tags"
         widget: "list"
@@ -154,21 +153,11 @@ collections:
           - label: Description
             name: alt
             widget: "string"
-      - label: "Project Media"
-        name: "media"
-        widget: "list"
-        summary: "{{fields.url}}"
-        fields:
-          - label: Image
-            name: url
-            widget: "image"
-            media_library:
-              config:
-                max_file_size: 6000000
-          - label: Caption
-            name: caption
-            widget: string
-          - label: "Description"
-            name: "alt"
-            widget: "text"
-            hint: "You can add a description to your media items so they’re accessible to more people, including those who are blind or visually impaired. Good descriptions are concise, but present what’s in your photos accurately enough to understand their context."
+      - label: Related Projects
+        name: related_projects
+        widget: "relation"
+        collection: projects
+        value_field: title
+        search_fields: ["title"]
+        display_fields: ["title"]
+        multiple: true

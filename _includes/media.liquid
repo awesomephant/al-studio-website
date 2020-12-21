@@ -1,4 +1,5 @@
 {% if media.url contains "mp4" %}
+video here
 {% else %}
 <picture class='media-item-media' data-caption="{{media.caption}}" data-full="{{media.url}}">
     <source type="image/webp" srcset="{{media.url | srcset: "webp" }}"/>

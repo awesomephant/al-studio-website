@@ -13,13 +13,31 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter("renderMarkdown", function (value) {
     return md.render(value);
   });
-
+  eleventyConfig.addFilter("slug", function (text) {
+    return text.toLowerCase().replace(/\W+/g, "-");
+  });
   eleventyConfig.addCollection("featuredProjects", function (collectionApi) {
     return collectionApi
       .getFilteredByGlob(["./projects/*.md"])
       .filter(function (item) {
         return siteSettings.featured_projects.indexOf(item.data.title) > -1;
       });
+  });
+
+  eleventyConfig.addShortcode("gallery", function (data) {
+    let gallery = JSON.parse(data);
+    items = gallery.map((item) => {
+      let caption = ""
+      if (item.caption){
+        caption = `<figcaption>${item.caption}</figcaption>`
+      }
+      return `<figure class="gallery--item">
+      <img src="${item.image}" alt="${item.alt}">
+      ${caption}
+      </figure>`;
+    });
+
+    return `<div class="gallery">${items.join("\n")}</div>`;
   });
 
   eleventyConfig.addPassthroughCopy("./admin");

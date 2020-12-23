@@ -1,10 +1,7 @@
 <li class="project-card" data-tags="{% for t in p.data.tags %}{{t | slug}},{%endfor%}">
     <a href="{{p.url}}">
         <div class='project-card--media'>
-            <picture data-caption="" data-full="{{p.data.featured_image.landscape}}">
-                <source type="image/webp" srcset="{{p.data.featured_image.landscape | srcset: " webp" }}" />
-                <img loading="lazy" src="{{p.data.featured_image.landscape}}"
-                    srcset="{{p.data.featured_image.landscape | srcset: " jpg" }}" alt="alt" />
+                <img loading="lazy" src="{{p.data.featured_image.landscape}}?nf_resize=fit&w=800" alt="alt" />
             </picture>
         </div>
         <h2 id="{{p.data.title | slug}}" class='project-card--title'>

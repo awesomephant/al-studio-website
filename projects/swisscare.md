@@ -9,5 +9,6 @@ featured_image:
   landscape: /assets/uploads/vele2.jpg
   portrait: /assets/uploads/sc_mobile.jpg
   alt: Flowers, plants and fruits on white background.
+  light_image: true
 ---
 Natural supplements and cosmetics brand Swisscare claimed a fresh look for their new visual identity. We designed a highly customized botanical language and applied it to both printed and digital supports as an individual element or pattern. We designed six variations based on the brand seasonal products.

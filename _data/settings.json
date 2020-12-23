@@ -1,5 +1,10 @@
 {
+  "show_archive": false,
   "site_title": "Adalberto Lonardi",
+  "meta_description": "ADALBERTO LONARDI is an interdisciplinary design practice developing creative strategies to empower the community.",
+  "site_description": "ADALBERTO LONARDI",
+  "copyright_text": "© 2020",
+  "social_image": "/assets/uploads/2000x1125px3_web.jpg",
   "featured_projects": [
     "Restore",
     "Golden Rivers",
@@ -13,10 +18,19 @@
     "Swisscare",
     "To the time of happiness"
   ],
-  "site_description": "ADALBERTO LONARDI",
-  "show_archive": false,
-  "copyright_text": "© 2020",
-  "meta_title": "Adalberto Lonardi | Interdisciplinary Design Practice",
-  "meta_description": "ADALBERTO LONARDI is an interdisciplinary design practice developing creative strategies to empower the community.",
-  "social_image": "/assets/uploads/2000x1125px3_web.jpg"
+  "projects": [
+    "Restore",
+    "The United Generations",
+    "Across RCA",
+    "OGM Plant",
+    "Conscious London",
+    "Golden Rivers",
+    "Inside/Out",
+    "Lathe C Series",
+    "To the time of happiness",
+    "Swisscare",
+    "How to take care of the old",
+    "The Nativity Museum"
+  ],
+  "meta_title": "Adalberto Lonardi | Interdisciplinary Design Practice"
 }

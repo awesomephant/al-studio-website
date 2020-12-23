@@ -9,7 +9,7 @@ class: home
         {% assign index = forloop.index %}
         {% for p in collections.project %}
         {% if fp == p.data.title %}
-        <figure class="home-project slide">
+        <figure class="home-project slide" data-light="{{p.data.featured_image.light_image}}">
             <div class="hero-image">
                 {% if p.data.featured_image %}
                 {% if p.data.featured_image.alt %}

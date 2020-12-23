@@ -17,11 +17,14 @@
   "dependencies": {
     "@11ty/eleventy": "^0.10.0",
     "@11ty/eleventy-plugin-rss": "^1.0.7",
+    "@ncwidgets/reorder": "^0.8.0",
     "eleventy-plugin-sass": "^1.0.0",
+    "netlify-cms-app": "^2.14.8",
     "npm-run-all": "^4.1.5",
     "webpack": "^4.43.0",
     "webpack-cli": "^3.3.11"
   },
   "devDependencies": {
+    "imports-loader": "^1.2.0"
   }
 }

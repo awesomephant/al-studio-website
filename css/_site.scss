@@ -1,16 +1,20 @@
 .site-header {
-  position: fixed;
   top: 0;
   left: 0;
   width: 100%;
-  padding: 1rem var(--padding);
+  padding: calc(var(--padding) / 3) var(--padding);
+  position: fixed;
   line-height: 1;
   color: $black;
   z-index: 1000;
   color: $black;
+  transition: $fast;
   background-color: rgba(255,255,255,calc(var(--y) * .01));
   .home & {
     color: white;
+  }
+  .is-light.home & {
+    color: black;
   }
   font-weight: 400;
   a {

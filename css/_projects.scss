@@ -6,9 +6,9 @@
   grid-column: 2 / 12;
   width: 100%;
   margin-top: 2em;
-  margin-bottom: 3em;
+  margin-bottom: 4em;
   text-align: center;
-  font-size: var(--ms-2);
+  font-size: var(--ms-3);
 
   button {
     appearance: none;
@@ -49,7 +49,7 @@
   list-style: none;
   overflow: hidden;
   padding-bottom: 1.5rem;
-  font-size: var(--ms--1);
+  font-size: var(--ms-0);
   &.hidden {
     display: none;
   }
@@ -75,6 +75,7 @@
 }
 .project-card--media {
   height: 70vw;
+  border-radius: 3px;
   @include bp(m){
     height: 30vw;
   }

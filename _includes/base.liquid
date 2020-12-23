@@ -13,7 +13,9 @@
 <body class='{{class}}'>
   <header class="site-header">
     <nav class='site-nav'>
+      {% if settings.show_archive %}
       <a href="/projects/">Projects</a>
+      {% endif %}
       <a href="/">
         <h1 class="site-title">
           {{settings.site_title}}
@@ -32,7 +34,7 @@
     <div class="media-container"></div>
     <p class="lightbox-caption"></p>
   </div>
-  <script src="{{'/dist/main.js' | url}}"></script>
+  <script src="{{'/dist/dist.js' | url}}"></script>
   <script>
     if (window.netlifyIdentity) {
       window.netlifyIdentity.on("init", user => {

@@ -16,6 +16,11 @@ function initSlider(container) {
       state.currentSlide = slides.length - 1;
     }
     container.setAttribute("data-slide", state.currentSlide);
+    if (slides[state.currentSlide].getAttribute("data-light") === "true"){
+      document.body.classList.add("is-light")
+    } else {
+      document.body.classList.remove("is-light")
+    }
     slides[state.currentSlide].classList.add("active");
   }
 

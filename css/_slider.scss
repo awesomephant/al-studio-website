@@ -1,15 +1,5 @@
 $slideWidth: 100vw;
 
-// .home-slides {
-//   display: flex;
-//   width: calc(var(--slideCount) * #{$slideWidth});
-//   transition: $slow;
-//   @for $i from 0 to 20 {
-//     [data-slide="#{$i}"] & {
-//       transform: translateX(-$slideWidth * $i);
-//     }
-//   }
-// }
 .home-slides {
   position: relative;
   width: 100vw;
@@ -39,7 +29,7 @@ $slideWidth: 100vw;
   left: 0;
   bottom: 0;
   width: 100%;
-  padding: 0.75rem var(--padding);
+  padding: calc(var(--padding) / 3) var(--padding);
   font-size: var(--ms-1);
   z-index: 1500;
   pointer-events: none;
@@ -69,6 +59,13 @@ $slideWidth: 100vw;
 }
 
 @for $i from 0 to 20 {
+  .is-light {
+    [data-slide="#{$i}"] {
+      .home-caption:nth-of-type(#{$i + 1}) {
+        color: black;
+      }
+    }
+  }
   [data-slide="#{$i}"] {
     .home-caption:nth-of-type(#{$i + 1}) {
       color: white;

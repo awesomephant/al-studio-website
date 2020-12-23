@@ -23,8 +23,11 @@ title: Projects
 </nav>
 
 <ul class="projects-list">
-    {% assign projects = collections.project | reverse %}
-    {% for p in projects %}
-    {% include project_card with {p: p}%}
+    {% for pr in settings.projects %}
+        {% for p in collections.project %}
+        {% if pr == p.data.title %}
+            {% include project_card with {p: p}%}
+        {% endif %}
+        {% endfor %}
     {% endfor %}
 </ul>

@@ -21,7 +21,7 @@ body {
   font-size: var(--ms-0);
   letter-spacing: 0.005em;
   font-weight: 300;
-  padding-top: 4rem;
+  padding-top: 6rem;
   min-height: 100vh;
   position: relative;
   overflow-x: hidden;
@@ -39,12 +39,8 @@ body {
 }
 
 ::selection {
-  color: $blue;
-  background: white;
-  .information & {
-    background: $blue;
-    color: white;
-  }
+  background: $blue;
+  color: white;
 }
 
 button,

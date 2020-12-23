@@ -20,14 +20,21 @@ collections:
             name: "site_description"
             widget: "string"
             hint: "This is displayed in the header."
-          - label: "Featured Projects"
+          - label: "Homepage Projects"
             name: "featured_projects"
-            hint: "Featured projects appear on the homepage."
+            hint: "These projects will appear in the homepage slider."
             widget: "relation"
             collection: "projects"
             value_field: "title"
             search_fields: ["title"]
             multiple: true
+          - label: "Archive Projects"
+            name: "projects"
+            hint: "These projects will appear on the Projects page in the ."
+            widget: "ncw-reorder"
+            collection: "projects"
+            id_field: "title"
+            display_template: "{{title}} ({{end_year}})"
           - label: "Show the projects archive?"
             name: "show_archive"
             widget: "boolean"
@@ -153,6 +160,10 @@ collections:
           - label: Description
             name: alt
             widget: "string"
+          - label: Is this a light image?
+            name: light_image
+            widget: boolean
+            hint: If yes, we'll switch the navigation colour on the homepage
       - label: Related Projects
         name: related_projects
         widget: "relation"
@@ -161,3 +172,4 @@ collections:
         search_fields: ["title"]
         display_fields: ["title"]
         multiple: true
+        required: false

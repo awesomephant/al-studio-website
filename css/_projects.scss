@@ -57,9 +57,12 @@
   list-style: none;
   overflow: hidden;
   padding-bottom: 1.5rem;
-  font-size: var(--ms-0);
+  font-size: var(--ms--1);
   &.hidden {
     display: none;
+  }
+  h2 {
+    margin-bottom: .1em;
   }
   a {
     display: block;

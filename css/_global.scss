@@ -12,11 +12,9 @@ body {
   display: grid;
   grid-template-columns: repeat(12, 1fr);
   grid-auto-rows: min-content;
-  padding: 0 1rem;
+  padding: 4rem 1rem;
   @include bp(m){
-    padding: 0 var(--padding);
-    padding-top: 4rem;
-    padding-bottom: 4rem;
+    padding: 4rem var(--padding);
   }
   column-gap: 1.5rem;
   row-gap: 1rem;

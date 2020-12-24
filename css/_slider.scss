@@ -29,8 +29,12 @@ $slideWidth: 100vw;
   left: 0;
   bottom: 0;
   width: 100%;
-  padding: calc(var(--padding) / 3) var(--padding);
-  font-size: var(--ms-1);
+  padding: 1rem;
+  font-size: var(--ms-0);
+  @include bp(m){
+    padding: calc(var(--padding) / 2) var(--padding);
+    font-size: var(--ms-1);
+  }
   z-index: 1500;
   pointer-events: none;
   h2 {

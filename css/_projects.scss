@@ -3,19 +3,25 @@
 
 .project-filters {
   z-index: 1000;
-  grid-column: 2 / 12;
   width: 100%;
-  margin-top: 2em;
-  margin-bottom: 4em;
   text-align: center;
-  font-size: var(--ms-3);
+  font-size: var(--ms-1);
+  margin-bottom: 2em;
+  grid-column: 1 / 13;
+  line-height: 1.2;
+  @include bp(m){
+    grid-column: 2 / 12;
+    margin-top: 2em;
+    margin-bottom: 4em;
+    font-size: var(--ms-3);
+  }
 
   button {
     appearance: none;
     background: transparent;
     text-transform: capitalize;
     border: 0;
-    color: $lightgray;
+    color: $gray;
     transition: $fast;
     &:after {
       content: ", ";
@@ -30,6 +36,8 @@
     }
     &.active {
       color: $black;
+      text-decoration: underline;
+      text-decoration-thickness: 1px;
     }
   }
 }

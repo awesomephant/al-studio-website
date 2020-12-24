@@ -1,20 +1,23 @@
 .information {
+  padding-top: 4rem;
   h3 {
     @extend %uppercase;
     font-size: var(--ms--1);
     margin-bottom: 0.5em;
     font-weight: 600;
-    letter-spacing: .01em;
+    letter-spacing: 0.01em;
   }
 }
 .information-copy {
-  font-size: var(--ms-1);
+  font-size: var(--ms-0);
+  hyphens: auto;
   line-height: 1.3;
   letter-spacing: 0.005em;
   grid-column: 1 / 13;
   margin-bottom: 1em;
   max-width: 31em;
   @include bp(m) {
+    hyphens: none;
     font-size: var(--ms-1);
     grid-column: 1 / 10;
     grid-row: span 3;
@@ -35,7 +38,7 @@
     hyphens: none;
   }
   p {
-    margin-bottom: .5em;
+    margin-bottom: 0.5em;
   }
 }
 .information-clients {

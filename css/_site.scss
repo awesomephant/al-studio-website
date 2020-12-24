@@ -2,7 +2,10 @@
   top: 0;
   left: 0;
   width: 100%;
-  padding: calc(var(--padding) / 3) var(--padding);
+  padding: 1rem;
+  @include bp(m){
+    padding: calc(var(--padding) / 2) var(--padding);
+  }
   position: fixed;
   line-height: 1;
   color: $black;

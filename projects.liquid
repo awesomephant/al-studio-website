@@ -9,7 +9,7 @@ title: Projects
     {% for p in collections.project %}
     {% for tag in p.data.tags %}
     {% assign taglist = tags | join: "" %}
-    {% unless taglist contains tag%}
+    {% unless taglist contains tag %}
     {% assign tags = tags | concat: tag%}
     {% endunless %}
     {% endfor %}
@@ -24,10 +24,10 @@ title: Projects
 
 <ul class="projects-list">
     {% for pr in settings.projects %}
-        {% for p in collections.project %}
-        {% if pr == p.data.title %}
-            {% include project_card with {p: p}%}
-        {% endif %}
-        {% endfor %}
+    {% for p in collections.project %}
+    {% if pr == p.data.title %}
+    {% include project_card with {p: p}%}
+    {% endif %}
+    {% endfor %}
     {% endfor %}
 </ul>

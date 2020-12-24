@@ -13,13 +13,17 @@
   color: $black;
   transition: $fast;
   background-color: rgba(255,255,255,calc(var(--y) * .01));
+  font-weight: 400;
+  font-size: var(--ms--1);
+  @include bp(s){
+    font-size: var(--ms-0);
+  }
   .home & {
     color: white;
   }
   .is-light.home & {
     color: black;
   }
-  font-weight: 400;
   a {
     text-decoration: none;
   }
@@ -27,6 +31,7 @@
 
 .site-title {
   font-weight: 600;
+  white-space: nowrap;
 }
 
 .site-nav {

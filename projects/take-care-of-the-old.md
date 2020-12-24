@@ -1,4 +1,5 @@
 ---
+layout: project
 title: How to take care of the old
 end_year: 2019
 media: []

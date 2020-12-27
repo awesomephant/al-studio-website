@@ -37,7 +37,11 @@ class: home
     {% if fp == p.data.title %}
     <aside class="home-caption">
         <h2>
-            <a href="{{p.url}}">{{p.data.title}}</a>
+            {% if settings.show_archive == true %}
+            <a class="title" href="{{p.url}}">{{p.data.title}}</a>
+            {% else %}
+            <span class="title">{{p.data.title}}</span>
+            {% endif %}
             <span class='description'>
                 {{p.data.subtitle}}
             </span>

@@ -32,7 +32,7 @@ module.exports = function (eleventyConfig) {
         caption = `<figcaption>${item.caption}</figcaption>`
       }
       return `<figure class="gallery--item">
-      <img src="${item.image}" alt="${item.alt}">
+      <img src="${item.image}?nf_resize=fit&w=1400" alt="${item.alt}">
       ${caption}
       </figure>`;
     });

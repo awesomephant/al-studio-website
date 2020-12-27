@@ -5,11 +5,7 @@ class: single-project
 
 <article class="project">
     <div class='project--hero'>
-        <picture data-caption="" data-full="{{p.data.featured_image.landscape}}">
-            <source type="image/webp" srcset="{{p.data.featured_image.landscape | srcset: " webp" }}" />
-            <img loading="lazy" src="{{featured_image.landscape}}" srcset="{{featured_image.landscape | srcset: " jpg"
-                }}" alt="alt" />
-        </picture>
+            <img loading="lazy" src="{{featured_image.landscape}}?nf_resize=1400"/>
     </div>
     <header class="project--header">
         <h2 class="project--title">{{title}}</h2>

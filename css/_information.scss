@@ -18,8 +18,8 @@
   letter-spacing: 0.005em;
   grid-column: 1 / 13;
   margin-bottom: 1em;
-  max-width: 31em;
   @include bp(m) {
+    max-width: 31em;
     hyphens: none;
     font-size: var(--ms-1);
     grid-column: 1 / 10;

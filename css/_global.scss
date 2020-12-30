@@ -15,6 +15,7 @@ body {
   padding: 4rem 1rem;
   @include bp(m){
     padding: 4rem var(--padding);
+    padding-bottom: 8rem;
   }
   column-gap: 1.5rem;
   row-gap: 1rem;

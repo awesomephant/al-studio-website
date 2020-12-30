@@ -30,17 +30,20 @@ $slideWidth: 100vw;
   bottom: 0;
   width: 100%;
   padding: 1rem;
-  font-size: var(--ms-0);
+  font-size: var(--ms--1);
+  @include bp(s){
+    font-size: var(--ms-0);
+  }
   @include bp(m){
-    padding: calc(var(--padding) / 2) var(--padding);
     font-size: var(--ms-1);
+    padding: calc(var(--padding) / 2) var(--padding);
   }
   z-index: 1500;
   pointer-events: none;
   h2 {
     display: flex;
     flex-flow: column;
-    font-weight: bold;
+    font-weight: 400;
     @include bp(s) {
       flex-flow: row;
     }
@@ -49,7 +52,7 @@ $slideWidth: 100vw;
     display: none;
     font-weight: 400;
     @include bp(m) {
-      padding-left: 1rem;
+      padding-left: 1.5rem;
       display: inline;
     }
   }

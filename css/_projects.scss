@@ -11,7 +11,7 @@
   line-height: 1.2;
   @include bp(m){
     grid-column: 2 / 12;
-    margin-top: 2em;
+    margin-top: 3em;
     margin-bottom: 4em;
     font-size: var(--ms-3);
   }
@@ -57,12 +57,12 @@
   list-style: none;
   overflow: hidden;
   padding-bottom: 1.5rem;
-  font-size: var(--ms--1);
+  font-size: var(--ms-0);
   &.hidden {
     display: none;
   }
   h2 {
-    margin-bottom: .1em;
+    margin-bottom: .0em;
   }
   a {
     display: block;
@@ -86,7 +86,7 @@
 }
 .project-card--media {
   height: 70vw;
-  border-radius: 3px;
+  border-radius: $br;
   @include bp(m){
     height: 30vw;
   }

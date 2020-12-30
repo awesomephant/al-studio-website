@@ -29,7 +29,18 @@
   width: 100vw;
   overflow: hidden;
   user-select: none;
+  .media-item-media {
+    font-size: 0;
+    height: 100%;
+    width: 100%;
+    border: 1px solid red;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
   .landscape {
+    height: 100%;
+    width: auto;
     display: none;
   }
   @include bp(landscape) {
@@ -43,14 +54,53 @@
   .hero-image {
     width: 100%;
     height: 100%;
-    display: flex;
-    flex-direction: column;
+    display: block;
     user-select: none;
+    position: relative;
   }
-  img {
-    object-fit: cover;
-    height: 100%;
-    user-select: none;
-    object-position: center;
+}
+
+.home-caption {
+  color: transparent;
+  position: fixed;
+  display: flex;
+  justify-content: space-between;
+  transition: $fast;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  padding: 1rem;
+  font-size: var(--ms--1);
+  @include bp(s) {
+    font-size: var(--ms-0);
+  }
+  @include bp(m) {
+    font-size: var(--ms-1);
+    padding: var(--padding);
+  }
+  z-index: 1500;
+  pointer-events: none;
+  h2 {
+    display: flex;
+    flex-flow: column;
+    font-weight: 400;
+    @include bp(s) {
+      flex-flow: row;
+    }
+  }
+  .description {
+    display: none;
+    font-weight: 400;
+    @include bp(l) {
+      padding-left: 1.5rem;
+      display: inline;
+    }
+  }
+  a {
+    text-decoration: none;
+    &:hover,
+    &:focus {
+      text-decoration: underline;
+    }
   }
 }

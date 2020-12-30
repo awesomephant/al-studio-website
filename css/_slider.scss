@@ -20,51 +20,6 @@ $slideWidth: 100vw;
   }
 }
 
-.home-caption {
-  color: transparent;
-  position: fixed;
-  display: flex;
-  justify-content: space-between;
-  transition: $fast;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  padding: 1rem;
-  font-size: var(--ms--1);
-  @include bp(s){
-    font-size: var(--ms-0);
-  }
-  @include bp(m){
-    font-size: var(--ms-1);
-    padding: calc(var(--padding) / 2) var(--padding);
-  }
-  z-index: 1500;
-  pointer-events: none;
-  h2 {
-    display: flex;
-    flex-flow: column;
-    font-weight: 400;
-    @include bp(s) {
-      flex-flow: row;
-    }
-  }
-  .description {
-    display: none;
-    font-weight: 400;
-    @include bp(m) {
-      padding-left: 1.5rem;
-      display: inline;
-    }
-  }
-  a {
-    text-decoration: none;
-    &:hover,
-    &:focus {
-      text-decoration: underline;
-    }
-  }
-}
-
 @for $i from 0 to 20 {
   .is-light {
     [data-slide="#{$i}"] {

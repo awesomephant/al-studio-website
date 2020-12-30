@@ -17,13 +17,19 @@ class: home
                 {% else %}
                 {% assign alt = p.data.title %}
                 {% endif %}
-                <img alt="{{alt | replace: '"', "'"}}" class='media-item-media landscape'
-                    src="{{p.data.featured_image.landscape }}?nf_resize=fit&w=1600" />
-                <img alt="{{alt | replace: '"', "'"}}" class='media-item-media portrait'
-                    src="{{p.data.featured_image.portrait }}?nf_resize=fit&w=1200" />
+                <div style="background-image: url('{{p.data.featured_image.landscape }}?nf_resize=fit&w=1600')"
+                    class='media-item-media landscape'>
+                    {{alt | replace: '"', "'"}}
+                </div>
+                <div style="background-image: url('{{p.data.featured_image.portrait }}?nf_resize=fit&w=1200')"
+                    class='media-item-media portrait'>
+                    {{alt | replace: '"', "'"}}
+                </div>
                 {% else %}
-                <img class='media-item-media' src="{{p.data.media[0].url }}?nf_resize=fit&w=2000"
-                    alt="{{alt | replace: '"', "'"}}" />
+                <div style="background-image: url('{{p.data.media[0].url }}?nf_resize=fit&w=1600')"
+                    class='media-item-media landscape'>
+                    {{alt | replace: '"', "'"}}
+                </div>
                 {% endif %}
             </div>
         </figure>

@@ -67,7 +67,7 @@ $br: 3px;
 }
 
 :root {
-  --padding: max(1.5rem, 3vw);
+  --padding: min(1.5rem, 3vw);
   --ratio: 1.25;
   --ms-0: clamp(0.95rem, 1.3vw, 1.05rem);
   --ms--2: calc(var(--ms--1) / var(--ratio));

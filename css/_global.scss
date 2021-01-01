@@ -13,7 +13,7 @@ body {
   grid-template-columns: repeat(12, 1fr);
   grid-auto-rows: min-content;
   padding: 4rem 1rem;
-  @include bp(m){
+  @include bp(m) {
     padding: 4rem var(--padding);
     padding-bottom: 8rem;
   }
@@ -53,4 +53,12 @@ input {
 table {
   border-collapse: collapse;
   border-spacing: 0;
+}
+
+img {
+  opacity: 0;
+  transition: $fast;
+  &.loaded {
+    opacity: 1;
+  }
 }

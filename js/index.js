@@ -1,5 +1,6 @@
 const { initSlider } = require("./initSlider");
 const { initFilters } = require("./initFilters");
+const { initImages } = require("./initImages");
 
 window.addEventListener("DOMContentLoaded", () => {
   let homeSlider = document.querySelector(".home-projects");
@@ -8,6 +9,7 @@ window.addEventListener("DOMContentLoaded", () => {
   }
   initFilters();
 });
+initImages();
 window.addEventListener("scroll", (e) => {
   document.body.style.setProperty("--y", window.scrollY);
 });

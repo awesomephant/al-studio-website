@@ -8,17 +8,23 @@
     grid-column: 3 / 10;
     margin-bottom: 1rem;
   }
-
+  @include bp(xl) {
+    grid-column: 4 / 9;
+  }
 }
 
 .project--title {
   font-size: var(--ms-3);
-  @include bp(m){
+  @include bp(m) {
     font-size: var(--ms-5);
   }
+  @include bp(xl) {
+    margin-top: 0.5em;
+  }
+
   font-weight: 600;
-  margin-bottom: .5rem;
-  letter-spacing: -.015em;
+  margin-bottom: 0.5rem;
+  letter-spacing: -0.015em;
   line-height: 1;
 }
 
@@ -27,19 +33,19 @@
   color: $gray;
   line-height: 1.3;
   display: block;
-  @include bp(s){
+  @include bp(s) {
     display: inline-block;
   }
 }
 
 .project--years {
-    margin-right: 1em;
+  margin-right: 1em;
 }
 .project--body {
   display: contents;
   font-size: var(--ms-0);
   @include bp(m) {
-  font-size: var(--ms-1);
+    font-size: var(--ms-1);
   }
   p {
     grid-column: 1 / 13;
@@ -52,6 +58,10 @@
     @include bp(l) {
       hyphens: none;
       grid-column: 3 / 10;
+    }
+    @include bp(xl) {
+      hyphens: none;
+      grid-column: 4 / 9;
     }
   }
   .gallery {
@@ -67,17 +77,17 @@
   flex-flow: column;
   margin-bottom: 1em;
   margin-top: 1em;
-  @include bp(m){
+  @include bp(m) {
     margin-top: 3em;
     margin-bottom: 3em;
     flex-flow: row;
   }
 }
 .gallery--item {
-  margin-bottom: 1.5rem; 
-  @include bp(m){
-    margin-bottom: 0; 
-    margin-right: 1rem; 
+  margin-bottom: 1.5rem;
+  @include bp(m) {
+    margin-bottom: 0;
+    margin-right: 1rem;
   }
   &:last-of-type {
     margin-right: 0;
@@ -88,9 +98,9 @@
     border-radius: $br;
   }
   figcaption {
-      text-align: center;
-      font-size: var(--ms--1);
-      padding-top: .5em;
+    text-align: center;
+    font-size: var(--ms--1);
+    padding-top: 0.5em;
   }
 }
 
@@ -98,8 +108,8 @@
   grid-column: 1 / 13;
   @include bp(m) {
     padding-top: 6rem;
-      grid-column: 3 / 11;
-    }
+    grid-column: 3 / 11;
+  }
   img,
   picture {
     width: 100%;
@@ -113,25 +123,30 @@
     padding-top: 4rem;
     font-weight: 600;
     grid-column: 1 / 10;
-    @include bp(m) {
-        grid-column: 3 / 11;
-    }
     font-size: var(--ms-1);
+    @include bp(m) {
+      grid-column: 3 / 11;
+    }
+    @include bp(xl) {
+      grid-column: 4 / 11;
+    }
   }
   ul {
     grid-column: 1 / 13;
     @include bp(m) {
-        grid-column: 3 / 11;
-
+      grid-column: 3 / 11;
+    }
+    @include bp(xl) {
+      grid-column: 4 / 11;
     }
     display: flex;
     flex-wrap: wrap;
   }
   .project-card {
-      padding-bottom: 2rem;
-      flex-basis: 100%;
-      @include bp(m) {
-        padding-right: 2rem;
+    padding-bottom: 2rem;
+    flex-basis: 100%;
+    @include bp(m) {
+      padding-right: 2rem;
       flex-basis: 50%;
     }
   }

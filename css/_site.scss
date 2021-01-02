@@ -3,8 +3,9 @@
   left: 0;
   width: 100%;
   padding: 1rem;
+  padding: 1em var(--padding);
   @include bp(m){
-    padding: var(--padding);
+    padding: 1.5em var(--padding);
   }
   position: fixed;
   line-height: 1;

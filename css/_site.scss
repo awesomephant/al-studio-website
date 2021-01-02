@@ -2,7 +2,6 @@
   top: 0;
   left: 0;
   width: 100%;
-  padding: 1rem;
   padding: 1em var(--padding);
   @include bp(m){
     padding: 1.5em var(--padding);

@@ -56,8 +56,11 @@
   }
   list-style: none;
   overflow: hidden;
-  padding-bottom: 1.5rem;
   font-size: var(--ms-0);
+  padding-bottom: 1.5rem;
+  @include bp(m){
+    padding-bottom: 3.5rem;
+  }
   &.hidden {
     display: none;
   }

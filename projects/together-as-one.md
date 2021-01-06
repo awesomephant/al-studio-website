@@ -2,7 +2,7 @@
 layout: project
 title: Together as one
 subtitle: A mural about hope and unity
-date: 2021-01-06T16:54:26.682Z
+date: 2021-01-06T17:23:48.377Z
 start_year: 2020
 end_year: 2020
 tags:

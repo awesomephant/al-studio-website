@@ -17,6 +17,8 @@ featured_image:
   portrait: /assets/uploads/ug_mobile1.jpg
   alt: Perspective coloured pencil and oil stick hand drawing.
   light_image: false
+related_projects:
+  - Restore
 ---
 The United Generations proposes a new, fulfilling vision to create a thriving community of all ages and celebrate the advantages of shared recources. Developed at the Royal College of Art, the project integrates solutions like harvesting, renewable energy, local producion, and smart homes to include sustainable living as a seamless part of everyday life.
 

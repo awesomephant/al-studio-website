@@ -8,8 +8,9 @@ title: Projects
     {% assign tags = "" | split: "" %}
     {% for p in collections.project %}
     {% for tag in p.data.tags %}
-    {% assign taglist = tags | join: "" %}
-    {% unless taglist contains tag %}
+    {% assign taglist = tags | join: "" | downcase %}
+    {% assign tag_lower = tag | downcase %}
+    {% unless taglist contains tag_lower %}
     {% assign tags = tags | concat: tag%}
     {% endunless %}
     {% endfor %}

@@ -78,12 +78,14 @@
 }
 .gallery {
   width: 100%;
-  display: flex;
-  flex-flow: column;
+  display: grid;
   margin-bottom: 1em;
   margin-top: 1em;
+  grid-template-columns: 1fr;
+  column-gap: 1rem;
+  row-gap: 2rem;
   @include bp(m) {
-    flex-flow: row;
+    grid-template-columns: 1fr 1fr;
   }
   @include bp(l){
     margin-top: 3em;
@@ -92,14 +94,9 @@
   }
 }
 .gallery--item {
-  margin-bottom: 1.5rem;
-  @include bp(m) {
-    margin-bottom: 0;
-    margin-right: 1rem;
-  }
-  &:last-of-type {
-    margin-right: 0;
-  }
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
   img {
     display: block;
     width: 100%;

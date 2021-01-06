@@ -28,12 +28,12 @@ module.exports = function (eleventyConfig) {
     let gallery = JSON.parse(data);
     items = gallery.map((item) => {
       let caption = ""
-      if (item.caption){
-        caption = `<figcaption>${item.caption}</figcaption>`
+      if (item.caption) {
+        caption = item.caption
       }
       return `<figure class="gallery--item">
       <img src="${item.image}?nf_resize=fit&w=1400" alt="${item.alt}">
-      ${caption}
+      <figcaption>${caption}</figcaption>
       </figure>`;
     });
 

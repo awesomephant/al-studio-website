@@ -43,7 +43,6 @@ CMS.registerEditorComponent({
   // Function to extract data elements from the regexp match
   fromBlock: function (match) {
     let m = JSON.parse(match[1]);
-    console.log(m);
     return {
       images: m,
     };

@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Together as one
-subtitle: A mural about hope and unity
+subtitle: A mural about hope and unity for the Kensington + Chelsea Art Week
 date: 2021-01-06T17:23:48.377Z
 start_year: 2020
 end_year: 2020

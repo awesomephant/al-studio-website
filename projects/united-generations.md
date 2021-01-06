@@ -20,6 +20,6 @@ featured_image:
 related_projects:
   - Restore
 ---
-The United Generations proposes a new, fulfilling vision to create a thriving community of all ages and celebrate the advantages of shared recources. Developed at the Royal College of Art, the project integrates solutions like harvesting, renewable energy, local producion, and smart homes to include sustainable living as a seamless part of everyday life.
+The United Generations proposes a new vision to create a thriving community of all ages and celebrate the advantages of shared recources. Developed at the Royal College of Art, the project integrates solutions like harvesting, renewable energy, local producion, and smart homes to include sustainable living as a seamless part of everyday life.
 
 For more information please visit [www.theunitedgenerations.com](https://www.theunitedgenerations.com/)

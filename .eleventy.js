@@ -3,7 +3,8 @@ const pluginRss = require("@11ty/eleventy-plugin-rss");
 const markdownIt = require("markdown-it");
 const md = new markdownIt();
 const siteSettings = require("./_data/settings.json");
-const fs = require("fs");
+const jsdom = require("jsdom");
+const { JSDOM } = jsdom;
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addCollection("project", function (collectionApi) {
@@ -24,6 +25,31 @@ module.exports = function (eleventyConfig) {
       });
   });
 
+  eleventyConfig.addTransform(
+    "resolveImageTitles",
+    function (content, outputPath) {
+      if (outputPath.endsWith(".html")) {
+        const dom = new JSDOM(content);
+        let transformed = "";
+        const images = dom.window.document.querySelectorAll(
+          ".project--body > p > img"
+        );
+        images.forEach(img => {
+          if (img.getAttribute("title") !== "") {
+            let caption = dom.window.document.createElement("span")
+            let title = img.getAttribute("title")
+            caption.innerHTML = title;
+            caption.classList.add("caption")
+            img.insertAdjacentElement("afterend", caption)
+          }
+        })
+        transformed = dom.serialize();
+        return transformed;
+      }
+      return content;
+    }
+  );
+
   eleventyConfig.addShortcode("gallery", function (data) {
     let gallery = JSON.parse(data);
     items = gallery.map((item) => {
@@ -37,7 +63,7 @@ module.exports = function (eleventyConfig) {
       </figure>`;
     });
 
-    return `<div class="gallery">${items.join("\n")}</div>`;
+    return `<div class="gallery" data-count="">${items.join("\n")}</div>`;
   });
 
   eleventyConfig.addPassthroughCopy("./admin");

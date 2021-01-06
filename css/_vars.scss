@@ -1,6 +1,6 @@
 @mixin bp($point) {
   @if $point==xl {
-    @media (min-width: 1800px) {
+    @media (min-width: 1850px) {
       @content;
     }
   }

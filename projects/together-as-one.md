@@ -21,8 +21,10 @@ Together as one is a site-specific handpainted mural proposal to create the fift
 
 To vote and more information please visit: [ww.kcaw.co.uk/mural-5-vote](https://www.kcaw.co.uk/mural-5-vote)
 
-![Technical Drawings](/assets/uploads/togetherasone_technical.jpg "Technical Drawings")
+![Mural Overall, Technical Drawings](/assets/uploads/togetherasone_technical.jpg "Mural Overall, Technical Drawings")
 
-![Final Sketches Detail](/assets/uploads/togetherasone_sketch2.jpg "Final Sketches Detail")
+![Mural Technical Drawing, Detail](/assets/uploads/alxkcaw_detail4.png "Mural Technical Drawing, Detail")
 
-![](/assets/uploads/togetherasone_sketch3.jpg)
+![Final Sketches Overall](/assets/uploads/togetherasone_sketch2.jpg "Final Sketches Overall")
+
+![Final Sketches Detail](/assets/uploads/togetherasone_sketch3.jpg "Final Sketches Detail")

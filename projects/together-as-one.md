@@ -23,6 +23,6 @@ To vote and more information please visit: [ww.kcaw.co.uk/mural-5-vote](https://
 
 ![Technical Drawings](/assets/uploads/togetherasone_technical.jpg "Technical Drawings")
 
-
+![Final Sketches Detail](/assets/uploads/togetherasone_sketch2.jpg "Final Sketches Detail")
 
 {% gallery '[{"image":"/assets/uploads/togetherasone_sketch2.jpg","caption":"Final Sketches Detail","alt":"Final Sketches Detail"}]' %}

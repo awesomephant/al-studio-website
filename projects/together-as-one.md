@@ -12,7 +12,7 @@ tags:
 featured_image:
   landscape: /assets/uploads/togetherasone_render.jpg
   portrait: /assets/uploads/togetherasone_render.jpg
-  light_image: true
+  light_image: false
   alt: Colorful mural with community inspired images
 related_projects:
   - Restore

@@ -23,8 +23,20 @@ To vote and more information please visit: [ww.kcaw.co.uk/mural-5-vote](https://
 
 ![Mural overall, coloured and outiline technical drawings](/assets/uploads/togetherasone_technical.jpg "Mural overall, coloured and outiline technical drawings")
 
+
+
+
+
 ![Coloured technical drawing detail](/assets/uploads/alxkcaw_detail4.png "Coloured technical drawing detail")
 
+
+
+
+
 ![Coloured sketch overall (100x25cm)](/assets/uploads/togetherasone_sketch2.jpg "Coloured sketch overall (70x15cm)")
+
+
+
+
 
 ![Coloured sketch detail](/assets/uploads/togetherasone_sketch3.jpg "Coloured sketches detail")

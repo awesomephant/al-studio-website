@@ -4,7 +4,7 @@ title: Restore
 subtitle: Hand-painted public glass installation for the Nine Elms Art Ministry.
 date: 2020-12-09T16:14:26.351Z
 start_year: 2020
-end_year: 2020
+end_year: 2021
 tags:
   - community
   - art
@@ -24,4 +24,10 @@ Restore is a site-specific, large scale window installation about the celebratio
 
 
 
-{% gallery '[{"image":"/assets/uploads/2000x1125px_web.jpg","alt":"htdhd","caption":"This image has a caption"},{"image":"/assets/uploads/2000x1125px3_web.jpg","alt":"ghd","caption":"And this one has one, too."}]' %}
+{% gallery '[{"image":"/assets/uploads/panel2.jpg","alt":"Colorful family around a table with fruits","caption":"Restore - Panel 1"},{"image":"/assets/uploads/panel2.jpg","alt":"Colorful family around a table with fruits","caption":"Restore - Panel 2"}]' %}
+
+![Colorful sketch drawing ](/assets/uploads/restore_sketch.jpg "Restore - Sketch drawing ")
+
+![Line drawing of the artwork](/assets/uploads/restore_techdrawing.jpg "Restore - Technical drawing")
+
+{% gallery '[{"image":"/assets/uploads/detail2.jpg","caption":"Cropped image of Panel 2, children with fruits","alt":"Restore - Panel 2 Detail"},{"image":"/assets/uploads/detail1.jpg","caption":"Cropped image of Panel 2, inscriptions 'restore the light within our hearts - restore the light within our homes'","alt":"Restore - Panel 2 Inscriptions detail"}]' %}

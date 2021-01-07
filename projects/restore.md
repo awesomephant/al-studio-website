@@ -24,6 +24,8 @@ Restore is a site-specific, large scale window installation about the celebratio
 
 For more information please visit [www.instagram.com/nineelmsartsministry](https://www.instagram.com/nineelmsartsministry/)
 
+MISSING TAGS
+
 {% gallery '[{"image":"/assets/uploads/panel2.jpg","alt":"Colorful family around a table with fruits","caption":"Restore - Panel 1"},{"image":"/assets/uploads/panel2.jpg","alt":"Colorful family around a table with fruits","caption":"Restore - Panel 2"}]' %}
 
 ![Colorful sketch drawing ](/assets/uploads/restore_sketch.jpg "Restore - Sketch drawing ")

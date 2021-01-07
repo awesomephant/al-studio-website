@@ -11,8 +11,8 @@ tags:
   - installation
 featured_image:
   landscape: /assets/uploads/restore_desktop2.jpg
-  alt: "two colorful stained glass windows representing families with animals
-    around a table "
+  alt: two colorful stained glass windows representing families with animals
+    around a table.
   portrait: /assets/uploads/restore_mobile.jpg
   light_image: false
 related_projects:

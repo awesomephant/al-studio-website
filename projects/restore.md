@@ -22,7 +22,7 @@ In this moment of darkness, the light comes from the values we can restore. Rest
 
 Restore is a site-specific, large scale window installation about the celebration of the sense of belonging as a symbol of light. Inspired by mystical stained glass windows, the drawings represent the Mason’s Arms Pub community around a dining table as a space to restore conviviality and togetherness among young and old generations. The drawing style is a unique feature of my artworks, continuing and evolving ‘The United Generations’ project. Developed as a universal pictorial language, it encourages simplicity, inclusivity and personal interpretation. The drawings are the outcome of an iterative process which includes computer rendering, creative software and hand painting.
 
-
+For more information please visit [www.instagram.com/nineelmsartsministry](https://www.instagram.com/nineelmsartsministry/)
 
 {% gallery '[{"image":"/assets/uploads/panel2.jpg","alt":"Colorful family around a table with fruits","caption":"Restore - Panel 1"},{"image":"/assets/uploads/panel2.jpg","alt":"Colorful family around a table with fruits","caption":"Restore - Panel 2"}]' %}
 

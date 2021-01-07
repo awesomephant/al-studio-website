@@ -17,7 +17,7 @@ featured_image:
 related_projects:
   - Restore
 ---
-Together as one is a site-specific handpainted mural proposal to create the fifth Love Kensington + Chelsea mural located on a hoarding on Lansdowne Road in Notting Hill. The artwork celebrates the power of the Notting Hill community as a symbol of hope and harmony for tomorrow. Inspired by the neighbourhood’s history and the architectural restoration of the site, the drawings represent three stories in time. 
+Together as one is a site-specific handpainted mural proposal to create the fifth Love Kensington + Chelsea mural located on a hoarding on Lansdowne Road in Notting Hill. The artwork celebrates the power of the Notting Hill community as a symbol of hope and harmony for tomorrow. Inspired by the neighbourhood’s history and the architectural restoration of the site, the drawings represent three stories in time. The first panel depicts a time when pottery making and pig farming brought together the early rural Knottynghull village. The second window an early Portobello Market where the relationships between vendors and customers was vital to energies the life of the streets of the borough. The third panel presents the intimate moment of a family preparing for Carnival inside a recently renovated Georgian house.
 
 To vote and more information please visit: [ww.kcaw.co.uk/mural-5-vote](https://www.kcaw.co.uk/mural-5-vote)
 

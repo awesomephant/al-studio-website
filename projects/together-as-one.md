@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Together as One
-subtitle: A mural about hope and unity for the Kensington + Chelsea Art Week
+subtitle: A mural about hope and unity for Kensington + Chelsea Art Week
 date: 2021-01-06T17:23:48.377Z
 start_year: 2021
 end_year: 2021
@@ -21,10 +21,10 @@ Together as one is a site-specific handpainted mural proposal to create the fift
 
 To vote and more information please visit: [ww.kcaw.co.uk/mural-5-vote](https://www.kcaw.co.uk/mural-5-vote)
 
-![Mural Overall, Technical Drawings](/assets/uploads/togetherasone_technical.jpg "Mural Overall, Technical Drawings")
+![Mural overall, coloured and outiline technical drawings](/assets/uploads/togetherasone_technical.jpg "Mural overall, coloured and outiline technical drawings")
 
-![Mural Technical Drawing, Detail](/assets/uploads/alxkcaw_detail4.png "Mural Technical Drawing, Detail")
+![Coloured technical drawing detail](/assets/uploads/alxkcaw_detail4.png "Coloured technical drawing detail")
 
-![Final Sketches Overall](/assets/uploads/togetherasone_sketch2.jpg "Final Sketches Overall")
+![Coloured sketch overall (100x25cm)](/assets/uploads/togetherasone_sketch2.jpg "Coloured sketch overall (70x15cm)")
 
-![Final Sketches Detail](/assets/uploads/togetherasone_sketch3.jpg "Final Sketches Detail")
+![Coloured sketch detail](/assets/uploads/togetherasone_sketch3.jpg "Coloured sketches detail")

@@ -21,10 +21,8 @@ Together as one is a site-specific handpainted mural proposal to create the fift
 
 To vote and more information please visit: [ww.kcaw.co.uk/mural-5-vote](https://www.kcaw.co.uk/mural-5-vote)
 
-![Technical Drawings](/assets/uploads/alxkcaw_full.jpg "Technical Drawings")
+![Technical Drawings](/assets/uploads/togetherasone_technical.jpg "Technical Drawings")
 
-![Final Sketches](/assets/uploads/img_3446.jpg "Final Sketches")
 
-{% gallery '[{"image":"/assets/uploads/alxkcaw_detail2.png","caption":"Panel 1: pigs, pottery and horses ","alt":"Panel 1: pigs, pottery and horses "},{"image":"/assets/uploads/alxkcaw_detail3.png","caption":"Panel 2: the beginning of Portobello Market ","alt":"Panel 2: the beginning of Portobello Market "},{"image":"/assets/uploads/alxkcaw_detail4.png","caption":"Panel 3: family dressing for Carnival ","alt":"Panel 3: family dressing for Carnival "}]' %}
 
-{% gallery '[{"image":"/assets/uploads/img_3432.jpg","caption":"Preliminary Sketches ","alt":"Preliminary Sketches "},{"image":"/assets/uploads/img_3435.jpg","caption":"Final Sketches Detail","alt":"Final Sketches Detail"}]' %}
+{% gallery '[{"image":"/assets/uploads/togetherasone_sketch2.jpg","caption":"Final Sketches Detail","alt":"Final Sketches Detail"}]' %}

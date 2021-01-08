@@ -24,4 +24,6 @@ The United Generations proposes a new vision to create a thriving community of a
 
 For more information please visit [www.theunitedgenerations.com](https://www.theunitedgenerations.com/)
 
-[<https://vimeo.com/498053891>](<https://vimeo.com/498053891>)
+Credits: [Studio Jenny Jones](https://studiojennyjones.com/) (tutor)
+
+[<https://vimeo.com/498053891>](https://vimeo.com/498053891)

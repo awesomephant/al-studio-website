@@ -23,3 +23,7 @@ related_projects:
 The United Generations proposes a new vision to create a thriving community of all ages and celebrate the advantages of shared recources. Developed at the Royal College of Art, the project integrates solutions like harvesting, renewable energy, local producion, and smart homes to include sustainable living as a seamless part of everyday life.
 
 For more information please visit [www.theunitedgenerations.com](https://www.theunitedgenerations.com/)
+
+Credits: [Studio Jenny Jones](https://studiojennyjones.com/) (tutor)
+
+[<https://vimeo.com/498053891>](https://vimeo.com/498053891)

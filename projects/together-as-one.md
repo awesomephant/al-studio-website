@@ -1,7 +1,7 @@
 ---
 layout: project
-title: Together as one
-subtitle: A mural about hope and unity for the Kensington + Chelsea Art Week
+title: Together as One
+subtitle: A mural about hope and unity for Kensington + Chelsea Art Week
 date: 2021-01-06T17:23:48.377Z
 start_year: 2021
 end_year: 2021
@@ -12,19 +12,19 @@ tags:
 featured_image:
   landscape: /assets/uploads/togetherasone_render.jpg
   portrait: /assets/uploads/togetherasone_render.jpg
-  light_image: true
-  alt: Colorful mural with community inspired images
+  light_image: false
+  alt: Colorful mural rendering with drawings of community-inspired images.
 related_projects:
   - Restore
 ---
-Together as one is a site-specific handpainted mural proposal to create the fifth Love Kensington + Chelsea mural located on a hoarding on Lansdowne Road in Notting Hill. The artwork celebrates the power of the Notting Hill community as a symbol of hope and harmony for tomorrow. Inspired by the neighbourhood’s history and the architectural restoration of the site, the drawings represent three stories in time. 
+Together as one is a site-specific handpainted mural proposal to create the fifth Love Kensington + Chelsea mural located on a hoarding on Lansdowne Road in Notting Hill. The artwork celebrates the power of the Notting Hill community as a symbol of hope and harmony for tomorrow. Inspired by the neighbourhood’s history and the architectural restoration of the site, the drawings represent three stories in time. The first panel depicts a time when pottery making and pig farming brought together the early rural Knottynghull village. The second window an early Portobello Market where the relationships between vendors and customers was vital to energies the life of the streets of the borough. The third panel presents the intimate moment of a family preparing for Carnival inside a recently renovated Georgian house.
 
 To vote and more information please visit: [ww.kcaw.co.uk/mural-5-vote](https://www.kcaw.co.uk/mural-5-vote)
 
-![Together as One Mural Overview  / Technical Drawings](/assets/uploads/alxkcaw_full.jpg "Together as One Mural Overview  / Technical Drawings")
+![Mural overall, coloured and outiline technical drawings.](/assets/uploads/togetherasone_technical.jpg "Mural overall, coloured and outiline technical drawings.")
 
-![Together as One Mural / Final Sketches](/assets/uploads/img_3446.jpg "Together as One Mural / Final Sketches")
+![Mural detail, coloured technical drawing.](/assets/uploads/alxkcaw_detail4.png "Mural detail, coloured technical drawing.")
 
-{% gallery '[{"image":"/assets/uploads/alxkcaw_detail2.png","caption":"Together as One Mural Detail  / Technical Drawing / Panel 2: pigs, pottery and horses "},{"image":"/assets/uploads/alxkcaw_detail3.png","caption":"Together as One Mural Detail  / Technical Drawing / Panel 3: the beginning of Portobello Market ","alt":"Together as One Mural Detail  / Technical Drawing / Panel 3: the beginning of Portobello Market "},{"image":"/assets/uploads/alxkcaw_detail4.png","caption":"Together as One Mural Detail  / Technical Drawing / Panel 4: dressing for Carnival ","alt":"Together as One Mural Detail  / Technical Drawing / Panel 4: dressing for Carnival "}]' %}
+![Mural overall, coloured sketch (100x25cm).](/assets/uploads/togetherasone_sketch2.jpg "Mural overall, coloured sketch (100x25cm).")
 
-{% gallery '[{"image":"/assets/uploads/img_3432.jpg","caption":"Together as One Mural / Preliminary Sketches ","alt":"Together as One Mural / Preliminary Sketches "},{"image":"/assets/uploads/img_3435.jpg","caption":"Together as One Mural / Final Sketches Detail","alt":"Together as One Mural / Final Sketches Detail"}]' %}
+![Mural detail, coloured sketch.](/assets/uploads/togetherasone_sketch3.jpg "Mural detail, coloured sketch.")

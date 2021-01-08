@@ -32,4 +32,4 @@ MISSING TAGS
 
 ![Line drawing of the artwork](/assets/uploads/restore_techdrawing.jpg "Restore - Technical drawing")
 
-{% gallery '[{"image":"/assets/uploads/detail2.jpg","caption":"Cropped image of Panel 2, children with fruits","alt":"Restore - Panel 2 Detail"},{"image":"/assets/uploads/detail1.jpg","caption":"Cropped image of Panel 2, inscriptions 'restore the light within our hearts - restore the light within our homes'","alt":"Restore - Panel 2 Inscriptions detail"}]' %}
+{% gallery '[{"image":"/assets/uploads/detail2.jpg","caption":"Cropped image of Panel 2, children with fruits","alt":"Restore - Panel 2 Detail"},{"image":"/assets/uploads/detail1.jpg","caption":"Cropped image of Panel 2, inscriptions &#x2019;Frestore the light within our hearts - restore the light within our homes&#x2019;","alt":"Restore - Panel 2 Inscriptions detail"}]' %}

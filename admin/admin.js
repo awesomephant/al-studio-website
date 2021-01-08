@@ -55,7 +55,7 @@ CMS.registerEditorComponent({
     } else {
       data = [];
     }
-    return `\{% gallery '${JSON.stringify(data)}' %}`;
+    return `\{% gallery '${JSON.stringify(data).replace(/(')(?![\S\s]+image)/g, "&#x2019;")}' %}`;
   },
   toPreview: function (obj) {
     return "";

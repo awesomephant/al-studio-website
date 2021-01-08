@@ -4,7 +4,7 @@ media: []
 image_size: large
 layout: project
 title: How to take care of the old
-subtitle: Limited edition publication about ageing well for the Royal College of Arts.
+subtitle: Limited edition publication about ageing well for the Royal College of Arts
 date: 2020-07-30
 start_year: 2018
 tags:
@@ -23,6 +23,10 @@ related_projects:
 ---
 This research book looks at the relationships between gerontology and the disciplines of architecture, sociology, and technology. These fields inform the understanding of the fundamental behaviours and needs of the elderly and possible future solutions such as co-design, multigenerational living, and smart homes to guarantee our future generations a healthy and comfortable senior life.
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/434693932?autoplay=1&loop=1&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+![](/assets/uploads/chs_page6.jpg)
 
-![Colorful books collection about old age](/assets/uploads/old5.jpg "Books collection about conscious design for the older generations.")
+![](/assets/uploads/chs_page5.jpg)
+
+![](/assets/uploads/old2.jpg)
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/434693932?autoplay=1&loop=1&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>

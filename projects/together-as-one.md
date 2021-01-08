@@ -21,10 +21,10 @@ Together as one is a site-specific handpainted mural proposal to create the fift
 
 To vote and more information please visit: [ww.kcaw.co.uk/mural-5-vote](https://www.kcaw.co.uk/mural-5-vote)
 
-![Mural overall, coloured and outiline technical drawings.](/assets/uploads/togetherasone_technical.jpg "Mural overall, coloured and outiline technical drawings.")
+![Mural overall, coloured and outiline technical drawings](/assets/uploads/togetherasone_technical.jpg "Mural overall, coloured and outiline technical drawings")
 
-![Mural detail, coloured technical drawing.](/assets/uploads/alxkcaw_detail4.png "Mural detail, coloured technical drawing.")
+![Mural detail, coloured technical drawing](/assets/uploads/alxkcaw_detail4.png "Mural detail, coloured technical drawing")
 
-![Mural overall, coloured sketch (100x25cm).](/assets/uploads/togetherasone_sketch2.jpg "Mural overall, coloured sketch (100x25cm).")
+![Mural overall, coloured sketch (100x25cm)](/assets/uploads/togetherasone_sketch2.jpg "Mural overall, coloured sketch (100x25cm)")
 
-![Mural detail, coloured sketch.](/assets/uploads/togetherasone_sketch3.jpg "Mural detail, coloured sketch.")
+![Mural detail, coloured sketch](/assets/uploads/togetherasone_sketch3.jpg "Mural detail, coloured sketch")

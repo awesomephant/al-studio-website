@@ -69,7 +69,7 @@
       hyphens: none;
       grid-column: 4 / 10;
     }
-    
+
     img {
       width: 100%;
       @include bp(xl) {
@@ -89,6 +89,19 @@
       grid-column: 2 / 12;
     }
   }
+  
+  & > div {
+    width: 100%;
+    margin-bottom: 1rem;
+    grid-column: 1 / 13;
+    @include bp(m) {
+      grid-column: 3 / 11;
+    }
+    @include bp(xl) {
+      grid-column: 4 / 10;
+    }
+  }
+
 }
 .gallery {
   width: 100%;

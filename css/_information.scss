@@ -1,6 +1,6 @@
 .information {
   padding-top: 4rem;
-  @include bp(l){
+  @include bp(l) {
     padding-top: 6rem;
   }
   h3 {
@@ -36,7 +36,7 @@
   }
   h2 {
     font-size: var(--ms-1);
-    @include bp(m){
+    @include bp(m) {
       font-size: var(--ms-2);
     }
     font-weight: 600;
@@ -60,12 +60,20 @@
   @include bp(l) {
     grid-column: 10 / 11;
   }
+  section {
+    margin-bottom: 1.5em;
+  }
   ul {
     list-style: none;
   }
   li {
     white-space: nowrap;
+    display: block;
     font-size: var(--ms-0);
+  }
+  a {
+    margin-bottom: .25em;
+    @include underline(1px);
   }
 }
 .information-blocks {

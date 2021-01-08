@@ -27,6 +27,8 @@ To preview the book please click [here](https://issuu.com/adalbertolonardi/docs/
 
 ![Book spread with Age-Friendly Cities diagram](/assets/uploads/chs_page6.jpg "Book spread with Age-Friendly Cities diagram")
 
+
+
 ![Book spread showing a brain with Halzaimer on the left compared to one without dementia syndrome on the right](/assets/uploads/chs_page5.jpg "Book spread showing a brain with Halzaimer on the left compared to one without dementia syndrome on the right")
 
 ![Book spread representing two world ageing population diagrams between 2015 and 2050](/assets/uploads/old2.jpg "Book spread representing two world ageing population diagrams between 2015 and 2050")

@@ -31,7 +31,7 @@ Campaign video for OGM plant recycled alluminium collections launch
 
 ![](/assets/uploads/ogm1.jpg)
 
-![](/assets/uploads/ogm2.jpg)
+![](/assets/uploads/ogm1jpg.jpeg)
 
 ![](/assets/uploads/ogm2.jpg)
 

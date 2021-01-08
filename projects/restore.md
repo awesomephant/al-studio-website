@@ -28,6 +28,8 @@ MISSING TAGS
 
 {% gallery '[{"image":"/assets/uploads/panel2.jpg","alt":"Colorful family around a table with fruits","caption":"Restore - Panel 1"},{"image":"/assets/uploads/panel1.jpg","alt":"Colorful family around a table with fruits","caption":"Restore - Panel 2"}]' %}
 
+{% gallery '[{"image":"/assets/uploads/restore_sketch.jpg","caption":"Colorful sketch drawing ","alt":"Restore - Sketch drawing "}]' %}
+
 ![Colorful sketch drawing ](/assets/uploads/restore_sketch.jpg "Restore - Sketch drawing ")
 
 ![Line drawing of the artwork](/assets/uploads/restore_techdrawing.jpg "Restore - Technical drawing")

@@ -5,6 +5,7 @@
 .project--header {
   grid-column: 1 / 10;
   margin-bottom: 1rem;
+  font-size: var(--ms-1);
   @include bp(l) {
     grid-column: 3 / 10;
   }
@@ -15,7 +16,7 @@
 
 .project--title {
   font-size: var(--ms-3);
-  margin-bottom: 0.5rem;
+  margin-bottom: 0.25em;
   @include bp(l) {
     font-size: var(--ms-5);
   }

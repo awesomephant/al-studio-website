@@ -56,6 +56,15 @@
       text-decoration: none;
     }
   }
+  .hasimage {
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    @include bp(xl) {
+     width: 120%;
+      margin-left: -10%;
+    }
+  }
   p {
     grid-column: 1 / 13;
     padding-right: 1em;
@@ -72,11 +81,8 @@
     }
 
     img {
-      width: 100%;
-      @include bp(xl) {
-        width: 120%;
-        margin-left: -10%;
-      }
+      max-width: 100%;
+      max-height: 60vh;
       & + .caption {
         display: block;
         font-size: var(--ms--1);
@@ -90,8 +96,9 @@
       grid-column: 2 / 12;
     }
   }
-  
-  & > div, & > iframe {
+
+  & > div,
+  & > iframe {
     width: 100%;
     margin-bottom: 1rem;
     grid-column: 1 / 13;
@@ -102,7 +109,6 @@
       grid-column: 4 / 10;
     }
   }
-
 }
 .gallery {
   width: 100%;

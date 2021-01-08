@@ -30,4 +30,4 @@ For more information please visit [www.instagram.com/nineelmsartsministry](https
 
 {% gallery '[{"image":"/assets/uploads/restore_sketch.jpg","caption":"Windows overall, coloured sketch (21x29,7cm)","alt":" Colorful sketch drawing "},{"image":"/assets/uploads/restore_techdrawing.jpg","caption":"Windows overall, outline technical drawings","alt":"Outline windows technical drawings"}]' %}
 
-{% gallery '[{"image":"/assets/uploads/detail2.jpg","caption":"Blue Panel, children with fruit zoom","alt":"Cropped image of Panel 2, children with fruits"},{"image":"/assets/uploads/detail1.jpg","caption":"Blue Panel, inscriptions detail","alt":"Cropped image of Panel 2, inscriptions &#x2019;Restore the light within our hearts - restore the light within our homes&#x2019;"}]' %}
+{% gallery '[{"image":"/assets/uploads/detail2.jpg","caption":"Blue panel detail, children with fruit","alt":"Cropped image of Panel 2, children with fruits"},{"image":"/assets/uploads/detail1.jpg","caption":"Blue panel detail, inscriptions","alt":"Cropped image of Panel 2, inscriptions &#x2019;Restore the light within our hearts - restore the light within our homes&#x2019;"}]' %}

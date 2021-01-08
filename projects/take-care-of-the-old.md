@@ -23,10 +23,10 @@ related_projects:
 ---
 This research book looks at the relationships between gerontology and the disciplines of architecture, sociology, and technology. These fields inform the understanding of the fundamental behaviours and needs of the elderly and possible future solutions such as co-design, multigenerational living, and smart homes to guarantee our future generations a healthy and comfortable senior life.
 
-![](/assets/uploads/chs_page6.jpg)
+![Book spread with Age-Friendly Cities diagram](/assets/uploads/chs_page6.jpg "Book spread with Age-Friendly Cities diagram")
 
-![](/assets/uploads/chs_page5.jpg)
+![Book spread showing a brain with Halzaimer on the left compared to one without dementia syndrome on the right](/assets/uploads/chs_page5.jpg "Book spread showing a brain with Halzaimer on the left compared to one without dementia syndrome on the right")
 
-![](/assets/uploads/old2.jpg)
+![Book spread representing two world ageing population diagrams between 2015 and 2050](/assets/uploads/old2.jpg)
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/434693932?autoplay=1&loop=1&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>

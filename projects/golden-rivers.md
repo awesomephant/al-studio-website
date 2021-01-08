@@ -23,13 +23,9 @@ For more information about the collaboration please visit: [Domaine de Boisbuche
 
 ![Staircase view of the river towards the field](/assets/uploads/stairs.jpg "Staircase view of the river towards the field")
 
-{% gallery '[{"image":"/assets/uploads/img_2372.jpg"},{"image":"/assets/uploads/img_2379.jpg"}]' %}
+{% gallery '[{"image":"/assets/uploads/img_2372.jpg","caption":"Staircase view detail towards the castle entrance","alt":"Staircase view detail towards the castle entrance"},{"image":"/assets/uploads/img_2379.jpg","caption":"Installation in place on Domain de Boisbuchet castle by night","alt":"Installation in place on Domain de Boisbuchet castle by night"}]' %}
 
-![](/assets/uploads/test.jpg)
-
-
-
-
+![Spatial study of the installation on Domain de Boisbuchet castle](/assets/uploads/test.jpg "Spatial study of the installation on Domain de Boisbuchet castle")
 
 
 

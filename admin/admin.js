@@ -30,7 +30,7 @@ CMS.registerEditorComponent({
           required: false
         },
         {
-          label: "Image Description",
+          label: "Alt text",
           name: "alt",
           widget: "string",
         },

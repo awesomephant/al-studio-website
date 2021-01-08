@@ -157,7 +157,7 @@ collections:
             media_library:
               config:
                 max_file_size: 6000000
-          - label: Description
+          - label: Alt text
             name: alt
             widget: "string"
           - label: Is this a light image?

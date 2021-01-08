@@ -26,8 +26,6 @@ In the near future, a significant part of the population is older. Redundant urb
 
 For more information please visit [www.theunitedgenerations.com](https://www.theunitedgenerations.com/)
 
-Credits: [Studio Jenny Jones](https://studiojennyjones.com/) (tutor)
-
-
+Credits: [Studio Jenny Jones](https://studiojennyjones.com/) (Mentor)
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/498053891?autoplay=1&loop=1&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>

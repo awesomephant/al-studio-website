@@ -24,8 +24,8 @@ Restore is a site-specific, large scale window installation about the celebratio
 
 For more information please visit [www.instagram.com/nineelmsartsministry](https://www.instagram.com/nineelmsartsministry/)
 
-{% gallery '[{"image":"/assets/uploads/panel2.jpg","alt":"Colorful family around a table with fruits","caption":"Restore - Panel 1"},{"image":"/assets/uploads/panel1.jpg","alt":"Colorful family around a table with fruits","caption":"Restore - Panel 2"}]' %}
+{% gallery '[{"image":"/assets/uploads/panel2.jpg","alt":"Colorful family around a table with fruits","caption":"Orange panel detail: family around a table with fruits"},{"image":"/assets/uploads/panel1.jpg","alt":"Colorful family around a table with fruits","caption":"Blue panel detail: family around a table with fruits"}]' %}
 
-{% gallery '[{"image":"/assets/uploads/restore_sketch.jpg","caption":"Colorful sketch drawing ","alt":"Restore - Sketch drawing "},{"image":"/assets/uploads/restore_techdrawing.jpg","caption":"Line drawing of the artwork","alt":"Restore - Technical drawing"}]' %}
+{% gallery '[{"image":"/assets/uploads/restore_sketch.jpg","caption":"Windows overall, coloured sketch (21x29,7cm)","alt":" Colorful sketch drawing "},{"image":"/assets/uploads/restore_techdrawing.jpg","caption":"Windows overall, outline technical drawings","alt":"Outline windows technical drawings"}]' %}
 
-{% gallery '[{"image":"/assets/uploads/detail2.jpg","caption":"Cropped image of Panel 2, children with fruits","alt":"Restore - Panel 2 Detail"},{"image":"/assets/uploads/detail1.jpg","caption":"Cropped image of Panel 2, inscriptions &#x2019;Frestore the light within our hearts - restore the light within our homes&#x2019;","alt":"Restore - Panel 2 Inscriptions detail"}]' %}
+{% gallery '[{"image":"/assets/uploads/detail2.jpg","caption":"Blue Panel, children with fruit zoom","alt":"Cropped image of Panel 2, children with fruits"},{"image":"/assets/uploads/detail1.jpg","caption":"Blue Panel, inscriptions detail","alt":"Cropped image of Panel 2, inscriptions &#x2019;Restore the light within our hearts - restore the light within our homes&#x2019;"}]' %}

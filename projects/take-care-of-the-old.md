@@ -9,7 +9,6 @@ date: 2020-07-30
 start_year: 2018
 tags:
   - Editorial
-  - Social Empowerment
   - Education
   - Wellbeing
 featured_image:

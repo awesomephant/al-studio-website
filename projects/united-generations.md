@@ -20,7 +20,9 @@ featured_image:
 related_projects:
   - Restore
 ---
-The United Generations proposes a new vision to create a thriving community of all ages and celebrate the advantages of shared recources. Developed at the Royal College of Art, the project integrates solutions like harvesting, renewable energy, local producion, and smart homes to include sustainable living as a seamless part of everyday life.
+The United Generations proposes a new vision to create a thriving community of all ages and celebrate the advantages of shared resources. Developed at the Royal College of Art, the project integrates solutions like harvesting, renewable energy, local production, and smart homes to include sustainable living as a seamless part of everyday life. 
+
+In the near future, a significant part of the population is older. Redundant urban land is now fertile. Mobility is electric or human-powered. Co-living, re-use lifestyles, and adaptation of the existing are the norm. And we humans, finally learned that together we are stronger, nature is sacred, technology is our ally, and life is slow. Here, I propose to go back to the Arcadian archetype where community, sustainability, and simplicity are the assets for a prosperous living. As a test, I have analysed the Golden Lane Estate in London, a post-war example of an urban microcosm designed to advocate the modernist principles of wellbeing and social living.
 
 For more information please visit [www.theunitedgenerations.com](https://www.theunitedgenerations.com/)
 

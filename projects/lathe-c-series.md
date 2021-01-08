@@ -26,6 +26,4 @@ For more information and purchase please visit: [Perlini Ceramic Art](http://www
 
 ![x](/assets/uploads/ac06b66e-3c10-4a53-bcf9-97f008350225-2-2.jpeg "x")
 
-![x](/assets/uploads/img_7729.jpeg "x")
-
 ![x](/assets/uploads/img_2142.jpeg "x")

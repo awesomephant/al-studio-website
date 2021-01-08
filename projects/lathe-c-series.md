@@ -26,6 +26,6 @@ For more information and purchase please visit: [Perlini Ceramic Art](http://www
 
 ![x](/assets/uploads/ac06b66e-3c10-4a53-bcf9-97f008350225-2-2.jpeg "x")
 
-{% gallery '[{"image":"/assets/uploads/img_7729.jpeg","caption":"x","alt":"x"},{"image":"/assets/uploads/img_7724.jpeg","caption":"x","alt":"x"}]' %}
+{% gallery '[{"image":"/assets/uploads/img_7729.jpeg","caption":"x","alt":"x"}]' %}
 
 ![x](/assets/uploads/img_2142.jpeg "x")

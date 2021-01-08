@@ -26,7 +26,11 @@
   "sidebar_a": [
     {
       "title": "Clients",
-      "text": "* [Royal College of Art](https://www.rca.ac.uk/)\n* FABRICA\n* Istituto Marangoni\n* Domain de Boisbuchet\n* Frahm & Frahm\n* Swisscare\n* OGM Plant"
+      "text": "* [Royal College of Art](https://www.rca.ac.uk/)\n* FABRICA\n* Istituto Marangoni\n* Domain de Boisbuchet\n\n  Nine Elms Arts Ministry\n\n  Kensington + Chelsea Art week\n\n  Frahm & Frahm\n* Swisscare\n* OGM Plant"
+    },
+    {
+      "title": "Collaborators",
+      "text": "\n\n* [Katherine Low Settlement](https://www.klsettlement.org.uk/)\n* [Max Koehler](maxkoehler)"
     }
   ]
 }

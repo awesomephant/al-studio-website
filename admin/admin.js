@@ -43,6 +43,10 @@ CMS.registerEditorComponent({
   // Function to extract data elements from the regexp match
   fromBlock: function (match) {
     let m = JSON.parse(match[1]);
+    m.forEach(image => {
+      image.caption = image.caption.replace(/(&#x2019;)(?![\S\s]+image)/g, "'")
+      image.alt = image.alt.replace(/(&#x2019;)(?![\S\s]+image)/g, "'")
+    })
     return {
       images: m,
     };
@@ -55,7 +59,9 @@ CMS.registerEditorComponent({
     } else {
       data = [];
     }
-    return `\{% gallery '${JSON.stringify(data).replace(/(')(?![\S\s]+image)/g, "&#x2019;")}' %}`;
+    // We only have to worry about single quotes, double quotes are already escaped.
+    let json = JSON.stringify(data).replace(/(')(?![\S\s]+image)/g, "&#x2019;")
+    return `\{% gallery '${json}' %}`;
   },
   toPreview: function (obj) {
     return "";

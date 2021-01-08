@@ -18,12 +18,10 @@ featured_image:
 related_projects:
   - The Nativity Museum
 ---
-Started as a study of the variations of the cylinder, Lathe C (Cylinder) Series is a high quality ceramic tableware collection developed in collaboration with Perlini Ceramic Art. The vessels are conceived as stackable objects which simple shapes and modular dimensions adapt to any type of food and tables. The collection is produced in earthenware by hand on the wheel, cooked at 1020ºC, and finished with traslucent thick glaze.
+Started as a study of the variations of the cylinder, Lathe C (Cylinder) Series is a high quality ceramic tableware collection developed in collaboration with Perlini Ceramic Art. The vessels are conceived as stackable objects which simple shapes and modular dimensions adapt to any type of food and tables. The collection is produced in earthenware by hand on the wheel, cooked at 1020ºC, and finished with a translucent glaze.
 
 For more information and purchase please visit: [Perlini Ceramic Art](http://www.perliniceramicart.com/)
 
+![white ceramic tableware, stacked cylinders](/assets/uploads/ac06b66e-3c10-4a53-bcf9-97f008350225-2-2-copy.jpg "Lathe C Series collection (high quality earthenware with translucent glaze)")
 
-
-![x](/assets/uploads/ac06b66e-3c10-4a53-bcf9-97f008350225-2-2-copy.jpg "x")
-
-![x](/assets/uploads/img_2142.jpeg "x")
+![ Perlini Ceramic Art laboratory in Verona](/assets/uploads/img_2142.jpeg " Perlini Ceramic Art laboratory in Verona")

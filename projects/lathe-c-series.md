@@ -16,7 +16,6 @@ featured_image:
   alt: Raw clay cylindrical vessels stacked on top of each other.
   light_image: false
 related_projects:
-  - OGM Plant
   - The Nativity Museum
 ---
 Started as a study of the variations of the cylinder, Lathe C (Cylinder) Series is a ceramic tableware collection developed in collaboration with Perlini Ceramic Art. The vessels are conceived as stackable objects which simple shapes and modular dimensions adapt to any type of food and tables. 

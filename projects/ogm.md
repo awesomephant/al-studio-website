@@ -23,7 +23,7 @@ Developed the branding, website, digital and printed marketing campaigns, and ar
 
 To know more about the company please visit: [OGM Plant](https://www.instagram.com/ogm_plant/)
 
-Credits: [](https://www.independentmgmt.it/)[Mattia Maestri](https://www.instagram.com/mattiamaestriphoto) (Photographer), [Davide Calafà](http://www.davidecalafa.com/) (Film director), [Independentmgmt](https://www.independentmgmt.it/) (Casting), [Simple AG](http://www.simpleag.com/) (Agency), [Zocca Vivai](http://www.zoccanatalino.com/) (Nursery)
+Credits: [](https://www.independentmgmt.it/)[Mattia Maestri](https://www.instagram.com/mattiamaestriphoto) (Photographer), [Davide Calafà](http://www.davidecalafa.com/) (Film director), [Independentmgmt](https://www.independentmgmt.it/) (Casting), [Simple AG](http://www.simpleag.com/) (Agency), [](http://www.zoccanatalino.com/)[Laura Montalto](https://www.instagram.com/montaltola) (Stylist), [Francesca Galantino](https://francescagalantino.wixsite.com/makeup) (Make up Artist), ( [Emanuele Mocchetti](https://www.instagram.com/mocce31/?hl=en) (Audio Engineer), [Zocca Vivai](http://www.zoccanatalino.com/) (Nursery), 
 
 
 

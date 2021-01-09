@@ -23,13 +23,13 @@ related_projects:
 ---
 This research book looks at the relationships between gerontology and the disciplines of architecture, sociology, and technology. These fields inform the understanding of the fundamental behaviours and needs of the elderly and possible future solutions such as co-design, multigenerational living, and smart homes to guarantee our future generations a healthy and comfortable senior life.
 
+To preview the digital version of the book please click [here](https://issuu.com/adalbertolonardiworks/docs/how_to_take_care_of_the_old_preview).
+
 Credits: [Barry Curtis](https://www.linkedin.com/in/barry-curtis-b308b36) (Mentor)
 
-To preview the book please click [here](https://issuu.com/adalbertolonardi/docs/adalberto_lonardi_dissertation_print_double_short)
+
 
 ![Book spread with Age-Friendly Cities diagram](/assets/uploads/chs_page6.jpg "Book spread with Age-Friendly Cities diagram")
-
-
 
 ![Book spread showing a brain with Halzaimer on the left compared to one without dementia syndrome on the right](/assets/uploads/chs_page5.jpg "Book spread showing a brain with Halzaimer on the left compared to one without dementia syndrome on the right")
 

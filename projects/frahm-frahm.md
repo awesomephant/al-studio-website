@@ -10,7 +10,7 @@ tags:
   - Culture
   - Digital
 featured_image:
-  landscape: /assets/uploads/ff-desktop.jpg
+  landscape: /assets/uploads/ff-desktop1.jpg
   alt: "Homapge desktop website view "
   portrait: /assets/uploads/ff-desktop.jpg
   light_image: false

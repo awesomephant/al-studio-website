@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Kaledoscopio College of Arts
-subtitle: Children art center
+subtitle: Art center proposal for children to develop the creative potentials in Verona
 date: 2021-01-09T01:25:41.484Z
 start_year: 2017
 end_year: 2017

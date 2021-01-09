@@ -44,8 +44,12 @@ CMS.registerEditorComponent({
   fromBlock: function (match) {
     let m = JSON.parse(match[1]);
     m.forEach(image => {
-      image.caption = image.caption.replace(/(&#x2019;)(?![\S\s]+image)/g, "'")
-      image.alt = image.alt.replace(/(&#x2019;)(?![\S\s]+image)/g, "'")
+      if (image.caption){
+        image.caption = image.caption.replace(/(&#x2019;)(?![\S\s]+image)/g, "'")
+      }
+      if (image.alt){
+        image.alt = image.alt.replace(/(&#x2019;)(?![\S\s]+image)/g, "'")
+      }
     })
     return {
       images: m,

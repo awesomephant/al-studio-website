@@ -10,7 +10,7 @@ tags:
   - Wellbeing
   - Art Direction
 featured_image:
-  landscape: /assets/uploads/vele2.jpg
+  landscape: /assets/uploads/al_desktop2.jpg
   portrait: /assets/uploads/sc_mobile.jpg
   alt: Flowers, plants and fruits on white background.
   light_image: true

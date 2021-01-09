@@ -21,4 +21,4 @@ This is a walking-based project led by 2019-20 co-presidents Adalberto Lonardi (
 
 To know more about the workshop please visit: [The Walkative Project](http://thewalkativeproject.org/event/across-rca-2019/)
 
-Credits: [Katharina Siegel](http://www.katharinasiegel.de/) (Walkative 2019/2020 co-president), [Jose Garcia Oliva](https://josegarciaoliva.com/) (publication designer), [Max Koehler](maxkoehler)
+Credits: [Katharina Siegel](http://www.katharinasiegel.de/) (Walkative 2019/2020 co-president), [Jose Garcia Oliva](https://josegarciaoliva.com/) (publication designer), [Max Koehler](maxkoehler) (graphic designer and front-end developer)

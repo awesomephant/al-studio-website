@@ -31,8 +31,6 @@ For more information please visit: [www.instagram.com/nineelmsartsministry](http
 
 Restore short documentary by JD Dean and Adalberto Lonardi
 
-
-
 {% gallery '[{"image":"/assets/uploads/panel2.jpg","alt":"Colorful family around a table with fruits","caption":"Orange panel detail: family around a table with fruits"},{"image":"/assets/uploads/panel1.jpg","alt":"Colorful family around a table with fruits","caption":"Blue panel detail: family around a table with fruits"}]' %}
 
 {% gallery '[{"image":"/assets/uploads/restore_sketch.jpg","caption":"Windows overall, coloured sketch (21x29,7cm)","alt":" Colorful sketch drawing "},{"image":"/assets/uploads/restore_techdrawing.jpg","caption":"Windows overall, outline technical drawings","alt":"Outline windows technical drawings"}]' %}

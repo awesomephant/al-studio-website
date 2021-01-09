@@ -1,8 +1,7 @@
 ---
 layout: project
 title: Lathe C Series
-subtitle: Handmade ceramic tableware collection in collaboration with Perlini
-  Ceramic Art.
+subtitle: Handmade ceramic tableware collection in collaboration with Perlini Ceramic Art
 date: 2020-11-09T17:51:18.229Z
 start_year: 2018
 end_year: 2020

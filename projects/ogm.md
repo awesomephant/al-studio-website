@@ -21,11 +21,9 @@ featured_image:
 ---
 Developed the branding, website, digital and printed marketing campaigns, and art directed the still and moving images for OGM Plant, recycled aluminium accessories fashion brand. OGM Plant believes in the respect of nature with a no-waste philosophy. From production to packaging, the whole chain focuses its attention on recycling, eco-sustainability, and social inclusion.
 
-Credits: [](https://www.independentmgmt.it/)[Mattia Maestri](https://www.instagram.com/mattiamaestriphoto) (Photographer), [Davide Calafà](http://www.davidecalafa.com/) (Film director), [Independentmgmt](https://www.independentmgmt.it/) (Casting), [Simple AG](http://www.simpleag.com/) (Agency), [](http://www.zoccanatalino.com/)[Laura Montalto](https://www.instagram.com/montaltola) (Stylist), [Francesca Galantino](https://francescagalantino.wixsite.com/makeup) (Make up Artist), ( [Emanuele Mocchetti](https://www.instagram.com/mocce31/?hl=en) (Audio Engineer), [Zocca Vivai](http://www.zoccanatalino.com/) (Nursery), 
+Credits: [Mattia Maestri](https://www.instagram.com/mattiamaestriphoto) (Photographer), [Davide Calafà](http://www.davidecalafa.com/) (Film director), [Independentmgmt](https://www.independentmgmt.it/) (Casting), [Simple AG](http://www.simpleag.com/) (Agency), [](http://www.zoccanatalino.com/)[Laura Montalto](https://www.instagram.com/montaltola) (Stylist), [Francesca Galantino](https://francescagalantino.wixsite.com/makeup) (Make up Artist), [Emanuele Mocchetti](https://www.instagram.com/mocce31/?hl=en) (Audio Engineer), [Zocca Vivai](http://www.zoccanatalino.com/) (Nursery)
 
 To know more about the company please visit: [OGM Plant](https://www.instagram.com/ogm_plant/)
-
-
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/288128164?autoplay=1&loop=1&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 

@@ -10,14 +10,14 @@ tags:
   - Culture
   - Digital
 featured_image:
-  landscape: /assets/uploads/ff-desktop1.jpg
+  landscape: /assets/uploads/ff-desktop.jpg
   alt: "Homapge desktop website view "
   portrait: /assets/uploads/ff-desktop.jpg
   light_image: false
 related_projects:
   - OGM Plant
 ---
-Frahm & Frahm specialises in producing large-scale institutional exhibitions, collaborating on special projects with major contemporary artists and building some of the world’s great private art collections. 
+AL art directed and designed the new Frahm & Frahm website. F&F specialises in producing large-scale institutional exhibitions, collaborating on special projects with major contemporary artists and building some of the world’s great private art collections. 
 
 To experience the design please visit: [www.frahmandfrahm.com](http://frahmandfrahm.com/)
 

@@ -14,6 +14,8 @@ featured_image:
   portrait: /assets/uploads/arca_mobile.jpg
   alt: Risograph outcome publication in blue
   light_image: false
+related_projects:
+  - Inside/Out
 ---
 This is a walking-based project led by 2019-20 co-presidents Adalberto Lonardi (MA Interior Design) and Katharina Siegel (MA Sculpture), following on from the Walkative Across RCA projects. The workshop had as its outcome the publication and exhibition of 4 group projects. The input was in the form of guest presentations that, inter alia, provide a history of psychogeography and art movements that explored ways of unleashing the subconscious imagination.
 

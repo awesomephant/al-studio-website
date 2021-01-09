@@ -8,7 +8,6 @@ end_year: 2019
 tags:
   - Workshop
   - Education
-  - Programming
 featured_image:
   landscape: /assets/uploads/arca_desktop.jpg
   portrait: /assets/uploads/arca_mobile.jpg

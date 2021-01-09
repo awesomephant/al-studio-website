@@ -9,8 +9,8 @@ tags:
   - Art Installation
   - Community
 featured_image:
-  landscape: /assets/uploads/img_8736.jpg
-  portrait: /assets/uploads/img_8736.jpg
+  landscape: /assets/uploads/to-the-time-of-happiness3.jpg
+  portrait: /assets/uploads/to-the-time-of-happiness3.jpg
   alt: Sky gradient screening with people in the front
   light_image: false
 related_projects:
@@ -25,8 +25,6 @@ The art installation consisted of a 60 minutes screening animation of the sky's 
 <div style="padding:41.67% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/498736414?autoplay=1&loop=1&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 To the time of happiness screening time-lapse
-
-
 
 
 

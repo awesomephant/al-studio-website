@@ -29,13 +29,13 @@ To know more about the company please visit: [OGM Plant](https://www.instagram.c
 
 Campaign film for OGM plant recycled alluminium collections launch 
 
-![](/assets/uploads/ogm1.jpg)
+![Collections brochure cover with laminated silver logo and Cosmogonic collection interior spread](/assets/uploads/ogm1.jpg "Collections brochure cover with laminated silver logo and Cosmogonic collection interior spread")
 
-![](/assets/uploads/ogm1jpg.jpeg)
+![Brochure Selfie collection interior spread](/assets/uploads/ogm1jpg.jpeg "Brochure Selfie collection interior spread")
 
-![](/assets/uploads/ogm2.jpg)
+![Brochure Iconic collection interior spread](/assets/uploads/ogm2.jpg "Brochure Iconic collection interior spread")
 
-![](/assets/uploads/ogm3.jpg)
+![Brochure introduction and Iconic collection spreads](/assets/uploads/ogm3.jpg "Brochure introduction and Iconic collection spreads")
 
 {% gallery '[{"image":"/assets/uploads/ogm-web1.jpg"},{"image":"/assets/uploads/ogm-desktop-2.jpg"}]' %}
 

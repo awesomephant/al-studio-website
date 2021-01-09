@@ -16,13 +16,9 @@ featured_image:
 related_projects:
   - Golden Rivers
 ---
-60 minutes screening based on sky colour changing gradients. The colours are picked from a series of photographs taken at pure dusk and downs titled 'Our windows to the time of happiness'.
+The art installation consisted of a 60 minutes screening animation of the sky's changing gradients. The colours are picked from a series of photographs taken at pure dusk and downs titled 'Our windows to the time of happiness'.
 
 “Our windows to the time of happiness” is a collection of dusks and dawns photographs, portrayed as pure ever-changing tones, shot from my family house over two years. In a time when a global crisis is happening and the grey exterior environment becomes hostile to survive, I propose to look from our interior windows at the colorful sky to dream, find peace and celebrate what happiness means - the essential.
-
-
-
-![](/assets/uploads/to-the-time-of-happiness-copy.jpg)
 
 
 
@@ -32,6 +28,10 @@ To the time of happiness screening time-lapse
 
 
 
-{% gallery '[{"image":"/assets/uploads/dscf0335.jpg"},{"image":"/assets/uploads/dscf0332.jpg"}]' %}
 
-![](/assets/uploads/to-the-time-of-happiness.jpg)
+
+![](/assets/uploads/to-the-time-of-happiness-copy.jpg)
+
+
+
+{% gallery '[{"image":"/assets/uploads/dscf0335.jpg"},{"image":"/assets/uploads/dscf0332.jpg"}]' %}

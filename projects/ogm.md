@@ -7,10 +7,9 @@ subtitle: Branding, art direction and campaigns for the OGM sustainable ecosyste
 date: 2020-10-17T21:58:40.611Z
 start_year: 2016
 tags:
+  - Art direction
   - Sustainability
-  - identity
-  - social empowerment
-  - art direction
+  - Visual identity
 featured_image:
   landscape: /assets/uploads/ogm_home_web-1-.jpg
   portrait: /assets/uploads/ogm_mobile.jpg
@@ -37,6 +36,6 @@ Campaign film for OGM plant recycled alluminium collections launch
 
 ![Brochure introduction and Iconic collection spreads](/assets/uploads/ogm3.jpg "Brochure introduction and Iconic collection spreads")
 
-{% gallery '[{"image":"/assets/uploads/ogm-web1.jpg"},{"image":"/assets/uploads/ogm-desktop-2.jpg"}]' %}
+{% gallery '[{"image":"/assets/uploads/ogm-web1.jpg","caption":"Home page design panel","alt":"Home page design panel"},{"image":"/assets/uploads/ogm-desktop-2.jpg","caption":"Information page design panel","alt":"Information page design panel"}]' %}
 
-![](/assets/uploads/ogm7.jpg)
+![Instagram page design grid](/assets/uploads/ogm7.jpg "Instagram page design grid")

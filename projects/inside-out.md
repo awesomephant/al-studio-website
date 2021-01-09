@@ -18,8 +18,10 @@ tags:
 featured_image:
   landscape: /assets/uploads/io_desktop2.jpg
   portrait: /assets/uploads/io_mobile2.jpg
-  alt: test
+  alt: Lectures posters of Flores and Prats, Formafatasma, and Manou Mami
   light_image: false
+related_projects:
+  - "20/20: Alternative Futures"
 ---
 Curated the printed and digital visual communication for the public lecture series, Inside-Out, run by the RCA School of Architecture, Interior Design Programme. The lectures are concerned with interrogating and understanding the interior architecture spaces as a medium of expression of individuals in the urban space, and an opportunity of experience for the collectivity.
 

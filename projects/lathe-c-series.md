@@ -21,6 +21,6 @@ Started as a study of the variations of the cylinder, Lathe C (Cylinder) Series 
 
 For more information and purchase please visit: [Perlini Ceramic Art](http://www.perliniceramicart.com/)
 
-![white ceramic tableware, stacked cylinders](/assets/uploads/ac06b66e-3c10-4a53-bcf9-97f008350225-2-2-copy.jpg "Lathe C Series collection (high quality earthenware with translucent glaze)")
+![white ceramic tableware, stacked cylinders](/assets/uploads/ac06b66e-3c10-4a53-bcf9-97f008350225-2.jpeg "Lathe C Series collection (high quality earthenware with translucent glaze)")
 
 ![ Perlini Ceramic Art laboratory in Verona](/assets/uploads/img_2142.jpeg " Perlini Ceramic Art laboratory in Verona")

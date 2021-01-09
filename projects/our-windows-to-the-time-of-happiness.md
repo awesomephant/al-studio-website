@@ -18,7 +18,7 @@ related_projects:
 ---
 The art installation consisted of a 60 minutes screening animation of the sky's changing gradients. The colours are picked from a series of photographs taken at pure dusk and downs titled 'Our windows to the time of happiness'.
 
-“Our windows to the time of happiness” is a collection of dusks and dawns photographs, portrayed as pure ever-changing tones, shot from my family house over two years. In a time when a global crisis is happening and the grey exterior environment becomes hostile to survive, I propose to look from our interior windows at the colorful sky to dream, find peace and celebrate what happiness means - the essential.
+'Our windows to the time of happiness' is a collection of dusks and dawns photographs, portrayed as pure ever-changing tones, shot from my family house over two years. In a time when a global crisis is happening and the grey exterior environment becomes hostile to survive, I propose to look from our interior windows at the colourful sky to dream, find peace and celebrate what happiness means - the essential.
 
 
 
@@ -28,8 +28,8 @@ To the time of happiness screening time-lapse
 
 
 
-![](/assets/uploads/to-the-time-of-happiness-copy.jpg)
+![To the time of happiness screening moment at dawn (350x100 cm)](/assets/uploads/to-the-time-of-happiness-copy.jpg "To the time of happiness screening moment at dawn (300x100 cm)")
 
 
 
-{% gallery '[{"image":"/assets/uploads/dscf0335.jpg"},{"image":"/assets/uploads/dscf0332.jpg"}]' %}
+{% gallery '[{"image":"/assets/uploads/dscf0335.jpg","caption":"'Our windows to the time of happiness' dusk photograph print (840x1200 mm)","alt":"'Our windows to the time of happiness' dusk photograph print (840x1200 mm)"},{"image":"/assets/uploads/dscf0332.jpg","caption":"&#x2019;Our windows to the time of happiness&#x2019; dawn photograph print (840x1200 mm)","alt":"&#x2019;Our windows to the time of happiness&#x2019; dawn photograph print (840x1200 mm)"}]' %}

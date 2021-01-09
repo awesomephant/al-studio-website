@@ -20,3 +20,9 @@ related_projects:
 ‘…And thus they tell the child that the hundred is not there. The child says: No way. The hundred is there.’ (Loris Malaguzzi, The Hundred Languages 1987). ‘Kaledois Garden’ is a child-sized art centre aimed at developing the children creative potentials. Artistic laboratories where the child can create and experiment his skills, offer the possibility of a re-evaluation of those activities and emotions addressed to develop a better self.
 
 The constant increase in full-time employment of women, single-parent families, and the lack of replacement figures have led to higher demand for organizations responsible for children growth.
+
+![](/assets/uploads/kidcenter_exterior.jpg)
+
+![](/assets/uploads/kids_map.jpg)
+
+![](/assets/uploads/kids_sections.jpg)

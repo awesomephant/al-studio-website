@@ -4,7 +4,7 @@ media: []
 image_size: small
 layout: project
 title: The United Generations
-subtitle: A vision for a sustainable, intergenerational, thriving community
+subtitle: A vision for a sustainable and intergenerational community in London
 date: 2020-10-17T21:19:57.922Z
 start_year: 2019
 tags:

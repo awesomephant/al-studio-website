@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Kaledoscopio College of Arts
+title: Kaledoscopio Istitute of Arts
 subtitle: Art center proposal for children to develop the creative potentials in Verona
 date: 2021-01-09T01:25:41.484Z
 start_year: 2017
@@ -21,8 +21,8 @@ related_projects:
 
 The constant increase in full-time employment of women, single-parent families, and the lack of replacement figures have led to higher demand for organizations responsible for children growth.
 
-![](/assets/uploads/kidcenter_exterior.jpg)
+![College perspective view from the entrance with kids playing and modernist architecture.](/assets/uploads/kidcenter_exterior.jpg "College perspective view from the entrance")
 
-![](/assets/uploads/kids_map.jpg)
+![Art center map overview](/assets/uploads/kids_map.jpg "Art center map overview")
 
-![](/assets/uploads/kids_sections.jpg)
+![Art Center main building and secondary building sections with people](/assets/uploads/kids_sections.jpg "Art Center main building and secondary building sections")

@@ -22,3 +22,7 @@ featured_image:
   light_image: false
 ---
 Curated the printed and digital visual communication for the public lecture series, Inside-Out, run by the RCA School of Architecture, Interior Design Programme. The lectures are concerned with interrogating and understanding the interior architecture spaces as a medium of expression of individuals in the urban space, and an opportunity of experience for the collectivity.
+
+{% gallery '[{"image":"/assets/uploads/rca_i-o-18-197.jpg"},{"image":"/assets/uploads/rca_i-o-18-198.jpg"},{"image":"/assets/uploads/rca_i-o-18-1910.jpg"}]' %}
+
+{% gallery '[{"image":"/assets/uploads/rca_i-o-19-203.jpg"},{"image":"/assets/uploads/rca_i-o-19-202.jpg"},{"image":"/assets/uploads/rca_i-o-19-205.jpg"}]' %}

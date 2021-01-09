@@ -5,6 +5,8 @@ subtitle: Large scale art installation at Domain de Boisbuchet castle
 date: 2020-11-09T18:47:29.549Z
 start_year: 2018
 end_year: 2018
+tags:
+  - Art Installation
 featured_image:
   landscape: /assets/uploads/dscf3628-2.jpg
   portrait: /assets/uploads/dscf3615.jpg

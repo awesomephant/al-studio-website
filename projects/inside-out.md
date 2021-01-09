@@ -23,7 +23,7 @@ featured_image:
 related_projects:
   - "20/20: Alternative Futures"
 ---
-The studio designed the printed and digital visual communication for the public lecture series, Inside/Out, run by the Interior Design Programme of the RCA School of Architecture. The branding included printed posters, digital communication, and social media assets. The Inside/Out lectures programme interrogates the interior architecture spaces as a medium of expression of individuals in the urban space and an opportunity of experience for the collectivity.
+The studio designed the printed and digital visual communication for the public lecture series, Inside/Out 2018-2020, run by the Interior Design Programme of the RCA School of Architecture. The branding included printed posters, digital communication, and social media assets. AL curated and managed the speaker programme, communication and production. The Inside/Out lectures programme interrogates the interior architecture spaces as a medium of expression of individuals in the urban space and an opportunity of experience for the collectivity.
 
 To see past and future Inside/Out lecture please visit: [Inside/Out Lecture Series](https://www.rca.ac.uk/news-and-events/events/?programme=interiordesign&period=past)
 

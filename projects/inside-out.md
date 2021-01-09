@@ -9,7 +9,7 @@ media:
 layout: project
 title: Inside/Out
 subtitle: Visual identity and curation of Inside/Out lecture series for Royal
-  College of Arts.
+  College of Arts
 date: 2020-10-17T21:40:48.074Z
 start_year: 2018
 tags:

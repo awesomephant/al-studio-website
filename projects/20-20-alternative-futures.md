@@ -30,4 +30,4 @@ Screening animation timelapse of the 20/20 launch event at The Groundfloor Space
 
 ![Event tabloid interior spread](/assets/uploads/20-copy.jpg "Event tabloid interior spread")
 
-{% gallery '[{"image":"/assets/uploads/20-20-vertical_1.jpg","caption":"Tabloid stack during the launch event"},{"image":"/assets/uploads/20-20-vertical.jpg","caption":"Poster outside the launch event at The Groundfloor Space"}]' %}
+{% gallery "%5B%7B%22alt%22%3A%22Poster%20outside%20the%20launch%20event%20at%20The%20Groundfloor%20Space%22%2C%22image%22%3A%22%2Fassets%2Fuploads%2F20-20_vertical.png%22%2C%22caption%22%3A%22%22%7D%2C%7B%22image%22%3A%22%2Fassets%2Fuploads%2F20-20-vertical_1.jpg%22%2C%22alt%22%3A%22Tabloid%20stack%20during%20the%20launch%20event%22%7D%5D" %}

@@ -24,9 +24,7 @@ Credits: [Mattia Maestri](https://www.instagram.com/mattiamaestriphoto) (Photogr
 
 To know more about the company please visit: [OGM Plant](https://www.instagram.com/ogm_plant/)
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/288128164?autoplay=1&loop=1&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-
-Campaign film for OGM plant recycled alluminium collections launch 
+{% embed "%7B%22code%22%3A%22%3Cdiv%20style%3D%5C%22padding%3A56.25%25%200%200%200%3Bposition%3Arelative%3B%5C%22%3E%3Ciframe%20src%3D%5C%22https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F288128164%3Fautoplay%3D1%26loop%3D1%26title%3D0%26byline%3D0%26portrait%3D0%5C%22%20style%3D%5C%22position%3Aabsolute%3Btop%3A0%3Bleft%3A0%3Bwidth%3A100%25%3Bheight%3A100%25%3B%5C%22%20frameborder%3D%5C%220%5C%22%20allow%3D%5C%22autoplay%3B%20fullscreen%5C%22%20allowfullscreen%3E%3C%2Fiframe%3E%3C%2Fdiv%3E%3Cscript%20src%3D%5C%22https%3A%2F%2Fplayer.vimeo.com%2Fapi%2Fplayer.js%5C%22%3E%3C%2Fscript%3E%22%2C%22caption%22%3A%22Campaign%20film%20for%20OGM%20plant%20recycled%20alluminium%20collections%20launch%22%7D" %}
 
 ![Collections brochure cover with laminated silver logo and Cosmogonic collection interior spread](/assets/uploads/ogm1.jpg "Collections brochure cover with laminated silver logo and Cosmogonic collection interior spread")
 
@@ -36,6 +34,6 @@ Campaign film for OGM plant recycled alluminium collections launch
 
 ![Brochure introduction and Iconic collection spreads](/assets/uploads/ogm3.jpg "Brochure introduction and Iconic collection spreads")
 
-{% gallery '[{"image":"/assets/uploads/ogm-web1.jpg","caption":"Home page design panel","alt":"Home page design panel"},{"image":"/assets/uploads/ogm-desktop-2.jpg","caption":"Information page design panel","alt":"Information page design panel"}]' %}
+{% gallery '\[{"image":"/assets/uploads/ogm-web1.jpg","caption":"Home page design panel","alt":"Home page design panel"},{"image":"/assets/uploads/ogm-desktop-2.jpg","caption":"Information page design panel","alt":"Information page design panel"}]' %}
 
 ![Instagram page design grid](/assets/uploads/ogm7.jpg "Instagram page design grid")

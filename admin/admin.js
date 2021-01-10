@@ -1,5 +1,5 @@
 import CMS from 'netlify-cms-app';
-import { Widget as ReorderWidget } from '@ncwidgets/reorder'
+import { Widget as ReorderWidget } from '@ncwidgets/reorder';
 
 CMS.registerWidget(ReorderWidget)
 CMS.init();
@@ -39,11 +39,11 @@ CMS.registerEditorComponent({
   ],
 
   // Pattern to identify a block as being an instance of this component
-  pattern: /\{% gallery '([\S ]+)' %}/,
+  pattern: /\{% gallery "([\S ]+)" %}/,
   // Function to extract data elements from the regexp match
   fromBlock: function (match) {
     const re = /(&#x2019;)/g;
-    let gallery = JSON.parse(match[1]);
+    let gallery = JSON.parse(decodeURIComponent(match[1]));
     return {
       images: gallery,
     };
@@ -56,18 +56,47 @@ CMS.registerEditorComponent({
     } else {
       data = [];
     }
-    // Sanitise JSON so it doesn't choke teh Eleventy Shortcode
-    data.forEach(d => {
-      // We only have to worry about single quotes, double quotes are already escaped.
-      if (d.caption) {
-        d.caption = d.caption.replace(/(')/g, "’")
-      }
-      if (d.alt) {
-        d.alt = d.alt.replace(/(')/g, "’")
-      }
-    })
-    let json = JSON.stringify(data)
-    return `\{% gallery '${json}' %}`;
+    let json = encodeURIComponent(JSON.stringify(data))
+    return `\{% gallery "${json}" %}`;
+  },
+  toPreview: function (obj) {
+    return "";
+  },
+});
+
+CMS.registerEditorComponent({
+  id: "embed",
+  label: "Embed",
+  fields: [
+    {
+      name: "code",
+      label: "Embed Code",
+      widget: "text",
+    },
+    {
+      name: "caption",
+      label: "Caption",
+      widget: "string",
+    },
+  ],
+
+  // Pattern to identify a block as being an instance of this component
+  pattern: /\{% embed "([\S ]+)" %}/,
+  // Function to extract data elements from the regexp match
+  fromBlock: function (match) {
+    let embed = JSON.parse(decodeURIComponent(match[1]));
+    return embed;
+  },
+  // Function to create a text block from an instance of this component
+  toBlock: function (obj) {
+    let data = {};
+    if (obj.code) {
+      data = obj;
+    }
+
+    let json = encodeURIComponent(JSON.stringify(data))
+    
+    return `\{% embed "${json}" %}`;
   },
   toPreview: function (obj) {
     return "";

@@ -51,7 +51,7 @@ module.exports = function (eleventyConfig) {
   );
 
   eleventyConfig.addShortcode("gallery", function (data) {
-    let gallery = JSON.parse(data);
+    let gallery = JSON.parse(decodeURIComponent(data));
     items = gallery.map((item) => {
       let caption = ""
       if (item.caption) {
@@ -64,6 +64,13 @@ module.exports = function (eleventyConfig) {
     });
 
     return `<div class="gallery" data-count="">${items.join("\n")}</div>`;
+  });
+  eleventyConfig.addShortcode("embed", function (data) {
+    let embed = JSON.parse(decodeURIComponent(data));
+    return `<figure class="embed">
+      ${embed.code}
+      <figcaption>${embed.caption}</figcaption>
+    </figure>`;
   });
 
   eleventyConfig.addPassthroughCopy("./admin");

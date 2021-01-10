@@ -60,10 +60,6 @@
     text-align: center;
     margin-top: 2rem;
     margin-bottom: 2rem;
-    @include bp(xl) {
-     width: 120%;
-      margin-left: -10%;
-    }
   }
   p {
     grid-column: 1 / 13;
@@ -93,12 +89,13 @@
   .gallery {
     grid-column: 1 / 13;
     @include bp(l) {
-      grid-column: 2 / 12;
+      grid-column: 3 / 11;
     }
   }
 
   & > div,
-  & > iframe {
+  & > iframe,
+  .embed {
     width: 100%;
     margin-bottom: 1rem;
     grid-column: 1 / 13;
@@ -110,6 +107,12 @@
     }
   }
 }
+
+.embed {
+  margin-bottom: 1em;
+  margin-top: 1em;
+}
+
 .gallery {
   width: 100%;
   display: flex;
@@ -126,7 +129,7 @@
     margin-bottom: 3em;
   }
 }
-.gallery--item {
+.gallery--item, .embed{
   display: flex;
   flex-flow: column;
   justify-content: center;

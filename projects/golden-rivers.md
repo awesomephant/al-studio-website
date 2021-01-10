@@ -2,7 +2,7 @@
 layout: project
 title: Golden Rivers
 subtitle: Large scale art installation at Domain de Boisbuchet castle
-date: 2020-11-09T18:47:29.549Z
+date: 2021-01-10T12:36:03.112Z
 start_year: 2018
 end_year: 2018
 tags:
@@ -23,14 +23,10 @@ For more information about the collaboration please visit: [Domaine de Boisbuche
 
 ![Installation in place on Domain de Boisbuchet castle](/assets/uploads/dscf3638.jpg "Installation in place on Domain de Boisbuchet castle")
 
-
-
 ![Staircase view of the river towards the field](/assets/uploads/stairs.jpg "Staircase view of the river towards the field")
 
-{% gallery '[{"image":"/assets/uploads/img_2372.jpg","caption":"Staircase view detail towards the castle entrance","alt":"Staircase view detail towards the castle entrance"},{"image":"/assets/uploads/img_2379.jpg","caption":"Installation in place on Domain de Boisbuchet castle by night","alt":"Installation in place on Domain de Boisbuchet castle by night"}]' %}
+{% gallery "%5B%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fimg_2372.jpg%22%2C%22caption%22%3A%22Staircase%20view%20detail%20towards%20the%20castle%20entrance%22%2C%22alt%22%3A%22Staircase%20view%20detail%20towards%20the%20castle%20entrance%22%7D%2C%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fimg_2379.jpg%22%2C%22caption%22%3A%22Installation%20in%20place%20on%20Domain%20de%20Boisbuchet%20castle%20by%20night%22%2C%22alt%22%3A%22Installation%20in%20place%20on%20Domain%20de%20Boisbuchet%20castle%20by%20night%22%7D%5D" %}
 
 ![Spatial study of the installation on Domain de Boisbuchet castle](/assets/uploads/test.jpg "Spatial study of the installation on Domain de Boisbuchet castle")
 
-
-
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/232454423?loop=1&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+{% embed "%7B%22code%22%3A%22%3Cdiv%20style%3D%5C%22padding%3A56.25%25%200%200%200%3Bposition%3Arelative%3B%5C%22%3E%3Ciframe%20src%3D%5C%22https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F232454423%3Floop%3D1%26title%3D0%26byline%3D0%26portrait%3D0%5C%22%20style%3D%5C%22position%3Aabsolute%3Btop%3A0%3Bleft%3A0%3Bwidth%3A100%25%3Bheight%3A100%25%3B%5C%22%20frameborder%3D%5C%220%5C%22%20allow%3D%5C%22autoplay%3B%20fullscreen%5C%22%20allowfullscreen%3E%3C%2Fiframe%3E%3C%2Fdiv%3E%3Cscript%20src%3D%5C%22https%3A%2F%2Fplayer.vimeo.com%2Fapi%2Fplayer.js%5C%22%3E%3C%2Fscript%3E%22%2C%22caption%22%3A%22%20%22%7D" %}

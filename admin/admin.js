@@ -42,17 +42,10 @@ CMS.registerEditorComponent({
   pattern: /\{% gallery '([\S ]+)' %}/,
   // Function to extract data elements from the regexp match
   fromBlock: function (match) {
-    let m = JSON.parse(match[1]);
-    m.forEach(image => {
-      if (image.caption){
-        image.caption = image.caption.replace(/(&#x2019;)(?![\S\s]+image)/g, "'")
-      }
-      if (image.alt){
-        image.alt = image.alt.replace(/(&#x2019;)(?![\S\s]+image)/g, "'")
-      }
-    })
+    const re = /(&#x2019;)/g;
+    let gallery = JSON.parse(match[1]);
     return {
-      images: m,
+      images: gallery,
     };
   },
   // Function to create a text block from an instance of this component
@@ -63,8 +56,17 @@ CMS.registerEditorComponent({
     } else {
       data = [];
     }
-    // We only have to worry about single quotes, double quotes are already escaped.
-    let json = JSON.stringify(data).replace(/(')(?![\S\s]+image)/g, "&#x2019;")
+    // Sanitise JSON so it doesn't choke teh Eleventy Shortcode
+    data.forEach(d => {
+      // We only have to worry about single quotes, double quotes are already escaped.
+      if (d.caption) {
+        d.caption = d.caption.replace(/(')/g, "’")
+      }
+      if (d.alt) {
+        d.alt = d.alt.replace(/(')/g, "’")
+      }
+    })
+    let json = JSON.stringify(data)
     return `\{% gallery '${json}' %}`;
   },
   toPreview: function (obj) {

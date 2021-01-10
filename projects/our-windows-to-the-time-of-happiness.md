@@ -31,5 +31,4 @@ To the time of happiness screening time-lapse
 ![To the time of happiness screening moment at dawn (350x100 cm)](/assets/uploads/to-the-time-of-happiness-copy.jpg "To the time of happiness screening moment at dawn (300x100 cm)")
 
 
-
-{% gallery '[{"image":"/assets/uploads/dscf0335.jpg","caption":"'Our windows to the time of happiness' dusk photograph print (840x1200 mm)","alt":"'Our windows to the time of happiness' dusk photograph print (840x1200 mm)"},{"image":"/assets/uploads/dscf0332.jpg","caption":"&#x2019;Our windows to the time of happiness&#x2019; dawn photograph print (840x1200 mm)","alt":"&#x2019;Our windows to the time of happiness&#x2019; dawn photograph print (840x1200 mm)"}]' %}
+{% gallery '[{"image":"/assets/uploads/dscf0335.jpg","caption":"’Our windows to the time of happiness’ dusk photograph print (840x1200 mm)","alt":"’Our windows to the time of happiness’ dusk photograph print (840x1200 mm)"},{"image":"/assets/uploads/dscf0332.jpg","caption":"’Our windows to the time of happiness’ dawn photograph print (840x1200 mm)","alt":"’Our windows to the time of happiness’ dawn photograph print (840x1200 mm)"}]' %}

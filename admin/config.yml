@@ -61,6 +61,7 @@ collections:
           - label: "Copy"
             name: "content"
             widget: "markdown"
+            editor_components: []
           - label: "Sidebar A Items"
             name: "sidebar_a"
             widget: "list"

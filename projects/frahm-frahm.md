@@ -2,7 +2,8 @@
 layout: project
 title: Frahm&Frahm
 draft: false
-subtitle: Website design for large-scale institutional exhibitions producers Frahm&Frahm
+subtitle: Art direction and design for large-scale institutional exhibitions
+  producers Frahm&Frahm
 date: 2021-01-08T23:18:30.761Z
 start_year: 2020
 end_year: 2020

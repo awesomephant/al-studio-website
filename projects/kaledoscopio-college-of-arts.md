@@ -1,6 +1,7 @@
 ---
 layout: project
-title: Kaledoscopio Istitute of Arts
+title: Kaledoscopio Centro Artistico
+draft: false
 subtitle: Art center proposal for children to develop the creative potentials in Verona
 date: 2021-01-09T01:25:41.484Z
 start_year: 2017
@@ -17,7 +18,7 @@ featured_image:
 related_projects:
   - The United Generations
 ---
-‘…And thus they tell the child that the hundred is not there. The child says: No way. The hundred is there.’ (Loris Malaguzzi, The Hundred Languages 1987). ‘Kaledois Garden’ is a child-sized art centre aimed at developing the children creative potentials. Artistic laboratories where the child can create and experiment his skills, offer the possibility of a re-evaluation of those activities and emotions addressed to develop a better self.
+‘…And thus they tell the child that the hundred is not there. The child says: No way. The hundred is there.’ (Loris Malaguzzi, The Hundred Languages 1987). Kaledoscopio is a child-sized art centre aimed at developing the children creative potentials. Artistic laboratories where the child can create and experiment his skills, offer the possibility of a re-evaluation of those activities and emotions addressed to develop a better self.
 
 The constant increase in full-time employment of women, single-parent families, and the lack of replacement figures have led to higher demand for organizations responsible for children growth.
 

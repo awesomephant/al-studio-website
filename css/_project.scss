@@ -60,7 +60,7 @@
 
     img {
       max-width: 100%;
-      max-height: 60vh;
+      max-height: 80vh;
       & + .caption {
         display: block;
         font-size: var(--ms--1);
@@ -102,7 +102,7 @@
 
 .gallery {
   width: 100%;
-  display: flex;
+  display: grid;
   margin-bottom: 1em;
   margin-top: 1em;
   grid-template-columns: 1fr;

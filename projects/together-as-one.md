@@ -22,6 +22,10 @@ Together as one is a site-specific handpainted mural proposal to create the fift
 
 To vote and more information please visit: [ww.kcaw.co.uk/mural-5-vote](https://www.kcaw.co.uk/mural-5-vote)
 
+{% note %}
+In collaboration with: [Kensignton + Chelsea Art Week](https://www.kcaw.co.uk/), Royal College of Art,
+{% endnote %}
+
 ![Mural overall, coloured and outiline technical drawings](/assets/uploads/togetherasone_technical.jpg "Mural overall, coloured and outiline technical drawings")
 
 ![Mural detail, coloured technical drawing](/assets/uploads/alxkcaw_detail4.png "Mural detail, coloured technical drawing")

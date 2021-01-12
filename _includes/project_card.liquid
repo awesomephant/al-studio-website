@@ -1,14 +1,16 @@
+{% if p.data.draft != true %}
 <li class="project-card" data-tags="{% for t in p.data.tags %}{{t | slug}},{%endfor%}">
     <a href="{{p.url}}">
         <div class='project-card--media'>
-                <img loading="lazy" src="{{p.data.featured_image.landscape}}?nf_resize=fit&w=800" alt="alt" />
-            </picture>
-        </div>
-        <h2 id="{{p.data.title | slug}}" class='project-card--title'>
-            {{p.data.title}} ({{p.data.end_year}})
-        </h2>
-        <p class="project-card--subtitle">
-            {{p.data.subtitle}}
-        </p>
-    </a>
+            <img loading="lazy" src="{{p.data.featured_image.landscape}}?nf_resize=fit&w=800" alt="alt" />
+        </picture>
+    </div>
+    <h2 id="{{p.data.title | slug}}" class='project-card--title'>
+        {{p.data.title}} ({{p.data.end_year}})
+    </h2>
+    <p class="project-card--subtitle">
+        {{p.data.subtitle}}
+    </p>
+</a>
 </li>
+{% endif %}

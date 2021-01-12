@@ -9,7 +9,6 @@ start_year: 2020
 end_year: 2020
 tags:
   - Art direction
-  - Sustainability
   - Wellbeing
   - Digital
 featured_image:

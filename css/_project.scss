@@ -174,10 +174,9 @@
   }
   .project-card {
     padding-bottom: 2rem;
-    flex-basis: 100%;
-    @include bp(m) {
+    flex-basis: 50%;
+    @include bp(m) {  
       padding-right: 2rem;
-      flex-basis: 50%;
     }
   }
 }

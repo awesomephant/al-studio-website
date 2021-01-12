@@ -88,15 +88,10 @@
   max-width: 20em;
 }
 .project-card--media {
-  height: 60vw;
   border-radius: $br;
-  @include bp(m){
-    height: 30vw;
-  }
-  @include bp(l){
-    height: 19vw;
-  }
-  max-width: 100%;
+  padding-top: 66.66%;
+  position: relative;
+  width: 100%;
   overflow: hidden;
   position: relative;
   background-color: black;

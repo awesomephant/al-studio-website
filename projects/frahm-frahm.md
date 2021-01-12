@@ -1,6 +1,7 @@
 ---
 layout: project
 title: Frahm&Frahm
+draft: false
 subtitle: Website design for large-scale institutional exhibitions producers Frahm&Frahm
 date: 2021-01-08T23:18:30.761Z
 start_year: 2020
@@ -13,7 +14,7 @@ featured_image:
   landscape: /assets/uploads/ff-desktop.jpg
   alt: "Homapge desktop website view "
   portrait: /assets/uploads/ff-desktop.jpg
-  light_image: false
+  light_image: true
 related_projects:
   - OGM Plant
 ---

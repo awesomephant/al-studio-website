@@ -1,6 +1,7 @@
 ---
 layout: project
 title: The Nativity Museum
+draft: false
 subtitle: Foyer spatial design proposal for the Nativity Museum of London
 date: 2020-11-09T19:17:06.511Z
 start_year: 2019
@@ -22,6 +23,6 @@ Inspired by the characters’ cones of vision revealed in Renaissance and Baroqu
 
 ![Threedimentional cones vision diagrams on Reinassance nativity paintings.](/assets/uploads/nativity2.jpg "Study of cones vision diagrams on Reinassance nativity paintings.")
 
-{% gallery "%5B%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fnativity7.jpg%22%2C%22caption%22%3A%22Red%20glycerin%20molded%20and%20polycarbonate%20model%2C%20main%20pavillion%20(scale%201%3A10)%22%2C%22alt%22%3A%22Red%20glycerin%20molded%20and%20polycarbonate%20model%2C%20main%20pavillion%20(scale%201%3A10)%22%7D%2C%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fnativity9.jpg%22%2C%22caption%22%3A%22Red%20and%20blue%20glycerin%20molded%20and%20polycarbonate%20model%2C%20main%20pavillion%20and%20market%20pavillion%20(scale%201%3A10)%22%2C%22alt%22%3A%22Red%20and%20blue%20glycerin%20molded%20and%20polycarbonate%20model%2C%20main%20pavillion%20and%20market%20pavillion%20(scale%201%3A10)%22%7D%5D" %}
+![Red and blue glycerin molded and polycarbonate model, main pavillion and market pavillion (scale 1:10)](/assets/uploads/nativity9.jpg "Red and blue glycerin molded and polycarbonate model, main pavillion and market pavillion (scale 1:10)")
 
 ![Red and blue cones section hand-drawings (scale 1:10).](/assets/uploads/nativity4.jpg "Red and blue cones section hand-drawings (scale 1:10).")

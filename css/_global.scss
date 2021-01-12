@@ -12,9 +12,8 @@ body {
   display: grid;
   grid-template-columns: repeat(12, 1fr);
   grid-auto-rows: min-content;
-  padding: 4rem 1rem;
+  padding: 4rem var(--padding);
   @include bp(m) {
-    padding: 4rem var(--padding);
     padding-bottom: 8rem;
   }
   column-gap: 1.5rem;

@@ -2,10 +2,7 @@
   top: 0;
   left: 0;
   width: 100%;
-  padding: 1em var(--padding);
-  @include bp(m){
-    padding: 1.5em var(--padding);
-  }
+  padding: 1.5em var(--padding);
   position: fixed;
   line-height: 1;
   color: $black;
@@ -32,6 +29,17 @@
 .site-title {
   font-weight: 600;
   white-space: nowrap;
+  font-size: 0;
+  &:after {
+    font-size: var(--ms-0);
+    content: "AL"
+  }
+  @include bp(s){
+    font-size: var(--ms-0);
+    &:after {
+      content: ""
+    }
+  }
 }
 
 .site-nav {

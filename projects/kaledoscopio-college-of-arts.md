@@ -22,7 +22,11 @@ related_projects:
 
 The constant increase in full-time employment of women, single-parent families, and the lack of replacement figures have led to higher demand for organizations responsible for children growth.
 
+{% note %}
 Credits: Studio Mente Corpo
+{% endnote %}
+
+
 
 ![College perspective view from the entrance with kids playing and modernist architecture.](/assets/uploads/kidcenter_exterior.jpg "College perspective view from the entrance")
 

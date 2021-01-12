@@ -11,6 +11,7 @@ tags:
   - Art direction
   - Sustainability
   - Wellbeing
+  - Digital
 featured_image:
   landscape: /assets/uploads/cl_desktop.jpg
   portrait: /assets/uploads/cl_mobile.jpg

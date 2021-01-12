@@ -95,7 +95,7 @@
 
   & > div,
   & > iframe,
-  .embed {
+  .embed, .note {
     width: 100%;
     margin-bottom: 1rem;
     grid-column: 1 / 13;
@@ -111,6 +111,10 @@
 .embed {
   margin-bottom: 1em;
   margin-top: 1em;
+}
+
+.note {
+  font-size: var(--ms-0);
 }
 
 .gallery {

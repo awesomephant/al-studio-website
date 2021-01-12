@@ -78,7 +78,7 @@ collections:
                   - link
                   - heading-two
                   - bulleted-list
-                editor_components: []
+                editorComponents: []
           - label: Sidebar B Items
             label_singular: Sidebar Item
             name: widgets

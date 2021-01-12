@@ -73,6 +73,10 @@ module.exports = function (eleventyConfig) {
     </figure>`;
   });
 
+  eleventyConfig.addPairedShortcode("note", function (content) {
+    return `<aside class="note">${md.render(content)}</aside>`;
+  });
+
   eleventyConfig.addPassthroughCopy("./admin");
   eleventyConfig.addPassthroughCopy({ "./admin/config.yml": "config.yml" });
   eleventyConfig.addPassthroughCopy("./dist");

@@ -99,3 +99,36 @@ CMS.registerEditorComponent({
     return "";
   },
 });
+
+CMS.registerEditorComponent({
+  id: "note",
+  label: "Note",
+  fields: [
+    {
+      name: "text",
+      label: "Text",
+      widget: "markdown",
+      buttons:["bold","italic","link"],
+      editor_components: []
+    }
+  ],
+
+  pattern: /^\{% note %}([\S\s]+){% endnote %}/,
+  fromBlock: function (match) {
+    let text = match[1];
+    return {text: text};
+  },
+  // Function to create a text block from an instance of this component
+  toBlock: function (obj) {
+    let data = {};
+    if (obj.text) {
+      data = obj;
+    }    
+    return `\{% note %}
+${obj.text}
+{% endnote %}`;
+  },
+  toPreview: function (obj) {
+    return `<aside class='note'>${obj.text}</aside>`;
+  },
+});

@@ -1,12 +1,14 @@
 ---
 layout: project
 title: Golden Rivers
+draft: false
 subtitle: Large scale art installation at Domain de Boisbuchet castle
 date: 2021-01-10T12:36:03.112Z
 start_year: 2018
 end_year: 2018
 tags:
   - Art Installation
+  - Wellbeing
 featured_image:
   landscape: /assets/uploads/dscf3628-2.jpg
   portrait: /assets/uploads/dscf3615.jpg
@@ -17,9 +19,13 @@ related_projects:
 ---
 Phos in ancient Greek means “light”, not only as an element that allows us to see but also a force that holds the truth reached through knowledge. The medium of light acts as an immaterial bridge between man and the architectural space where it manifests itself. Light, as an incorporeal phenomenon, is revealed to the viewer through the use of a tangible element. Golden Rivers is a bright and hypnotic art installation that leads the viewer towards the exaltation of architecture, adding warmth to the materiality of the buildings and communicating a sense of serenity and inner peace.
 
-Credits: [Sabines Marcelis](https://sabinemarcelis.com/) (Mentor)
-
 For more information about the collaboration please visit: [Domaine de Boisbuchet](https://www.boisbuchet.org/workshop/exploring-light/)
+
+{% note %}
+Credits: [Sabines Marcelis](https://sabinemarcelis.com/) (Mentor)
+{% endnote %}
+
+
 
 ![Installation in place on Domain de Boisbuchet castle](/assets/uploads/dscf3638.jpg "Installation in place on Domain de Boisbuchet castle")
 
@@ -29,4 +35,4 @@ For more information about the collaboration please visit: [Domaine de Boisbuche
 
 ![Spatial study of the installation on Domain de Boisbuchet castle](/assets/uploads/test.jpg "Spatial study of the installation on Domain de Boisbuchet castle")
 
-{% embed "%7B%22code%22%3A%22%3Cdiv%20style%3D%5C%22padding%3A56.25%25%200%200%200%3Bposition%3Arelative%3B%5C%22%3E%3Ciframe%20src%3D%5C%22https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F232454423%3Floop%3D1%26title%3D0%26byline%3D0%26portrait%3D0%5C%22%20style%3D%5C%22position%3Aabsolute%3Btop%3A0%3Bleft%3A0%3Bwidth%3A100%25%3Bheight%3A100%25%3B%5C%22%20frameborder%3D%5C%220%5C%22%20allow%3D%5C%22autoplay%3B%20fullscreen%5C%22%20allowfullscreen%3E%3C%2Fiframe%3E%3C%2Fdiv%3E%3Cscript%20src%3D%5C%22https%3A%2F%2Fplayer.vimeo.com%2Fapi%2Fplayer.js%5C%22%3E%3C%2Fscript%3E%22%2C%22caption%22%3A%22%20%22%7D" %}
+{% embed "%7B%22code%22%3A%22%3Cdiv%20style%3D%5C%22padding%3A56.25%25%200%200%200%3Bposition%3Arelative%3B%5C%22%3E%3Ciframe%20src%3D%5C%22https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F232454423%3Floop%3D1%26title%3D0%26byline%3D0%26portrait%3D0%5C%22%20style%3D%5C%22position%3Aabsolute%3Btop%3A0%3Bleft%3A0%3Bwidth%3A100%25%3Bheight%3A100%25%3B%5C%22%20frameborder%3D%5C%220%5C%22%20allow%3D%5C%22autoplay%3B%20fullscreen%5C%22%20allowfullscreen%3E%3C%2Fiframe%3E%3C%2Fdiv%3E%3Cscript%20src%3D%5C%22https%3A%2F%2Fplayer.vimeo.com%2Fapi%2Fplayer.js%5C%22%3E%3C%2Fscript%3E%22%2C%22caption%22%3A%22%20Workshop%20short%20film%20by%20Alex%20Harrison%22%7D" %}

@@ -1,7 +1,7 @@
 const pluginSass = require("eleventy-plugin-sass");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const markdownIt = require("markdown-it");
-const md = new markdownIt();
+const md = new markdownIt({html: true});
 const siteSettings = require("./_data/settings.json");
 const jsdom = require("jsdom");
 const { JSDOM } = jsdom;

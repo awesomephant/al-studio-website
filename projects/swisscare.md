@@ -1,6 +1,7 @@
 ---
 layout: project
 title: Swisscare
+draft: false
 subtitle: Branding, art direction and campaigns for wellbeing and beauty brand Swisscare
 date: 2020-11-09T19:09:23.482Z
 start_year: 2017
@@ -19,7 +20,7 @@ related_projects:
 ---
 Natural supplements and cosmetics brand Swisscare claimed a fresh look for their new visual identity. The assets ranged from stationery and brochures to website, social media and large scale digitally printed canvases. AL designed a highly customized botanical language and applied it to both printed and digital material as an individual element or pattern. The identity was developed based on the brand seasonal products.
 
-For more information about the company please visit: [www.swisscare.it](https://www.swisscare.it)
+For more information about the company please visit: [Swisscare](https://www.swisscare.it)
 
 ![stationery branding with flower graphics](/assets/uploads/swisscare4.jpg "Stationery package with botanical summer variation")
 

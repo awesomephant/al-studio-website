@@ -1,6 +1,7 @@
 ---
 layout: project
 title: Across RCA
+draft: false
 subtitle: Interdisciplinary workshop part of the Walkative Project for Across RCA
 date: 2020-10-23T22:43:28.502Z
 start_year: 2019
@@ -20,4 +21,6 @@ This is a walking-based project led by 2019-20 co-presidents Adalberto Lonardi (
 
 To know more about the workshop please visit: [The Walkative Project](http://thewalkativeproject.org/event/across-rca-2019/)
 
-Credits: [Katharina Siegel](http://www.katharinasiegel.de/) (Walkative 2019/2020 co-president), [Jose Garcia Oliva](https://josegarciaoliva.com/) (publication designer), [Max Koehler](maxkoehler) (graphic designer and front-end developer)
+{% note %}
+Credits: [Katharina Siegel](http://www.katharinasiegel.de/) (Walkative 2019/2020 co-president), [Max Koehler](maxkoehler) (graphic designer and front-end developer), [Jose Garcia Oliva](https://josegarciaoliva.com/) (publication designer)
+{% endnote %}

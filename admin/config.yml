@@ -109,7 +109,8 @@ collections:
       - label: Is this a draft?
         name: draft
         widget: boolean
-        hint: "Draft projects won't appear in the projects oveview and related projects, but can still be accessed through a direct link."
+        hint: "Draft projects won't appear in the projects oveview and related projects, but can still be accessed through a direct link.
+         "
       - label: "Subtitle"
         name: "subtitle"
         widget: "string"

@@ -39,10 +39,9 @@ CMS.registerEditorComponent({
   ],
 
   // Pattern to identify a block as being an instance of this component
-  pattern: /\{% gallery "([\S ]+)" %}/,
+  pattern: /^\{% gallery "([\S ]+)" %}/,
   // Function to extract data elements from the regexp match
   fromBlock: function (match) {
-    const re = /(&#x2019;)/g;
     let gallery = JSON.parse(decodeURIComponent(match[1]));
     return {
       images: gallery,
@@ -80,9 +79,7 @@ CMS.registerEditorComponent({
     },
   ],
 
-  // Pattern to identify a block as being an instance of this component
-  pattern: /\{% embed "([\S ]+)" %}/,
-  // Function to extract data elements from the regexp match
+  pattern: /^\{% embed "([\S ]+)" %}/,
   fromBlock: function (match) {
     let embed = JSON.parse(decodeURIComponent(match[1]));
     return embed;

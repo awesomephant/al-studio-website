@@ -16,7 +16,7 @@ featured_image:
   light_image: false
   portrait: /assets/uploads/20-20_vertical.png
 related_projects:
-  - Inside/Out
+  - Conscious London
 ---
 
 

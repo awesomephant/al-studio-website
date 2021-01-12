@@ -1,4 +1,5 @@
 ---
+draft: false
 end_year: 2019
 media: []
 image_size: large
@@ -8,7 +9,7 @@ subtitle: Limited edition publication about ageing well for the Royal College of
 date: 2020-07-30
 start_year: 2018
 tags:
-  - Editorial
+  - Publications
   - Education
   - Wellbeing
 featured_image:
@@ -25,9 +26,9 @@ This research book looks at the relationships between gerontology and the discip
 
 To preview the digital version of the book please click [here](https://issuu.com/adalbertolonardiworks/docs/how_to_take_care_of_the_old_preview).
 
+{% note %}
 Credits: [Barry Curtis](https://www.linkedin.com/in/barry-curtis-b308b36) (Mentor)
-
-
+{% endnote %}
 
 ![Book spread with Age-Friendly Cities diagram](/assets/uploads/chs_page6.jpg "Book spread with Age-Friendly Cities diagram")
 
@@ -35,6 +36,4 @@ Credits: [Barry Curtis](https://www.linkedin.com/in/barry-curtis-b308b36) (Mento
 
 ![Book spread representing two world ageing population diagrams between 2015 and 2050](/assets/uploads/old2.jpg "Book spread representing two world ageing population diagrams between 2015 and 2050")
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/434693932?autoplay=1&loop=1&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-
-Population Pyramids 2005 - 2050 (original diagrams by www.populationpyramid.net reworked)
+{% embed "%7B%22code%22%3A%22%3Cdiv%20style%3D%5C%22padding%3A56.25%25%200%200%200%3Bposition%3Arelative%3B%5C%22%3E%3Ciframe%20src%3D%5C%22https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F434693932%3Fautoplay%3D1%26loop%3D1%26title%3D0%26byline%3D0%26portrait%3D0%5C%22%20style%3D%5C%22position%3Aabsolute%3Btop%3A0%3Bleft%3A0%3Bwidth%3A100%25%3Bheight%3A100%25%3B%5C%22%20frameborder%3D%5C%220%5C%22%20allow%3D%5C%22autoplay%3B%20fullscreen%5C%22%20allowfullscreen%3E%3C%2Fiframe%3E%3C%2Fdiv%3E%3Cscript%20src%3D%5C%22https%3A%2F%2Fplayer.vimeo.com%2Fapi%2Fplayer.js%5C%22%3E%3C%2Fscript%3E%22%2C%22caption%22%3A%22Population%20Pyramids%202005%20-%202050%20(original%20diagrams%20by%20www.populationpyramid.net%20reworked)%22%7D" %}

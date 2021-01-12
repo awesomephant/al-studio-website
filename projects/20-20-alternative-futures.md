@@ -28,6 +28,6 @@ For more information please visit: [Phase3](https://phase3.uk/)
 
 {% gallery "%5B%7B%22alt%22%3A%22Launch%20event%20poster%20outside%20The%20Groundfloor%20Space%22%2C%22image%22%3A%22%2Fassets%2Fuploads%2F20-20-vertical.jpg%22%2C%22caption%22%3A%22Launch%20event%20poster%20outside%20The%20Groundfloor%20Space%22%7D%2C%7B%22image%22%3A%22%2Fassets%2Fuploads%2F20-20-vertical_1.jpg%22%2C%22alt%22%3A%22Tabloid%20stack%20during%20the%20launch%20event%22%7D%5D" %}
 
-![Event tabloid exterior spread](/assets/uploads/20-20_1.jpg "Event tabloid exterior spread")
+![Event tabloid exterior spread](/assets/uploads/tabloid20-20.jpg "Event tabloid exterior spread")
 
-![Event tabloid interior spread](/assets/uploads/20-copy.jpg "Event tabloid interior spread")
+![Event tabloid interior spread](/assets/uploads/tabloid20-202.jpg "Event tabloid interior spread")

@@ -11,7 +11,9 @@ title: Projects
     {% assign taglist = tags | join: "" | downcase %}
     {% assign tag_lower = tag | downcase %}
     {% unless taglist contains tag_lower %}
+    {% unless p.data.draft == true %}
     {% assign tags = tags | concat: tag%}
+    {% endunless %}
     {% endunless %}
     {% endfor %}
     {% endfor %}

@@ -102,18 +102,26 @@
 
 .gallery {
   width: 100%;
-  display: grid;
+  display: flex;
   margin-bottom: 1em;
   margin-top: 1em;
-  grid-template-columns: 1fr;
-  column-gap: 1rem;
-  row-gap: 2rem;
+  flex-flow: column;
   @include bp(m) {
-    grid-template-columns: 1fr 1fr;
+    flex-flow: row;
   }
   @include bp(l) {
     margin-top: 3em;
     margin-bottom: 3em;
+  }
+  .gallery--item {
+    margin-bottom: 2rem;
+    @include bp(m) {
+      margin-bottom: 0;
+      margin-right: 1rem;
+      &:last-of-type {
+        margin-right: 0;
+      }
+    }
   }
 }
 .gallery--item,
@@ -165,7 +173,7 @@
     grid-column: 1 / 13;
     @include bp(l) {
       grid-column: 3 / 11;
-  }
+    }
     @include bp(xl) {
       grid-column: 4 / 11;
     }
@@ -175,7 +183,7 @@
   .project-card {
     padding-bottom: 2rem;
     flex-basis: 100%;
-    @include bp(m) {  
+    @include bp(m) {
       flex-basis: 50%;
       padding-right: 2rem;
     }

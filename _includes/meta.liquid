@@ -8,16 +8,25 @@
 <title>{{settings.site_title}}{% if title %} / {{title}}{% endif %}</title>
 {% endif %}
 
+<meta name="description" content="{{settings.meta_description}}">
+
+{% if featured_image.landscape %}
+<meta property="og:image" content="https://adalbertolonardi.com/{{featured_image.landscape}}?nf_resize=fit&w=1200">
+{% else %}
 <meta property="og:image" content="https://adalbertolonardi.com/{{settings.social_image}}?nf_resize=fit&w=1200">
-<meta property="og:title" content="{{settings.site_title}}{% if title %} / {{title}}{% endif %}">
-<meta property="og:description" content="{{settings.site_description}}">
+{% endif %}
+<meta property="og:title" content="{{settings.meta_title}}{% if title %} / {{title}}{% endif %}">
+<meta property="og:description" content="{{settings.meta_description}}">
 <meta property="og:url" content="https://www.adalbertolonardi.com/">
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@adalbertolonard">
 <meta name="twitter:creator" content="@adalbertolonard">
-<meta name="twitter:title" content="{{settings.site_title}}{% if title %} / {{title}}{% endif %}">
-<meta name="twitter:description" content="{{settings.site_description}}">
+<meta name="twitter:title" content="{{settings.meta_title}}{% if title %} / {{title}}{% endif %}">
+<meta name="twitter:description" content="{{settings.meta_description}}">
+{% if featured_image.landscape %}
+<meta name="twitter:image" content="https://adalbertolonardi.com/{{featured_image.landscape}}?nf_resize=fit&w=1200">
+{% else %}
 <meta name="twitter:image" content="https://adalbertolonardi.com/{{settings.social_image}}?nf_resize=fit&w=1200">
-
-<meta name="theme-color" content="#fcf8d3">
+{% endif %}
+<meta name="theme-color" content="#fcf8d3" 0>

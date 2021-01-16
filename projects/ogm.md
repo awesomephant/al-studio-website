@@ -12,7 +12,7 @@ tags:
   - Sustainability
   - Digital
 featured_image:
-  landscape: /assets/uploads/ogm-desktop.jpg
+  landscape: /assets/uploads/ogm-desktop2.jpg
   portrait: /assets/uploads/ogm_mobile.jpg
   alt: Two girls of different ethnicities wearing white clothes and aluminium
     jewelries, sin the shape of a dove and butterfly, in front of white

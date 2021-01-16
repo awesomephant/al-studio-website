@@ -27,7 +27,9 @@ For more information please visit: [@nineelmsartsministry](https://www.instagram
 
 {% note %}
 
+
 (2 windows x 110x200cm, coloured Posca markers on glass)
+
 
 {% endnote %}
 
@@ -40,5 +42,7 @@ For more information please visit: [@nineelmsartsministry](https://www.instagram
 ![Cropped image of Panel 2, inscriptions 'Restore the light within our hearts - restore the light within our homes'](/assets/uploads/detail1.jpg "Blue panel detail, inscriptions")
 
 ![Cropped image of Panel 2, children with fruits](/assets/uploads/detail2.jpg "Blue panel detail, children with fruits")
+
+![two colorful stained glass windows from outside the pub](/assets/uploads/dscf0201.jpg "Art installation from Battersea Park Rd")
 
 ![Windows overall, coloured sketch drawing (21x29,7cm)](/assets/uploads/restore_sketch.jpg "Windows overall, coloured sketch (21x29,7cm)")

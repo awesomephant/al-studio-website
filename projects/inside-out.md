@@ -14,9 +14,9 @@ subtitle: Visual identity and curation of Inside/Out lecture series for Royal
 date: 2020-10-17T21:40:48.074Z
 start_year: 2018
 tags:
-  - Visual Identity
-  - Education
   - Art Direction
+  - Education
+  - Culture
 featured_image:
   landscape: /assets/uploads/io_desktop2.jpg
   portrait: /assets/uploads/io_mobile2.jpg

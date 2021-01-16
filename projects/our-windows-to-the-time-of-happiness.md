@@ -1,6 +1,7 @@
 ---
 layout: project
 title: To the time of happiness
+draft: false
 subtitle: Printed and digital visual artworks for community event in London
 date: 2020-10-23T23:16:34.970Z
 start_year: 2019
@@ -14,7 +15,7 @@ featured_image:
   alt: Sky gradient screening with people in the front
   light_image: false
 related_projects:
-  - Golden Rivers
+  - Kaledoscopio Centro Artistico
 ---
 The art installation consisted of a 60 minutes screening animation of the sky's changing gradients. The colours are picked from a series of photographs taken at pure dusk and downs titled 'Our windows to the time of happiness'.
 

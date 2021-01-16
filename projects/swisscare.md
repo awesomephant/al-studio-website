@@ -7,11 +7,10 @@ date: 2020-11-09T19:09:23.482Z
 start_year: 2017
 end_year: 2018
 tags:
-  - Visual Identity
-  - Wellbeing
   - Art Direction
-  - Sustainability
   - Digital
+  - Wellbeing
+  - Sustainability
 featured_image:
   landscape: /assets/uploads/al_desktop2.jpg
   portrait: /assets/uploads/sc_mobile.jpg

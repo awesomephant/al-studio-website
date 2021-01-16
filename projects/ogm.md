@@ -11,6 +11,7 @@ tags:
   - Art direction
   - Sustainability
   - Visual identity
+  - Digital
 featured_image:
   landscape: /assets/uploads/ogm_home_web-1-.jpg
   portrait: /assets/uploads/ogm_mobile.jpg

@@ -16,7 +16,7 @@ featured_image:
   alt: Flowers, plants and fruits on white background.
   light_image: true
 related_projects:
-  - OGM Plant
+  - Frahm&Frahm
 ---
 Natural supplements and cosmetics brand Swisscare claimed a fresh look for their new visual identity. The assets ranged from stationery and brochures to website, social media and large scale digitally printed canvases. AL designed a highly customized botanical language and applied it to both printed and digital material as an individual element or pattern. The identity was developed based on the brand seasonal products.
 

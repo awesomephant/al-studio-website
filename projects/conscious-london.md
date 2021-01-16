@@ -11,6 +11,7 @@ tags:
   - Art direction
   - Wellbeing
   - Digital
+  - Community
 featured_image:
   landscape: /assets/uploads/cl_desktop.jpg
   portrait: /assets/uploads/cl_mobile.jpg

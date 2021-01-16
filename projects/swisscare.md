@@ -10,6 +10,7 @@ tags:
   - Visual Identity
   - Wellbeing
   - Art Direction
+  - Sustainability
 featured_image:
   landscape: /assets/uploads/al_desktop2.jpg
   portrait: /assets/uploads/sc_mobile.jpg

@@ -15,7 +15,7 @@ featured_image:
   alt: Golden fabric on top of a french castle in the countryside.
   light_image: false
 related_projects:
-  - Together as One
+  - To the time of happiness
 ---
 Phos in ancient Greek means “light”, not only as an element that allows us to see but also a force that holds the truth reached through knowledge. The medium of light acts as an immaterial bridge between man and the architectural space where it manifests itself. Light, as an incorporeal phenomenon, is revealed to the viewer through the use of a tangible element. Golden Rivers is a bright and hypnotic art installation that leads the viewer towards the exaltation of architecture, adding warmth to the materiality of the buildings and communicating a sense of serenity and inner peace.
 

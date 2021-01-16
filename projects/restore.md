@@ -43,6 +43,6 @@ For more information please visit: [@nineelmsartsministry](https://www.instagram
 
 ![Cropped image of Panel 2, children with fruits](/assets/uploads/detail2.jpg "Blue panel detail, children with fruits")
 
-![two colorful stained glass windows from outside the pub](/assets/uploads/dscf0201.jpg "Art installation from Battersea Park Roadshjcad")
+![two colorful stained glass windows from outside the pub](/assets/uploads/dscf0201.jpg "Art installation from Battersea Park Road")
 
 ![Windows overall, coloured sketch drawing (21x29,7cm)](/assets/uploads/restore_sketch.jpg "Windows overall, coloured sketch (21x29,7cm)")

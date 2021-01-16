@@ -31,4 +31,4 @@ For more information about the company please visit: [Swisscare](https://www.swi
 
 ![Website desktop design with homepage layout](/assets/uploads/web4.jpg "Website desktop design with homepage layout")
 
-![Website movile devices design with product page layout and newsletter](/assets/uploads/web3.jpg "Website movile devices design with product page layout and newsletter")
+![Website mobile devices design with product page layout and newsletter](/assets/uploads/web3.jpg "Website mobile devices design with product page layout and newsletter")

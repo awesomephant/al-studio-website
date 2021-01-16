@@ -17,7 +17,7 @@ featured_image:
   alt: "Round shape with bright colors on blue gradient "
   light_image: false
 related_projects:
-  - The United Generations
+  - "20/20: Alternative Futures"
 ---
 Digital art direction and visual identity for the Conscious London 2020, a chapter of the Conscious Cities Movement, part of [The Centre for Conscious Design (CCD)](https://theccd.org/). The visual identity included multiple social media assets and infographics for the three-day event.
 

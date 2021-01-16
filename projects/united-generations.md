@@ -29,7 +29,7 @@ In the near future, a significant part of the population is older. Redundant urb
 
 The project received the 'RCA School of Architecture Climate/Spatial Justice Prize'.
 
-***For more information please visit [www.theunitedgenerations.com](https://www.theunitedgenerations.com/)***
+***Discover the whole project at [www.theunitedgenerations.com](https://www.theunitedgenerations.com/)***
 
 {% note %}
 

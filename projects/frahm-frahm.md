@@ -14,7 +14,7 @@ tags:
 featured_image:
   landscape: /assets/uploads/ff-desktop.jpg
   alt: "Homapge desktop website view "
-  portrait: /assets/uploads/ff-desktop.jpg
+  portrait: /assets/uploads/ff-mobile.jpg
   light_image: true
 related_projects:
   - Golden Rivers

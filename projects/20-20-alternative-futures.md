@@ -8,7 +8,6 @@ start_year: 2019
 end_year: 2019
 tags:
   - Visual Identity
-  - Social Empowerment
   - Sustainability
   - Culture
 featured_image:

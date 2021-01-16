@@ -11,6 +11,7 @@ tags:
   - Art Direction
   - Culture
   - Digital
+  - Visual Identity
 featured_image:
   landscape: /assets/uploads/ff-desktop.jpg
   alt: "Homapge desktop website view "

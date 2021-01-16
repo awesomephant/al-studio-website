@@ -17,7 +17,7 @@ featured_image:
     installation
   light_image: false
 related_projects:
-  - Conscious London
+  - Together as One
 ---
 Inspired by the characters’ cones of vision revealed in Renaissance and Baroque nativity paintings, the museum entrance hosts three temporary architectural and sculptural objects. Placed in the site’s open spaces, they allow free circulation along with an allegorical and spiritual atmosphere. The sight cones, translated into the threedimensional dark space as glowing colourful pyramids, create a network, allowing visitors to visually connect with the other parts of the building. The cones become private spaces where different activities take place and semitransparent hovering monoliths turn into functional objects.
 

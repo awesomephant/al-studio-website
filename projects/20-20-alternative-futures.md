@@ -9,6 +9,7 @@ end_year: 2019
 tags:
   - Visual Identity
   - Social Empowerment
+  - Sustainability
 featured_image:
   landscape: /assets/uploads/20-20_facebook_banner.jpg
   alt: 20/20 logo repetition in blue over grey background.

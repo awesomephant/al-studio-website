@@ -8,7 +8,6 @@ start_year: 2018
 end_year: 2018
 tags:
   - Art Installation
-  - Wellbeing
 featured_image:
   landscape: /assets/uploads/dscf3628-2.jpg
   portrait: /assets/uploads/dscf3615.jpg

@@ -9,6 +9,7 @@ end_year: 2021
 tags:
   - Community
   - Art Installation
+  - Social Empowerment
 featured_image:
   landscape: /assets/uploads/restore_desktop2.jpg
   alt: two colorful stained glass windows representing families with animals

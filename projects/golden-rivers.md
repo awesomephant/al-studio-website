@@ -21,10 +21,8 @@ Phos in ancient Greek means “light”, not only as an element that allows us t
 For more information about the collaboration please visit: [Domaine de Boisbuchet](https://www.boisbuchet.org/workshop/exploring-light/)
 
 {% note %}
-Credits: [Sabines Marcelis](https://sabinemarcelis.com/) (Mentor)
+Credits: [Sabines Marcelis](https://sabinemarcelis.com/)
 {% endnote %}
-
-
 
 ![Installation in place on Domain de Boisbuchet castle](/assets/uploads/dscf3638.jpg "Installation in place on Domain de Boisbuchet castle")
 

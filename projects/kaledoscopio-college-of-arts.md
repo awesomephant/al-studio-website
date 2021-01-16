@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Kaledoscopio Centro Artistico
+title: Kaledoscopio Centro Artistico (Artistic Center)
 draft: false
 subtitle: Art center proposal for children to develop the creative potentials in Verona
 date: 2021-01-09T01:25:41.484Z
@@ -19,15 +19,15 @@ featured_image:
 related_projects:
   - Inside/Out
 ---
-‘…And thus they tell the child that the hundred is not there. The child says: No way. The hundred is there.’ (Loris Malaguzzi, The Hundred Languages 1987). Kaledoscopio is a child-sized art centre aimed at developing the children creative potentials. Artistic laboratories where the child can create and experiment his skills, offer the possibility of a re-evaluation of those activities and emotions addressed to develop a better self.
+Kaledoscopio is a child-sized art centre aimed at developing the children creative potentials. Artistic laboratories where the child can create and experiment his skills, offer the possibility of a re-evaluation of those activities and emotions addressed to develop a better self.
 
-The constant increase in full-time employment of women, single-parent families, and the lack of replacement figures have led to higher demand for organizations responsible for children growth.
+‘…And thus they tell the child that the hundred is not there. The child says: No way. The hundred is there.’ (Loris Malaguzzi, The Hundred Languages 1987).
 
 {% note %}
+
 Credits: Studio Mente Corpo
+
 {% endnote %}
-
-
 
 ![College perspective view from the entrance with kids playing and modernist architecture.](/assets/uploads/kidcenter_exterior.jpg "College perspective view from the entrance")
 

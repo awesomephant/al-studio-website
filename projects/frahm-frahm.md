@@ -17,7 +17,7 @@ featured_image:
   portrait: /assets/uploads/ff-desktop.jpg
   light_image: true
 related_projects:
-  - OGM Plant
+  - Golden Rivers
 ---
 AL art directed and designed the new Frahm & Frahm website. F&F specialises in producing large-scale institutional exhibitions, collaborating on special projects with major contemporary artists and building some of the world’s great private art collections. 
 

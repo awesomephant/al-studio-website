@@ -28,9 +28,7 @@ This research book looks at the relationships between gerontology and the discip
 To preview the digital version of the book please click [here](https://issuu.com/adalbertolonardiworks/docs/how_to_take_care_of_the_old_preview).
 
 {% note %}
-
-Credits: [Barry Curtis](https://www.linkedin.com/in/barry-curtis-b308b36) (Mentor)
-
+Credits: [Barry Curtis](https://www.linkedin.com/in/barry-curtis-b308b36)
 {% endnote %}
 
 ![Book spread with Age-Friendly Cities diagram](/assets/uploads/chs_page6.jpg "Book spread with Age-Friendly Cities diagram")
@@ -38,9 +36,5 @@ Credits: [Barry Curtis](https://www.linkedin.com/in/barry-curtis-b308b36) (Mento
 ![Book spread showing a brain with Halzaimer on the left compared to one without dementia syndrome on the right](/assets/uploads/chs_page5.jpg "Book spread showing a brain with Halzaimer on the left compared to one without dementia syndrome on the right")
 
 ![Book spread representing two world ageing population diagrams between 2015 and 2050](/assets/uploads/old2.jpg "Book spread representing two world ageing population diagrams between 2015 and 2050")
-
-
-
-
 
 {% embed "%7B%22code%22%3A%22%3Cdiv%20style%3D%5C%22padding%3A56.25%25%200%200%200%3Bposition%3Arelative%3B%5C%22%3E%3Ciframe%20src%3D%5C%22https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F434693932%3Fautoplay%3D1%26loop%3D1%26title%3D0%26byline%3D0%26portrait%3D0%5C%22%20style%3D%5C%22position%3Aabsolute%3Btop%3A0%3Bleft%3A0%3Bwidth%3A100%25%3Bheight%3A100%25%3B%5C%22%20frameborder%3D%5C%220%5C%22%20allow%3D%5C%22autoplay%3B%20fullscreen%5C%22%20allowfullscreen%3E%3C%2Fiframe%3E%3C%2Fdiv%3E%3Cscript%20src%3D%5C%22https%3A%2F%2Fplayer.vimeo.com%2Fapi%2Fplayer.js%5C%22%3E%3C%2Fscript%3E%22%2C%22caption%22%3A%22Population%20Pyramids%202005%20-%202050%20(original%20diagrams%20by%20www.populationpyramid.net%20reworked)%22%7D" %}

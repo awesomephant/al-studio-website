@@ -24,8 +24,6 @@ The first panel depicts a time when pottery making and pig farming brought toget
 
 The drawings will be hand painted in situ, involving members of the local community in the painting process. Some of the design of the artwork is left deliberately abstract. The public will have the opportunity to enrich with their imagination the piece, with the support of the artist.
 
-jhb
-
 *For more information please visit: [KCAW](https://www.kcaw.co.uk/mural-5-vote)*
 
 {% note %}

@@ -18,7 +18,7 @@ featured_image:
   alt: Perspective coloured pencil and oil stick hand drawing.
   light_image: false
 related_projects:
-  - Conscious London
+  - How to take care of the old
 ---
 The United Generations proposes a new vision to create a thriving community of all ages and celebrate the advantages of shared resources. Developed at the Royal College of Art, the project integrates solutions like harvesting, renewable energy, local production, and smart homes to include sustainable living as a seamless part of everyday life. 
 

@@ -13,6 +13,7 @@ tags:
   - Community
   - Sustainability
   - Education
+  - Wellbeing
 featured_image:
   landscape: /assets/uploads/ug_desktop2.jpg
   portrait: /assets/uploads/ug_mobile1.jpg

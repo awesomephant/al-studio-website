@@ -14,6 +14,7 @@ tags:
   - Sustainability
   - Education
   - Wellbeing
+  - Social Empowerment
 featured_image:
   landscape: /assets/uploads/ug_desktop2.jpg
   portrait: /assets/uploads/ug_mobile1.jpg

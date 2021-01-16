@@ -10,6 +10,7 @@ tags:
   - Spaces
   - Education
   - Community
+  - Social Empowerment
 featured_image:
   landscape: /assets/uploads/kidscenter_concept.jpg
   portrait: /assets/uploads/kidscenter_concept.jpg

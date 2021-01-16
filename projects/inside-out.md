@@ -22,7 +22,7 @@ featured_image:
   alt: Lectures posters of Flores and Prats, Formafatasma, and Manou Mami
   light_image: false
 related_projects:
-  - "20/20: Alternative Futures"
+  - Across RCA
 ---
 AL designed the printed and digital visual communication for the public lecture series, Inside/Out 2018-2020, run by the Interior Design Programme of the RCA School of Architecture. The branding included printed posters, digital communication, and social media assets. The studio curated and managed the speakers' programme, communication and production. The Inside/Out lectures programme interrogates the interior architecture spaces as a medium of expression of individuals in the urban space and an opportunity of experience for the collectivity.
 

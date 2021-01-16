@@ -9,7 +9,7 @@ subtitle: Limited edition publication about ageing well for the Royal College of
 date: 2020-07-30
 start_year: 2018
 tags:
-  - Publications
+  - Publication
   - Education
   - Wellbeing
 featured_image:

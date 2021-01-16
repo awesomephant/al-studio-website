@@ -8,6 +8,7 @@ start_year: 2019
 end_year: 2019
 tags:
   - Workshop
+  - Publication
   - Education
 featured_image:
   landscape: /assets/uploads/arca_desktop.jpg

@@ -16,7 +16,7 @@ featured_image:
   alt: Children and dad running in front of conical shape with universe background
   light_image: false
 related_projects:
-  - The United Generations
+  - Inside/Out
 ---
 ‘…And thus they tell the child that the hundred is not there. The child says: No way. The hundred is there.’ (Loris Malaguzzi, The Hundred Languages 1987). Kaledoscopio is a child-sized art centre aimed at developing the children creative potentials. Artistic laboratories where the child can create and experiment his skills, offer the possibility of a re-evaluation of those activities and emotions addressed to develop a better self.
 

@@ -19,7 +19,7 @@ featured_image:
     greenhouse with palms shadows.
   light_image: true
 related_projects:
-  - Frahm&Frahm
+  - Swisscare
 ---
 Developed the branding, website, digital and printed marketing campaigns, and art directed the still and moving images for OGM Plant, recycled aluminium accessories fashion brand. OGM Plant believes in the respect of nature with a no-waste philosophy. From production to packaging, the whole chain focuses its attention on recycling, eco-sustainability, and social inclusion.
 

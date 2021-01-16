@@ -29,13 +29,15 @@ The drawings will be hand painted in situ, involving members of the local commun
 {% note %}
 
 
+
 In collaboration with: [Kensignton + Chelsea Art Week](https://www.kcaw.co.uk/), [Royal College of Art](https://www.rca.ac.uk/), [London Projects](https://www.londonprojects.co.uk/), [Studio Indigo](https://studioindigo.co.uk/)
+
 
 
 {% endnote %}
 
 ![Mural overall, coloured and outiline technical drawings](/assets/uploads/togetherasone_technical4.jpg "Mural overall, coloured and outiline technical drawings")
 
-![Mural detail, coloured technical drawing](/assets/uploads/alxkcaw_detail4-2.png "Mural detail, coloured technical drawing")
+![Mural detail, coloured technical drawing](/assets/uploads/alxkcaw_detail6.png "Mural detail, coloured technical drawing")
 
 ![Mural overall, coloured sketch (100x25cm)](/assets/uploads/togetherasone_sketch2.jpg "Mural overall, coloured sketch (100x25cm)")

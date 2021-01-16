@@ -16,7 +16,7 @@ featured_image:
   light_image: false
   portrait: /assets/uploads/20-20_vertical.png
 related_projects:
-  - Conscious London
+  - OGM Plant
 ---
 AL curated the visual identity of the 20/20 launch event at The Groundfloor Space on October 16, 2019. The event branding included a poster, a tabloid, a video projection and social media assets. 
 

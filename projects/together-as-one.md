@@ -26,7 +26,9 @@ The drawings will be hand painted in situ, involving members of the local commun
 
 {% note %}
 
+
 In collaboration with: [Kensignton + Chelsea Art Week](https://www.kcaw.co.uk/), [Royal College of Art](https://www.rca.ac.uk/), [London Projects](https://www.londonprojects.co.uk/), [Studio Indigo](https://studioindigo.co.uk/)
+
 
 {% endnote %}
 

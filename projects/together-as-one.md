@@ -37,5 +37,3 @@ In collaboration with: [Kensignton + Chelsea Art Week](https://www.kcaw.co.uk/),
 ![Mural detail, coloured technical drawing](/assets/uploads/alxkcaw_detail4-2.png "Mural detail, coloured technical drawing")
 
 ![Mural overall, coloured sketch (100x25cm)](/assets/uploads/togetherasone_sketch2.jpg "Mural overall, coloured sketch (100x25cm)")
-
-![Mural detail, coloured sketch](/assets/uploads/togetherasone_sketch3.jpg "Mural detail, coloured sketch")

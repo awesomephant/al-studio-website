@@ -8,7 +8,6 @@ start_year: 2019
 end_year: 2019
 tags:
   - Visual Identity
-  - Education
   - Social Empowerment
 featured_image:
   landscape: /assets/uploads/20-20_facebook_banner.jpg

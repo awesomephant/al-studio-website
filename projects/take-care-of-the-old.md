@@ -12,6 +12,7 @@ tags:
   - Publication
   - Education
   - Wellbeing
+  - Culture
 featured_image:
   landscape: /assets/uploads/old_desktop.jpg
   alt: A5 yellow book cover with title "how to take care of the old" and subtitle

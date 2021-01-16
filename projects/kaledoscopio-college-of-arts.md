@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Kaledoscopio Centro Artistico (Artistic Center)
+title: Kaledoscopio Centro Artistico
 draft: false
 subtitle: Art center proposal for children to develop the creative potentials in Verona
 date: 2021-01-09T01:25:41.484Z

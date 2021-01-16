@@ -7,7 +7,7 @@ date: 2021-01-08T17:23:32.936Z
 start_year: 2019
 end_year: 2019
 tags:
-  - Visual Identity
+  - Art Direction
   - Sustainability
   - Culture
 featured_image:

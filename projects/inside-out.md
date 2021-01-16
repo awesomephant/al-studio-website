@@ -16,6 +16,7 @@ start_year: 2018
 tags:
   - Visual Identity
   - Education
+  - Art Direction
 featured_image:
   landscape: /assets/uploads/io_desktop2.jpg
   portrait: /assets/uploads/io_mobile2.jpg

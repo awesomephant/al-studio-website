@@ -17,7 +17,7 @@ tags:
   - Social Empowerment
 featured_image:
   landscape: /assets/uploads/ug_desktop2.jpg
-  portrait: /assets/uploads/ug-mobile.jpg
+  portrait: /assets/uploads/ug1-mobile.jpg
   alt: Perspective coloured pencil and oil stick hand drawing.
   light_image: false
 related_projects:

@@ -19,7 +19,7 @@ featured_image:
     "Architecture, design and technology supporting an aging population in black
     on gray textured background.
   portrait: /assets/uploads/testmobile.jpg
-  light_image: false
+  light_image: true
 related_projects:
   - Conscious London
 ---

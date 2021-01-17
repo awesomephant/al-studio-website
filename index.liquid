@@ -44,13 +44,17 @@ class: home
     <aside class="home-caption">
         <h2>
             {% if settings.show_archive == true %}
-            <a class="title" href="{{p.url}}">{{p.data.title}}</a>
+            <a class="title" href="{{p.url}}">
+                {{p.data.title}}
+                <span class='description'>
+                    {{p.data.subtitle}}
+                </span>
+            </a>
             {% else %}
-            <span class="title">{{p.data.title}}</span>
-            {% endif %}
-            <span class='description'>
-                {{p.data.subtitle}}
+            <span class="title">
+                {{p.data.title}}
             </span>
+            {% endif %}
         </h2>
         <span class="home-project--index">
             {{index}}/{{settings.featured_projects | size}}

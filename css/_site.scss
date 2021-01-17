@@ -24,20 +24,21 @@
 }
 
 .site-title {
-  font-weight: 600;
   white-space: nowrap;
-  font-size: 0;
-  &:after {
-    font-size: var(--ms-0);
-    content: "AL";
-  }
   position: absolute;
   left: 50%;
   transform: translateX(-50%);
-  @include bp(s) {
-    font-size: var(--ms-0);
-    &:after {
-      content: "";
+  display: none;
+  h1 {
+    font-weight: 600;
+  }
+  @include bp(m) {
+    display: block;
+  }
+  &.short {
+    display: block;
+    @include bp(m) {
+      display: none;
     }
   }
 }
@@ -51,13 +52,17 @@
     text-transform: uppercase;
     font-weight: 400;
     letter-spacing: 0.03em;
+    &:hover,
+    &:focus {
+      @include underline($gray);
+    }
   }
 }
 
 .projects .site-nav a[href*="projects"],
 .single-project .site-nav a[href*="projects"],
 .information .site-nav a[href*="information"] {
-  @include underline(-3px);
+  @include underline($gray);
 }
 
 .site-wrapper {

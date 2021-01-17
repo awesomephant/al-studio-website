@@ -14,8 +14,9 @@
 .information-copy {
   @extend %bodycopy;
   grid-column: 1 / 13;
-  margin-bottom: 1em;
+  margin-bottom: 3em;
   @include bp(m) {
+    margin-bottom: 1em;
     max-width: 31em;
     grid-column: 1 / 10;
     grid-row: span 3;
@@ -68,7 +69,10 @@
   }
   a {
     margin-bottom: .25em;
-    @include underline(1px);
+    @include underline($gray);
+    &:hover, &:focus {
+      @include underline($black);
+    }
   }
 }
 .information-blocks {
@@ -87,6 +91,9 @@
   }
   a {
     margin-bottom: 0.25em;
-    @include underline(1px);
+    @include underline($gray);
+    &:hover, &:focus {
+      @include underline($black);
+    }
   }
 }

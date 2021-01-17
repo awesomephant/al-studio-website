@@ -45,10 +45,12 @@
   @extend %bodycopy;
   .hasimage {
     text-align: center;
-    margin-top: 2rem;
-    margin-bottom: 2rem;
+    margin: 1rem 0;
+    @include bp(m){
+      margin: 2rem 0;
+    }
   }
-  p {
+  p,.note  {
     grid-column: 1 / 13;
     @include bp(l) {
       grid-column: 3 / 11;
@@ -76,8 +78,7 @@
 
   & > div,
   & > iframe,
-  .embed,
-  .note {
+  .embed {
     width: 100%;
     margin-bottom: 1rem;
     grid-column: 1 / 13;
@@ -96,7 +97,10 @@
 }
 
 .note {
-  font-size: var(--ms-0);
+  font-size: var(--ms--1);
+  @include bp(m){
+    font-size: var(--ms-0);
+  }
   padding-top: 1em;
 }
 

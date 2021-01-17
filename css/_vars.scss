@@ -23,11 +23,10 @@
   }
 }
 
-$sans: -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif,
-  "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+$sans: -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 $blue: rgb(19, 38, 231);
 $black: rgb(4, 4, 7);
-$gray: #8e8e8e;
+$gray: #8f8b87;
 $lightgray: rgb(155, 148, 148);
 $fast: 220ms;
 $slow: 850ms;
@@ -45,25 +44,11 @@ $br: 3px;
   letter-spacing: 0.002em;
 }
 
-@mixin underline($offset) {
-  display: inline-block;
-  position: relative;
-  text-decoration: none;
-  &:after {
-    content: "";
-    transition: 60ms;
-    height: 1px;
-    position: absolute;
-    bottom: $offset;
-    left: 0;
-    width: 100%;
-    opacity: .25;
-    transition: $fast;
-    background: currentColor;
-  }
-  &:hover:after, &:focus:after {
-    opacity: 1;
-  }
+@mixin underline($color) {
+  text-decoration: underline;
+  text-decoration-color: $color;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.2em;
 }
 
 %bodycopy {
@@ -80,11 +65,10 @@ $br: 3px;
     }
   }
   a {
-    text-decoration-thickness: 1px;
-    text-decoration-color: gray;
+    @include underline($gray);
     &:hover,
     &:focus {
-      text-decoration: none;
+      @include underline($black);
     }
   }
 }

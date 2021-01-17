@@ -9,12 +9,9 @@
   z-index: 1000;
   color: $black;
   transition: $fast;
-  background-color: rgba(255,255,255,calc(var(--y) * .01));
+  background-color: rgba(255, 255, 255, calc(var(--y) * 0.01));
   font-weight: 400;
-  font-size: var(--ms--1);
-  @include bp(s){
-    font-size: var(--ms-0);
-  }
+  font-size: var(--ms-0);
   .home & {
     color: white;
   }
@@ -32,12 +29,15 @@
   font-size: 0;
   &:after {
     font-size: var(--ms-0);
-    content: "AL"
+    content: "AL";
   }
-  @include bp(s){
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  @include bp(s) {
     font-size: var(--ms-0);
     &:after {
-      content: ""
+      content: "";
     }
   }
 }
@@ -48,13 +48,9 @@
   display: flex;
   justify-content: space-between;
   a {
-    margin-left: 1em;
     text-transform: uppercase;
     font-weight: 400;
-    letter-spacing: .03em;
-    &:first-of-type {
-      margin-left: 0;
-    }
+    letter-spacing: 0.03em;
   }
 }
 

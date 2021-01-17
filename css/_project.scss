@@ -50,7 +50,6 @@
   }
   p {
     grid-column: 1 / 13;
-    padding-right: 1em;
     @include bp(l) {
       grid-column: 3 / 11;
     }
@@ -98,6 +97,7 @@
 
 .note {
   font-size: var(--ms-0);
+  padding-top: 1em;
 }
 
 .gallery {

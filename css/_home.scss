@@ -69,13 +69,9 @@
   bottom: 0;
   width: 100%;
   padding: 1rem;
-  font-size: var(--ms--1);
   padding: 1em var(--padding);
-  @include bp(s) {
-    font-size: var(--ms-0);
-  }
+  font-size: var(--ms-0);
   @include bp(m) {
-    font-size: var(--ms-1);
     padding: 1.5em var(--padding);
   }
   z-index: 1500;

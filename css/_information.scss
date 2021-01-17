@@ -67,10 +67,15 @@
     display: block;
     font-size: var(--ms-0);
   }
+}
+.information-blocks,
+.information-clients {
   a {
-    margin-bottom: .25em;
+    margin-bottom: 0.3em;
+    display: inline-block;
     @include underline($gray);
-    &:hover, &:focus {
+    &:hover,
+    &:focus {
       @include underline($black);
     }
   }
@@ -88,12 +93,5 @@
   }
   section {
     margin-bottom: 1.5em;
-  }
-  a {
-    margin-bottom: 0.25em;
-    @include underline($gray);
-    &:hover, &:focus {
-      @include underline($black);
-    }
   }
 }

@@ -23,7 +23,11 @@ function initLightbox() {
       captionEl.innerText = item.getAttribute("data-caption");
 
       const newMediaEl = document.createElement("img");
-      newMediaEl.setAttribute("src", item.getAttribute("src"));
+      if (item.getAttribute("data-full-src")){
+        newMediaEl.setAttribute("src", item.getAttribute("data-full-src"));
+      } else {
+        newMediaEl.setAttribute("src", item.getAttribute("src"));
+      }
       newMediaEl.classList.add("lightbox-media");
       mediaContainer.appendChild(newMediaEl);
       window.setTimeout(()=>{

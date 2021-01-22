@@ -2,7 +2,7 @@
 layout: project
 title: "20/20: Alternative Futures"
 draft: false
-subtitle: Digital and printed visual identity for PHASE3's spin-off launch event.
+subtitle: Digital and printed visual identity for PHASE3's spin-off launch event
 date: 2021-01-08T17:23:32.936Z
 start_year: 2019
 end_year: 2019

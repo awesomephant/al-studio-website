@@ -27,11 +27,7 @@ This research book looks at the relationships between gerontology and the discip
 
 *To preview the digital version of the book please click [here](https://issuu.com/adalbertolonardiworks/docs/how_to_take_care_of_the_old_preview).*
 
-{% note %}
 
-Credits: [Barry Curtis](https://www.linkedin.com/in/barry-curtis-b308b36)
-
-{% endnote %}
 
 ![Book spread with Age-Friendly Cities diagram](/assets/uploads/chs_page6.jpg "Book spread with Age-Friendly Cities diagram")
 

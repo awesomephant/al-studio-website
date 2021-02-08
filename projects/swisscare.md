@@ -19,7 +19,7 @@ featured_image:
 related_projects:
   - Frahm&Frahm
 ---
-Natural supplements and cosmetics brand Swisscare claimed a fresh look for their new visual identity. The assets ranged from stationery and brochures to website, social media and large scale digitally printed canvases. AL designed a highly customized botanical language and applied it to both printed and digital material as an individual element or pattern. The identity was developed based on the brand seasonal products.
+Natural supplements and cosmetics brand Swisscare claimed a fresh look for their new visual identity based on the products' seasonal ingredients. The assets ranged from stationery and brochures to website, social media and large scale digitally printed canvases. AL designed a highly customized botanical language and applied it to both printed and digital material as an individual element or pattern.
 
 For more information about the company please visit: [Swisscare](https://www.swisscare.it)
 

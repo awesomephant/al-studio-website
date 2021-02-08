@@ -19,7 +19,7 @@ tags:
   - Culture
 featured_image:
   landscape: /assets/uploads/io_desktop2.jpg
-  portrait: /assets/uploads/test3.jpg
+  portrait: /assets/uploads/test4.jpg
   alt: Lectures posters of Flores and Prats, Formafatasma, and Manou Mami
   light_image: false
 related_projects:

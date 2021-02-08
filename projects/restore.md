@@ -23,12 +23,14 @@ Restore is a site-specific window art installation at the Mason’s Arms Pub, pa
 
 Restore is about the celebration of the sense of belonging as a symbol of light. Inspired by mystical stained glass windows, the drawings represent the Mason’s Arms Pub community around a dining table as a space to restore conviviality and togetherness among young and old generations. The drawing style is a unique feature of my artworks, continuing and evolving ‘The United Generations’ project. Developed as a universal pictorial language, it encourages simplicity, inclusivity and personal interpretation. The drawings are the outcome of an iterative process which includes computer rendering, creative software and hand painting.
 
-For more information please visit: [@nineelmsartsministry](https://www.instagram.com/nineelmsartsministry/)
+*For more information please visit: [@nineelmsartsministry](https://www.instagram.com/nineelmsartsministry/)*
 
 {% note %}
 
 
+
 (2 windows x 110x200cm, coloured Posca markers on glass)
+
 
 
 {% endnote %}

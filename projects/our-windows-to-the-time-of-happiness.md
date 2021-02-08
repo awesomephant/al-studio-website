@@ -17,7 +17,7 @@ featured_image:
 related_projects:
   - Kaledoscopio Centro Artistico
 ---
-The art installation consisted of a 60 minutes screening animation of the sky's changing gradients. The colours are picked from a series of photographs taken at pure dusk and downs titled 'Our windows to the time of happiness'.
+The art installation consisted of a 60 minutes screening animation of the sky's changing gradients. The colours are picked from a series of photographs titled 'Our windows to the time of happiness'.
 
 'Our windows to the time of happiness' is a collection of dusks and dawns photographs, portrayed as pure ever-changing tones, shot from my family house over two years. In a time when a global crisis is happening and the grey exterior environment becomes hostile to survive, I propose to look from our interior windows at the colourful sky to dream, find peace and celebrate what happiness means - the essential.
 

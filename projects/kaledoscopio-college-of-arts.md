@@ -19,15 +19,9 @@ featured_image:
 related_projects:
   - Inside/Out
 ---
-Kaledoscopio is a child-sized art centre aimed at developing the children creative potentials. Artistic laboratories where the child can create and experiment his skills, offer the possibility of a re-evaluation of those activities and emotions addressed to develop a better self.
+Kaledoscopio is a children-sized art centre aimed at developing the child creative potentials. Artistic laboratories where the child can create and experiment his skills, offer the possibility of a re-evaluation of those activities and emotions addressed to develop a better self.
 
 ‘…And thus they tell the child that the hundred is not there. The child says: No way. The hundred is there.’ (Loris Malaguzzi, The Hundred Languages 1987).
-
-{% note %}
-
-Credits: Studio Mente Corpo
-
-{% endnote %}
 
 ![College perspective view from the entrance with kids playing and modernist architecture.](/assets/uploads/kidcenter_exterior.jpg "College perspective view from the entrance")
 

@@ -21,10 +21,12 @@ related_projects:
 ---
 AL art directed and designed the new Frahm & Frahm website. F&F specialises in producing large-scale institutional exhibitions, collaborating on special projects with major contemporary artists and building some of the world’s great private art collections. 
 
-*To experience the design please visit: [www.frahmandfrahm.com](http://frahmandfrahm.com/)*
+To experience the design please visit [www.frahmandfrahm.com](http://frahmandfrahm.com/).
 
 {% note %}
 
+
 Credits: [Max Koehler](maxkoehler) (Front-end developer)
+
 
 {% endnote %}

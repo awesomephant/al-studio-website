@@ -20,7 +20,7 @@ related_projects:
 ---
 Started as a study of the variations of the cylinder, Lathe C (Cylinder) Series is a high quality ceramic tableware collection developed in collaboration with Perlini Ceramic Art. The vessels are conceived as stackable objects which simple shapes and modular dimensions adapt to any type of food and tables. The collection is produced in earthenware by hand on the wheel, fired at 1020ºC, and finished with a translucent glaze.
 
-For more information and purchase please visit: [Perlini Ceramic Art](http://www.perliniceramicart.com/)
+For more information and purchase please visit [Perlini Ceramic Art](http://www.perliniceramicart.com/).
 
 ![white ceramic tableware, stacked cylinders](/assets/uploads/ac06b66e-3c10-4a53-bcf9-97f008350225-2.jpeg "Lathe C Series collection (high quality earthenware with translucent glaze)")
 

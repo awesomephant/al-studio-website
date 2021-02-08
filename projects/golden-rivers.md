@@ -10,7 +10,7 @@ tags:
   - Art Installation
 featured_image:
   landscape: /assets/uploads/dscf3628-2.jpg
-  portrait: /assets/uploads/goldenrivers-mobile.jpg
+  portrait: /assets/uploads/al_template-mobile-test.jpg
   alt: Golden fabric on top of a french castle in the countryside.
   light_image: false
 related_projects:

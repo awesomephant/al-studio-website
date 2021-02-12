@@ -2,7 +2,7 @@
 layout: project
 title: Golden Rivers
 draft: false
-subtitle: Large scale art installation at Domain de Boisbuchet
+subtitle: Large scale art installation at Domain de Boisbuchet research center
 date: 2021-01-10T12:36:03.112Z
 start_year: 2018
 end_year: 2018

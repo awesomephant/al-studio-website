@@ -8,7 +8,7 @@ start_year: 2020
 end_year: 2021
 tags:
   - Community
-  - Art Installation
+  - Exhibition
   - Social Empowerment
 featured_image:
   landscape: /assets/uploads/restore_desktop2.jpg

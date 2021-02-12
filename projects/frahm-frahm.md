@@ -10,7 +10,6 @@ end_year: 2020
 tags:
   - Art Direction
   - Culture
-  - Digital
 featured_image:
   landscape: /assets/uploads/ff-desktop.jpg
   alt: "Homapge desktop website view "

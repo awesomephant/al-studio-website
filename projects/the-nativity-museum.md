@@ -7,7 +7,7 @@ date: 2020-11-09T19:17:06.511Z
 start_year: 2019
 end_year: 2019
 tags:
-  - Installation
+  - Research
   - Spaces
   - Culture
 featured_image:

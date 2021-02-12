@@ -7,7 +7,6 @@ date: 2020-10-23T22:43:28.502Z
 start_year: 2019
 end_year: 2019
 tags:
-  - Workshop
   - Art Direction
   - Education
 featured_image:

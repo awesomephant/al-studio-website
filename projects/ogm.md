@@ -10,7 +10,6 @@ start_year: 2018
 tags:
   - Art direction
   - Sustainability
-  - Digital
 featured_image:
   landscape: /assets/uploads/ogm-desktop2.jpg
   portrait: /assets/uploads/ogm_mobile.jpg

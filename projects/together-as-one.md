@@ -7,7 +7,7 @@ date: 2021-01-06T17:23:48.377Z
 start_year: 2021
 end_year: 2021
 tags:
-  - Art Installation
+  - Exhibition
   - Community
   - Social Empowerment
 featured_image:

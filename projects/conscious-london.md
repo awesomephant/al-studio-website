@@ -10,7 +10,6 @@ end_year: 2020
 tags:
   - Art direction
   - Wellbeing
-  - Digital
   - Community
 featured_image:
   landscape: /assets/uploads/cl_desktop.jpg

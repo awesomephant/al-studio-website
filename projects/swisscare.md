@@ -8,7 +8,6 @@ start_year: 2017
 end_year: 2018
 tags:
   - Art Direction
-  - Digital
   - Wellbeing
   - Sustainability
 featured_image:

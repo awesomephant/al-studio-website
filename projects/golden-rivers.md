@@ -20,16 +20,6 @@ Golden Rivers is a bright and hypnotic art installation that leads the viewer to
 
 For more information about the collaboration please visit [Domaine de Boisbuchet](https://www.boisbuchet.org/workshop/exploring-light/).
 
-{% note %}
-
-
-
-Credits: [Sabines Marcelis](https://sabinemarcelis.com/)
-
-
-
-{% endnote %}
-
 ![Installation in place on Domain de Boisbuchet castle](/assets/uploads/dscf3638.jpg "Installation in place on Domain de Boisbuchet castle")
 
 ![Staircase view of the river towards the field](/assets/uploads/stairs.jpg "Staircase view of the river towards the field")

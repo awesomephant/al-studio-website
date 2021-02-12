@@ -7,7 +7,7 @@ date: 2021-01-10T12:36:03.112Z
 start_year: 2018
 end_year: 2018
 tags:
-  - Art Installation
+  - Exhibition
 featured_image:
   landscape: /assets/uploads/dscf3628-2.jpg
   portrait: /assets/uploads/goldenrivers-mobile.jpg

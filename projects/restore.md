@@ -5,7 +5,7 @@ draft: false
 subtitle: Hand-painted public glass installation for the Nine Elms Art Ministry
 date: 2020-12-09T16:14:26.351Z
 start_year: 2020
-end_year: 2021
+end_year: 2020
 tags:
   - Community
   - Exhibition

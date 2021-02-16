@@ -13,7 +13,6 @@ tags:
   - Spaces
   - Community
   - Sustainability
-  - Education
   - Wellbeing
   - Social Empowerment
 featured_image:

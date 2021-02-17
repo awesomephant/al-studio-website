@@ -24,7 +24,7 @@ To know more about the workshop please visit [The Walkative Project](http://thew
 {% note %}
 
 
-Credits: [Katharina Siegel](http://www.katharinasiegel.de/) (Walkative 2019/2020 co-president), [Max Koehler](maxkoehler) (graphic designer and front-end developer), [Jose Garcia Oliva](https://josegarciaoliva.com/) (publication designer)
+Credits: [Katharina Siegel](http://www.katharinasiegel.de/) (Walkative 2019/2020 co-president), [Max Kohler](maxkoehler) (graphic designer and front-end developer), [Jose Garcia Oliva](https://josegarciaoliva.com/) (publication designer)
 
 
 {% endnote %}

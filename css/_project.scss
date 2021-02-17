@@ -101,7 +101,11 @@
   @include bp(m){
     font-size: var(--ms-0);
   }
+  max-width: 45em;
   padding-top: 1em;
+  p {
+    hyphens: none;
+  }
 }
 
 .gallery {

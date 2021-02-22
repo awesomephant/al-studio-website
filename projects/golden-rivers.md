@@ -16,7 +16,7 @@ featured_image:
 related_projects:
   - To the time of happiness
 ---
-Golden Rivers is a bright and hypnotic art installation that leads the viewer towards the exaltation of architecture, adding warmth to the materiality of the buildings and communicating a sense of serenity and inner peace through the reflection of light. Light is not only an element that allows us to see but also a force that holds the truth reached through knowledge. The medium of light acts as an immaterial bridge between man and the architectural space where it manifests itself. Light, as an incorporeal phenomenon, is revealed to the viewer through the use of a tangible element. 
+Golden Rivers is a site-specific, large-scale installation at Domaine de Boisbuchet design research centre, about the celebration of light as one of the elements of our inner space. Light, as much as shadow, drives human behaviour towards confidence and aperture but also introspection and solitude. These are common feelings in the world we live in today where reaching out is as challenging as reaching in. Golden Rivers reflect the optimistic, peaceful and dynamic part of us. It is the golden path that leads to the end of the tunnel. It motivates us, shakes us; it inspires us to believe in ourselves.
 
 For more information about the collaboration please visit [Domaine de Boisbuchet](https://www.boisbuchet.org/workshop/exploring-light/).
 

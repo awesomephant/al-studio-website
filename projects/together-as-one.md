@@ -36,4 +36,6 @@ Produced by [KCAW](https://www.kcaw.co.uk/); In collaboration with the [Royal Co
 
 ![Mural detail, coloured technical drawing](/assets/uploads/dscf0026.jpg "Mural detail, coloured technical drawing")
 
+{% gallery "%5B%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fimg_3911.jpg%22%7D%2C%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fimg_4079.jpg%22%7D%5D" %}
+
 ![Mural overall, coloured sketch (100x25cm)](/assets/uploads/togetherasone_sketch2.jpg "Mural overall, coloured sketch (100x25cm)")

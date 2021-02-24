@@ -5,7 +5,7 @@ media: []
 image_size: large
 layout: project
 title: How to take care of the old
-subtitle: Limited edition publication about ageing well for the Royal College of Arts
+subtitle: Limited edition publication about ageing well for Royal College of Art
 date: 2020-07-30
 start_year: 2018
 tags:

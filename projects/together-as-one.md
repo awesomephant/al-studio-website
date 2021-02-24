@@ -26,16 +26,22 @@ Together as One is part of “Love Kensington + Chelsea”, a public art initiat
 
 For more information please visit [Kensignton + Chelsea Art Week](https://www.kcaw.co.uk/mural-5-vote).
 
+(25x2.5 m,  acrylic paint on wood)
+
 {% note %}
+
 Produced by [KCAW](https://www.kcaw.co.uk/); In collaboration with the [Royal College of Art](https://www.rca.ac.uk/), [London Projects](https://www.londonprojects.co.uk/), and [Studio Indigo](https://studioindigo.co.uk/).
+
 {% endnote %}
 
-![Mural overall, coloured and outiline technical drawings](/assets/uploads/dscf0037.jpg)
+![Together as One –  Pottery and pig farming scene](/assets/uploads/dscf0037.jpg "Together as One –  Pottery and pig farming scene")
 
-![Mural overall, coloured and outiline technical drawings](/assets/uploads/dscf0039.jpg "Mural overall, coloured and outiline technical drawings")
+![Together as One –  Early Portobello Market scene](/assets/uploads/dscf0039.jpg "Together as One –  Early Portobello Market scene")
 
-![Mural detail, coloured technical drawing](/assets/uploads/dscf0026.jpg "Mural detail, coloured technical drawing")
+![Together as One –  Family dressing for Carnival scene](/assets/uploads/dscf0026.jpg "Together as One –  Family dressing for Carnival scene")
 
-{% gallery "%5B%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fimg_3911.jpg%22%7D%2C%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fimg_4079.jpg%22%7D%5D" %}
+{% gallery "%5B%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fimg_3911.jpg%22%2C%22caption%22%3A%22Together%20as%20One%20%E2%80%93%20%20The%20wise%20and%20the%20bird%20detail%22%2C%22alt%22%3A%22Together%20as%20One%20%E2%80%93%20%20The%20wise%20and%20the%20bird%20detail%22%7D%2C%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fimg_4079.jpg%22%2C%22caption%22%3A%22Together%20as%20One%20%E2%80%93%20%20The%20Carnival%20children%20detail%22%2C%22alt%22%3A%22Together%20as%20One%20%E2%80%93%20%20The%20Carnival%20children%20detail%22%7D%5D" %}
 
-![Mural overall, coloured sketch (100x25cm)](/assets/uploads/togetherasone_sketch2.jpg "Mural overall, coloured sketch (100x25cm)")
+{% gallery "%5B%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fimg_4175.jpg%22%2C%22caption%22%3A%22Together%20as%20One%20%E2%80%93%20%20Botanical%20detail%2001%22%2C%22alt%22%3A%22Together%20as%20One%20%E2%80%93%20%20Botanical%20detail%2001%22%7D%2C%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fimg_4174.jpg%22%2C%22caption%22%3A%22Together%20as%20One%20%E2%80%93%20%20Botanical%20detail%2002%22%2C%22alt%22%3A%22Together%20as%20One%20%E2%80%93%20%20Botanical%20detail%2002%22%7D%5D" %}
+
+![Together as One –  Mural overall coloured sketch (100x25cm)](/assets/uploads/togetherasone_sketch2.jpg "Together as One –  Mural overall coloured sketch (100x25cm)")

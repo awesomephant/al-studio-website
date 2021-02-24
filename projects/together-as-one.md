@@ -22,16 +22,10 @@ When the world changes and pulls us apart, we need to reconnect with one another
 
 Together as one is a site-specific, hand-painted mural that celebrates the power of the Notting Hill community as a symbol of harmony and unity for a better tomorrow. Inspired by the neighbourhood’s local history and the architectural restoration of the site the drawings represent three stories in time. The first panel depicts a time when pottery making and farming brought together young and old residents of the rural Knottynghull village. The second panel represents an early Portobello Market where the relationships between vendors and customers was vital to energising the life of the streets. Finally, the third panel presents the intimate moment of a family preparing for the annual Carnival inside a recently renovated Georgian house. 
 
-Together as One is part of “Love Kensington + Chelsea”, a public art initiative that celebrates the histories of the area with beautiful, temporary artworks on construction hoardings, created by local artists and chosen by public vote.   
-
 For more information please visit [Kensignton + Chelsea Art Week](https://www.kcaw.co.uk/mural-5-vote).
 
-(25x2.5 m,  acrylic paint on wood)
-
 {% note %}
-
-Produced by [KCAW](https://www.kcaw.co.uk/); In collaboration with the [Royal College of Art](https://www.rca.ac.uk/), [London Projects](https://www.londonprojects.co.uk/), and [Studio Indigo](https://studioindigo.co.uk/).
-
+(25x2.5 m,  acrylic paint on wood)
 {% endnote %}
 
 ![Together as One –  Pottery and pig farming scene](/assets/uploads/dscf0037.jpg "Together as One –  Pottery and pig farming scene")

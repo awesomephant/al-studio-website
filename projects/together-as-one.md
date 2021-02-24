@@ -28,7 +28,7 @@ For more information please visit [Kensignton + Chelsea Art Week](https://www.kc
 In collaboration with: [KCAW](https://www.kcaw.co.uk/), [Kensignton + Chelsea Art Week](https://www.kcaw.co.uk/), [Royal College of Art](https://www.rca.ac.uk/), [London Projects](https://www.londonprojects.co.uk/), [Studio Indigo](https://studioindigo.co.uk/)
 {% endnote %}
 
-
+![](/assets/uploads/dscf0037.jpg)
 
 ![Mural overall, coloured and outiline technical drawings](/assets/uploads/dscf0039.jpg "Mural overall, coloured and outiline technical drawings")
 

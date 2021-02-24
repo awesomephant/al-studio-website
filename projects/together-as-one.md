@@ -11,10 +11,10 @@ tags:
   - Community
   - Social Empowerment
 featured_image:
-  landscape: /assets/uploads/togetherasone_render.jpg
-  portrait: /assets/uploads/togetherasone_render.jpg
+  landscape: /assets/uploads/dscf0075.jpg
+  portrait: /assets/uploads/dscf0075.jpg
   light_image: false
-  alt: Colorful mural rendering with drawings of community-inspired images.
+  alt: Colorful mural with drawings of community-inspired images.
 related_projects:
   - Restore
 ---

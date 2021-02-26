@@ -23,8 +23,10 @@ Co-created visual identity for the Conscious London 2020, a chapter of the Consc
 
 Conscious London 2020 brought together multidisciplinary speakers for an online three-day cultural programme of talks, conversations, screenings and virtual visits to inspire and connect the science, design and creative communities.
 
-To view the design and watch the talks please visit [Conscious London](https://www.youtube.com/channel/UC-Bbwz5OiTCqCCmIH9RQxwA).
+View the design and watch the talks at [Conscious London](https://www.youtube.com/channel/UC-Bbwz5OiTCqCCmIH9RQxwA).
 
 {% note %}
+
 Credits: [Studio Jenny Jones](https://studiojennyjones.com/) (Fellow), [Natasha Reid](https://www.matterspacesoul.com/) (Fellow), [Mark Besseudo](https://markbessoudo.com/hi/) (Fellow)
+
 {% endnote %}

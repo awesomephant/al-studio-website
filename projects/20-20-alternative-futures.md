@@ -18,9 +18,7 @@ featured_image:
 related_projects:
   - OGM Plant
 ---
-AL curated the visual identity of the 20/20 launch event at The Groundfloor Space on October 16, 2019. The event branding included a poster, a tabloid, a video projection and social media assets. 
-
-20/20: Alternative Futures is a collection of stories, ideas, talks about 20 ideas for 20 years from now. An opportunity to exchange with practitioners from other industries and disciplines, to question established practices, investigate possibilities, and imagine a collective future.
+AL curated the visual identity of the 20/20 launch event at The Groundfloor Space on October 16, 2019. The event branding included a poster, a tabloid, a video projection and social media assets. 20/20: Alternative Futures is a collection of stories, ideas, talks about 20 ideas for 20 years from now. An opportunity to exchange with practitioners from other industries and disciplines, to question established practices, investigate possibilities, and imagine a collective future.
 
 For more information please visit [Phase3](https://phase3.uk/).
 

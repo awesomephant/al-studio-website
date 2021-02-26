@@ -7,7 +7,7 @@ date: 2020-10-23T22:51:31.736Z
 start_year: 2020
 end_year: 2020
 tags:
-  - Art direction
+  - Vis
   - Wellbeing
   - Community
 featured_image:
@@ -18,7 +18,7 @@ featured_image:
 related_projects:
   - "20/20: Alternative Futures"
 ---
-Visual identity for the Conscious London 2020, a chapter of the Conscious Cities Movement, part of [The Centre for Conscious Design (CCD)](https://theccd.org/). The visual identity included multiple social media assets and infographics for the three-day event.
+Co-created visual identity for the Conscious London 2020, a chapter of the Conscious Cities Movement, part of [The Centre for Conscious Design (CCD)](https://theccd.org/). The visual identity included multiple social media assets and infographics for the three-day event.
 
 Conscious London 2020 brought together multidisciplinary speakers for an online three-day cultural programme of talks, conversations, screenings and virtual visits to inspire and connect the science, design and creative communities.
 

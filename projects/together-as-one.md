@@ -11,9 +11,9 @@ tags:
   - Community
   - Social Empowerment
 featured_image:
-  landscape: /assets/uploads/dscf0075.jpg
+  landscape: /assets/uploads/tao-desktop.jpg
   portrait: /assets/uploads/dscf0075.jpg
-  light_image: true
+  light_image: false
   alt: Colorful mural with drawings of community-inspired images.
 related_projects:
   - Restore

@@ -13,7 +13,7 @@ tags:
 featured_image:
   landscape: /assets/uploads/dscf0075.jpg
   portrait: /assets/uploads/dscf0075.jpg
-  light_image: false
+  light_image: true
   alt: Colorful mural with drawings of community-inspired images.
 related_projects:
   - Restore

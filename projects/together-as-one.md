@@ -25,13 +25,9 @@ Together as one is a site-specific, hand-painted mural that celebrates the power
 For more information about the design please visit [Kensignton + Chelsea Art Week Mural #5](https://www.kcaw.co.uk/mural-5-vote).
 
 {% note %}
-
-
-
 (25x2.5 m,  acrylic paint on wood)
 
-
-
+In collaboration with [KCAW](https://www.kcaw.co.uk/mural-5-vote), [Royal College of Art](https://www.rca.ac.uk/), [London Projects](https://www.londonprojects.co.uk/), and [Studio Indigo](https://studioindigo.co.uk/)
 {% endnote %}
 
 ![Together as One –  Pottery and pig farming scene](/assets/uploads/dscf0037.jpg "Together as One –  Pottery and pig farming scene")

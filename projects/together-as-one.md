@@ -27,19 +27,21 @@ For more information about the design please visit [Kensignton + Chelsea Art Wee
 {% note %}
 
 
+
 (25x2.5 m,  acrylic paint on wood)
+
 
 
 {% endnote %}
 
 ![Together as One –  Pottery and pig farming scene](/assets/uploads/dscf0037.jpg "Together as One –  Pottery and pig farming scene")
 
+{% gallery "%5B%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fimg_3911.jpg%22%2C%22alt%22%3A%22Together%20as%20One%20%E2%80%93%20%20The%20wise%20and%20the%20bird%20detail%22%2C%22caption%22%3A%22Together%20as%20One%20%E2%80%93%20%20The%20wise%20and%20the%20bird%20detail%22%7D%2C%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fimg_4174.jpg%22%2C%22caption%22%3A%22Together%20as%20One%20%E2%80%93%20%20Botanical%20detail%2001%22%2C%22alt%22%3A%22Together%20as%20One%20%E2%80%93%20%20Botanical%20detail%2001%22%7D%5D" %}
+
 ![Together as One –  Early Portobello Market scene](/assets/uploads/dscf0039.jpg "Together as One –  Early Portobello Market scene")
 
+{% gallery "%5B%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fimg_4175.jpg%22%2C%22caption%22%3A%22Together%20as%20One%20%E2%80%93%20%20Botanical%20detail%2002%22%2C%22alt%22%3A%22Together%20as%20One%20%E2%80%93%20%20Botanical%20detail%2002%22%7D%2C%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fimg_4079.jpg%22%2C%22caption%22%3A%22Together%20as%20One%20%E2%80%93%20%20The%20Carnival%20children%20detail%22%2C%22alt%22%3A%22Together%20as%20One%20%E2%80%93%20%20The%20Carnival%20children%20detail%22%7D%5D" %}
+
 ![Together as One –  Family dressing for Carnival scene](/assets/uploads/dscf0026.jpg "Together as One –  Family dressing for Carnival scene")
-
-{% gallery "%5B%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fimg_3911.jpg%22%2C%22caption%22%3A%22Together%20as%20One%20%E2%80%93%20%20The%20wise%20and%20the%20bird%20detail%22%2C%22alt%22%3A%22Together%20as%20One%20%E2%80%93%20%20The%20wise%20and%20the%20bird%20detail%22%7D%2C%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fimg_4079.jpg%22%2C%22caption%22%3A%22Together%20as%20One%20%E2%80%93%20%20The%20Carnival%20children%20detail%22%2C%22alt%22%3A%22Together%20as%20One%20%E2%80%93%20%20The%20Carnival%20children%20detail%22%7D%5D" %}
-
-{% gallery "%5B%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fimg_4175.jpg%22%2C%22caption%22%3A%22Together%20as%20One%20%E2%80%93%20%20Botanical%20detail%2001%22%2C%22alt%22%3A%22Together%20as%20One%20%E2%80%93%20%20Botanical%20detail%2001%22%7D%2C%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fimg_4174.jpg%22%2C%22caption%22%3A%22Together%20as%20One%20%E2%80%93%20%20Botanical%20detail%2002%22%2C%22alt%22%3A%22Together%20as%20One%20%E2%80%93%20%20Botanical%20detail%2002%22%7D%5D" %}
 
 ![Together as One –  Mural overall coloured sketch (100x25cm)](/assets/uploads/togetherasone_sketch2.jpg "Together as One –  Mural overall coloured sketch (100x25cm)")

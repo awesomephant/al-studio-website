@@ -18,16 +18,10 @@ featured_image:
 related_projects:
   - Golden Rivers
 ---
-AL art directed and designed the new Frahm & Frahm website. F&F specialises in producing large-scale institutional exhibitions, collaborating on special projects with major contemporary artists and building some of the world’s great private art collections. The simple and elegant design wants to celebrate the photographs and films of the Frahm brothers' projects through a clean grid and large scale images. The works can be filtered by date and they can be discovered in different ways, from the Projects index to the Films and the News pages.
+AL art directed and designed the new Frahm & Frahm website. F&F specialises in producing large-scale institutional exhibitions, collaborating on special projects with major contemporary artists and building some of the world’s great private art collections. The minimal and elegant design wants to celebrate the visual documentation of the Frahm brothers' projects through a clean grid layout and large scale images and films.  In fact, the information has been carefully selected on each page to present only the essential and guide the visitor intuitively through the website. The single works can be discovered from the general Projects page using a year filtering system on the top timeline. Most of the projects are accompanied by poetic short documentaries collected in the Films section. The News page tells the stories of the projects in a one-column archive which can be browsed filtering by artists and location.
 
 To experience the website please visit [www.frahmandfrahm.com](http://frahmandfrahm.com/).
 
 {% note %}
-
-
-
 Credits: [Max Koehler](maxkoehler) (Front-end developer)
-
-
-
 {% endnote %}

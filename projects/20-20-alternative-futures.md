@@ -18,9 +18,9 @@ featured_image:
 related_projects:
   - OGM Plant
 ---
-AL curated the visual identity of the 20/20 launch event at The Groundfloor Space on October 16, 2019. The event branding included a poster, a tabloid, a video projection and social media assets. 20/20: Alternative Futures is a collection of stories, ideas, talks about 20 ideas for 20 years from now. An opportunity to exchange with practitioners from other industries and disciplines, to question established practices, investigate possibilities, and imagine a collective future.
+AL curated the visual identity of the 20/20 launch event created and organized by Phase3. The event branding included a poster, a tabloid, a video projection and social media assets in line with the visual identity of the architecture studio. 20/20: Alternative Futures is a collection of stories, ideas, talks about 20 ideas for 20 years from now. An opportunity to exchange with practitioners from other industries and disciplines, to question established practices, investigate possibilities, and imagine a collective future.
 
-For more information please visit [Phase3](https://phase3.uk/).
+Discover more at [Phase3](https://phase3.uk/).
 
 {% embed "%7B%22code%22%3A%22%3Cdiv%20style%3D%5C%22padding%3A56.25%25%200%200%200%3Bposition%3Arelative%3B%5C%22%3E%3Ciframe%20src%3D%5C%22https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F498748479%3Fautoplay%3D1%26loop%3D1%26title%3D0%26byline%3D0%26portrait%3D0%5C%22%20style%3D%5C%22position%3Aabsolute%3Btop%3A0%3Bleft%3A0%3Bwidth%3A100%25%3Bheight%3A100%25%3B%5C%22%20frameborder%3D%5C%220%5C%22%20allow%3D%5C%22autoplay%3B%20fullscreen%5C%22%20allowfullscreen%3E%3C%2Fiframe%3E%3C%2Fdiv%3E%3Cscript%20src%3D%5C%22https%3A%2F%2Fplayer.vimeo.com%2Fapi%2Fplayer.js%5C%22%3E%3C%2Fscript%3E%22%2C%22caption%22%3A%22Screening%20animation%20timelapse%20of%20the%2020%2F20%20launch%20event%20at%20The%20Groundfloor%20Space.%22%7D" %}
 

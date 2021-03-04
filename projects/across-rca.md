@@ -16,14 +16,10 @@ featured_image:
 related_projects:
   - The Nativity Museum
 ---
-This is a walking-based project led by 2019-20 co-presidents Adalberto Lonardi (MA Interior Design) and Katharina Siegel (MA Sculpture), following on from the Walkative Across RCA projects. The workshop had as its outcome the publication and exhibition of 4 group projects. The input was in the form of guest presentations that, inter alia, provide a history of psychogeography and art movements that explored ways of unleashing the subconscious imagination.
+This is a walking-based project led by 2019-20 co-presidents AL and Katharina Siegel, following on from the Walkative Across RCA projects led by Simon King and Jaspar Joseph-Lester between 2013-15 which evolved into the student-led Walkative Society. The workshop has as its outcome the publication and exhibition of four independent and group projects. The input was in the form of guest presentations, walks, and  provide a history of psychogeography and art movements that explored ways of unleashing the subconscious imagination. Participants mapped an area of London taking into consideration modern or future social patterns. In collaboration with RCA graphic designers José Garcia and Betty Brunfaut we will communicate the outcome works in a self-published fanzine.
 
-To know more about the workshop please visit [The Walkative Project](http://thewalkativeproject.org/event/across-rca-2019/).
+Discover the workshop at [The Walkative Project](http://thewalkativeproject.org/event/across-rca-2019/).
 
 {% note %}
-
-
-Credits: [Katharina Siegel](http://www.katharinasiegel.de/) (Walkative 2019/2020 co-president), [Max Kohler](maxkoehler) (graphic designer and front-end developer), [Jose Garcia Oliva](https://josegarciaoliva.com/) (publication designer)
-
-
+Credits: [Katharina Siegel](http://www.katharinasiegel.de/) (Walkative Society 2019/2020 co-president), [Max Kohler](maxkoehler) (graphic designer and front-end developer), [Jose Garcia Oliva](https://josegarciaoliva.com/) and Betty Brunfaut (publication designer)
 {% endnote %}

@@ -18,7 +18,7 @@ featured_image:
 related_projects:
   - OGM Plant
 ---
-AL curated the visual identity of the 20/20 launch event created and organized by Phase3. The event branding included a poster, a tabloid, a video projection and social media assets in line with the visual identity of the architecture studio. 20/20: Alternative Futures is a collection of stories, ideas, talks about 20 ideas for 20 years from now. An opportunity to exchange with practitioners from other industries and disciplines, to question established practices, investigate possibilities, and imagine a collective future.
+AL curated the visual identity of the 20/20 launch event created and organized by Phase3, an international design team based in London. The event branding included a poster, a tabloid, a video projection, and social media assets in line with the architecture studio's visual identity. The design, inspired by neutral and futuristic tonalities such as silver and purple, consists of a simple layout enriched by ripple typography and bespoke icons designed by Phase3.  20/20: Alternative Futures is a collection of stories, ideas, talks about 20 ideas for 20 years from now. An opportunity to exchange with practitioners from other industries and disciplines, to question established practices, investigate possibilities, and imagine a collective future.
 
 Discover more at [Phase3](https://phase3.uk/).
 

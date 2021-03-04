@@ -23,5 +23,5 @@ AL art directed and designed the new Frahm & Frahm website. F&F specialises in p
 To experience the website please visit [www.frahmandfrahm.com](http://frahmandfrahm.com/).
 
 {% note %}
-Front-end developer: [Max Koehler](maxkoehler)
+Credit: [Max Koehler](maxkoehler) (Front-end developer)
 {% endnote %}

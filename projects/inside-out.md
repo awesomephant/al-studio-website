@@ -25,9 +25,9 @@ featured_image:
 related_projects:
   - Across RCA
 ---
-AL designed the printed and digital visual communication for the public lecture series, Inside/Out 2018-2020, run by the Interior Design Programme of the RCA School of Architecture. The branding included printed posters, digital communication, and social media assets. The studio curated and managed the speakers' programme, communication and production. The Inside/Out lectures programme interrogates the interior architecture spaces as a medium of expression of individuals in the urban space and an opportunity of experience for the collectivity.
+AL designed the printed and digital visual communication for the public lecture series, Inside/Out 2018-2020, run by the Interior Design Programme of the RCA School of Architecture. The branding included printed posters, digital communication, and social media assets to promote the talks. The identity design includes a standard clear and simple layout that celebrates the lecturers' names and their hero images in the background. AL also curated and managed the speakers' programme, communication and production. The Inside/Out lectures programme interrogates the interior architecture spaces as a medium of expression of individuals in the urban space and an opportunity to experience the collectivity.
 
-To see past and future Inside/Out lecture please visit [Inside/Out Lecture Series](https://www.rca.ac.uk/news-and-events/events/?programme=interiordesign&period=past).
+See past and future lectures at [Inside/Out](https://www.rca.ac.uk/news-and-events/events/?programme=interiordesign&period=past).
 
 {% gallery "%5B%7B%22caption%22%3A%22Robert%20Storey%20printed%20poster%20(Set%20Design)%22%2C%22alt%22%3A%22Robert%20Storey%20printed%20poster%20(Set%20Design)%22%2C%22image%22%3A%22%2Fassets%2Fuploads%2Frca_i-o-18-197.jpg%22%7D%2C%7B%22caption%22%3A%22India%20Mahadavi%20printed%20poster%20(Interior%20Design)%22%2C%22alt%22%3A%22India%20Mahadavi%20printed%20poster%20(Interior%20Design)%22%2C%22image%22%3A%22%2Fassets%2Fuploads%2Frca_i-o-18-198.jpg%22%7D%2C%7B%22caption%22%3A%22Andrea%20Santamarina%20printed%20poster%20(Product%20Design)%22%2C%22alt%22%3A%22Andrea%20Santamarina%20printed%20poster%20(Product%20Design)%22%2C%22image%22%3A%22%2Fassets%2Fuploads%2Frca_i-o-18-1910.jpg%22%7D%5D" %}
 

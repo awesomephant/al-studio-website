@@ -26,7 +26,6 @@ For more information please visit [Kensignton + Chelsea Art Week Mural #5](https
 
 {% note %}
 In collaboration with [KCAW](https://www.kcaw.co.uk/mural-5-vote), [Royal College of Art](https://www.rca.ac.uk/), [London Projects](https://www.londonprojects.co.uk/), and [Studio Indigo](https://studioindigo.co.uk/)
-
 (25x2.5 m,  acrylic paint on wood)
 {% endnote %}
 

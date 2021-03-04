@@ -19,8 +19,6 @@ featured_image:
 related_projects:
   - The United Generations
 ---
-In a moment of darkness, the light comes from the values we can restore. Restore relationships, traditions, cultures, and ecosystems. The sense of belonging to a family, to a group of friends and the community is essential to look at a radiant future. As artists, citizens and human being, we need to celebrate the simple and essentials elements of life. 
-
 Restore is a site-specific window artwork at the Mason’s Arms Pub in Battersea produced for the Nine Elms Arts Ministry. Restore is about the celebration of the sense of belonging as a symbol of light. Inspired by mystical stained glass windows, the hand-painted drawings represent the Mason’s Arms Pub community around a dining table as a space to restore conviviality and togetherness among young and old generations. The drawing style is a unique feature of AL artworks, continuing and evolving [The United Generations](https://www.theunitedgenerations.com) project. 
 The drawings are the outcome of an iterative process that includes traditional crafts, computer rendering and creative software. Developed as a universal pictorial language, Restore encourages simplicity, inclusivity and personal interpretation. 
 
@@ -28,8 +26,10 @@ For more information please visit [@nineelmsartsministry](https://www.instagram.
 
 {% note %}
 
+
 In collaboration with [Nine Elms Arts Ministry](https://nineelms.org/focus/nine-elms-arts-ministry)
 Dimensions: 110x200cm - Medium: coloured Posca markers on glass
+
 
 {% endnote %}
 

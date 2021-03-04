@@ -18,11 +18,11 @@ featured_image:
 related_projects:
   - Restore
 ---
-When the world changes and pulls us apart, we need to reconnect with one another and breath again together as one. From our neighbours to our houses, to our families. We need to look at our past to draw our future. Reconnecting with our history our traditions and the people who shaped us is essential to find who we truly are. We must celebrate the simple and essentials things in life.
+When the world changes and pulls us apart, we need to reconnect with one another and breath again together as one, from our neighbours to our houses, to our families. We need to look at our past to draw our future. Reconnecting with our history, our traditions and the people who shaped us is essential to find who we truly are. We must celebrate the simple and essentials things in life.
 
-Together as one is a site-specific, hand-painted mural that celebrates the power of the Notting Hill community as a symbol of harmony and unity for a better tomorrow. Inspired by the neighbourhood’s local history and the architectural restoration of the site the drawings represent three stories in time. The first panel depicts a time when pottery making and farming brought together young and old residents of the rural Knottynghull village. The second panel represents an early Portobello Market where the relationships between vendors and customers was vital to energising the life of the streets. Finally, the third panel presents the intimate moment of a family preparing for the annual Carnival inside a recently renovated Georgian house. 
+Together as one is a site-specific artwork that celebrates the power of the Notting Hill community as a symbol of harmony and unity for a better tomorrow, created in collaboration with the KCAW and supported by London Projects, Studio Indigo, and Royal College of Art. The 55 m2 hand-painted mural depicts scenes from local history and the site's architectural restoration, representing three stories in time.  The first panel depicts a time when pottery making and farming brought together young and old residents of the rural Knottynghull village. The second panel represents an early Portobello Market, where the relationships between vendors and customers were vital to energising the streets' life. Finally, the third panel presents the intimate moment of a family preparing for the annual Carnival inside a recently renovated Georgian house. 
 
-For more information about the design please visit [Kensignton + Chelsea Art Week Mural #5](https://www.kcaw.co.uk/mural-5-vote).
+For more information please visit [Kensignton + Chelsea Art Week Mural #5](https://www.kcaw.co.uk/mural-5-vote).
 
 {% note %}
 In collaboration with [KCAW](https://www.kcaw.co.uk/mural-5-vote), [Royal College of Art](https://www.rca.ac.uk/), [London Projects](https://www.londonprojects.co.uk/), and [Studio Indigo](https://studioindigo.co.uk/)

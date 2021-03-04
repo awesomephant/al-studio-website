@@ -19,7 +19,7 @@ featured_image:
 related_projects:
   - "20/20: Alternative Futures"
 ---
-Co-created visual identity for the 2020 [Conscious London (CCL)](https://theccd.org/domain/conscious-london/) Festival, a chapter of the Conscious Cities Movement, part of [The Centre for Conscious Design (CCD)](https://theccd.org/). The visual identity includes responsive multiple social media assets and infographics for the three-day event which brought together multidisciplinary speakers for an online cultural programme of talks, conversations, screenings and virtual visits to inspire and connect the science, design and creative communities. The Conscious Cities Festival sparks global knowledge exchange by cultivating networks of local and diverse experts, organizations, and institutions to co-create solutions to current issues.
+Co-created visual identity for the 2020 [Conscious London (CCL)](https://theccd.org/domain/conscious-london/) Festival, a chapter of the Conscious Cities Movement, part of [The Centre for Conscious Design (CCD)](https://theccd.org/). The visual identity, inspired by iridescent gradients of light, includes multiple social media assets and infographics for the three-day digital event. The festival brings together multidisciplinary speakers for an online cultural programme of talks, conversations, screenings and virtual visits to inspire and connect the science, design and creative communities. The Conscious Cities Festival sparks global knowledge exchange by cultivating networks of local and diverse experts, organizations, and institutions to co-create solutions to current issues.
 
 Discover the talks at [Conscious London](https://www.youtube.com/channel/UC-Bbwz5OiTCqCCmIH9RQxwA).
 

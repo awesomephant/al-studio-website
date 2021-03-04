@@ -17,7 +17,7 @@ featured_image:
 related_projects:
   - Kaledoscopio Centro Artistico
 ---
-AL designed a digital art installation for a community event in East London. The artwork consisted of a 60 minutes screening animation of the sky's changing gradients. The colours are picked from a series of photographs titled Our Windows to the Time of Happiness: a collection of dusks and dawns, portrayed as pure ever-changing tones, shot over two years. In a time when a global crisis is happening and the grey exterior environment becomes hostile to survive, AL proposes to look from the interior windows at the colourful sky to dream, find peace and celebrate what happiness means - the essential.
+AL designed a digital art installation for a community event in East London. The artwork consisted of a 60 minutes screening animation of the sky's changing gradients. The colours tones are picked from a series of photographs titled Our Windows to the Time of Happiness: a collection of dusks and dawns, portrayed as pure ever-changing tones, shot over two years. When a global crisis is happening, and the grey exterior environment becomes hostile to survive, AL proposes to look from the interior windows at the colourful sky to dream, find peace and celebrate what happiness means - the essential.
 
 Watch the photographs virtual release at [Our windows to the time of happiness](https://www.instagram.com/tv/B--LnfXFXH9/).
 

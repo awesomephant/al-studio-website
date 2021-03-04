@@ -4,7 +4,7 @@ end_year: 2018
 media: []
 layout: project
 title: OGM Plant
-subtitle: Branding, art direction and campaigns for the OGM sustainable ecosystems
+subtitle: Art direction, branding, and campaigns for the OGM sustainable ecosystems
 date: 2020-10-17T21:58:40.611Z
 start_year: 2018
 tags:
@@ -20,15 +20,17 @@ featured_image:
 related_projects:
   - Swisscare
 ---
-Developed the branding, website, digital and printed marketing campaigns, and art directed the still and moving images for OGM Plant, recycled aluminium accessories fashion brand. OGM Plant believes in the respect of nature with a no-waste philosophy. From production to packaging, the whole chain focuses its attention on recycling, eco-sustainability, and social inclusion.
+AL art directed the branding, website, digital and printed campaigns, photography and film for OGM Plant, recycled aluminium accessories fashion brand made in Italy. OGM Plant believes in the respect of nature with a no-waste philosophy. From production to packaging, the whole chain focuses its attention on recycling, eco-sustainability, and social inclusion. The visual identity inspired by the core values of the brand and the process of recycled aluminium envisions the exclusive OGM accessories and diverse ambassadors in four different settings related to the existing products lines.
 
-To know more about the company please visit [OGM Plant](https://www.instagram.com/ogm_plant/).
+Discover the brand at [OGM Plant](https://www.instagram.com/ogm_plant/).
 
 {% note %}
 
 
 
+
 Credits: [Mattia Maestri](https://www.instagram.com/mattiamaestriphoto) (Photographer), [Davide Calafà](http://www.davidecalafa.com/) (Film director), [Independentmgmt](https://www.independentmgmt.it/) (Casting), [Simple AG](http://www.simpleag.com/) (Agency), [](http://www.zoccanatalino.com/)[Laura Montalto](https://www.instagram.com/montaltola) (Stylist), [Francesca Galantino](https://francescagalantino.wixsite.com/makeup) (Make up Artist), [Emanuele Mocchetti](https://www.instagram.com/mocce31/?hl=en) (Audio Engineer), [Zocca Vivai](http://www.zoccanatalino.com/) (Nursery)
+
 
 
 

@@ -20,7 +20,7 @@ featured_image:
 related_projects:
   - Swisscare
 ---
-AL art directed the branding, website, digital and printed campaigns, photography and film for OGM Plant, recycled aluminium accessories fashion brand made in Italy. OGM Plant believes in the respect of nature with a no-waste philosophy. From production to packaging, the whole chain focuses its attention on recycling, eco-sustainability, and social inclusion. The visual identity inspired by the core values of the brand and the process of recycled aluminium envisions the exclusive OGM accessories and diverse ambassadors in four different settings related to the existing products lines.
+AL art directed, organized and produced the branding, website, digital and printed campaigns, photography and film for OGM Plant, recycled aluminium accessories fashion brand made in Italy. OGM Plant believes in the respect of nature with a no-waste philosophy. From production to packaging, the whole chain focuses its attention on recycling, eco-sustainability, and social inclusion. The visual identity inspired by the core values of the brand and the process of recycled aluminium envisions the exclusive OGM accessories and diverse ambassadors in four different settings related to the existing products lines.
 
 Discover the brand at [OGM Plant](https://www.instagram.com/ogm_plant/).
 

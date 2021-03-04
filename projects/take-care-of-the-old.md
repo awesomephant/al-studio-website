@@ -23,9 +23,9 @@ featured_image:
 related_projects:
   - Conscious London
 ---
-This research book looks at the relationships between gerontology and the disciplines of architecture, sociology, and technology. These fields inform the understanding of the fundamental behaviours and needs of the elderly and possible future solutions such as co-design, multigenerational living, and smart homes to guarantee our future generations a healthy and comfortable senior life.
+This research book looks at the relationships between gerontology and the disciplines of architecture, sociology, and technology. These fields inform the understanding of the fundamental behaviours and needs of the elderly and possible future solutions such as co-design, multigenerational living, and smart homes to guarantee our future generations a healthy and comfortable senior life. AL undertook the primary and secondary research, writing and graphic design of the publication. 
 
-To preview the digital version of the book please click [here](https://issuu.com/adalbertolonardiworks/docs/how_to_take_care_of_the_old_preview).
+Read the book [here](https://issuu.com/adalbertolonardiworks/docs/how_to_take_care_of_the_old_preview).
 
 ![Book spread with Age-Friendly Cities diagram](/assets/uploads/chs_page6.jpg "Book spread with Age-Friendly Cities diagram")
 

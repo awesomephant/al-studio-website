@@ -23,7 +23,7 @@ In a moment of darkness, the light comes from the values we can restore. Restore
 
 Restore is a site-specific window artwork at the Mason’s Arms Pub in Battersea produced for the Nine Elms Arts Ministry. Restore is about the celebration of the sense of belonging as a symbol of light. Inspired by mystical stained glass windows, the hand-painted drawings represent the Mason’s Arms Pub community around a dining table as a space to restore conviviality and togetherness among young and old generations. The drawing style is a unique feature of AL artworks, continuing and evolving [The United Generations](https://www.theunitedgenerations.com) project. The drawings are the outcome of an iterative process that includes traditional crafts, computer rendering and creative software. Developed as a universal pictorial language, Restore encourages simplicity, inclusivity and personal interpretation. 
 
-For more information please visit: [@nineelmsartsministry](https://www.instagram.com/nineelmsartsministry/)
+For more information please visit [@nineelmsartsministry](https://www.instagram.com/nineelmsartsministry/)
 
 {% note %}
 In collaboration with [Nine Elms Arts Ministry](https://nineelms.org/focus/nine-elms-arts-ministry)

@@ -2,7 +2,7 @@
 layout: project
 title: Kaledoscopio Centro Artistico
 draft: false
-subtitle: Art center proposal for children to develop the creative potentials in Verona
+subtitle: Art centre proposal for children to develop the creative potentials in Verona
 date: 2021-01-09T01:25:41.484Z
 start_year: 2017
 end_year: 2017
@@ -23,8 +23,8 @@ Kaledoscopio is a children-sized art centre proposal aimed at developing child c
 
 ‘…And thus they tell the child that the hundred is not there. The child says: No way. The hundred is there.’ (Loris Malaguzzi, The Hundred Languages 1987).
 
-![College perspective view from the entrance with kids playing and modernist architecture.](/assets/uploads/kidcenter_exterior.jpg "Art centre entrace perspective view")
+![College perspective view from the entrance with kids playing and modernist architecture.](/assets/uploads/kidcenter_exterior.jpg "Kaledoscopio – Art centre entrace perspective view")
 
-![Art center map overview](/assets/uploads/kids_map.jpg "Art center map overview")
+![Kaledoscopio – Art center map overview](/assets/uploads/kids_map.jpg "Kaledoscopio – Art center map overview")
 
-![Art Center main building and secondary building sections with people](/assets/uploads/kids_sections.jpg "Art Center main building and secondary building sections")
+![Kaledoscopio – Art Center main building and secondary building sections with people](/assets/uploads/kids_sections.jpg "Kaledoscopio – Art Center main building and secondary buildings sections")

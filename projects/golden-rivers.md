@@ -18,7 +18,7 @@ related_projects:
 ---
 Golden Rivers is a site-specific, large-scale installation at Domaine de Boisbuchet design research centre, about the celebration of light as one of the elements of our inner space. Light, as much as shadow, drives human behaviour towards confidence and aperture but also introspection and solitude. These are common feelings in the world we live in today where reaching out is as challenging as reaching in. Golden Rivers reflect the optimistic, peaceful and dynamic part of us. It is the golden path that leads to the end of the tunnel. It motivates us, shakes us; it inspires us to believe in ourselves. Golden Rivers is part of a workshop hold by Dutch designer [Sabine Marcelis](https://sabinemarcelis.com/).
 
-For more information please visit [Domaine de Boisbuchet](https://www.boisbuchet.org/workshop/exploring-light/).
+For more information visit [Domaine de Boisbuchet](https://www.boisbuchet.org/workshop/exploring-light/).
 
 ![Golden Rivers – Installation in place on Domain de Boisbuchet castle](/assets/uploads/dscf3638.jpg "Golden Rivers – Installation in place on Domain de Boisbuchet castle")
 

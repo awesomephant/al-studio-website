@@ -46,11 +46,12 @@
   .hasimage {
     text-align: center;
     margin: 1rem 0;
-    @include bp(m){
+    @include bp(m) {
       margin: 2rem 0;
     }
   }
-  p,.note  {
+  p,
+  .note {
     grid-column: 1 / 13;
     @include bp(l) {
       grid-column: 3 / 11;
@@ -102,7 +103,7 @@
 
 .note {
   font-size: var(--ms--1);
-  @include bp(m){
+  @include bp(m) {
     font-size: var(--ms-0);
   }
   max-width: 45em;
@@ -127,6 +128,9 @@
   }
   .gallery--item {
     margin-bottom: 2rem;
+    &:last-of-type {
+      margin-bottom: 0;
+    }
     @include bp(m) {
       margin-bottom: 0;
       margin-right: 1rem;

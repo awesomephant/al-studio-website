@@ -54,6 +54,21 @@ collections:
             name: "social_image"
             widget: "image"
             hint: "This might appear in social media cards. On individual projects, the project thumbnail will be used instead."
+          - label: Footer Menu
+            label_singular: Menu Item
+            name: footer_menu
+            widget: list
+            fields:
+              - label: URL
+                name: url
+                widget: string
+              - label: Link Text
+                name: title
+                widget: string
+              - label: Open in a new Tab?
+                name: target
+                widget: boolean
+                required: false
       - file: "_data/about.json"
         name: "about"
         label: "Information"
@@ -86,13 +101,30 @@ collections:
             widget: list
             fields:
               - { name: title, label: Title, widget: string }
-              - {
-                  name: text,
-                  label: Text,
-                  widget: markdown,
-                  buttons: [bold, italic, link, heading-two, bulleted-list],
-                  editor_components: [],
-                }
+              - { name: text, label: Text, widget: markdown, buttons: [bold, italic, link, heading-two, bulleted-list], editor_components: [] }
+  - name: "pages"
+    label: "Pages"
+    label_singular: "Page"
+    preview_path: "{{title | slug}}"
+    editor: { preview: false }
+    folder: "pages/"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - name: "title"
+        label: "Title"
+        widget: string
+      - name: "intro"
+        label: "Introduction"
+        widget: "markdown"
+        editor_components: []
+        buttons:
+          - bold
+          - italic
+      - name: "body"
+        label: Content
+        widget: markdown
+        editor_components: ["image"]
   - name: "projects"
     label: "Projects"
     editor: { preview: false }
@@ -111,7 +143,7 @@ collections:
         name: draft
         widget: boolean
         hint: "Draft projects won't appear in the projects oveview and related projects, but can still be accessed through a direct link.
-         "
+          "
       - label: "Subtitle"
         name: "subtitle"
         widget: "string"
@@ -131,17 +163,7 @@ collections:
       - label: "Description"
         name: "body"
         widget: markdown
-        buttons:
-          [
-            bold,
-            italic,
-            link,
-            heading-two,
-            heading-three,
-            heading-four,
-            bulleted-list,
-            numbered-list,
-          ]
+        buttons: [bold, italic, link, heading-two, heading-three, heading-four, bulleted-list, numbered-list]
       - label: "Tags"
         name: "tags"
         widget: "list"

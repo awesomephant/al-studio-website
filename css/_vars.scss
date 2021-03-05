@@ -5,11 +5,11 @@
     }
   }
   @if $point==l {
-    @media (min-width: 1200px) {
+    @media (min-width: 1300px) {
       @content;
     }
   } @else if $point==m {
-    @media (min-width: 750px) {
+    @media (min-width: 900px) {
       @content;
     }
   } @else if $point==s {
@@ -56,10 +56,17 @@ $br: 3px;
   @include bp(m) {
     font-size: var(--ms-1);
   }
+  max-width: 40em;
   p {
     line-height: 1.4;
     margin-bottom: 1em;
     hyphens: none;
+  }
+  em {
+    font-style: italic;
+  }
+  strong {
+    font-weight: 600;
   }
   a {
     @include underline($gray);

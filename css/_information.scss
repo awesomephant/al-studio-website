@@ -63,7 +63,9 @@
     list-style: none;
   }
   li {
-    white-space: nowrap;
+    @include bp(l){
+      white-space: nowrap;
+    }
     display: block;
     font-size: var(--ms-0);
   }

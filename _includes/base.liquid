@@ -29,6 +29,11 @@
   </header>
   {{ content | safe }}
   <footer class="site-footer">
+    <nav class="footer-nav">
+      {% for item in settings.footer_menu %}
+    <a href="{{item.url}}" {% if item.target == true%}target="_blank"{% endif %}>{{item.title}}</a>
+      {% endfor %}
+    </nav>
     <nav class="footer-nav-secondary">
       {{settings.copyright_text}}
     </nav>

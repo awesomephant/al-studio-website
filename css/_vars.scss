@@ -58,11 +58,9 @@ $br: 3px;
   }
   p {
     line-height: 1.4;
-    hyphens: auto;
     margin-bottom: 1em;
-    @include bp(l) {
-      hyphens: none;
-    }
+    hyphens: none;
+
   }
   a {
     @include underline($gray);

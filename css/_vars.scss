@@ -60,7 +60,6 @@ $br: 3px;
     line-height: 1.4;
     margin-bottom: 1em;
     hyphens: none;
-
   }
   a {
     @include underline($gray);
@@ -72,7 +71,7 @@ $br: 3px;
 }
 
 :root {
-  --padding: max(1.5rem, 3vw);
+  --padding: max(2%, 1.2rem);
   --ratio: 1.25;
   --ms-0: clamp(1rem, 1.3vw, 1.05rem);
   --ms--2: calc(var(--ms--1) / var(--ratio));

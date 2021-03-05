@@ -72,7 +72,6 @@
   }
   .gallery {
     grid-column: 1 / 13;
-    border: 1px solid red;
     @include bp(l) {
       grid-column: 3 /11;
     }

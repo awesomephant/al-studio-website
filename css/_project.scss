@@ -61,6 +61,7 @@
 
     img {
       max-width: 100%;
+      border-radius: $br;
       max-height: 80vh;
       & + .caption {
         display: block;
@@ -71,8 +72,12 @@
   }
   .gallery {
     grid-column: 1 / 13;
+    border: 1px solid red;
     @include bp(l) {
-      grid-column: 3 / 11;
+      grid-column: 3 /11;
+    }
+    @include bp(xl) {
+      grid-column: 4 / 10;
     }
   }
 

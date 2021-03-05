@@ -2,15 +2,9 @@
   "show_archive": true,
   "site_title": "Adalberto Lonardi",
   "meta_description": "ADALBERTO LONARDI is an interdisciplinary art and design practice developing creative strategies to empower the community.",
-  "footer_menu": [
-    {
-      "url": "https://adalbertolonardi.com/admin#/collections/pages/entries/privacy",
-      "title": "Privacy",
-      "target": true
-    }
-  ],
+  "footer_menu": [],
   "site_description": "ADALBERTO LONARDI",
-  "copyright_text": "AL © 2021",
+  "copyright_text": "AL © 2021 ",
   "social_image": "/assets/uploads/panel1.jpg",
   "featured_projects": [
     "Together as One",

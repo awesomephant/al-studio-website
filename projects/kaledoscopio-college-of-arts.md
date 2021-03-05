@@ -24,7 +24,7 @@ Kaledoscopio is a children-sized art centre proposal aimed at developing child c
 ‘…And thus they tell the child that the hundred is not there. The child says: No way. The hundred is there.’ (Loris Malaguzzi, The Hundred Languages 1987).
 
 {% note %}
-In collaboration with Studio Mente Corpo
+In collaboration with Studio Mente Corpo.
 {% endnote %}
 
 ![College perspective view from the entrance with kids playing and modernist architecture.](/assets/uploads/kidcenter_exterior.jpg "Kaledoscopio – Art centre entrace perspective view")

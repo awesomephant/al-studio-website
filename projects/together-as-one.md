@@ -12,7 +12,7 @@ tags:
   - Social Empowerment
 featured_image:
   landscape: /assets/uploads/tao-desktop.jpg
-  portrait: /assets/uploads/dscf0037.jpg
+  portrait: /assets/uploads/tao_mobile.jpg
   light_image: false
   alt: Colorful mural with drawings of community-inspired images.
 related_projects:

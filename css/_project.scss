@@ -118,8 +118,8 @@
     flex-flow: row;
   }
   @include bp(l) {
-    margin-top: 3em;
-    margin-bottom: 3em;
+    margin-top: 3em !important;
+    margin-bottom: 3em !important;
   }
   .gallery--item {
     margin-bottom: 2rem;

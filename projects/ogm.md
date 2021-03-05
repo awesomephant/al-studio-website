@@ -20,7 +20,7 @@ featured_image:
 related_projects:
   - Swisscare
 ---
-AL art directed, organized and produced the branding, website, digital and printed campaigns, photography and film for OGM Plant, recycled aluminium accessories fashion brand made in Italy. OGM Plant believes in the respect of nature with a no-waste philosophy. From production to packaging, the whole chain focuses its attention on recycling, eco-sustainability, and social inclusion. The visual identity inspired by the core values of the brand and the process of recycled aluminium envisions the exclusive OGM accessories and diverse ambassadors in four different settings related to the existing products lines.
+AL art directed, organized and produced a creative strategy for OGM Plant, recycled aluminium accessories Italian fashion brand. The branding included a new e-commerce website, digital and printed campaigns, photography and an institutional film. The visual identity inspired by the brand's core values and the process of recycled aluminium envisions the exclusive OGM accessories and diverse ambassadors in four different settings related to the existing products lines. OGM Plant believes in respect of nature with a no-waste philosophy. The whole chain focuses its attention on recycling, eco-sustainability, and social inclusion from production to packaging.
 
 Discover the brand at [OGM Plant](https://www.instagram.com/ogm_plant/).
 
@@ -29,7 +29,9 @@ Discover the brand at [OGM Plant](https://www.instagram.com/ogm_plant/).
 
 
 
+
 Credits: [Mattia Maestri](https://www.instagram.com/mattiamaestriphoto) (Photographer), [Davide Calafà](http://www.davidecalafa.com/) (Film director), [Independentmgmt](https://www.independentmgmt.it/) (Casting), [Simple AG](http://www.simpleag.com/) (Agency), [](http://www.zoccanatalino.com/)[Laura Montalto](https://www.instagram.com/montaltola) (Stylist), [Francesca Galantino](https://francescagalantino.wixsite.com/makeup) (Make up Artist), [Emanuele Mocchetti](https://www.instagram.com/mocce31/?hl=en) (Audio Engineer), [Zocca Vivai](http://www.zoccanatalino.com/) (Nursery)
+
 
 
 

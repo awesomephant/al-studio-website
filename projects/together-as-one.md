@@ -20,11 +20,13 @@ related_projects:
 ---
 Together as One is a site-specific artwork that celebrates the power of the Notting Hill community as a symbol of harmony and unity for a better tomorrow, created in collaboration with the KCAW and supported by London Projects, Studio Indigo, and Royal College of Art. The 55 m2 hand-painted mural depicts scenes from the local history and the site's architectural restoration. The design is divided into three scenes, the first telling the story of the rural Knottynghull village populated with pig farming and the pottery industry. The second represents an early Portobello Market when the vendors were selling fruit and vegetables. The third presents the intimate moment of a family preparing for the annual Notting Hill Carnival. The story moves from the 18th century to current times and from a rural setting to an urban one and to inside the house itself.
 
-Visit [Kensignton + Chelsea Art Week Mural #5](https://www.kcaw.co.uk/mural-5-vote).
+Discover the project at [Kensignton + Chelsea Art Week Mural #5](https://www.kcaw.co.uk/mural-5-vote).
 
 {% note %}
+
 In collaboration with [KCAW](https://www.kcaw.co.uk/mural-5-vote), [Royal College of Art](https://www.rca.ac.uk/), [London Projects](https://www.londonprojects.co.uk/), and [Studio Indigo](https://studioindigo.co.uk/).
 Dimentions: 5x2.5 m - Medium: acrylic paint on wood
+
 {% endnote %}
 
 ![Together as One –  Pottery and pig farming scene](/assets/uploads/dscf0037.jpg "Together as One –  Pottery and pig farming scene")

@@ -22,12 +22,12 @@ AL art directed, designed and executed a fresh visual identity for natural suppl
 
 For more information about the company please visit [Swisscare](https://www.swisscare.it).
 
-![stationery branding with flower graphics](/assets/uploads/swisscare4.jpg "Stationery package with botanical summer variation")
+![stationery branding with flower graphics](/assets/uploads/swisscare4.jpg "Swisscare – Stationery package with botanical summer variation")
 
-![Shoppers series with botanical spring and summer variations](/assets/uploads/proposte_shoppers_2017_retro.jpg "Shoppers series with botanical spring and summer variations")
+![Shoppers series with botanical spring and summer variations](/assets/uploads/proposte_shoppers_2017_retro.jpg "Swisscare – Shoppers series with botanical spring and summer variations")
 
-![Brochure spread with botanical variations](/assets/uploads/swisscare2.jpg "Brochure spread with botanical variations")
+![Brochure spread with botanical variations](/assets/uploads/swisscare2.jpg "Swisscare – Brochure spread with botanical variations")
 
-![Website desktop design with homepage layout](/assets/uploads/web4.jpg "Website desktop design with homepage layout")
+![Website desktop design with homepage layout](/assets/uploads/web4.jpg "Swisscare – Website desktop design with homepage layout")
 
-![Website mobile devices design with product page layout and newsletter](/assets/uploads/web3.jpg "Website mobile devices design with product page layout and newsletter")
+![Website mobile devices design with product page layout and newsletter](/assets/uploads/web3.jpg "Swisscare – Website mobile devices design with product page layout and newsletter")

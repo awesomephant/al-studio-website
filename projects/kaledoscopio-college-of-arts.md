@@ -19,7 +19,7 @@ featured_image:
 related_projects:
   - Inside/Out
 ---
-Kaledoscopio is a children-sized art centre aimed at developing the child creative potentials. Artistic laboratories where the child can create and experiment his skills, offer the possibility of a re-evaluation of those activities and emotions addressed to develop a better self.
+Kaledoscopio is a children-sized art centre aimed at developing child creative potentials. Artistic laboratories where the child can create and experiment with his skills offer the possibility of a re-evaluation of those activities and emotions addressed to develop a better self. Four areas compose the art centre. A large open space populated by fruit trees, flowers and vegetables and playgrounds accompanies the visitors to the main buildings. The first block hosts creative activities related to crafts, painting, drawing, and sculpture. The second houses the spaces dedicated to the performing arts such as dancing, singing and acting, celebrated in the open air agora. Finally, a smaller, enclosed building is dedicated to rest and unwind.
 
 ‘…And thus they tell the child that the hundred is not there. The child says: No way. The hundred is there.’ (Loris Malaguzzi, The Hundred Languages 1987).
 

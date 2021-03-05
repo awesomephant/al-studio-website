@@ -18,9 +18,13 @@ featured_image:
 related_projects:
   - Frahm&Frahm
 ---
-AL art directed, designed and executed a fresh visual identity for natural supplements and cosmetics brand Swisscare. The rebranding consisted of producing both printed material such as company brochures, stationaries, shopping bags, institutional flags and large canvases, and digital tools, including a new e-commerce website and social media campaigns. Inspired by the company's strong relationship with nature and the botanical ingredients in the products with the four seasons, the visual identity embodies a highly customized language that changes according to the different times of the year and adapts to the different assets part of the creative strategy.
+AL art directed, co-designed and executed a fresh visual identity for natural supplements and cosmetics brand Swisscare. The rebranding consisted of producing both printed material such as company brochures, stationaries, shopping bags, institutional flags and large canvases, and digital tools, including a new e-commerce website and social media campaigns. Inspired by the company's strong relationship with nature and the botanical ingredients in the products with the four seasons, the visual identity embodies a highly customized language that changes according to the different times of the year and adapts to the different assets part of the creative strategy.
 
-find out more at [Swisscare](https://www.swisscare.it).
+Find out more at [Swisscare](https://www.swisscare.it).
+
+{% note %}
+In collaboration with [NextFlow](https://nextflow.it/).
+{% endnote %}
 
 ![stationery branding with flower graphics](/assets/uploads/swisscare4.jpg "Swisscare – Stationery package with botanical summer variation")
 

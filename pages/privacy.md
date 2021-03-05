@@ -1,9 +1,6 @@
 ---
 layout: page
 title: Privacy Policy
-intro: The events that connect communities and celebrate the importance of
-  intergenerational relationships. Workshops, exhibitions and talks create an
-  ecosystem of opportunitites for young and old generations.
 permalink: "/{{title | slug}}/"
 ---
 

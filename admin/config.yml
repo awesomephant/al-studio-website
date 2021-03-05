@@ -77,7 +77,6 @@ collections:
           - label: "Copy"
             name: "content"
             widget: "markdown"
-            editor_components: []
           - label: "Sidebar A Items"
             name: "sidebar_a"
             widget: "list"
@@ -115,17 +114,9 @@ collections:
       - name: "title"
         label: "Title"
         widget: string
-      - name: "intro"
-        label: "Introduction"
-        widget: "markdown"
-        editor_components: []
-        buttons:
-          - bold
-          - italic
       - name: "body"
         label: Content
         widget: markdown
-        editor_components: ["image"]
   - name: "projects"
     label: "Projects"
     editor: { preview: false }

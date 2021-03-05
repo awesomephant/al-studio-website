@@ -30,7 +30,9 @@ Discover the brand at [OGM Plant](https://www.instagram.com/ogm_plant/).
 
 
 
+
 Credits: [Mattia Maestri](https://www.instagram.com/mattiamaestriphoto) (Photographer), [Davide Calafà](http://www.davidecalafa.com/) (Film director), [Independentmgmt](https://www.independentmgmt.it/) (Casting), [Simple AG](http://www.simpleag.com/) (Agency), [](http://www.zoccanatalino.com/)[Laura Montalto](https://www.instagram.com/montaltola) (Stylist), [Francesca Galantino](https://francescagalantino.wixsite.com/makeup) (Make up Artist), [Emanuele Mocchetti](https://www.instagram.com/mocce31/?hl=en) (Audio Engineer), [Zocca Vivai](http://www.zoccanatalino.com/) (Nursery)
+
 
 
 
@@ -38,16 +40,16 @@ Credits: [Mattia Maestri](https://www.instagram.com/mattiamaestriphoto) (Photogr
 
 {% endnote %}
 
-{% embed "%7B%22code%22%3A%22%3Cdiv%20style%3D%5C%22padding%3A56.25%25%200%200%200%3Bposition%3Arelative%3B%5C%22%3E%3Ciframe%20src%3D%5C%22https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F288128164%3Fautoplay%3D1%26loop%3D1%26title%3D0%26byline%3D0%26portrait%3D0%5C%22%20style%3D%5C%22position%3Aabsolute%3Btop%3A0%3Bleft%3A0%3Bwidth%3A100%25%3Bheight%3A100%25%3B%5C%22%20frameborder%3D%5C%220%5C%22%20allow%3D%5C%22autoplay%3B%20fullscreen%3B%20picture-in-picture%5C%22%20allowfullscreen%3E%3C%2Fiframe%3E%3C%2Fdiv%3E%3Cscript%20src%3D%5C%22https%3A%2F%2Fplayer.vimeo.com%2Fapi%2Fplayer.js%5C%22%3E%3C%2Fscript%3E%22%2C%22caption%22%3A%22Campaign%20film%20for%20OGM%20plant%20recycled%20alluminium%20collections%20launch%22%7D" %}
+{% embed "%7B%22code%22%3A%22%3Cdiv%20style%3D%5C%22padding%3A56.25%25%200%200%200%3Bposition%3Arelative%3B%5C%22%3E%3Ciframe%20src%3D%5C%22https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F288128164%3Fautoplay%3D1%26loop%3D1%26title%3D0%26byline%3D0%26portrait%3D0%5C%22%20style%3D%5C%22position%3Aabsolute%3Btop%3A0%3Bleft%3A0%3Bwidth%3A100%25%3Bheight%3A100%25%3B%5C%22%20frameborder%3D%5C%220%5C%22%20allow%3D%5C%22autoplay%3B%20fullscreen%3B%20picture-in-picture%5C%22%20allowfullscreen%3E%3C%2Fiframe%3E%3C%2Fdiv%3E%3Cscript%20src%3D%5C%22https%3A%2F%2Fplayer.vimeo.com%2Fapi%2Fplayer.js%5C%22%3E%3C%2Fscript%3E%22%2C%22caption%22%3A%22OGM%20Plant%20%E2%80%93%20Campaign%20film%20for%20collections%20launch%22%7D" %}
 
-![Collections brochure cover with laminated silver logo and Cosmogonic collection interior spread](/assets/uploads/ogm1.jpg "Collections brochure cover with laminated silver logo and Cosmogonic collection interior spread")
+![Collections brochure cover with laminated silver logo and Cosmogonic collection interior spread](/assets/uploads/ogm1.jpg "OGM Plant – Collections brochure cover with laminated silver logo and interior spread")
 
-![Brochure Selfie collection interior spread](/assets/uploads/ogm1jpg.jpeg "Brochure Selfie collection interior spread")
+![Brochure Selfie collection interior spread](/assets/uploads/ogm1jpg.jpeg "OGM Plant – Brochure Selfie collection interior spread")
 
-![Brochure Iconic collection interior spread](/assets/uploads/ogm2.jpg "Brochure Iconic collection interior spread")
+![Brochure Iconic collection interior spread](/assets/uploads/ogm2.jpg "OGM Plant – Brochure Iconic collection interior spread")
 
-![Brochure introduction and Iconic collection spreads](/assets/uploads/ogm3.jpg "Brochure introduction and Iconic collection spreads")
+![Brochure introduction and Iconic collection spreads](/assets/uploads/ogm3.jpg "OGM Plant – Brochure introduction and Iconic collection spreads")
 
-{% gallery "%5B%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fogm-web1.jpg%22%2C%22caption%22%3A%22Home%20page%20design%20panel%22%2C%22alt%22%3A%22Home%20page%20design%20panel%22%7D%2C%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fogm-desktop-2.jpg%22%2C%22caption%22%3A%22Information%20page%20design%20panel%22%2C%22alt%22%3A%22Information%20page%20design%20panel%22%7D%5D" %}
+{% gallery "%5B%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fogm-web1.jpg%22%2C%22caption%22%3A%22Home%20page%20design%20panel%22%2C%22alt%22%3A%22OGM%20Plant%20%E2%80%93%20Home%20page%20design%20layout%22%7D%2C%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fogm-desktop-2.jpg%22%2C%22caption%22%3A%22Information%20page%20design%20panel%22%2C%22alt%22%3A%22OGM%20Plant%20%E2%80%93%20Information%20page%20design%20layout%22%7D%5D" %}
 
-![Instagram page design grid](/assets/uploads/ogm7.jpg "Instagram page design grid")
+![OGM Plant – Instagram page design grid](/assets/uploads/ogm7.jpg "OGM Plant – Instagram page design grid")

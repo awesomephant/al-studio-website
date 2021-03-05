@@ -3,7 +3,8 @@ backend:
   branch: main
 media_folder: "/assets/uploads"
 site_url: https://adalbertolonardi.com
-show_preview_links: false
+display_url: https://adalbertolonardi.com
+show_preview_links: true
 collections:
   - name: "settings"
     label: "Settings"
@@ -129,6 +130,7 @@ collections:
     label: "Projects"
     editor: { preview: false }
     folder: "projects/"
+    preview_path: "/projects/{{slug}}/"
     create: true
     slug: "{{slug}}"
     fields:

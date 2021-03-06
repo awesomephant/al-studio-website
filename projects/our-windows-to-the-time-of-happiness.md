@@ -23,7 +23,6 @@ Watch the photography series at [Our windows to the time of happiness](https://w
 
 {% note %}
 Screening Dimentions: 300 x100 cm <br>
-
 Photographs: Dimentions: 840x1200 mm
 {% endnote %}
 

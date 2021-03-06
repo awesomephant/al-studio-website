@@ -20,6 +20,10 @@ Golden Rivers is a site-specific, large-scale installation at Domaine de Boisbuc
 
 For more information visit [Domaine de Boisbuchet](https://www.boisbuchet.org/workshop/exploring-light/).
 
+{% note %}
+Dimentions (3,5 x 80 meters) - Medium: Mylar blanket
+{% endnote %}
+
 ![Golden Rivers – Installation in place on Domain de Boisbuchet castle](/assets/uploads/dscf3638.jpg "Golden Rivers – Installation in place on Domain de Boisbuchet castle")
 
 ![Golden Rivers – Staircase view of the river towards the field](/assets/uploads/stairs.jpg "Golden Rivers – Staircase view of the river looking at the field")

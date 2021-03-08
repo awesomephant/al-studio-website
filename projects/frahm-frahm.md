@@ -2,8 +2,7 @@
 layout: project
 title: Frahm&Frahm
 draft: false
-subtitle: Art direction and website design for large-scale institutional
-  exhibitions producers
+subtitle: Art direction and website design for world-class exhibitions producers F&F
 date: 2021-01-08T23:18:30.761Z
 start_year: 2021
 end_year: 2021

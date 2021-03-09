@@ -13,7 +13,7 @@
       @content;
     }
   } @else if $point==s {
-    @media (min-width: 500px) {
+    @media (min-width: 550px) {
       @content;
     }
   } @else if $point== "landscape" {
@@ -53,10 +53,13 @@ $br: 3px;
 
 %bodycopy {
   font-size: var(--ms-0);
+  max-width: 40em;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  letter-spacing: .01em;
   @include bp(m) {
     font-size: var(--ms-1);
   }
-  max-width: 40em;
   p {
     line-height: 1.4;
     margin-bottom: 1em;

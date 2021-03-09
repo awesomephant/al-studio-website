@@ -9,6 +9,12 @@
   margin-bottom: 2em;
   grid-column: 1 / 13;
   line-height: 1.2;
+  @include bp(s){
+    margin-top: 1em;
+    margin-bottom: 2.5em;
+    font-size: var(--ms-2);
+    grid-column: 2 / 12;
+  }
   @include bp(m){
     grid-column: 2 / 12;
     margin-top: 3em;
@@ -48,7 +54,7 @@
 
 .project-card {
   grid-column: span 12;
-  @include bp(m){
+  @include bp(s){
     grid-column: span 6;
   }
   @include bp(l){

@@ -45,10 +45,7 @@
   @extend %bodycopy;
   .hasimage {
     text-align: center;
-    margin: 1rem 0;
-    @include bp(m) {
-      margin: 2rem 0;
-    }
+    margin: 1em 0;
   }
   p,
   .note {
@@ -87,7 +84,7 @@
     width: 100%;
     margin-bottom: 1rem;
     grid-column: 1 / 13;
-    @include bp(m) {
+    @include bp(l) {
       grid-column: 3 / 11;
     }
     @include bp(xl) {
@@ -119,15 +116,12 @@
   margin-bottom: 1em;
   margin-top: 1em;
   flex-flow: column;
+  align-items: flex-start;
   @include bp(m) {
     flex-flow: row;
   }
-  @include bp(l) {
-    margin-top: 3em !important;
-    margin-bottom: 3em !important;
-  }
   .gallery--item {
-    margin-bottom: 2rem;
+    margin-bottom: 1em;
     &:last-of-type {
       margin-bottom: 0;
     }

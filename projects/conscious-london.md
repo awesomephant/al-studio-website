@@ -24,7 +24,5 @@ Co-created visual identity for the 2020 [Conscious London (CCL)](https://theccd.
 Discover the talks at [Conscious London](https://www.youtube.com/channel/UC-Bbwz5OiTCqCCmIH9RQxwA).
 
 {% note %}
-
-Credits: [Studio Jenny Jones](https://studiojennyjones.com/) (CCL Fellow), [Natasha Reid](https://www.matterspacesoul.com/) (CCL Fellow), [Mark Besseudo](https://markbessoudo.com/hi/) (CCL Fellow)
-
+Credits: [Studio Jenny Jones](https://studiojennyjones.com/) (CCD Fellow), [Natasha Reid](https://www.matterspacesoul.com/) (CCD Fellow), [Mark Besseudo](https://markbessoudo.com/hi/) (CCD Fellow)
 {% endnote %}

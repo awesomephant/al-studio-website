@@ -9,7 +9,7 @@ end_year: 2018
 tags:
   - Exhibition
 featured_image:
-  landscape: /assets/uploads/dscf3628-2.jpg
+  landscape: /assets/uploads/golden-rivers-desktop.jpg
   portrait: /assets/uploads/goldenrivers-mobile.jpg
   alt: Golden fabric on top of a french castle in the countryside.
   light_image: false

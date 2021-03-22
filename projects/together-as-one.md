@@ -24,7 +24,7 @@ Discover more at [Kensignton + Chelsea Art Week Mural #5](https://www.kcaw.co.uk
 
 {% note %}
 In collaboration with [KCAW](https://www.kcaw.co.uk/mural-5-vote), [Royal College of Art](https://www.rca.ac.uk/), [London Projects](https://www.londonprojects.co.uk/), and [Studio Indigo](https://studioindigo.co.uk/). <br>
-Dimentions: 5x2.5 m - Medium: acrylic paint on wood
+Dimentions: 25x2.5 m - Medium: acrylic paint on wood
 {% endnote %}
 
 ![Together as One –  Pottery and pig farming scene](/assets/uploads/dscf0037.jpg "Together as One –  Pottery and pig farming scene")

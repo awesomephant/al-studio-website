@@ -10,7 +10,7 @@ tags:
   - Exhibition
   - Community
 featured_image:
-  landscape: /assets/uploads/image00001.jpg
+  landscape: /assets/uploads/riconciliazione-desktop.jpg
   portrait: /assets/uploads/image00002.jpg
   alt: Stone windows with printed poster representing the reconciliation artwork
   light_image: false

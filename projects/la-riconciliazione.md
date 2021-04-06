@@ -29,7 +29,7 @@ Dimensions: 96x2148 cm - Medium: inkjet print on paper
 
 {% endnote %}
 
-![Digital artwoks of the la Riconciliazione posters](/assets/uploads/la-riconciliazione__artworks.jpg "La Riconciliazione – Digital artworks")
+![Digital artwoks of the la Riconciliazione posters](/assets/uploads/la-riconciliazione__artworks2.jpg "La Riconciliazione – Digital artworks")
 
 ![Colorful representation an old man hugging a golden winged lion framed](/assets/uploads/image00002.jpg "La Riconciliazione – The old and the winged lion")
 

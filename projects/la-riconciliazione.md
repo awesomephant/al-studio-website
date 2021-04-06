@@ -2,7 +2,7 @@
 layout: project
 title: La Riconciliazione
 draft: false
-subtitle: Window art installation to fill the void of a pandemic
+subtitle: Window art installation to fill the voids of the pandemic in Venice
 date: 2021-04-06T13:28:37.332Z
 start_year: 2021
 end_year: 2021
@@ -22,13 +22,15 @@ The hug is the gesture that perhaps we miss the most. The embrace with our famil
 
 {% note %}
 
+
 In collaboration with [](https://www.kcaw.co.uk/mural-5-vote)[Buso.ve](https://instagram.com/buso.ve).\
 Dimensions: 96x2148 cm - Medium: inkjet print on paper
 
+
 {% endnote %}
+
+![Digital artwoks of the la Riconciliazione posters](/assets/uploads/la-riconciliazione__artworks.jpg "La Riconciliazione – Digital artworks")
 
 ![Colorful representation an old man hugging a golden winged lion framed](/assets/uploads/image00002.jpg "La Riconciliazione – The old and the winged lion")
 
 ![Colorful representation an young man hugging a blue lady representing water](/assets/uploads/image00003.jpg "La Riconciliazione – The young and the marriage with water")
-
-![Digital artwoks of the la Riconciliazione posters](/assets/uploads/la-riconciliazione__artworks.jpg "La Riconciliazione – Digital artworks")

@@ -17,14 +17,16 @@ featured_image:
 related_projects:
   - Together as One
 ---
-La Riconciliazione (the Reconciliation) is a site-specific artwork part of the Buṡo initiative part of a larger movement taking place in Venice which aims to re-appropriate the voids left by the pandemic. <br>
+La Riconciliazione (the Reconciliation) is a site-specific artwork commissioned by Buṡo and part of a larger movement taking place in Venice which aims to re-appropriate the voids left by the pandemic. <br>
 The hug is the gesture that perhaps we miss the most. The embrace with our families, with the friend, with the stranger. The affection and intimacy we place in embracing our past and future to reconcile with them. The young and the old of the city of Venice find themselves in a diptych that celebrates the harmony of the symbols of the city that is regaining its roots to fight the void left by the pandemic. Thanks to the use of digital software capable of reproducing hand-painting techniques, the two panels represent the 'do mori' (Two Moors), a materialization of the past and the future, reconciling with the two emblems of Venice and the Republic of the Serenissima: the winged lion and the water. The first as a symbol of rebirth of the city's majesty and power but also of inner spiritual strength. The second, inspired by the doge's marriage to the waters of the lagoon, as a metaphor of reconciliation with nature that enriches and at the same time afflicts the foundations of the city. Mystical and universal, the two paintings of The Reconciliation bring harmony and relief to the streets of Venice by representing the impossible that becomes reality.
 
 {% note %}
 
 
+
 In collaboration with [](https://www.kcaw.co.uk/mural-5-vote)[Buso.ve](https://instagram.com/buso.ve).\
 Dimensions: 96x2148 cm - Medium: inkjet print on paper
+
 
 
 {% endnote %}

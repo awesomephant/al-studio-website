@@ -9,7 +9,6 @@ end_year: 2017
 tags:
   - Spaces
   - Education
-  - Community
   - Social Empowerment
 featured_image:
   landscape: /assets/uploads/kidscenter_concept.jpg

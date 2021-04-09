@@ -11,8 +11,6 @@ start_year: 2019
 tags:
   - Research
   - Spaces
-  - Community
-  - Sustainability
   - Wellbeing
   - Social Empowerment
 featured_image:

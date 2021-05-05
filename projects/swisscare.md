@@ -4,7 +4,7 @@ title: Swisscare
 draft: false
 subtitle: Branding, art direction and campaigns for wellbeing and beauty brand Swisscare
 date: 2020-11-09T19:09:23.482Z
-start_year: 2016
+start_year: 2017
 end_year: 2017
 tags:
   - Art Direction

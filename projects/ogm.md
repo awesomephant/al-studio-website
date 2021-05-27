@@ -56,6 +56,6 @@ Credits: [Mattia Maestri](https://www.instagram.com/mattiamaestriphoto) (Photogr
 
 ![Brochure introduction and Iconic collection spreads](/assets/uploads/ogm3.jpg "OGM Plant – Brochure introduction and Iconic collection spreads")
 
-![OGM Plant – Home page design layout](/assets/uploads/ogm_web_desktop.jpg "OGM Plant – Home page design layout")
+![OGM Plant – Home page design layout](/assets/uploads/ogm_web_desktop_collection2.jpg "OGM Plant – Home page design layout")
 
 ![OGM Plant – Instagram page design grid](/assets/uploads/ogm7.jpg "OGM Plant – Instagram page design grid")

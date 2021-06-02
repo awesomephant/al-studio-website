@@ -10,7 +10,7 @@ tags:
   - Exhibition
   - Community
 featured_image:
-  landscape: /assets/uploads/tjc_ground-floor_v1.jpg
+  landscape: /assets/uploads/tjc_ground-floor_v1-2.jpg
   portrait: /assets/uploads/tjc_first-floor-v1.jpg
   alt: The World We Care colorful panels installed at Tessa Jowell Health Centre
     Ground Floor

@@ -18,7 +18,7 @@ featured_image:
 related_projects:
   - La Riconciliazione
 ---
-The World We Care is a site-specific and co-designed art proposal commissioned by Tessa Jowell Health Centre and Dulwich Picture Gallery. The uplifting art contribution is a manifesto about what wellbeing means to the community today. The World We Care acts as a meeting point between the Tessa Jowell Health Centre values, services and the community needs, and the Dulwich Picture Gallery collection to explore together the themes of health, care and healing.
+The World We Care is a site-specific and co-designed art proposal commissioned by Tessa Jowell Health Centre and Dulwich Picture Gallery. The uplifting art contribution is a visual manifesto about what wellbeing means to the community today. The World We Care acts as a meeting point between the Tessa Jowell Health Centre values, services and the community needs, and the Dulwich Picture Gallery collection to explore together the themes of health, care and healing.
 
 More than ever, today, we need to rethink the meaning and the power of wellbeing. Wellbeing comes under the forms of art, exercise, nature, food, spirituality and people. It is the holistic and fragile balance between ourselves, the neighbour and the world. Ultimately, wellbeing means care, and care means wellbeing. The care we aspire for ourselves, for our families, and for all.
 

@@ -1,7 +1,7 @@
 ---
 layout: project
 title: The World We Care
-draft: true
+draft: false
 subtitle: Art commission for Tessa Jowell Health Centre and Dulwich Picture Gallery
 date: 2021-06-02T15:17:31.140Z
 start_year: 2021

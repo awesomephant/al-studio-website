@@ -31,6 +31,6 @@ Dimensions: 150x82cm/panel - Medium: Optical clear vinyl on glass
 
 ![The World We Care colorful panels installed at Tessa Jowell Health Centre First Floor](/assets/uploads/tjc_first-floor-v1.jpg "The World We Care - Panels at Tessa Jowell Health Centre first floor")
 
-![Black and white architectural isometric diagram of colorful panels on a balaustrade](/assets/uploads/tjc-plan_v1.jpg "The World We Care - art installation spatial isometric diagram")
+![Black and white architectural isometric diagram of colorful panels on a balaustrade](/assets/uploads/tjc-plan_v1.jpg "The World We Care - Art installation spatial isometric diagram")
 
-![Colourful markers and line drawings preliminary sketches](/assets/uploads/img_5658.jpg "The World We Care - art installation preliminary sketches")
+![Colourful markers and line drawings preliminary sketches](/assets/uploads/img_5658.jpg "The World We Care - Art installation preliminary sketches")

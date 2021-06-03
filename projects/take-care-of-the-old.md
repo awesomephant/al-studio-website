@@ -10,7 +10,6 @@ date: 2020-07-30
 start_year: 2018
 tags:
   - Visual Communication
-  - Culture
 featured_image:
   landscape: /assets/uploads/old_desktop.jpg
   alt: A5 yellow book cover with title "how to take care of the old" and subtitle

@@ -7,7 +7,7 @@ date: 2021-04-06T13:28:37.332Z
 start_year: 2021
 end_year: 2021
 tags:
-  - Exhibition
+  - Visual Arts
   - Community
 featured_image:
   landscape: /assets/uploads/riconciliazione-desktop.jpg

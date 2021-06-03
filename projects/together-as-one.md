@@ -8,7 +8,6 @@ start_year: 2021
 end_year: 2021
 tags:
   - Visual Arts
-  - Community
 featured_image:
   landscape: /assets/uploads/tao-desktop.jpg
   portrait: /assets/uploads/tao_mobile.jpg

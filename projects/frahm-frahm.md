@@ -9,7 +9,6 @@ start_year: 2021
 end_year: 2021
 tags:
   - Visual Communication
-  - Culture
 featured_image:
   landscape: /assets/uploads/ff-desktop.jpg
   alt: "Homepage desktop website view "

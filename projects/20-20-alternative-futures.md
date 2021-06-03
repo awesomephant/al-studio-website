@@ -7,7 +7,7 @@ date: 2021-01-08T17:23:32.936Z
 start_year: 2019
 end_year: 2019
 tags:
-  - Brand Identity
+  - Visual Communication
   - Culture
 featured_image:
   landscape: /assets/uploads/20-20_facebook_banner.jpg

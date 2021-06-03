@@ -9,7 +9,6 @@ start_year: 2020
 end_year: 2020
 tags:
   - Visual Communication
-  - Community
 featured_image:
   landscape: /assets/uploads/cl_desktop.jpg
   portrait: /assets/uploads/cl_mobile.jpg

@@ -8,7 +8,7 @@ date: 2021-01-08T23:18:30.761Z
 start_year: 2021
 end_year: 2021
 tags:
-  - Art Direction
+  - Brand Identity
   - Culture
 featured_image:
   landscape: /assets/uploads/ff-desktop.jpg

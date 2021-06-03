@@ -7,7 +7,7 @@ date: 2020-10-23T23:16:34.970Z
 start_year: 2019
 end_year: 2019
 tags:
-  - Exhibition
+  - Visual Arts
   - Community
 featured_image:
   landscape: /assets/uploads/to-the-time-of-happiness3.jpg

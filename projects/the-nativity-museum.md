@@ -8,7 +8,6 @@ start_year: 2019
 end_year: 2019
 tags:
   - Interiors & Architecture
-  - Culture
 featured_image:
   landscape: /assets/uploads/nativity_desktop.jpg
   portrait: /assets/uploads/nativity_mobile.jpg

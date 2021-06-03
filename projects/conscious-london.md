@@ -8,7 +8,7 @@ date: 2020-10-23T22:51:31.736Z
 start_year: 2020
 end_year: 2020
 tags:
-  - Brand Identity
+  - Visual Communication
   - Community
 featured_image:
   landscape: /assets/uploads/cl_desktop.jpg

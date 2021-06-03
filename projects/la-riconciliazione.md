@@ -8,7 +8,6 @@ start_year: 2021
 end_year: 2021
 tags:
   - Visual Arts
-  - Community
 featured_image:
   landscape: /assets/uploads/riconciliazione-desktop.jpg
   portrait: /assets/uploads/image00002.jpg

@@ -8,11 +8,11 @@ date: 2021-01-08T23:18:30.761Z
 start_year: 2021
 end_year: 2021
 tags:
-  - Brand Identity
+  - Visual Communication
   - Culture
 featured_image:
   landscape: /assets/uploads/ff-desktop.jpg
-  alt: "Homapge desktop website view "
+  alt: "Homepage desktop website view "
   portrait: /assets/uploads/ff-mobile.jpg
   light_image: true
 related_projects:

@@ -8,7 +8,7 @@ date: 2021-06-02T15:17:31.140Z
 start_year: 2021
 end_year: 2021
 tags:
-  - Exhibition
+  - Visual Arts
   - Community
 featured_image:
   landscape: /assets/uploads/tjc_ground-floor_v1-2.jpg

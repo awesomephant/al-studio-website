@@ -9,9 +9,7 @@ subtitle: Limited edition publication about ageing well for Royal College of Art
 date: 2020-07-30
 start_year: 2018
 tags:
-  - Research
-  - Education
-  - Wellbeing
+  - Visual Communication
   - Culture
 featured_image:
   landscape: /assets/uploads/old_desktop.jpg

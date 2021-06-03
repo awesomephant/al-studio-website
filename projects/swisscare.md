@@ -7,8 +7,7 @@ date: 2020-11-09T19:09:23.482Z
 start_year: 2017
 end_year: 2017
 tags:
-  - Brand Identity
-  - Wellbeing
+  - Visual Communication
 featured_image:
   landscape: /assets/uploads/al_desktop2.jpg
   portrait: /assets/uploads/sc_mobile.jpg

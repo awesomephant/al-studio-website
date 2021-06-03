@@ -8,7 +8,6 @@ start_year: 2019
 end_year: 2019
 tags:
   - Visual Arts
-  - Community
 featured_image:
   landscape: /assets/uploads/to-the-time-of-happiness3.jpg
   portrait: /assets/uploads/to-the-time-of-happiness3.jpg

@@ -7,9 +7,8 @@ date: 2021-01-06T17:23:48.377Z
 start_year: 2021
 end_year: 2021
 tags:
-  - Exhibition
+  - Visual Arts
   - Community
-  - Social Empowerment
 featured_image:
   landscape: /assets/uploads/tao-desktop.jpg
   portrait: /assets/uploads/tao_mobile.jpg

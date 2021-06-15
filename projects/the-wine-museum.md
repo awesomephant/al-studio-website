@@ -18,12 +18,12 @@ related_projects:
 ---
 Allegrini Wine Discovery Museum is a spatial design proposal for one of the leading local winery in the Valpolicella region in Verona (IT). Allegrini winery wishes to enhance its visitors’ experience by adding to the property a new building that will host the brand wine museum. The traditional terracing techniques and the dry-stone walls characterizing the surrounding territory are the inspiration of the monolithic architecture which features a multi-level structure welcoming a vast exhibition space and a rooftop wine shop/bar.
 
-![](/assets/uploads/allegrini-interior4.jpg)
+![Aerial View of hills and winery](/assets/uploads/allegrini-interior4.jpg "The Wine Museum  – Aerial view")
 
-![](/assets/uploads/allegrini-interior3.jpg)
+![Stone material study model](/assets/uploads/allegrini-interior3.jpg "The Wine Museum  – Material and detail study")
 
-![](/assets/uploads/allegrini-exterior2.jpg)
+![Axonometric views of the interior of the museum](/assets/uploads/allegrini-exterior2.jpg "The Wine Museum  – Axonometric views")
 
-![](/assets/uploads/wine-museum_pressing.jpg)
+![Sketch of visitors pressing grapes in a mirrored room](/assets/uploads/wine-museum_pressing.jpg "The Wine Museum  – The pressing room")
 
-![](/assets/uploads/winemuseum_concept.jpg)
+![digital collage of wineries, terraces and grapes](/assets/uploads/winemuseum_concept.jpg "The Wine Museum  – Concept artwork, digital collage")

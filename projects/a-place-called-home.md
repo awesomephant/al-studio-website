@@ -11,7 +11,7 @@ tags:
 featured_image:
   landscape: /assets/uploads/dscf0399.jpg
   portrait: /assets/uploads/dscf0691.jpg
-  light_image: true
+  light_image: false
   alt: colourful mural on Fire Station building
 related_projects:
   - The World We Care

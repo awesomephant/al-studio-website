@@ -9,7 +9,7 @@ end_year: 2021
 tags:
   - Visual Arts
 featured_image:
-  landscape: /assets/uploads/dscf0579-2.jpg
+  landscape: /assets/uploads/dscf0399.jpg
   portrait: /assets/uploads/dscf0691.jpg
   light_image: true
   alt: colourful mural on Fire Station building
@@ -24,6 +24,8 @@ A Place Called Home tells the stories of a house in four hand-painted panels, a 
 \
 Dimensions: 350 x 450 cm (each panel)\
 Medium: acrylic on canvas
+
+![](/assets/uploads/dscf0579-2.jpg)
 
 ![](/assets/uploads/dscf0422.jpg)
 

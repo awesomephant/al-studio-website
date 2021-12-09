@@ -27,18 +27,18 @@ Dimensions: 350 x 450 cm (each panel)\
 Medium: acrylic on canvas
 {% endnote %}
 
-![](/assets/uploads/dscf0579-2.jpg)
+![A Place Called Home – The paintings perspective](/assets/uploads/dscf0579-2.jpg "A Place Called Home – The paintings perspective")
 
-![](/assets/uploads/dscf0422.jpg)
+![A Place Called Home – Gallery view](/assets/uploads/dscf0422.jpg "A Place Called Home – Gallery view")
 
-![](/assets/uploads/r008329.jpg)
+![A Place Called Home – Room Four, Dancing in the night](/assets/uploads/r008329.jpg "A Place Called Home – Room Four, Dancing in the night")
 
-![](/assets/uploads/dscf0568.jpg)
+![A Place Called Home – The paintings perspective 2](/assets/uploads/dscf0568.jpg "A Place Called Home – The paintings perspective 2")
 
-![](/assets/uploads/dscf0470.jpg)
+![A Place Called Home – Room One, Gathering at dawn](/assets/uploads/dscf0470.jpg "A Place Called Home – Room One, Gathering at dawn")
 
-{% gallery "%5B%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fapch_detail-2.jpg%22%7D%2C%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fapch_detail-3.jpg%22%7D%5D" %}
+{% gallery "%5B%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fapch_detail-2.jpg%22%2C%22caption%22%3A%22A%20Place%20Called%20Home%20%E2%80%93%20Detail%20Room%20Four%22%2C%22alt%22%3A%22A%20Place%20Called%20Home%20%E2%80%93%20Detail%20Room%20Four%22%7D%2C%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fapch_detail-3.jpg%22%2C%22caption%22%3A%22A%20Place%20Called%20Home%20%E2%80%93%20Detail%20Room%20One%22%2C%22alt%22%3A%22A%20Place%20Called%20Home%20%E2%80%93%20Detail%20Room%20One%22%7D%5D" %}
 
-{% gallery "%5B%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fapch_detail-1.jpg%22%7D%2C%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fapch_detail-4.jpg%22%7D%5D" %}
+{% gallery "%5B%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fapch_detail-1.jpg%22%2C%22caption%22%3A%22A%20Place%20Called%20Home%20%E2%80%93%20Detail%20Room%20Four%22%2C%22alt%22%3A%22A%20Place%20Called%20Home%20%E2%80%93%20Detail%20Room%20Four%22%7D%2C%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fapch_detail-4.jpg%22%2C%22caption%22%3A%22A%20Place%20Called%20Home%20%E2%80%93%20Detail%20Room%20Two%22%2C%22alt%22%3A%22A%20Place%20Called%20Home%20%E2%80%93%20Detail%20Room%20Two%22%7D%5D" %}
 
-![](/assets/uploads/dscf0389.jpg)
+![A Place Called Home – Street View](/assets/uploads/dscf0389.jpg "A Place Called Home –  Street View")

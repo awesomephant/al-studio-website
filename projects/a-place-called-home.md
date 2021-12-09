@@ -24,3 +24,15 @@ A Place Called Home tells the stories of a house in four hand-painted panels, a 
 \
 Dimensions: 350 x 450 cm (each panel)\
 Medium: acrylic on canvas
+
+![](/assets/uploads/dscf0422.jpg)
+
+![](/assets/uploads/r008329.jpg)
+
+![](/assets/uploads/dscf0568.jpg)
+
+![](/assets/uploads/dscf0470.jpg)
+
+{% gallery "%5B%7B%7D%5D" %}
+
+![](/assets/uploads/dscf0389.jpg)

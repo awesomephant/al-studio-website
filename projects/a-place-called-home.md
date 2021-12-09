@@ -35,6 +35,8 @@ Medium: acrylic on canvas
 
 ![](/assets/uploads/dscf0470.jpg)
 
-{% gallery "%5B%7B%7D%5D" %}
+{% gallery "%5B%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fapch_detail-2.jpg%22%7D%2C%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fapch_detail-3.jpg%22%7D%5D" %}
+
+{% gallery "%5B%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fapch_detail-1.jpg%22%7D%2C%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fapch_detail-4.jpg%22%7D%5D" %}
 
 ![](/assets/uploads/dscf0389.jpg)

@@ -20,10 +20,12 @@ A Place Called Home is an artwork sponsored by [Sloane Stanley](https://www.slo
 \
 In the last year we learned how to appreciate the meaning of home. The homes that protected and welcomed us every day. These sanctuaries hosted strong personal and community moments. We lived with our loved ones and gathered with our expanded families and friends. Now we celebrate this new meaning of “home” and hope to hold onto its newly acquired values for the future.\
 \
-A Place Called Home tells the stories of a house in four hand-painted panels, a series of peaceful interiors. Set in different rooms, the paintings capture moments of togetherness and intimacy over the course of a day. The paintings also give a nod to the importance of Chelsea’s home-focused businesses such as Peggy Porsche, Lavender Green and Farm Fetch, and also to figures including Christian the Lion – who lived on King’s Road – and the late Sarah Farrugia, who was the driving force behind the Chelsea Fire Station art project.\
-\
+A Place Called Home tells the stories of a house in four hand-painted panels, a series of peaceful interiors. Set in different rooms, the paintings capture moments of togetherness and intimacy over the course of a day. The paintings also give a nod to the importance of Chelsea’s home-focused businesses such as Peggy Porsche, Lavender Green and Farm Fetch, and also to figures including Christian the Lion – who lived on King’s Road – and the late Sarah Farrugia, who was the driving force behind the Chelsea Fire Station art project.
+
+{% note %}
 Dimensions: 350 x 450 cm (each panel)\
 Medium: acrylic on canvas
+{% endnote %}
 
 ![](/assets/uploads/dscf0579-2.jpg)
 

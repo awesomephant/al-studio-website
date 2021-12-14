@@ -23,4 +23,5 @@ Reconnections is a hand-painted ceramic tableware commissioned by the Nine Elms 
 {% note %}
 Dimensions: diameter 25 cm
 Medium: double-glazed stoneware, painted in colours
+
 {% endnote %}

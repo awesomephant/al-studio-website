@@ -25,14 +25,16 @@ share experiences, and eat together.
 {% note %}
 
 
+
 Dimensions: 70 x 300 cm\
 Medium: acrylic on canvas
 
 
+
 {% endnote %}
 
-![](/assets/uploads/full.jpg)
+![Cenacolo – Full painting](/assets/uploads/full.jpg "Cenacolo – Full painting")
 
-{% gallery "%5B%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fimg_7526.jpg%22%7D%2C%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fimg_7525.jpg%22%7D%5D" %}
+{% gallery "%5B%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fimg_7526.jpg%22%2C%22alt%22%3A%22Cenacolo%20%E2%80%93%20Detail%20Bartholomew%2C%20James%20Minor%2C%20and%20Andrew%22%2C%22caption%22%3A%22Cenacolo%20%E2%80%93%20Detail%20Bartholomew%2C%20James%20Minor%2C%20and%20Andrew%22%7D%2C%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fimg_7525.jpg%22%2C%22caption%22%3A%22Cenacolo%20%E2%80%93%20Detail%20Peter%2C%20Judas%2C%20and%20John%22%2C%22alt%22%3A%22Cenacolo%20%E2%80%93%20Detail%20Peter%2C%20Judas%2C%20and%20John%22%7D%5D" %}
 
-{% gallery "%5B%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fimg_7527.jpg%22%7D%2C%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fimg_7522.jpg%22%7D%5D" %}
+{% gallery "%5B%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fimg_7527.jpg%22%2C%22caption%22%3A%22Cenacolo%20%E2%80%93%20Detail%20Thomas%2C%20James%20Major%2C%20Philip%22%2C%22alt%22%3A%22Cenacolo%20%E2%80%93%20Detail%20Thomas%2C%20James%20Major%2C%20Philip%22%7D%2C%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fimg_7522.jpg%22%2C%22caption%22%3A%22Cenacolo%20%E2%80%93%20Detail%20Matthew%2C%20Thaddeus%2C%20and%20Simon%22%2C%22alt%22%3A%22Cenacolo%20%E2%80%93%20Detail%20Matthew%2C%20Thaddeus%2C%20and%20Simon%22%7D%5D" %}

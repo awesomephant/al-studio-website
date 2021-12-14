@@ -32,3 +32,7 @@ Medium: acrylic on canvas
 {% endnote %}
 
 ![](/assets/uploads/full.jpg)
+
+{% gallery "%5B%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fimg_7526.jpg%22%7D%2C%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fimg_7525.jpg%22%7D%5D" %}
+
+{% gallery "%5B%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fimg_7527.jpg%22%7D%2C%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fimg_7522.jpg%22%7D%5D" %}

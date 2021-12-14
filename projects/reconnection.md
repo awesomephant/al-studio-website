@@ -12,7 +12,7 @@ featured_image:
   light_image: false
   landscape: /assets/uploads/reconnections-desktop2.jpg
   portrait: /assets/uploads/reconnections-desktop2.jpg
-  alt: hand painted ceramic cylindric vase
+  alt: hand-painted ceramic cylindric vase
 related_projects:
   - A Place Called Home
 ---

@@ -21,9 +21,6 @@ Reconnections is a hand-painted ceramic tableware commissioned by the Nine Elms 
 Last year we started restoring the values within our community and finding a new balance. Today we strive to reconnect and build a new world. We look for kingdoms where peace and kindness are our new wealth, as we shape new landscapes and territories. The piece is produced in collaboration with ceramic artist [Steph Buttle](http://www.stephaniebuttle.com/objects).
 
 {% note %}
-
 Dimensions: diameter 25 cm 
 Medium: double-glazed stoneware, painted in colours
-
-
 {% endnote %}

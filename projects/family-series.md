@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Family Series
-draft: true
+draft: false
 subtitle: Painting series part of a series on family relationships (ongoing)
 date: 2021-12-13T22:28:58.736Z
 start_year: 2021

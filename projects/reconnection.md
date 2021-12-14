@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Reconnection
-draft: false
+draft: true
 subtitle: Hand-painted ceramic centrepiece produced for Nine Elms Arts Ministry
 date: 2021-12-13T23:39:14.768Z
 start_year: 2021

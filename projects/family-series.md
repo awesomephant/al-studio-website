@@ -2,14 +2,14 @@
 layout: project
 title: Family Series
 draft: false
-subtitle: Painting series part of a series on family relationships (ongoing)
+subtitle: Painting series part of the collection about family relationships
 date: 2021-12-13T22:28:58.736Z
 start_year: 2021
 end_year: 2021
 tags:
   - Visual Arts
 featured_image:
-  landscape: /assets/uploads/family-desktop2.jpg
+  landscape: /assets/uploads/family-series-desktop.jpg
   portrait: /assets/uploads/motherhood.jpg
   light_image: false
   alt: father and mother hugging children
@@ -21,10 +21,12 @@ To give birth but also to take care of somebody like they are your offspring. Th
 To give guidance about life and serve as a role model for the offspring. However, the relationship between father and child can invert when life unfolds. “Fatherhood is related to those who generate a child, and with them share feelings, joys and many other aspects of life.” Dad
 
 {% note %}
+
 Dimensions: 120 x 90 cm (each painting)\
 Medium: acrylic on canvas
+
 {% endnote %}
 
 ![](/assets/uploads/motherhood3.jpg "Motherhood")
 
-![](/assets/uploads/fatherhood.jpg "Fatherhood")
+![](/assets/uploads/dscf0123.jpg "Fatherhood")

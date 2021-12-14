@@ -9,8 +9,8 @@ end_year: 2021
 tags:
   - Visual Arts
 featured_image:
-  landscape: /assets/uploads/family-series-desktop.jpg
-  portrait: /assets/uploads/family-series-vertical.jpg
+  landscape: /assets/uploads/family-desktop2.jpg
+  portrait: /assets/uploads/motherhood.jpg
   light_image: false
   alt: father and mother hugging children
 related_projects:

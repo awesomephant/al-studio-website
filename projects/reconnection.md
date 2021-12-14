@@ -10,8 +10,8 @@ tags:
   - Visual Arts
 featured_image:
   light_image: false
-  landscape: /assets/uploads/reconnections-desktop2.jpg
-  portrait: /assets/uploads/reconnections-desktop2.jpg
+  landscape: /assets/uploads/reconnections-desktop.jpg
+  portrait: /assets/uploads/reconnections-desktop.jpg
   alt: hand-painted ceramic cylindric vase
 related_projects:
   - A Place Called Home

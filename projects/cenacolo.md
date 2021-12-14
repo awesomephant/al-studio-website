@@ -10,7 +10,7 @@ tags:
   - Visual Arts
 featured_image:
   light_image: false
-  landscape: /assets/uploads/cenacolo-desktop.jpg
+  landscape: /assets/uploads/20-20_1.jpg
   portrait: /assets/uploads/cenacolo_portrait.jpg
   alt: People eating and conversing at a table
 related_projects:
@@ -28,3 +28,13 @@ Dimensions: 70 x 300 cm\
 Medium: acrylic on canvas
 
 {% endnote %}
+
+![](/assets/uploads/full.jpg)
+
+![](/assets/uploads/img_7526.jpg)
+
+![](/assets/uploads/img_7525.jpg)
+
+![](/assets/uploads/img_7527.jpg)
+
+![](/assets/uploads/img_7522.jpg)

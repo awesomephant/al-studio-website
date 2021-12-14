@@ -16,7 +16,7 @@ featured_image:
 related_projects:
   - Family Series
 ---
-Dear Adalberto, I thought again about the meaning of "Cenacolo" you asked. If you consider the human aspect regardless of the theological side, I would say it is the definition of friendship and love. What food and a table surrender by people can represent? If not something that you give to the others to generate a friendship. Cenacolo is the place where you donate yourself to somebody else for love.
+"Dear Adalberto, I thought again about the meaning of "Cenacolo" you asked. If you consider the human aspect regardless of the theological side, I would say it is the definition of friendship and love. What food and a table surrender by people can represent? If not something that you give to the others to generate a friendship. Cenacolo is the place where you donate yourself to somebody else for love." - Mum
 
 This is an artwork commissioned by Adalberto's mother which I decided to paint together with my family and
 friends. The original artwork by Da Vinci has been an opportunity to gather among generations, talk,

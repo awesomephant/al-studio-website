@@ -2,7 +2,7 @@
 layout: project
 title: Cenacolo
 draft: false
-subtitle: Contemporary interpretation of Leonardo Da Vinci's Cenacolo
+subtitle: Leonardo Da Vinci's Cenacolo reinterpreted
 date: 2021-12-13T23:24:38.041Z
 start_year: 2021
 end_year: 2021
@@ -21,3 +21,8 @@ related_projects:
 This is an artwork commissioned by Adalberto's mother which I decided to paint together with my family and
 friends. The original artwork by Da Vinci has been an opportunity to gather among generations, talk,
 share experiences, and eat together.
+
+{% note %}
+Dimensions: 70 x 300 cm\
+Medium: acrylic on canvas
+{% endnote %}

@@ -23,3 +23,7 @@ A collaborative art project with 27 children of Y5 St. George Primary School in 
 The piece of art, commissioned by @christianaiduk and supported by Nine Elms Arts Ministry, aims to raise awareness about climate change, reflecting on the children’s relationship with themselves, nature, and the world. During the workshop, the pupils were invited to explore the three kinds of relationships and represent them with colour markers on paper.
 
 Drawings by Torreon, Anas, Nahir, Emmanuel, Valeria, Kezia, Emanuel, Tilly, and Talian.
+
+![](/assets/uploads/the-world-we-dream.jpg)
+
+![children group photo holding their drawings](/assets/uploads/workshop_landscape.jpg "Y5 St. George Primary School with drawings")

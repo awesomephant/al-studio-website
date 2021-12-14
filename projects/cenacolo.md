@@ -2,7 +2,7 @@
 layout: project
 title: Cenacolo
 draft: false
-subtitle: Private commission of Leonardo Da Vinci's Cenacolo reinterpretation
+subtitle: Leonardo Da Vinci's Cenacolo reinterpretation private commission
 date: 2021-12-13T23:24:38.041Z
 start_year: 2021
 end_year: 2021

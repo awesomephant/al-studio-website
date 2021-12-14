@@ -10,7 +10,7 @@ tags:
   - Visual Arts
 featured_image:
   light_image: false
-  landscape: /assets/uploads/2000x1125px_web.jpg
+  landscape: /assets/uploads/cenacolo-desktop.jpg
   portrait: /assets/uploads/cenacolo_portrait.jpg
   alt: People eating and conversing at a table
 related_projects:

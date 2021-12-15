@@ -9,15 +9,13 @@ end_year: 2021
 tags:
   - Visual Arts
 featured_image:
-  landscape: /assets/uploads/familyisforever1.jpg
+  landscape: /assets/uploads/the-abundance-of-nature1.jpg
   portrait: /assets/uploads/familyisforever1.jpg
   alt: Colourful book with drawings representing different kinds of families
   light_image: false
 related_projects: []
 ---
-
-
-![The Drawing Book  – The Abundance of Nature, Harvesting fruits and flowers](/assets/uploads/the-abundance-of-nature1.jpg "The Drawing Book  – The Abundance of Nature, Harvesting fruits and flowers")
+![The Drawing Book  – Family is Forever, Parents and children](/assets/uploads/familyisforever1.jpg "The Drawing Book  – Family is Forever, Parents and children")
 
 ![The Drawing Book  – The Abundance of Nature, Dinner around the table](/assets/uploads/the-abundance-of-nature2.jpg "The Drawing Book  – The Abundance of Nature, Dinner around the table")
 

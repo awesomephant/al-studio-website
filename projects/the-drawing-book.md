@@ -14,10 +14,12 @@ featured_image:
   alt: Colourful book with drawings representing different kinds of families
   light_image: false
 ---
-The Drawing Book is an ongoing project aimed to develop a creative book for all ages. 
 
-![The Drawing Book  – The Abundance of Nature](/assets/uploads/the-abundance-of-nature1.jpg "The Drawing Book  – The Abundance of Nature")
 
-![The Drawing Book  – Family is Forever](/assets/uploads/familyisforever3.jpg "The Drawing Book  – Family is Forever")
+![The Drawing Book  – The Abundance of Nature, Harvesting fruits and flowers](/assets/uploads/the-abundance-of-nature1.jpg "The Drawing Book  – The Abundance of Nature, Harvesting fruits and flowers")
+
+![The Drawing Book  – The Abundance of Nature, Dinner around the table](/assets/uploads/the-abundance-of-nature2.jpg "The Drawing Book  – The Abundance of Nature, Dinner around the table")
+
+![The Drawing Book  – Family is Forever, Parents and children](/assets/uploads/familyisforever3.jpg "The Drawing Book  – Family is Forever, Parents and children")
 
 ![The Drawing Book  – Completely Ourselves](/assets/uploads/completelyourselves.jpg "The Drawing Book  – Completely Ourselves")

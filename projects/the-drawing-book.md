@@ -2,7 +2,7 @@
 layout: project
 title: The Drawing Book
 draft: false
-subtitle: Self-published colouring book for families
+subtitle: Self-published colouring book around the themes of nature, family and love
 date: 2021-12-14T17:00:52.681Z
 start_year: 2021
 end_year: 2021

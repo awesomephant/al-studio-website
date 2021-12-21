@@ -10,7 +10,7 @@ tags:
   - Visual Arts
 featured_image:
   light_image: false
-  landscape: /assets/uploads/al_template-desktop2.jpg
+  landscape: /assets/uploads/reconnections-desktop2.jpg
   portrait: /assets/uploads/al_template-desktop2.jpg
   alt: hand-painted ceramic cylindric vase
 related_projects:

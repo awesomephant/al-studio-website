@@ -28,4 +28,4 @@ Drawings by Ava, Valerie, Emanuel, Omar, Kezia, Torreon, Talian, Nahir, Tilly, A
 
 ![children group photo holding their drawings ](/assets/uploads/workshop_landscape.jpg "Y5 St. George Primary School with drawings")
 
-{% gallery "%5B%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fthe-world-we-dream.jpg%22%2C%22caption%22%3A%22The%20World%20We%20Dream%20%E2%80%93%20Children%20artworks%20exhibited%20at%20COP%2026%22%2C%22alt%22%3A%22The%20World%20We%20Dream%20%E2%80%93%20Children%20artworks%20exhibited%20at%20COP%2026%22%7D%5D" %}
+{% gallery "%5B%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fthe-world-we-dream_web.jpg%22%2C%22caption%22%3A%22The%20World%20We%20Dream%20%E2%80%93%20Children%20artworks%20exhibited%20at%20COP%2026%22%2C%22alt%22%3A%22The%20World%20We%20Dream%20%E2%80%93%20Children%20artworks%20exhibited%20at%20COP%2026%22%7D%5D" %}

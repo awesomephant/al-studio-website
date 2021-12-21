@@ -20,9 +20,9 @@ related_projects:
 ---
 A collaborative art project with 27 children of Y5 St. George Primary School in Battersea and exhibited at COP26.
 
-The piece of art, commissioned by @christianaiduk and supported by Nine Elms Arts Ministry, aims to raise awareness about climate change, reflecting on the children’s relationship with themselves, nature, and the world. During the workshop, the pupils were invited to explore the three kinds of relationships and represent them with colour markers on paper.
+The piece of art, commissioned by @christianaiduk and supported by Nine Elms Arts Ministry, aims to raise awareness about climate change, reflecting on the children’s relationship with themselves, nature, and the world. During the workshop, the pupils were invited to explore the three kinds of relationships and represent them with colour markers on paper. One of the children, Ava said “I want the world to be a welcoming place. I want the world to be a happy place. I want the world to have peace and laughter”. 
 
-Drawings by Torreon, Anas, Nahir, Emmanuel, Valeria, Kezia, Emanuel, Tilly, and Talian.
+Drawings by Ava, Valerie, Emanuel, Omar, Kezia, Torreon, Talian, Nahir, Tilly, Anas, Nikkita, Alkin, Lucas, Yusef, Nahir, Bernice, Artemij, Lewis, Dylan, and Elliot.
 
 ![The World We Dream – Children artworks exhibited at COP 26](/assets/uploads/the-world-we-dream.jpg "The World We Dream – Children artworks exhibited at COP 26")
 

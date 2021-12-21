@@ -16,4 +16,7 @@ featured_image:
 related_projects:
   - Restore
 ---
-x
+{% note %}
+Dimensions: various sizes \
+Medium: double-glazed clay, painted with engobes
+{% endnote %}

@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Conscious London
-draft: false
+draft: true
 subtitle: Co-created visual identity for the London chapter of the Conscious
   Cities Festival
 date: 2020-10-23T22:51:31.736Z

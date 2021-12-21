@@ -13,5 +13,7 @@ featured_image:
   portrait: /assets/uploads/dscf1027.jpg
   alt: Ceramic painted statues representing the nativity scene
   light_image: false
+related_projects:
+  - Restore
 ---
 x

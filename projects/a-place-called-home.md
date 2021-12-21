@@ -9,7 +9,7 @@ end_year: 2021
 tags:
   - Visual Arts
 featured_image:
-  landscape: /assets/uploads/dscf0399.jpg
+  landscape: /assets/uploads/apch-desktop2.jpg
   portrait: /assets/uploads/dscf0691.jpg
   light_image: false
   alt: colourful mural on Fire Station building

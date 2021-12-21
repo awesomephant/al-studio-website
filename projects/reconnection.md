@@ -25,3 +25,7 @@ Dimensions: diameter 25 cm  <br />
 Medium: double-glazed stoneware, painted in colours
 
 {% endnote %}
+
+![Reconnection – Detail 1,  the hills](/assets/uploads/2cd148e2-1389-47ef-a550-c4149f5abd3b.jpg "Reconnection – Detail 1,  the hills")
+
+![Reconnection – Detail 2, dunes](/assets/uploads/bc52a6c8-546e-46ed-a8fc-fdf36144c578.jpg "Reconnection – Detail 2, dunes")

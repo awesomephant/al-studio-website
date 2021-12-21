@@ -22,6 +22,7 @@ Last year we started restoring the values within our community and finding a new
 
 {% note %}
 Dimensions: diameter 25 cm
+
 Medium: double-glazed stoneware, painted in colours
 
 {% endnote %}

@@ -11,7 +11,7 @@ tags:
   - Visual Arts
   - Education
 featured_image:
-  landscape: /assets/uploads/cop26_landscape.jpg
+  landscape: /assets/uploads/twwd_desktop.jpg
   portrait: /assets/uploads/cop26_landscape.jpg
   alt: collage of colourful drawings
   light_image: false

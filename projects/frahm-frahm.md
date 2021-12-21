@@ -4,8 +4,8 @@ title: Frahm&Frahm
 draft: false
 subtitle: Art direction and website design for large exhibitions producers F&F
 date: 2021-01-08T23:18:30.761Z
-start_year: 2021
-end_year: 2021
+start_year: 2020
+end_year: 2020
 tags:
   - Visual Communication
 featured_image:

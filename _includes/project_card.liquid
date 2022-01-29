@@ -1,5 +1,5 @@
 {% if p.data.draft != true %}
-<li class="project-card" data-tags="{% for t in p.data.tags %}{{t | slug}},{%endfor%}">
+<li class="project-card" data-tags="{% for t in p.data.tags %}{{t | slugify }},{%endfor%}">
     <a href="{{p.url}}">
         <div class='project-card--media'>
             <img loading="lazy" src="{{p.data.featured_image.landscape}}?nf_resize=fit&w=800" alt="alt" />

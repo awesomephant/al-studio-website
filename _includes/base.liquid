@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-  {% include meta.liquid %}
+  {% include "meta.liquid" %}
   <link rel="shortcut icon" href='{{"/assets/favicon.ico" | url }}'>
   <link rel="stylesheet" href=" {{'/css/style.css' | url}}">
   <script defer src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
@@ -27,7 +27,7 @@
       <a href="/information/">Info</a>
     </nav>
   </header>
-  {{ content | safe }}
+  {{ content }}
   <footer class="site-footer">
     <nav class="footer-nav">
       {% for item in settings.footer_menu %}

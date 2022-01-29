@@ -1,4 +1,3 @@
-const pluginSass = require("eleventy-plugin-sass");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const markdownIt = require("markdown-it");
 const md = new markdownIt({ html: true });
@@ -14,9 +13,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter("renderMarkdown", function (value) {
     return md.render(value);
   });
-  eleventyConfig.addFilter("slug", function (text) {
-    return text.toLowerCase().replace(/\W+/g, "-");
-  });
+
   eleventyConfig.addCollection("featuredProjects", function (collectionApi) {
     return collectionApi
       .getFilteredByGlob(["./projects/*.md"])
@@ -91,5 +88,4 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addWatchTarget("./dist/main.js");
 
   eleventyConfig.addPlugin(pluginRss);
-  eleventyConfig.addPlugin(pluginSass, {});
 };

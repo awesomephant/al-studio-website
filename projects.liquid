@@ -20,7 +20,7 @@ title: Projects
     <div>
         <button class="active" data-filter="all">All</button>
         {%for tag in tags %}
-        <button data-filter="{{tag | slug}}">{{tag}}</button>
+        <button data-filter="{{tag | slugify }}">{{tag}}</button>
         {% endfor %}
     </div>
 </nav>
@@ -29,7 +29,7 @@ title: Projects
     {% for pr in settings.projects %}
     {% for p in collections.project %}
     {% if pr == p.data.title %}
-    {% include project_card with {p: p}%}
+    {% include "project_card" with {p: p}%}
     {% endif %}
     {% endfor %}
     {% endfor %}

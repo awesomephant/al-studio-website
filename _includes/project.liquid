@@ -33,10 +33,10 @@ class: single-project
         <h3 class="section-title">Related Project</h3>
         {% endif %}
         <ul>
-            {% for p in related_projects %}
-            {% for pr in collections.project %}
-            {% if p == pr.data.title %}
-            {% include project_card with {p: pr}%}
+            {% for pr in related_projects %}
+            {% for p in collections.project %}
+            {% if pr == p.data.title %}
+            {% include "project_card" with {p: p}%}
             {% endif %}
             {% endfor %}
             {% endfor %}

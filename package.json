@@ -7,10 +7,10 @@
   "scripts": {
     "build:webpack": "webpack --mode production",
     "build:eleventy": "npx @11ty/eleventy",
-    "build:sass": "sass ./css/style.scss ./_site/main.css --no-source-map --style=compressed",
+    "build:sass": "sass ./sass/style.scss ./_site/css/main.css --no-source-map --style=compressed",
     "watch:webpack": "webpack --watch --mode development",
     "watch:eleventy": "npx @11ty/eleventy --serve --quiet",
-    "watch:sass": "sass ./css/style.scss ./_site/css/style.css --watch",
+    "watch:sass": "sass ./sass/style.scss ./_site/css/style.css --watch",
     "build": "run-s 'build:*'",
     "start": "run-p 'watch:*'"
   },

@@ -46,7 +46,7 @@
   height: auto;
   width: auto;
   transition: $fast;
-  transition-delay: $fast / 2;
+  transition-delay: calc($fast / 2);
   opacity: 0;
   transform: translateY(20px);
   .lightbox-active & {

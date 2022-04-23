@@ -9,7 +9,7 @@ end_year: 2022
 tags:
   - Visual Arts
 featured_image:
-  landscape: /assets/uploads/dinner-night.jpg
+  landscape: /assets/uploads/dinner-night-2.jpg
   alt: Piccadilly Circus screen with scene from video artwork
   portrait: /assets/uploads/portal-night.jpg
   light_image: false

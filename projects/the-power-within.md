@@ -19,7 +19,7 @@ related_projects:
 The Power Within is an original animated feature created for the art and cultural platform CIRCA. The two and half minutes animation broadcast a message of peace, communion and sustainability as the essential values of the world today. The film, developed through digital drawings and computer animation, talks about the powerful yet fragile dialogue with our souls, the world and the divine. The original soundtrack, created by London-based musician Othon, elevates the divinity of the piece and brings us to return to the values of simplicity, community and connectedness.
 
 {% note %}
-Medium: video, LED screen, colour and sound
+Medium: video, LED screen, colour and sound (br)
 Dimentions: Duration: 2min, 20sec
 {% endnote %}
 

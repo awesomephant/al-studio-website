@@ -31,11 +31,12 @@ collections:
             multiple: true
           - label: "Archive Projects"
             name: "projects"
-            hint: "These projects will appear on the Projects page in the ."
-            widget: "ncw-reorder"
+            hint: "These projects will appear on the Projects page in the order specified here."
+            widget: "relation"
             collection: "projects"
-            id_field: "title"
-            display_template: "{{title}} ({{end_year}})"
+            value_field: "title"
+            search_fields: ["title"]
+            multiple: true
           - label: "Show the projects archive?"
             name: "show_archive"
             widget: "boolean"

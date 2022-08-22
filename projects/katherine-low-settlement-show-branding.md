@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Katherine Low Settlement Show Branding
+title: KLS Art Show Branding
 draft: false
 subtitle: Art direction for The Things of Matter in Life exhibition
 date: 2022-08-22T22:39:53.428Z

@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Katherine Low Settlement Show Branding
-draft: true
+draft: false
 subtitle: Art direction for The Things of Matter in Life exhibition
 date: 2022-08-22T22:39:53.428Z
 start_year: 2022

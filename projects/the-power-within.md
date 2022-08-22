@@ -2,7 +2,7 @@
 layout: project
 title: The Power Within
 draft: false
-subtitle: Original animated feature for  art and cultural platform CIRCA
+subtitle: Original animated feature for art and cultural platform CIRCA
 date: 2022-03-16T15:55:13.598Z
 start_year: 2022
 end_year: 2022

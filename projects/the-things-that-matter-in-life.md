@@ -10,7 +10,7 @@ end_year: 2022
 tags:
   - Visual Arts
 featured_image:
-  landscape: /assets/uploads/wy5_9043-6.jpg
+  landscape: /assets/uploads/wy5_9043-62.jpg
   portrait: /assets/uploads/img_3489.jpeg
   alt: "White exhibition space with colourful paintings "
   light_image: false

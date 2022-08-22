@@ -2,8 +2,8 @@
 layout: project
 title: The Things that Matter in Life
 draft: false
-subtitle: "Art exhibition by the elders of Katherine Low Settlement at the Royal
-  College of Art "
+subtitle: "Art exhibition with the elders of Katherine Low Settlement at the
+  Royal College of Art "
 date: 2022-08-22T20:24:07.812Z
 start_year: 2022
 end_year: 2022

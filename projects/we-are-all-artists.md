@@ -4,8 +4,8 @@ title: We Are All Artists
 draft: false
 subtitle: Collaborative painting developed with the elders of Katherine Low Settlement
 date: 2022-08-22T20:50:55.904Z
-start_year: 2020
-end_year: 2020
+start_year: 2022
+end_year: 2019
 tags:
   - Visual Arts
 featured_image:

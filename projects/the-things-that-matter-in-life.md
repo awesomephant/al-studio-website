@@ -17,7 +17,7 @@ featured_image:
 related_projects:
   - The Power Within
 ---
-This exhibition showcases artwork created by the elders from [](https://www.instagram.com/klsettlement/)[Katherine Low Settlement](https://www.klsettlement.org.uk/)'s Age Well Programme, made through the Covid-19 pandemic. Many of the participants had never painted or drawn before. The work in the exhibition displays autobiographical pieces about the lives of older key members of the Battersea community.\
+This exhibition showcases artwork created by the elders from [](https://www.instagram.com/klsettlement/)Katherine Low Settlement's Age Well Programme, made through the Covid-19 pandemic. Many of the participants had never painted or drawn before. The work in the exhibition displays autobiographical pieces about the lives of older key members of the Battersea community.\
 \
 The project has been curated by Adalberto Lonardi and supported by the RCA’s Community Engagement Programme. The Show is part of the Age of Creativity Festival, a national event by Age UK that supports older people across England to have more inclusive opportunities to get creative.
 

@@ -9,8 +9,8 @@ end_year: 2022
 tags:
   - Visual Communication
 featured_image:
-  landscape: /assets/uploads/poster.jpg
-  portrait: /assets/uploads/poster.jpg
+  landscape: /assets/uploads/collage-posters.jpg
+  portrait: /assets/uploads/collage-posters.jpg
   alt: Posters
   light_image: false
 related_projects:

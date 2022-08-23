@@ -24,4 +24,8 @@ Dimensions: 350 x 300 cm, Medium: Acrylic on Ripstop polyester
 
 {% endnote %}
 
+
+
 ![Elders in front of colorful painting](/assets/uploads/dsc02831-2.jpg "Artists involved in the mural from Katherine Low Settlement ")
+
+![Colorful painting hanging at the RCA Dyson Gallery ](/assets/uploads/dscf1207.jpg "We Are All Artists hanging at the RCA Dyson Gallery ")

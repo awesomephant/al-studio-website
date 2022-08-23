@@ -9,8 +9,8 @@ end_year: 2022
 tags:
   - Visual Arts
 featured_image:
-  landscape: /assets/uploads/dsc02831-2.jpg
-  portrait: /assets/uploads/dsc02831.jpg
+  landscape: /assets/uploads/dscf1209.jpg
+  portrait: /assets/uploads/dscf1209.jpg
   alt: Elders of different cultures in front of colourful artwork
   light_image: false
 related_projects:

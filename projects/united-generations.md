@@ -9,7 +9,7 @@ subtitle: A vision for a sustainable and intergenerational community in London
 date: 2020-10-17T21:19:57.922Z
 start_year: 2019
 tags:
-  - Interiors Architecture
+  - Interior Architecture
   - Visual Arts
 featured_image:
   landscape: /assets/uploads/ug_desktop2.jpg

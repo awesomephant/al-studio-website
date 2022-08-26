@@ -7,7 +7,7 @@ date: 2021-06-15T08:54:51.185Z
 start_year: 2018
 end_year: 2017
 tags:
-  - Interiors & Architecture
+  - Interior Architecture
 featured_image:
   landscape: /assets/uploads/allegrini-exterior1.jpg
   portrait: /assets/uploads/allegrini-exterior1.jpg

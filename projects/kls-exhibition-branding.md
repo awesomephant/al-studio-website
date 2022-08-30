@@ -17,4 +17,4 @@ related_projects:
   - The Things that Matter in Life
 ---
 Art direction for the branding of The Things that Matter in Life exhibition.
-Visual Identity by graphic designer, Chloe Phuong-Thao Phi.
+Visual identity by graphic designer, Chloe Phuong-Thao Phi.

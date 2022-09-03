@@ -17,7 +17,7 @@
   margin-bottom: 3em;
   @include bp(m) {
     margin-bottom: 1em;
-    max-width: 31em;
+    max-width: 36em;
     grid-column: 1 / 10;
     grid-row: span 3;
   }
@@ -27,7 +27,6 @@
   }
   @include bp(xl) {
     font-size: var(--ms-2);
-    max-width: 32em;
     grid-row: auto;
   }
   h2 {
@@ -54,7 +53,7 @@
     grid-column: 10 / 13;
   }
   @include bp(l) {
-    grid-column: 10 / 11;
+    grid-column: 10 / 12;
   }
   section {
     margin-bottom: 1.5em;

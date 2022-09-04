@@ -18,3 +18,5 @@ related_projects:
 ---
 Art direction for the branding of The Things that Matter in Life exhibition.
 Graphic design by Chloe Phuong-Thao Phi.
+
+{% gallery "%5B%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fimg_31243.jpg%22%2C%22alt%22%3A%22Exhibition%20poster%20at%20Katherine%20Low%20Settlement%22%2C%22caption%22%3A%22Exhibition%20poster%20at%20Katherine%20Low%20Settlement%22%7D%2C%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fimg_3124.jpeg%22%2C%22alt%22%3A%22Exhibition%20poster%20at%20Katherine%20Low%20Settlement%22%2C%22caption%22%3A%22Exhibition%20poster%20at%20Katherine%20Low%20Settlement%22%7D%5D" %}

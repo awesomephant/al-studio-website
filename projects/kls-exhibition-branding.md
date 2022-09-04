@@ -21,4 +21,4 @@ Graphic design by Chloe Phuong-Thao Phi.
 
 {% gallery "%5B%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fimg_31243.jpg%22%2C%22alt%22%3A%22Exhibition%20poster%20at%20Katherine%20Low%20Settlement%22%2C%22caption%22%3A%22Exhibition%20poster%20at%20Katherine%20Low%20Settlement%22%7D%2C%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fimg_3124.jpg%22%2C%22alt%22%3A%22Exhibition%20poster%20at%20Katherine%20Low%20Settlement%22%2C%22caption%22%3A%22Exhibition%20poster%20at%20Katherine%20Low%20Settlement%22%7D%5D" %}
 
-![Square poster version for social media with colorful drawings on black and white typography](/assets/uploads/dscf1207-2.jpg "Social Media Assets")
+![Square poster version for social media with colorful drawings on black and white typography](/assets/uploads/dscf1207-2.jpg "Social Media Exhibition Assets")

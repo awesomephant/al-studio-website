@@ -24,8 +24,10 @@ A Place Called Home tells the stories of a house in four hand-painted panels, a 
 
 {% note %}
 
+
 Dimensions: 350 x 450 cm (each panel)\
 Medium: acrylic on canvas
+
 
 {% endnote %}
 
@@ -38,6 +40,8 @@ Medium: acrylic on canvas
 ![A Place Called Home – The paintings perspective 2](/assets/uploads/dscf0568.jpg "A Place Called Home – The paintings perspective 2")
 
 ![A Place Called Home – Room One, Gathering at dawn](/assets/uploads/dscf0470.jpg "A Place Called Home – Room One, Gathering at dawn")
+
+{% gallery "%5B%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fapch_desktop.jpg%22%2C%22caption%22%3A%22gdd%22%2C%22alt%22%3A%22gfgd%22%7D%5D" %}
 
 {% gallery "%5B%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fapch_detail-2.jpg%22%2C%22caption%22%3A%22A%20Place%20Called%20Home%20%E2%80%93%20Detail%20Room%20Four%22%2C%22alt%22%3A%22A%20Place%20Called%20Home%20%E2%80%93%20Detail%20Room%20Four%22%7D%2C%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fapch_detail-3.jpg%22%2C%22caption%22%3A%22A%20Place%20Called%20Home%20%E2%80%93%20Detail%20Room%20One%22%2C%22alt%22%3A%22A%20Place%20Called%20Home%20%E2%80%93%20Detail%20Room%20One%22%7D%5D" %}
 

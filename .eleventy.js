@@ -34,7 +34,7 @@ module.exports = function (eleventyConfig) {
         images.forEach(img => {
           let src = img.getAttribute("src");
           img.setAttribute("data-full-src", src)
-          src += "?nf_resize=fit&w=1000";
+          src += "?nf_resize=fit&w=1500";
           img.setAttribute("src", src)
           if (img.getAttribute("title") !== "") {
             let caption = dom.window.document.createElement("span")
@@ -59,7 +59,7 @@ module.exports = function (eleventyConfig) {
         caption = item.caption
       }
       return `<figure class="gallery--item">
-      <img data-full-src="${item.image}" src="${item.image}?nf_resize=fit&w=1000" alt="${item.alt}">
+      <img data-full-src="${item.image}" src="${item.image}?nf_resize=fit&w=1500" alt="${item.alt}">
       <figcaption>${caption}</figcaption>
       </figure>`;
     });

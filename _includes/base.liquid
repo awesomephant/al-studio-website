@@ -24,14 +24,17 @@
           AL
         </h1>
       </a>
-      <a href="/information/">Info</a>
+      <div class="nav__secondary">
+        <a href="https://www.adalbertolonardishop.com">Shop</a>
+        <a href="/information/">Info</a>
+      </div>
     </nav>
   </header>
   {{ content }}
   <footer class="site-footer">
     <nav class="footer-nav">
       {% for item in settings.footer_menu %}
-    <a href="{{item.url}}" {% if item.target == true%}target="_blank"{% endif %}>{{item.title}}</a>
+      <a href="{{item.url}}" {% if item.target == true%}target="_blank" {% endif %}>{{item.title}}</a>
       {% endfor %}
     </nav>
     <nav class="footer-nav-secondary">

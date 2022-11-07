@@ -54,9 +54,13 @@
     letter-spacing: 0.03em;
     &:hover,
     &:focus {
-      @include underline($gray);
+      @include underline(currentColor);
     }
   }
+}
+.nav__secondary {
+  display: flex;
+  gap: 1em;
 }
 
 .projects .site-nav a[href*="projects"],
@@ -87,5 +91,5 @@
   }
 }
 .footer-nav {
-  margin-bottom: .5em;
+  margin-bottom: 0.5em;
 }

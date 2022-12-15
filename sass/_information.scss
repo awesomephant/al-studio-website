@@ -5,10 +5,10 @@
   }
   h3 {
     @extend %uppercase;
-    font-size: var(--ms-0);
-    margin-bottom: 0.5em;
+    font-size: .9em;
+    margin-bottom: 0.35em;
     font-weight: 600;
-    letter-spacing: 0.01em;
+    letter-spacing: 0.035em;
   }
 }
 .information-copy {
@@ -18,12 +18,11 @@
   @include bp(m) {
     margin-bottom: 1em;
     max-width: 36em;
-    grid-column: 1 / 10;
+    grid-column: 1 / 8;
     grid-row: span 3;
   }
   @include bp(l) {
     grid-row: auto;
-    grid-column: 1 / 10;
   }
   @include bp(xl) {
     font-size: var(--ms-2);
@@ -53,7 +52,7 @@
     grid-column: 10 / 13;
   }
   @include bp(l) {
-    grid-column: 10 / 12;
+    grid-column: 8 / 10;
   }
   section {
     margin-bottom: 1.5em;
@@ -62,7 +61,7 @@
     list-style: none;
   }
   li {
-    @include bp(l){
+    @include bp(l) {
       white-space: nowrap;
     }
     display: block;
@@ -90,7 +89,10 @@
     grid-column: 10 / 12;
   }
   @include bp(l) {
-    grid-column: 12 / 13;
+    grid-column: 11 / 13;
+  }
+  @include bp(xl) {
+    grid-column: 10 / 13;
   }
   section {
     margin-bottom: 1.5em;

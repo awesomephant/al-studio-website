@@ -1,11 +1,11 @@
 ---
 layout: project
-title: Cenacolo
+title: The Last Supper
 draft: false
-subtitle: Leonardo Da Vinci's Cenacolo reinterpretation for private commission
+subtitle: Leonardo Da Vinci's The Last Supper reinterpretation for private commission
 date: 2021-12-13T23:24:38.041Z
-start_year: 2021
-end_year: 2021
+start_year: 2022
+end_year: 2022
 tags:
   - Visual Arts
 featured_image:
@@ -16,7 +16,7 @@ featured_image:
 related_projects:
   - Family Series
 ---
-"Dear Adalberto, I thought again about the meaning of "Cenacolo" you asked. If you consider the human aspect regardless of the theological side, I would say it is the definition of friendship and love. What food and a table surrender by people can represent? If not something that you give to the others to generate a friendship. Cenacolo is the place where you donate yourself to somebody else for love." - Mum
+"Dear Adalberto, I thought again about the meaning of "The Last Supper" you asked. If you consider the human aspect regardless of the theological side, I would say it is the definition of friendship and love. What food and a table surrounded by people can represent? If not something that you give to others to generate a friendship. Cenacolo is the place where you donate yourself to somebody else for love." - Mumun
 
 This artwork was commissioned by Adalberto's mother and it was painted together with the artist's family and
 friends. The original artwork by Da Vinci has been an opportunity to gather among generations, talk,
@@ -26,8 +26,10 @@ share experiences, and eat together.
 
 
 
+
 Dimensions: 70 x 300 cm\
 Medium: acrylic on canvas
+
 
 
 

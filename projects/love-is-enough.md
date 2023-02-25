@@ -23,4 +23,4 @@ The collection of cylindrical plates, bowls and vases takes to the table the the
 
 The production has an essential intergenerational element. The collection has been created in collaboration with ceramic artist Anna Grazia Perlini in Verona.
 
-![](/assets/uploads/capture-one-catalog0087.jpg)
+![](/assets/uploads/apch_desktop.jpg)

@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Love is Enough
-draft: true
+draft: false
 subtitle: Hand painted ceramic series
 date: 2023-02-25T21:45:39.599Z
 start_year: 2023

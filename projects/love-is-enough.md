@@ -25,6 +25,8 @@ The production has an essential intergenerational element. The collection has be
 
 {% note %}
 [D﻿ownload Catalogue](https://drive.google.com/open?id=1D62iVW9O3c8uWHG06MJzHrexmY0nLcz2&authuser=info%40adalbertolonardi.com&usp=drive_fs)
+
+[S﻿hop at Adalberto Lonardi Shop](https://www.adalbertolonardishop.com/)
 {% endnote %}
 
 {% gallery "%5B%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fcapture-one-catalog0087.jpg%22%7D%2C%7B%22image%22%3A%22%2Fassets%2Fuploads%2Funtitled-capture0041.jpg%22%7D%5D" %}

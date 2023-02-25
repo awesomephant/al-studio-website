@@ -9,7 +9,7 @@ end_year: 2023
 tags:
   - Visual Arts
 featured_image:
-  landscape: /assets/uploads/capture-one-catalog0142.jpg
+  landscape: /assets/uploads/apch_desktop.jpg
   portrait: /assets/uploads/capture-one-catalog0142.jpg
   alt: Cylinder tableware ceramics painted with figurative and flower motives and
     vibrant colours

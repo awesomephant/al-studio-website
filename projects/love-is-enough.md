@@ -2,7 +2,7 @@
 layout: project
 title: Love is Enough
 draft: false
-subtitle: Hand painted ceramic series
+subtitle: Hand painted ceramic tableware
 date: 2023-02-25T21:45:39.599Z
 start_year: 2023
 end_year: 2023
@@ -20,7 +20,7 @@ related_projects:
 *Love is Enough* is a ceramic tableware series with at the centre the idea of universal love and an ode to my hometown Verona. A love without gender, without age, without race. The unconditional virtue that we share every day with our families, friends and neighbours. 
 
 {% note %}
-D﻿ownload Catalogue
+[D﻿ownload Catalogue](https://drive.google.com/open?id=1D62iVW9O3c8uWHG06MJzHrexmY0nLcz2&authuser=info%40adalbertolonardi.com&usp=drive_fs)
 {% endnote %}
 
 The collection of cylindrical plates, bowls and vases takes to the table the themes of care, love and compassion. It is a modern reinterpretation of traditional folk art on ceramics, with a strong reference to figurative Italian ceramics from the 14th and 15th centuries. This collection is a piece of art, a collectable design, and a high-end product.

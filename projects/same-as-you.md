@@ -2,8 +2,7 @@
 layout: project
 title: Same as You
 draft: false
-subtitle: Painting part of the collective HIV exhibition at Chelsea and
-  Westminster Hospital
+subtitle: Painting part of the HIV exhibition at Chelsea and Westminster Hospital
 date: 2023-02-25T22:53:53.818Z
 start_year: 2023
 end_year: 2023

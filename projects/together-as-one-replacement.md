@@ -18,6 +18,4 @@ Together as One, Family Preparing for the Carnival (2021) is part of the Chelsea
 
 Discover more about [Together As One (2021)](https://adalbertolonardi.com/projects/together-as-one/).
 
-![Colourful Mural in Chelsea and Westminster hospital central atrium](/assets/uploads/img_9235.jpg)
-
-![Colourful Mural in Chelsea and Westminster hospital central atrium](/assets/uploads/img_9235.jpg)
+{% gallery "%5B%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fimg_9235.jpg%22%2C%22caption%22%3A%22Colourful%20Mural%20in%20Chelsea%20and%20Westminster%20hospital%20central%20atrium%22%7D%2C%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fimg_9235-2.jpg%22%2C%22caption%22%3A%22Colourful%20Mural%20in%20Chelsea%20and%20Westminster%20hospital%20central%20atrium%22%7D%5D" %}

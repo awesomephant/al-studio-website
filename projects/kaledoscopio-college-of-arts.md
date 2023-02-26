@@ -7,7 +7,7 @@ date: 2021-01-09T01:25:41.484Z
 start_year: 2017
 end_year: 2017
 tags:
-  - Interior Architecture
+  - Architecture
 featured_image:
   landscape: /assets/uploads/kidscenter_concept.jpg
   portrait: /assets/uploads/kidscenter_concept.jpg

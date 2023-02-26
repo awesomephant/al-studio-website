@@ -7,8 +7,8 @@ date: 2023-02-25T22:58:21.466Z
 start_year: 2023
 end_year: 2023
 featured_image:
-  landscape: /assets/uploads/taocw-desktop.jpg
-  portrait: /assets/uploads/img_7173.jpg
+  landscape: /assets/uploads/taocw-desktop-1.jpg
+  portrait: /assets/uploads/img_9235.jpg
   alt: Colourful Mural in Chelsea and Westminster hospital central atrium
   light_image: true
 related_projects:
@@ -20,4 +20,4 @@ Discover more about [Together As One (2021)](https://adalbertolonardi.com/projec
 
 ![Colourful Mural in Chelsea and Westminster hospital central atrium](/assets/uploads/img_9235.jpg)
 
-![Colourful Mural in Chelsea and Westminster hospital central atrium](/assets/uploads/img_7173.jpg)
+![Colourful Mural in Chelsea and Westminster hospital central atrium](/assets/uploads/img_9235.jpg)

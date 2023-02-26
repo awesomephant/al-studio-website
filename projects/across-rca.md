@@ -6,8 +6,7 @@ subtitle: Interdisciplinary workshop part of the Walkative Project for Across RC
 date: 2020-10-23T22:43:28.502Z
 start_year: 2019
 end_year: 2019
-tags:
-  - Education
+tags: []
 featured_image:
   landscape: /assets/uploads/arca_desktop.jpg
   portrait: /assets/uploads/arca_mobile.jpg

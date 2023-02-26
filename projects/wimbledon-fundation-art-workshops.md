@@ -2,8 +2,7 @@
 layout: project
 title: Wimbledon Fundation Art Workshops
 draft: false
-subtitle: Creative workshops with the local community in collaboration with the
-  Wimbledon Fundation
+subtitle: Creative workshops in collaboration with the Wimbledon Fundation
 date: 2023-02-26T23:06:08.391Z
 start_year: 2023
 end_year: 2023

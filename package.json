@@ -27,7 +27,7 @@
     "webpack-cli": "^5.0.1"
   },
   "devDependencies": {
-    "imports-loader": "^3.1.1"
+    "imports-loader": "^4.0.1"
   },
   "packageManager": "yarn@3.4.1"
 }

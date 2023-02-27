@@ -1189,7 +1189,7 @@ __metadata:
   dependencies:
     "@11ty/eleventy": ^2.0.0
     "@11ty/eleventy-plugin-rss": ^1.1.2
-    imports-loader: ^3.1.1
+    imports-loader: ^4.0.1
     jsdom: ^21.1.0
     netlify-cms-app: ^2.15.72
     npm-run-all: ^4.1.5
@@ -3436,15 +3436,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"imports-loader@npm:^3.1.1":
-  version: 3.1.1
-  resolution: "imports-loader@npm:3.1.1"
+"imports-loader@npm:^4.0.1":
+  version: 4.0.1
+  resolution: "imports-loader@npm:4.0.1"
   dependencies:
     source-map: ^0.6.1
     strip-comments: ^2.0.1
   peerDependencies:
     webpack: ^5.0.0
-  checksum: 8d218e6eed8c7667d905594d685cec519d9b0e2f77534c12956c8768a5211188f21921dc136d3923b51e7d4ebb57571de53f403d9624d5874bce7bc920e8d140
+  checksum: 831882988de72f40be8c1177a18ef207a3e351efec088d7ebd94a31583b713c256ce89dd4af87469b77f650ec78e5fd78089d58ef648b20f3f1dc5e437425e03
   languageName: node
   linkType: hard
 

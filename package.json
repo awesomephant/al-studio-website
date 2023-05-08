@@ -23,7 +23,7 @@
     "netlify-cms-app": "^2.15.72",
     "npm-run-all": "^4.1.5",
     "sass": "^1.62.1",
-    "webpack": "^5.81.0",
+    "webpack": "^5.82.0",
     "webpack-cli": "^5.1.0"
   },
   "devDependencies": {

@@ -27,4 +27,10 @@ A work developed by the Learning Centre together with 300 children from:
 • Sam Martin’s the Fields High School
 • Trinity St Mary’s CE Primary, Balham
 
+{% note %}
+Dimensions: 280 x 140 cm (each panel)
+Medium final artwork: digital print on fabric
+Medium original children’s artworks: pastels on paper
+{% endnote %}
+
 {% gallery "%5B%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fdscf1683.jpg%22%7D%2C%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fdscf1633.jpg%22%7D%5D" %}

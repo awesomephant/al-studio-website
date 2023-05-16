@@ -22,8 +22,8 @@ A work developed by the Learning Centre together with 300 children from:
 All Saints Benhilton CE Primary, Sutton • Cathedral School, Southwark • San, James’ Hatcham CE Primary, Lewisham • San Matthew’s CE Primary, Redhill • St. Mary’s, Lewisham CE Primary • Sam Martin’s the Fields High School • Trinity St Mary’s CE Primary, Balham
 
 {% note %}
-Dimensions: 280 x 140 cm (each panel)
-Medium final artwork: digital print on fabric
+Dimensions: 280 x 140 cm (each panel)<br>
+Medium final artwork: digital print on fabric<br>
 Medium original children’s artworks: pastels on paper
 {% endnote %}
 

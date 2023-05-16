@@ -35,4 +35,6 @@ Medium original children’s artworks: pastels on paper
 
 {% gallery "%5B%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fdscf1683-2.jpg%22%7D%2C%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fdscf1683.jpg%22%7D%5D" %}
 
+![](/assets/uploads/only-one.jpg)
+
 {% gallery "%5B%7B%22image%22%3A%22%2Fassets%2Fuploads%2F2022-11-27_150857_page_08.jpg%22%7D%2C%7B%22image%22%3A%22%2Fassets%2Fuploads%2F2022-11-27_150857_page_15.jpg%22%7D%5D" %}

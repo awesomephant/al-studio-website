@@ -33,4 +33,6 @@ Medium final artwork: digital print on fabric
 Medium original children’s artworks: pastels on paper
 {% endnote %}
 
-{% gallery "%5B%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fdscf1683.jpg%22%7D%2C%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fdscf1633.jpg%22%7D%5D" %}
+{% gallery "%5B%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fdscf1683.jpg%22%7D%2C%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fdscf1683.jpg%22%7D%5D" %}
+
+{% gallery "%5B%7B%22image%22%3A%22%2Fassets%2Fuploads%2F2022-11-27_150857_page_08.jpg%22%7D%2C%7B%22image%22%3A%22%2Fassets%2Fuploads%2F2022-11-27_150857_page_15.jpg%22%7D%5D" %}

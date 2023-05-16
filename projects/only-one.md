@@ -19,13 +19,7 @@ related_projects:
 Only One is a modern tapestry based on works produced by Christian Aid UK and Southwark Cathedral with hundreds of children of the Diocese of Southwark in response to Luke Jerram's Gaia installation. The digital collage was created from a selection of 300 artworks and incorporates common elements, such as the earth seen from space, an open eye, and what the future of the planet looks like with and without climate justice.
 
 A work developed by the Learning Centre together with 300 children from:
-• All Saints Benhilton CE Primary, Sutton
-• Cathedral School, Southwark
-• San, James’ Hatcham CE Primary, Lewisham
-• San Matthew’s CE Primary, Redhill
-• St. Mary’s, Lewisham CE Primary
-• Sam Martin’s the Fields High School
-• Trinity St Mary’s CE Primary, Balham
+All Saints Benhilton CE Primary, Sutton • Cathedral School, Southwark • San, James’ Hatcham CE Primary, Lewisham • San Matthew’s CE Primary, Redhill • St. Mary’s, Lewisham CE Primary • Sam Martin’s the Fields High School • Trinity St Mary’s CE Primary, Balham
 
 {% note %}
 Dimensions: 280 x 140 cm (each panel)

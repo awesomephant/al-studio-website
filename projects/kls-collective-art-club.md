@@ -20,10 +20,12 @@ From Creative Health: The Arts for Health and Wellbeing Report (2017): "...Parti
 
 The Collective Art Club focuses on drawing, painting activities and creating collective artworks. The project welcomes 50+ adults and older people with all technical levels and without previous experience requirements. The Club provides a safe and relaxed environment where older people meet other members of the local community and create together.
 
-![](/assets/uploads/kls_low-res_63.jpg)
-
 ![](/assets/uploads/kls_low-res_57.jpg)
 
 ![](/assets/uploads/kls_low-res_58.jpg)
 
 ![](/assets/uploads/kls_low-res_61.jpg)
+
+![](/assets/uploads/kls_low-res_63.jpg)
+
+©Katherine Low Settlement / Gregor Petrikovic

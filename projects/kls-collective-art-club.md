@@ -28,4 +28,4 @@ The Collective Art Club focuses on drawing, painting activities and creating col
 
 ![](/assets/uploads/kls_low-res_63.jpg)
 
-©Katherine Low Settlement / Gregor Petrikovic
+© Katherine Low Settlement / Gregor Petrikovic

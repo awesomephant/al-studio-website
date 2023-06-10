@@ -16,8 +16,6 @@ featured_image:
 related_projects:
   - KLS Collective Art Club
 ---
-![](/assets/uploads/527444.jpg)
-
 ![](/assets/uploads/527349.jpg)
 
 ![](/assets/uploads/527384.jpg)
@@ -27,3 +25,7 @@ related_projects:
 ![](/assets/uploads/527326.jpg)
 
 ![](/assets/uploads/527334.jpg)
+
+![](/assets/uploads/527444.jpg)
+
+©AELTC / Chloe Knott

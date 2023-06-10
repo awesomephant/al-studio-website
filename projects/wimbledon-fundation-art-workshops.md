@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Wimbledon Fundation Art Workshops
+title: Champions of Wimbledon Workshops
 draft: false
 subtitle: Creative workshops in collaboration with the Wimbledon Fundation
 date: 2023-02-26T23:06:08.391Z
@@ -28,4 +28,4 @@ related_projects:
 
 ![](/assets/uploads/527444.jpg)
 
-©AELTC / Chloe Knott
+© AELTC / Chloe Knott

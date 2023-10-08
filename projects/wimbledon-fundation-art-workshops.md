@@ -7,7 +7,8 @@ date: 2023-02-26T23:06:08.391Z
 start_year: 2023
 end_year: 2023
 tags:
-  - Social Empowerment
+  - Visual Arts
+  - Workshops
 featured_image:
   landscape: /assets/uploads/527390.jpeg
   portrait: /assets/uploads/527390.jpeg

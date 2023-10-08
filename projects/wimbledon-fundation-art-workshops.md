@@ -1,8 +1,8 @@
 ---
 layout: project
-title: Champions of Wimbledon Workshops
+title: Mixed Match
 draft: false
-subtitle: Creative workshops in collaboration with the Wimbledon Fundation
+subtitle: Tapestries in collaboration with the Wimbledon Foundation
 date: 2023-02-26T23:06:08.391Z
 start_year: 2023
 end_year: 2023
@@ -16,6 +16,8 @@ featured_image:
 related_projects:
   - KLS Collective Art Club
 ---
+A series of intergenerational and multicultural workshops led to the creation of four digital artworks which will be transformed by four professional textile artists into flags exhibited at the Wimbledon Museum in 2024.
+
 ![](/assets/uploads/527349.jpg)
 
 ![](/assets/uploads/527384.jpg)

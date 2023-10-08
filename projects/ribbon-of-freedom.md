@@ -8,7 +8,6 @@ start_year: 2023
 end_year: 2023
 tags:
   - Visual Arts
-  - Architecture
   - Workshops
 featured_image:
   landscape: /assets/uploads/foster3.jpg

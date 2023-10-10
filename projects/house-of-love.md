@@ -9,8 +9,8 @@ end_year: 2023
 tags:
   - Visual Arts
 featured_image:
-  landscape: /assets/uploads/965a1897-hdr-dited.jpg
-  portrait: /assets/uploads/965a1897-hdr-dited.jpg
+  landscape: /assets/uploads/house-of-love.jpg
+  portrait: /assets/uploads/house-of-love.jpg
   light_image: true
   alt: Community centre interior space with colorful mural
 related_projects:
@@ -19,3 +19,5 @@ related_projects:
 House of Love is a large 360-degree mural by London-based artist Adalberto Lonardi, wrapping the entrance hall of Katherine Low Settlement. The artwork, funded by Wandsworth Council, celebrates the 100th birthday of the Settlement in 2024. It tells the story of a multicultural community moving harmoniously through time, from 1924 to today. 
 
 The mural was created in collaboration with KLS members and the local community. Ideas, words, and drawings were gathered from intergenerational workshops and then incorporated into the design of the entrance hall’s walls. 47 volunteers from the local community took part in the 147 hours of production, using 40 colours and 24 litres of paint on the 105 square metres of wall.
+
+![](/assets/uploads/965a1897-hdr-dited.jpg)

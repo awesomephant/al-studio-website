@@ -20,4 +20,4 @@ House of Love is a large 360-degree mural by London-based artist Adalberto Lonar
 
 The mural was created in collaboration with KLS members and the local community. Ideas, words, and drawings were gathered from intergenerational workshops and then incorporated into the design of the entrance hall’s walls. 47 volunteers from the local community took part in the 147 hours of production, using 40 colours and 24 litres of paint on the 105 square metres of wall.
 
-![](/assets/uploads/965a1897-hdr-dited.jpg)
+![](/assets/uploads/house-of-love-2.jpg)

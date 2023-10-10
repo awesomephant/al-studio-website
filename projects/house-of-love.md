@@ -9,8 +9,8 @@ end_year: 2023
 tags:
   - Visual Arts
 featured_image:
-  landscape: /assets/uploads/house-of-love.jpg
-  portrait: /assets/uploads/house-of-love.jpg
+  landscape: /assets/uploads/965a1897-hdr-dited.jpg
+  portrait: /assets/uploads/965a1897-hdr-dited.jpg
   light_image: true
   alt: Community centre interior space with colorful mural
 related_projects:

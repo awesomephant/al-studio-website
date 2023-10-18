@@ -9,8 +9,8 @@ end_year: 2023
 tags:
   - Visual Arts
 featured_image:
-  landscape: /assets/uploads/house-of-love.jpg
-  portrait: /assets/uploads/house-of-love.jpg
+  landscape: /assets/uploads/965a2072.jpg
+  portrait: /assets/uploads/965a2072.jpg
   light_image: true
   alt: Community centre interior space with colorful mural
 related_projects:
@@ -20,4 +20,14 @@ House of Love is a large 360-degree mural by London-based artist Adalberto Lonar
 
 The mural was created in collaboration with KLS members and the local community. Ideas, words, and drawings were gathered from intergenerational workshops and then incorporated into the design of the entrance hall’s walls. 47 volunteers from the local community took part in the 147 hours of production, using 40 colours and 24 litres of paint on the 105 square metres of wall.
 
-![](/assets/uploads/house-of-love-2.jpg)
+![Community centre interior space with colorful mural](/assets/uploads/965a1906-hdr.jpg)
+
+![Community centre interior space with colorful mural](/assets/uploads/965a1930-hdr.jpg)
+
+![Community centre interior space with colorful mural](/assets/uploads/965a1973-hdr.jpg)
+
+![Community centre interior space with colorful mural](/assets/uploads/965a1915-hdr.jpg)
+
+![Community centre interior space with colorful mural](/assets/uploads/965a1976-hdr.jpg)
+
+![Community centre interior space with colorful mural](/assets/uploads/965a1952-hdr.jpg)

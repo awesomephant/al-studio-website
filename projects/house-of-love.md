@@ -22,8 +22,6 @@ The mural was created in collaboration with KLS members and the local community.
 
 Aaron Barbour (former KLS Chief Executive) said: “The mural is a fantastic expression of KLS, of who we are and what we do. It’s been a successful collaborative and colourful project that’s brought people from across the community together to produce this amazing work of art. It truly is Battersea. Come and see it.”
 
-A project funded by Wandsworth Council.
-
 {% note %}
 Dimensions: 110 square metres <br>
 Medium: vinyl matt emulsion on wall

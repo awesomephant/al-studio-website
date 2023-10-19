@@ -28,16 +28,16 @@ Aaron Barbour (former KLS Chief Executive) said: “The mural is a fantastic exp
 
 ![Community centre interior space with colorful mural](/assets/uploads/965a1930-hdr.jpg)
 
-{% gallery "%5B%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fimg_4006-2.jpg%22%2C%22alt%22%3A%22Volunteers%20working%20on%20a%20colorful%20mural%22%7D%2C%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fimg_4011.jpg%22%2C%22alt%22%3A%22Volunteers%20working%20on%20a%20colorful%20mural%22%7D%5D" %}
-
 ![Community centre interior space with colorful mural](/assets/uploads/965a1973-hdr.jpg)
 
-![Community centre interior space with colorful mural](/assets/uploads/965a1915-hdr.jpg)
-
-![Community centre interior space with colorful mural](/assets/uploads/965a1976-hdr.jpg)
+{% gallery "%5B%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fimg_4006-2.jpg%22%2C%22alt%22%3A%22Volunteers%20working%20on%20a%20colorful%20mural%22%7D%2C%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fimg_4011.jpg%22%2C%22alt%22%3A%22Volunteers%20working%20on%20a%20colorful%20mural%22%7D%5D" %}
 
 
 
 {% gallery "%5B%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fimg_4291.jpg%22%2C%22alt%22%3A%22Volunteers%20working%20on%20a%20colorful%20mural%22%7D%2C%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fimg_4917.jpg%22%2C%22alt%22%3A%22Volunteers%20working%20on%20a%20colorful%20mural%22%7D%5D" %}
+
+![Community centre interior space with colorful mural](/assets/uploads/965a1915-hdr.jpg)
+
+![Community centre interior space with colorful mural](/assets/uploads/965a1976-hdr.jpg)
 
 ![Community centre interior space with colorful mural](/assets/uploads/965a1952-hdr.jpg)

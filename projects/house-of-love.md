@@ -37,7 +37,7 @@ Medium: vinyl matt emulsion on wall
 
 ![Community centre interior space with colorful mural](/assets/uploads/965a1930-hdr.jpg)
 
-![Community centre interior space with colorful mural](/assets/uploads/965a1973-hdr.jpg)
+![Detail of colorful mural](/assets/uploads/965a2087.jpg)
 
 {% gallery "%5B%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fimg_4006-2.jpg%22%2C%22alt%22%3A%22Volunteers%20working%20on%20a%20colorful%20mural%22%7D%2C%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fimg_4011.jpg%22%2C%22alt%22%3A%22Volunteers%20working%20on%20a%20colorful%20mural%22%7D%5D" %}
 
@@ -45,6 +45,10 @@ Medium: vinyl matt emulsion on wall
 
 ![Community centre interior space with colorful mural](/assets/uploads/965a1915-hdr.jpg)
 
+![Detail of colorful mural](/assets/uploads/wy5_5535.jpg)
+
 ![Community centre interior space with colorful mural](/assets/uploads/965a1976-hdr.jpg)
 
 ![Community centre interior space with colorful mural](/assets/uploads/965a1952-hdr.jpg)
+
+![Detail of colorful mural](/assets/uploads/dscf0038.jpg)

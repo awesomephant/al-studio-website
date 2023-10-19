@@ -16,15 +16,17 @@ featured_image:
 related_projects:
   - A Place Called Home
 ---
-House of Love is a large 360-degree mural created with the local community, wrapping the entrance hall of Katherine Low Settlement. The artwork, funded by Wandsworth Council, celebrates the 100th birthday of the Settlement in 2024. It tells the story of a multicultural community moving harmoniously through time, from 1924 to today. 
+House of Love is a large 360-degree mural created with the local community, wrapping the entrance hall of Katherine Low Settlement (KLS). The artwork, funded by Wandsworth Council, celebrates the 100th birthday of the Settlement in 2024. It tells the story of a multicultural community moving harmoniously through time, from 1924 to today.
 
 The mural was created in collaboration with KLS members and the local community. Ideas, words, and drawings were gathered from intergenerational workshops and then incorporated into the design of the entrance hall’s walls. 50 volunteers from the local community took part in the 147 hours of production, using 40 colours and 24 litres of paint on the 105 square metres of wall.
 
 Aaron Barbour (former KLS Chief Executive) said: “The mural is a fantastic expression of KLS, of who we are and what we do. It’s been a successful collaborative and colourful project that’s brought people from across the community together to produce this amazing work of art. It truly is Battersea. Come and see it.”
 
 {% note %}
+
 Dimensions: 110 square metres <br>
 Medium: vinyl matt emulsion on wall
+
 
 
 {% endnote %}

@@ -25,9 +25,9 @@ Aaron Barbour (former KLS Chief Executive) said: “The mural is a fantastic exp
 A project funded by Wandsworth Council.
 
 {% note %}
-
-Dimensions: 110 square metres
+Dimensions: 110 square metres <br>
 Medium: vinyl matt emulsion on wall
+
 
 {% endnote %}
 

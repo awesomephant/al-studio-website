@@ -24,8 +24,10 @@ Aaron Barbour (former KLS Chief Executive) said: “The mural is a fantastic exp
 
 {% note %}
 
+
 Dimensions: 110 square metres <br>
 Medium: vinyl matt emulsion on wall
+
 
 
 
@@ -52,3 +54,5 @@ Medium: vinyl matt emulsion on wall
 ![Community centre interior space with colorful mural](/assets/uploads/965a1952-hdr.jpg)
 
 ![Detail of colorful mural](/assets/uploads/dscf0038.jpg)
+
+![](/assets/uploads/©yu-renjie-wy5_5977-2.jpg)

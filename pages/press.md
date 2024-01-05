@@ -8,3 +8,5 @@ title: Press
 [Kit Kemp Design Studio](https://kitkemp.com/a-place-called-home/)
 
 [T﻿he Wick Culture](https://thewickculture.com/spotlight-artist-adalberto-lonardi/)
+
+[O﻿n In London](https://onin.london/artotel-london-battersea-power-station-nine-elms-arts-ministry-launch-christmas-community-art-studio/)

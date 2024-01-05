@@ -1,5 +1,5 @@
 ---
-title: PRESS
+title: Press
 ---
 [L﻿ondon Post](https://london-post.co.uk/artotel-london-battersea-power-station-nine-elms-arts-ministry-launch-christmas-community-art-studio/)
 

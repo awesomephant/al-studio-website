@@ -25,3 +25,7 @@ related_projects:
 ![](/assets/uploads/img_2389.jpg)
 
 ![](/assets/uploads/img_2424.jpg)
+
+![](/assets/uploads/img_6060.jpg)
+
+![](/assets/uploads/dscf01001-web.jpg)

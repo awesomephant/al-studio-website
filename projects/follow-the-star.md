@@ -2,7 +2,7 @@
 layout: project
 title: Follow the Star
 draft: false
-subtitle: Community-led mural at art'otel Battersea Power Station
+subtitle: Community-led mural at art'otel London Battersea Power Station
 date: 2024-01-06T12:52:34.275Z
 start_year: 2023
 end_year: 2023

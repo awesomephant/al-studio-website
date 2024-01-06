@@ -1,8 +1,8 @@
 ---
 layout: project
-title: Mixed Match
+title: Everybody Champions
 draft: false
-subtitle: Tapestries in collaboration with the Wimbledon Foundation
+subtitle: Creative workshops with the Wimbledon Foundation
 date: 2023-02-26T23:06:08.391Z
 start_year: 2023
 end_year: 2023
@@ -17,7 +17,7 @@ featured_image:
 related_projects:
   - KLS Collective Art Club
 ---
-A series of intergenerational and multicultural workshops led to the creation of four digital artworks which will be transformed by four professional textile artists into flags exhibited at the Wimbledon Museum in 2024.
+A series of intergenerational and multicultural workshops were held at Wimbledon Tennis to create a set of illustrations that celebrate the beauty of equality in sports and tennis while recalling the icons and colours of Wimbledon. A total of 40 drawings were made by 60 members of the London-based charity, Katherine Low Settlement. These illustrations will be assembled into four large-scale panels and the designs will be assigned to four professional textile artists who will lead the production of the pieces by facilitating sewing and embroidery sessions with the local community.
 
 ![](/assets/uploads/527349.jpg)
 

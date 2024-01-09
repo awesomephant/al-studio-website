@@ -17,7 +17,9 @@ featured_image:
 related_projects:
   - KLS Collective Art Club
 ---
-A series of intergenerational and multicultural workshops were held at Wimbledon Tennis to create a set of illustrations that celebrate the beauty of equality in sports and tennis while recalling the icons and colours of Wimbledon. A total of 40 drawings were made by 60 members of the London-based charity, Katherine Low Settlement. These illustrations will be assembled into four large-scale panels and the designs will be assigned to four professional textile artists who will lead the production of the pieces by facilitating sewing and embroidery sessions with the local community.
+A series of intergenerational and multicultural workshops was held at Wimbledon Tennis to create a set of illustrations that celebrate the beauty of equality in tennis and recall the icons of Wimbledon. A total of 30 drawings were made by 60 members of London-based charity, Katherine Low Settlement. These illustrations are assembled into four large-scale panels and the designs are assigned to four professional textile artists who will lead the production of the pieces by facilitating sewing and embroidery sessions with the local community.
+
+![](/assets/uploads/img_6060.jpg)
 
 ![](/assets/uploads/527349.jpg)
 
@@ -30,5 +32,11 @@ A series of intergenerational and multicultural workshops were held at Wimbledon
 ![](/assets/uploads/527334.jpg)
 
 ![](/assets/uploads/527444.jpg)
+
+{% gallery "%5B%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fwimbledon-panel-2.jpg%22%7D%2C%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fwimbledon-panel-1.jpg%22%7D%5D" %}
+
+{% gallery "%5B%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fwimbledon-4.jpg%22%7D%2C%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fwimbledon-3.jpg%22%7D%5D" %}
+
+
 
 © AELTC / Chloe Knott

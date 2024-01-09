@@ -27,16 +27,14 @@ A series of intergenerational and multicultural workshops was held at Wimbledon 
 
 ![](/assets/uploads/527395.jpg)
 
+{% gallery "%5B%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fwimbledon-panel-2.jpg%22%7D%2C%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fwimbledon-panel-1.jpg%22%7D%5D" %}
+
+{% gallery "%5B%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fwimbledon-4.jpg%22%7D%2C%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fwimbledon-3.jpg%22%7D%5D" %}
+
 ![](/assets/uploads/527326.jpg)
 
 ![](/assets/uploads/527334.jpg)
 
 ![](/assets/uploads/527444.jpg)
-
-{% gallery "%5B%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fwimbledon-panel-2.jpg%22%7D%2C%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fwimbledon-panel-1.jpg%22%7D%5D" %}
-
-{% gallery "%5B%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fwimbledon-4.jpg%22%7D%2C%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fwimbledon-3.jpg%22%7D%5D" %}
-
-
 
 © AELTC / Chloe Knott

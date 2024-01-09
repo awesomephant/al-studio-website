@@ -1,8 +1,11 @@
 ---
-title: Press
-permalink: "/{{title | slug}}/"
+permalink: /{{title | slug}}/
 layout: page
+title: Press
 ---
+[I﻿T News](https://www.kcaw.co.uk/post/itv-news-injecting-some-colour-into-notting-hill)
+
+[L﻿ondon Live](https://www.londonlive.co.uk/news/local-london-charity-to-celebrate-100-years-of-service/)
 
 [L﻿ondon Post](https://london-post.co.uk/artotel-london-battersea-power-station-nine-elms-arts-ministry-launch-christmas-community-art-studio/)
 
@@ -17,3 +20,7 @@ layout: page
 [O﻿n In London](https://onin.london/artotel-london-battersea-power-station-nine-elms-arts-ministry-launch-christmas-community-art-studio/)
 
 [Diocese of Southwark](https://southwark.anglican.org/news-events/news/latest-news/christmas-community-art-studio-to-be-launched-in-battersea/)
+
+[P﻿rime Resi](https://primeresi.com/super-prime-design-construction-firms-collaborate-on-notting-hill-street-art-project/)
+
+[N﻿orland Noticeboard](https://www.norlandnoticeboard.com/home/2021/2/16/lansdownes-cheerful-hoardings)

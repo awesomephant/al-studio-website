@@ -112,6 +112,13 @@ collections:
     create: true
     slug: "{{slug}}"
     fields:
+      - name: "permalink"
+        label: "Permalink"
+        widget: hidden
+        default: "/{{title | slug}}/"
+      - name: "layout"
+        default: "page"
+        widget: "hidden"
       - name: "title"
         label: "Title"
         widget: string

@@ -1,11 +1,14 @@
 ---
 title: Press
+permalink: "/{{title | slug}}/"
+layout: page
 ---
+
 [L﻿ondon Post](https://london-post.co.uk/artotel-london-battersea-power-station-nine-elms-arts-ministry-launch-christmas-community-art-studio/)
 
 [R﻿oyal College of Art](https://www.rca.ac.uk/news-and-events/news/adalberto-lonardi/#:~:text=Adalberto's%20practice%20interweaves%20culture%20and,his%20students%20and%20audiences%20alike.)
 
-[A﻿rchitects' Journal](https://www.architectsjournal.co.uk/news/poor-collectives-watchlist) 
+[A﻿rchitects' Journal](https://www.architectsjournal.co.uk/news/poor-collectives-watchlist)
 
 [Kit Kemp Design Studio](https://kitkemp.com/a-place-called-home/)
 

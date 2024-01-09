@@ -5,7 +5,7 @@
   }
   h3 {
     @extend %uppercase;
-    font-size: .9em;
+    font-size: 0.9em;
     margin-bottom: 0.35em;
     font-weight: 600;
     letter-spacing: 0.035em;
@@ -28,7 +28,8 @@
     font-size: var(--ms-2);
     grid-row: auto;
   }
-  h2 {
+  h2,
+  h1 {
     font-size: var(--ms-1);
     @include bp(m) {
       font-size: var(--ms-2);

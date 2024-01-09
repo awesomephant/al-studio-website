@@ -2,16 +2,14 @@
   "show_archive": true,
   "site_title": "ADALBERTO LONARDI",
   "meta_description": "ADALBERTO LONARDI develops creative strategies to empower communities through art and design.",
-  "footer_menu": [],
+  "footer_menu": [
+    { "title": "Press", "url": "/press" },
+    { "title": "Privacy", "url": "/privacy-policy" }
+  ],
   "site_description": "ADALBERTO LONARDI",
   "copyright_text": "AL © 2024",
   "social_image": "/assets/uploads/dscf0470.jpg",
-  "featured_projects": [
-    "Hand to Hand",
-    "House of Love",
-    "Love is Enough",
-    "Golden Rivers"
-  ],
+  "featured_projects": ["Hand to Hand", "House of Love", "Love is Enough", "Golden Rivers"],
   "projects": [
     "Hand to Hand",
     "Follow the Star",

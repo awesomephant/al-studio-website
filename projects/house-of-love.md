@@ -9,7 +9,7 @@ end_year: 2023
 tags:
   - Visual Arts
 featured_image:
-  landscape: /assets/uploads/965a2072.jpg
+  landscape: /assets/uploads/965a1921-hdr.jpg
   portrait: /assets/uploads/965a1921-hdr.jpg
   light_image: true
   alt: Community centre interior space with colorful mural

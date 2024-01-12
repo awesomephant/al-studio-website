@@ -2,7 +2,7 @@
 layout: project
 title: The Last Supper
 draft: false
-subtitle: Leonardo Da Vinci's The Last Supper reinterpretation for private commission
+subtitle: Private commission
 date: 2021-12-13T23:24:38.041Z
 start_year: 2022
 end_year: 2022

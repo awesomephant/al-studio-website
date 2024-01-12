@@ -2,7 +2,7 @@
 layout: project
 title: Frahm & Frahm
 draft: false
-subtitle: Frahm & Frahm art producers
+subtitle: Website design for Frahm & Frahm art producers
 date: 2021-01-08T23:18:30.761Z
 start_year: 2020
 end_year: 2020

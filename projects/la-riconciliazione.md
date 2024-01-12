@@ -2,7 +2,7 @@
 layout: project
 title: La Riconciliazione
 draft: false
-subtitle: Venice Biennale
+subtitle: Site-specific artwork for Venice Biennale
 date: 2021-04-06T13:28:37.332Z
 start_year: 2021
 end_year: 2021

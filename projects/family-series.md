@@ -2,7 +2,7 @@
 layout: project
 title: Family Series
 draft: false
-subtitle: Painting series part of the collection about family relationships
+subtitle: Private Commission
 date: 2021-12-13T22:28:58.736Z
 start_year: 2021
 end_year: 2021

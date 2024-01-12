@@ -2,7 +2,7 @@
 layout: project
 title: A Place Called Home
 draft: false
-subtitle: Kensington and Chelsea Art Week
+subtitle: Community-led mural for Kensington and Chelsea Art Week
 date: 2021-12-09T00:09:53.751Z
 start_year: 2021
 end_year: 2021

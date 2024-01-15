@@ -9,7 +9,6 @@ start_year: 2021
 end_year: 2021
 tags:
   - Visual Arts
-  - Workshops
 featured_image:
   landscape: /assets/uploads/cop26_landscape.jpg
   portrait: /assets/uploads/cop26_landscape.jpg

@@ -2,7 +2,7 @@
 layout: project
 title: Follow the Star
 draft: false
-subtitle: Mural at art'otel London BPS
+subtitle: Community mural at art'otel London BPS
 date: 2024-01-06T12:52:34.275Z
 start_year: 2023
 end_year: 2023

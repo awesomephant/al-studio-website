@@ -7,6 +7,8 @@ title: Press
 
 [A﻿rchitects' Journal](https://www.architectsjournal.co.uk/news/poor-collectives-watchlist)
 
+[C﻿orriere Veneto](https://twitter.com/PasquaWinery/status/1775470382109098183/photo/1)
+
 [Diocese of Southwark](https://southwark.anglican.org/news-events/news/latest-news/christmas-community-art-studio-to-be-launched-in-battersea/)
 
 [I﻿T News](https://www.kcaw.co.uk/post/itv-news-injecting-some-colour-into-notting-hill)
@@ -24,5 +26,7 @@ title: Press
 [P﻿rime Resi](https://primeresi.com/super-prime-design-construction-firms-collaborate-on-notting-hill-street-art-project/)
 
 [R﻿oyal College of Art](https://www.rca.ac.uk/news-and-events/news/adalberto-lonardi/#:~:text=Adalberto's%20practice%20interweaves%20culture%20and,his%20students%20and%20audiences%20alike.)
+
+[T﻿elenuovo](https://twitter.com/PasquaWinery/status/1775471135909400983/photo/1)
 
 [T﻿he Wick Culture](https://thewickculture.com/spotlight-artist-adalberto-lonardi/)

@@ -2,7 +2,7 @@
 layout: project
 title: Hand to Hand
 draft: false
-subtitle: Textile artwork for Wimbledon Lawn Tennis Museum
+subtitle: Tapestry for Wimbledon Lawn Tennis Museum
 date: 2024-01-06T12:24:27.549Z
 start_year: 2023
 end_year: 2024

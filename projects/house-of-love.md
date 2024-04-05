@@ -2,7 +2,7 @@
 layout: project
 title: House of Love
 draft: false
-subtitle: Community-led mural for Katherine Low Settlement
+subtitle: Mural at Katherine Low Settlement
 date: 2023-10-08T17:00:22.480Z
 start_year: 2023
 end_year: 2023

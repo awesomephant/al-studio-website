@@ -2,7 +2,7 @@
 layout: project
 title: House of Love
 draft: false
-subtitle: Mural for Wandsworth Council
+subtitle: Community mural for Wandsworth Council at Katherine Low Settlement
 date: 2023-10-08T17:00:22.480Z
 start_year: 2023
 end_year: 2023

@@ -2,7 +2,7 @@
 layout: project
 title: Ribbon of Freedom
 draft: false
-subtitle: Pride 2023 proposal for Foster + Partners London headquarter
+subtitle: Pride Proposal for Foster + Partners
 date: 2023-10-08T16:31:29.297Z
 start_year: 2023
 end_year: 2023

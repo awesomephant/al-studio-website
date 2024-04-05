@@ -2,7 +2,7 @@
 layout: project
 title: Only One
 draft: false
-subtitle: Collaborative artwork with 300 children at Southwark Cathedral
+subtitle: Tapestry for Christian Aid at Southwark Cathedral
 date: 2023-05-16T13:32:07.282Z
 start_year: 2022
 end_year: 2023

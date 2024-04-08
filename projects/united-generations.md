@@ -5,7 +5,7 @@ media: []
 image_size: small
 layout: project
 title: The United Generations
-subtitle: Royal College of Art Master Thesis
+subtitle: "Masters Research for Royal College of Art "
 date: 2020-10-17T21:19:57.922Z
 start_year: 2019
 tags:

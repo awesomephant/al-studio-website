@@ -9,8 +9,8 @@ end_year: 2024
 tags:
   - Visual Arts
 featured_image:
-  landscape: /assets/uploads/dscf0061.jpg
-  portrait: /assets/uploads/dscf0061.jpg
+  landscape: /assets/uploads/dscf00612.jpg
+  portrait: /assets/uploads/dscf00612-vertical.jpg
   alt: Colourful tapestry
   light_image: false
 related_projects:

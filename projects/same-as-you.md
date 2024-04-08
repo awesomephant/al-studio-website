@@ -2,7 +2,7 @@
 layout: project
 title: Same as You
 draft: false
-subtitle: Group Exhibition at CW+ Hospital
+subtitle: Group Exhibition for CW+
 date: 2023-02-25T22:53:53.818Z
 start_year: 2023
 end_year: 2023

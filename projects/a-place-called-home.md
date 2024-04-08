@@ -2,7 +2,7 @@
 layout: project
 title: A Place Called Home
 draft: false
-subtitle: Mural for Kensington and Chelsea Art Week
+subtitle: Mural for Sloane Stanley
 date: 2021-12-09T00:09:53.751Z
 start_year: 2021
 end_year: 2021

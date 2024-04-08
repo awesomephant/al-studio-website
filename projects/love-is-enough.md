@@ -2,7 +2,7 @@
 layout: project
 title: Love is Enough
 draft: false
-subtitle: Ceramic Series for Coin Excelsior
+subtitle: Tableware Ceramics for Coin Excelsior
 date: 2023-02-25T21:45:39.599Z
 start_year: 2023
 end_year: 2024

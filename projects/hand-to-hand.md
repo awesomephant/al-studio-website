@@ -12,7 +12,7 @@ featured_image:
   landscape: /assets/uploads/dscf00612.jpg
   portrait: /assets/uploads/dscf00612-vertical.jpg
   alt: Colourful tapestry
-  light_image: false
+  light_image: true
 related_projects:
   - Everybody Champions
 ---

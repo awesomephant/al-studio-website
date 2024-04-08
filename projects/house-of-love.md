@@ -9,8 +9,8 @@ end_year: 2023
 tags:
   - Visual Arts
 featured_image:
-  landscape: /assets/uploads/965a1921-hdr.jpg
-  portrait: /assets/uploads/965a1921-hdr.jpg
+  landscape: /assets/uploads/965a1897-hdr-2.jpg
+  portrait: /assets/uploads/965a1930-hdr-2.jpg
   light_image: true
   alt: Community centre interior space with colorful mural
 related_projects:
@@ -25,8 +25,10 @@ Aaron Barbour (former KLS Chief Executive) said: “The mural is a fantastic exp
 {% note %}
 
 
+
 Dimensions: 110 square metres <br>
 Medium: vinyl matt emulsion on wall
+
 
 
 
@@ -35,7 +37,7 @@ Medium: vinyl matt emulsion on wall
 
 {% embed "%7B%22caption%22%3A%22%22%2C%22code%22%3A%22%3Cdiv%20style%3D%5C%22padding%3A56.25%25%200%200%200%3Bposition%3Arelative%3B%5C%22%3E%3Ciframe%20src%3D%5C%22https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F875935287%3Fh%3Ddc3217625e%26autoplay%3D1%26loop%3D1%26title%3D0%26byline%3D0%26portrait%3D0%5C%22%20style%3D%5C%22position%3Aabsolute%3Btop%3A0%3Bleft%3A0%3Bwidth%3A100%25%3Bheight%3A100%25%3B%5C%22%20frameborder%3D%5C%220%5C%22%20allow%3D%5C%22autoplay%3B%20fullscreen%3B%20picture-in-picture%5C%22%20allowfullscreen%3E%3C%2Fiframe%3E%3C%2Fdiv%3E%3Cscript%20src%3D%5C%22https%3A%2F%2Fplayer.vimeo.com%2Fapi%2Fplayer.js%5C%22%3E%3C%2Fscript%3E%22%7D" %}
 
-![Community centre interior space with colorful mural](/assets/uploads/965a1906-hdr.jpg)
+![Community centre interior space with colorful mural](/assets/uploads/965a2072.jpg)
 
 ![Community centre interior space with colorful mural](/assets/uploads/965a1930-hdr.jpg)
 

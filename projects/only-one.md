@@ -2,7 +2,7 @@
 layout: project
 title: Only One
 draft: false
-subtitle: Tapestry for Christian Aid at Southwark Cathedral
+subtitle: Children Tapestry at Southwark Cathedral
 date: 2023-05-16T13:32:07.282Z
 start_year: 2022
 end_year: 2023

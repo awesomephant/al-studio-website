@@ -1,8 +1,8 @@
 ---
 layout: project
-title: KLS Exhibition Branding
+title: The Things that Matter in Life Branding
 draft: false
-subtitle: Art direction for The Things that Matter in Life show at the RCA
+subtitle: Art direction for exhibition at RCA
 date: 2022-08-30T07:47:17.960Z
 start_year: 2022
 end_year: 2022

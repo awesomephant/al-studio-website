@@ -2,7 +2,7 @@
 layout: project
 title: Together as One CW+
 draft: false
-subtitle: Mural part of the Chelsea and Westminster Hospital art collection
+subtitle: Mural at Chelsea and Westminster Hospital
 date: 2023-02-25T22:58:21.466Z
 start_year: 2023
 end_year: 2023

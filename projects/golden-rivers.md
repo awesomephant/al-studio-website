@@ -2,7 +2,7 @@
 layout: project
 title: Golden Rivers
 draft: false
-subtitle: Art installation at Domain de Boisbuchet research center
+subtitle: Art Installation at Domain de Boisbuchet
 date: 2021-01-10T12:36:03.112Z
 start_year: 2018
 end_year: 2018

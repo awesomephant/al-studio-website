@@ -2,8 +2,7 @@
 layout: project
 title: The World We Dream
 draft: false
-subtitle: "Collaborative art project with the children of St. George Primary
-  School, Battersea "
+subtitle: Art project with St. George Primary School
 date: 2021-12-14T23:21:45.428Z
 start_year: 2021
 end_year: 2021

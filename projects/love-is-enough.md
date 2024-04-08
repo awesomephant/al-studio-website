@@ -2,10 +2,10 @@
 layout: project
 title: Love is Enough
 draft: false
-subtitle: Hand painted tableware ceramic series inspired by love
+subtitle: Ceramic series for Coin Excelsior
 date: 2023-02-25T21:45:39.599Z
 start_year: 2023
-end_year: 2023
+end_year: 2024
 tags:
   - Visual Arts
 featured_image:

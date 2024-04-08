@@ -2,7 +2,7 @@
 layout: project
 title: Restore
 draft: false
-subtitle: Art Installation for the Nine Elms Arts Ministry
+subtitle: Art Installation for Nine Elms Arts Ministry
 date: 2020-12-09T16:14:26.351Z
 start_year: 2020
 end_year: 2020

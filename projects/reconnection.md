@@ -2,7 +2,7 @@
 layout: project
 title: Reconnections
 draft: false
-subtitle: Hand-painted ceramic centrepiece produced for the Nine Elms Art Trail 2021
+subtitle: Ceramic for the Nine Elms Arts Ministry
 date: 2021-12-21T11:57:27.000Z
 start_year: 2021
 end_year: 2021

@@ -5,7 +5,7 @@ draft: false
 subtitle: Tableware Ceramics for Coin Excelsior
 date: 2023-02-25T21:45:39.599Z
 start_year: 2023
-end_year: 2024
+end_year: 2023
 tags:
   - Visual Arts
 featured_image:

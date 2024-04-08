@@ -2,7 +2,7 @@
 layout: project
 title: The World We Care
 draft: false
-subtitle: Commission proposal for Dulwich Picture Gallery
+subtitle: Art proposal for Dulwich Picture Gallery
 date: 2021-06-02T15:17:31.140Z
 start_year: 2021
 end_year: 2021

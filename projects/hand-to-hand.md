@@ -10,7 +10,7 @@ tags:
   - Visual Arts
 featured_image:
   landscape: /assets/uploads/dscf00612.jpg
-  portrait: /assets/uploads/dscf00612-vertical.jpg
+  portrait: /assets/uploads/dscf006122.jpg
   alt: Colourful tapestry
   light_image: true
 related_projects:

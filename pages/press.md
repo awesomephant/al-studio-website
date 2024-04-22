@@ -3,11 +3,14 @@ permalink: /{{title | slug}}/
 layout: page
 title: Press
 ---
-[L﻿'Arena](https://twitter.com/PasquaWinery/status/1775472062473072666)
+[L﻿'Arena](https://twitter.com/PasquaWinery/status/1775472062473072666) 
+[L﻿'Arena 2] (https://twitter.com/PasquaWinery/status/1778759927353229665/photo/1)
+
+[L﻿'Arena Interview](https://www.larena.it/speciali/vinitaly-edizione-2024/la-lettera-d-amore-a-verona-dell-artista-adalberto-lonardi-per-vinitaly-e-coin-1.10677236)
 
 [A﻿rchitects' Journal](https://www.architectsjournal.co.uk/news/poor-collectives-watchlist)
 
-[C﻿orriere Veneto](https://twitter.com/PasquaWinery/status/1775470382109098183/photo/1)
+[C﻿orriere del Veneto](https://twitter.com/PasquaWinery/status/1775470382109098183/photo/)
 
 [Diocese of Southwark](https://southwark.anglican.org/news-events/news/latest-news/christmas-community-art-studio-to-be-launched-in-battersea/)
 
@@ -28,5 +31,7 @@ title: Press
 [R﻿oyal College of Art](https://www.rca.ac.uk/news-and-events/news/adalberto-lonardi/#:~:text=Adalberto's%20practice%20interweaves%20culture%20and,his%20students%20and%20audiences%20alike.)
 
 [T﻿elenuovo](https://twitter.com/PasquaWinery/status/1775471135909400983/photo/1)
+
+[T﻿elenuovo Interview](https://telenuovo.it/attualita/2024/04/13/a-love-letter-to-verona-coin-come-la-casa-di-giulietta-nei-giorni-di-vinitaly-video)
 
 [T﻿he Wick Culture](https://thewickculture.com/spotlight-artist-adalberto-lonardi/)

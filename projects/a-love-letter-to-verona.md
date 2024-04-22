@@ -24,8 +24,10 @@ Site-specific art installation as a tribute to the city of Verona and its wine c
 
 ![](/assets/uploads/adalberto-37.jpg)
 
+![](/assets/uploads/dscf9305.jpg)
 
-
-![](/assets/uploads/pasquacoin-176.jpg)
+![](/assets/uploads/pasquacoin-167.jpg)
 
 ![](/assets/uploads/pasquacoin-151.jpg)
+
+![](/assets/uploads/pasquacoin-176.jpg)

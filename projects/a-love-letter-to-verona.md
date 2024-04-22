@@ -16,7 +16,7 @@ featured_image:
 related_projects:
   - Hand to Hand
 ---
-A site-specific art installation for the 56th year of Vinitaly, as a tribute to the city of Verona and its wine culture. The installation, commissioned by Coin Store Excelsior and Pasqua Wines, showcases the most famous monuments of the city, and highlights the value that the community places on wine. The set design infuses with colours the storefront of Coin Excelsior in Verona, incorporating in two three-dimensional displays the wines from Pasqua and the Coin products. The project is a collaboration with the communication and art agency, So Bright. 
+A site-specific art installation for the 56th year of Vinitaly, as a tribute to the city of Verona and its wine culture. The installation, commissioned by Coin Store Excelsior and Pasqua Wines, showcases the most famous monuments of the city, and highlights the value that the community places on wine. The set design infuses with colours the storefront of Coin Excelsior in Verona, incorporating in two three-dimensional displays the wines from Pasqua and the Coin products. The project is a collaboration with communication and art agency, So Bright. 
 
 ![](/assets/uploads/adalberto-36.jpg)
 

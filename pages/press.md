@@ -4,7 +4,8 @@ layout: page
 title: Press
 ---
 [L﻿'Arena](https://twitter.com/PasquaWinery/status/1775472062473072666) 
-[L﻿'Arena 2] (https://twitter.com/PasquaWinery/status/1778759927353229665/photo/1)
+
+[L﻿'Arena 2](https://twitter.com/PasquaWinery/status/1778759927353229665/photo/1)
 
 [L﻿'Arena Interview](https://www.larena.it/speciali/vinitaly-edizione-2024/la-lettera-d-amore-a-verona-dell-artista-adalberto-lonardi-per-vinitaly-e-coin-1.10677236)
 

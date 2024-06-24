@@ -19,6 +19,6 @@ related_projects:
 S﻿eries of ten picnic tables hand-painted for Battersea Power Station. Inspired by the reflection of the Battersea Power Station in the Thames’ waters, organic figures reflect themselves in 10 hand-painted picnic tables designed to celebrate summer. To create a sense of diversity and union, the design of each table is different from one another, yet part of the same family. The tables work in couples around themes dear to the Battersea community: the swimmers and dancers, the sun and moon, the poppies and sunflowers, the strawberries and pineapples, the butterfly and swans.
 
 {% note %}
-Dimensions: 200 x 130 cm
+Dimensions: 200 x 130 cm <br>
 Medium: acrylic on wood
 {% endnote %}

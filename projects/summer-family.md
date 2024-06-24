@@ -20,8 +20,10 @@ S﻿eries of ten picnic tables hand-painted for Battersea Power Station. Inspire
 
 {% note %}
 
+
 Dimensions: 200 x 130 cm <br>
 Medium: acrylic on wood
+
 
 {% endnote %}
 
@@ -29,4 +31,6 @@ Medium: acrylic on wood
 
 ![](/assets/uploads/320a8923-enhanced-sr.jpg)
 
-![](/assets/uploads/320a8738-enhanced-sr.jpg)
+![](/assets/uploads/320a8880-enhanced-sr.jpg)
+
+![]()

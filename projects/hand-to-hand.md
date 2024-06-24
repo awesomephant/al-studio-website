@@ -9,8 +9,8 @@ end_year: 2024
 tags:
   - Visual Arts
 featured_image:
-  landscape: /assets/uploads/dscf00612.jpg
-  portrait: /assets/uploads/dscf006122.jpg
+  landscape: /assets/uploads/wimbledon-web.jpg
+  portrait: /assets/uploads/wimbledon-web.jpg
   alt: Colourful tapestry
   light_image: true
 related_projects:

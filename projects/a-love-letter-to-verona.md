@@ -9,8 +9,8 @@ end_year: 2024
 tags:
   - Visual Arts
 featured_image:
-  landscape: /assets/uploads/adalberto-44.jpg
-  portrait: /assets/uploads/adalberto-44-vertical-web.jpg
+  landscape: /assets/uploads/coin-web.jpg
+  portrait: /assets/uploads/coin-web.jpg
   alt: Coin Excelsior storefront colourful design
   light_image: true
 related_projects:

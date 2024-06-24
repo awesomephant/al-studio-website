@@ -2,7 +2,7 @@
 layout: project
 title: Summer Family
 draft: false
-subtitle: Hand-painted Tables for Battersea Power Station
+subtitle: Picnic Tables for Battersea Power Station
 date: 2024-06-24T15:30:25.013Z
 start_year: 2024
 end_year: 2024

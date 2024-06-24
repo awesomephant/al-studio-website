@@ -9,7 +9,7 @@ end_year: 2024
 tags:
   - Visual Arts
 featured_image:
-  landscape: /assets/uploads/320a8845-hdr-enhanced-sr-2.jpg
+  landscape: /assets/uploads/320a8845-hdr-enhanced-sr-2-web.jpg
   portrait: /assets/uploads/320a8952-enhanced-sr.jpg
   light_image: false
   alt: Colourful hand-painted tables on grass

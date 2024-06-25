@@ -12,7 +12,7 @@ featured_image:
   landscape: /assets/uploads/wimbledon-web.jpg
   portrait: /assets/uploads/wimbledon-web.jpg
   alt: Colourful tapestry
-  light_image: true
+  light_image: false
 related_projects:
   - Everybody Champions
 ---

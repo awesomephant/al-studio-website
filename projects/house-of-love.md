@@ -11,7 +11,7 @@ tags:
 featured_image:
   landscape: /assets/uploads/965a1897-hdr-2.jpg
   portrait: /assets/uploads/965a1930-hdr-2.jpg
-  light_image: true
+  light_image: false
   alt: Community centre interior space with colorful mural
 related_projects:
   - A Place Called Home

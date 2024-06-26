@@ -14,7 +14,7 @@ featured_image:
   alt: Colourful tapestries
   light_image: false
 related_projects:
-  - Everybody Champions
+  - Everybody Champions Workshop
 ---
 ‘Everybody Champions’ is a community-led art project produced in collaboration with Wimbledon and London charity Katherine Low Settlement (KLS) to celebrate equality and diversity in sports and tennis. Adalberto Lonardi designed four mixed-media embroidery wall hangings combining elements from 40 drawings made by 60 young and older members of the KLS community. The project enlisted the expertise of four professional textile artists leading the production of one of the wall hangings in textile community workshops. These artworks have been exhibited at The Wimbledon Lawn Tennis Museum and Battersea Power Station.
 

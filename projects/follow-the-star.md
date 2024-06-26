@@ -25,14 +25,16 @@ Medium: vinyl matt emulsion on wall
 
 {% endnote %}
 
-![](/assets/uploads/img_0770.jpg)
 
-![](/assets/uploads/copy-of-img_5679.jpg)
 
 ![](/assets/uploads/copy-of-img_1099.jpg)
+
+![](/assets/uploads/img_0770.jpg)
 
 ![](/assets/uploads/copy-of-©als3.jpg)
 
 ![](/assets/uploads/copy-of-©jasmynhenry5.jpg)
 
-![](/assets/uploads/copy-of-img_5682.jpg)
+
+
+![](/assets/uploads/copy-of-img_5679.jpg)

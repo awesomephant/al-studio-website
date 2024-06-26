@@ -1,8 +1,8 @@
 ---
 layout: project
-title: KLS Collective Art Club
+title: Collective Art Club
 draft: false
-subtitle: Workshop for Katherine Low Settlement
+subtitle: Art Workshop for Katherine Low Settlement
 date: 2023-02-26T22:55:18.580Z
 start_year: 2020
 end_year: 2022

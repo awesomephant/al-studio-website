@@ -2,7 +2,7 @@
 layout: project
 title: A Love Letter to Verona
 draft: false
-subtitle: Window display for Coin & Pasqua Wines
+subtitle: Window Display for Coin & Pasqua Wines
 date: 2024-04-22T12:20:31.800Z
 start_year: 2024
 end_year: 2024

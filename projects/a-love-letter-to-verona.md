@@ -12,7 +12,7 @@ featured_image:
   landscape: /assets/uploads/coin-web2.jpg
   portrait: /assets/uploads/coin-web2.jpg
   alt: Coin Excelsior storefront colourful design
-  light_image: true
+  light_image: false
 related_projects:
   - Follow the Star
 ---

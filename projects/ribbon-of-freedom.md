@@ -15,7 +15,7 @@ featured_image:
     Lonardi
   light_image: true
 related_projects:
-  - Mixed Match
+  - A Love Letter to Verona
 ---
 For Pride 2023 the Foster + Partners headquarters are wrapped as a warm hug by a 300-meter-long colourful ribbon drawn by the office staff and the wider local LGBTQ+ community through a series of workshops. The ribbon acts as a reminder that inclusivity, equality and freedom start from internal ethical and moral changes within corporate organizations.
 

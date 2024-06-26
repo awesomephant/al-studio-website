@@ -20,18 +20,18 @@ related_projects:
 
 {% gallery "%5B%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fwimbledon34-web.jpg%22%7D%2C%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fwimbledon33-web.jpg%22%7D%5D" %}
 
-{% gallery "%5B%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fwimbledon35-web.jpg%22%7D%2C%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fwimbledon36-web.jpg%22%7D%5D" %}
-
-![](/assets/uploads/wimbledon35-web.jpg)
-
 {% note %}
+
 
 
 Dimensions: 200 x 126 cm\
 Medium: mixed media embroidery
 
 
+
 {% endnote %}
+
+{% gallery "%5B%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fwimbledon35-web.jpg%22%7D%2C%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fwimbledon36-web.jpg%22%7D%5D" %}
 
 ![](/assets/uploads/dscf0057-web.jpg)
 

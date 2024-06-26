@@ -9,8 +9,8 @@ end_year: 2023
 tags:
   - Visual Arts
 featured_image:
-  landscape: /assets/uploads/©als9.jpg
-  portrait: /assets/uploads/©als9.jpg
+  landscape: /assets/uploads/©als9-web.jpg
+  portrait: /assets/uploads/©als9-web.jpg
   light_image: true
   alt: Colourful mural depicting a modern nativity scene
 related_projects:

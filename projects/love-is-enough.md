@@ -13,7 +13,7 @@ featured_image:
   portrait: /assets/uploads/©mattia-maestri-catalog01422.jpg
   alt: Cylinder tableware ceramics painted with figurative and flower motives and
     vibrant colours
-  light_image: true
+  light_image: false
 related_projects:
   - A Place Called Home
 ---

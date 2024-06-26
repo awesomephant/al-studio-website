@@ -29,9 +29,9 @@ Medium: mixed media embroidery
 
 {% endnote %}
 
-{% gallery "%5B%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fwimbledon37-web.jpg%22%7D%2C%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fwimbledon34-web.jpg%22%7D%5D" %}
+{% gallery "%5B%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fwimbledon37-web.jpg%22%2C%22caption%22%3A%22Above%20the%20Grounds%22%2C%22alt%22%3A%22Colourful%20tapestry%22%7D%2C%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fwimbledon34-web.jpg%22%2C%22alt%22%3A%22Colourful%20tapestry%22%2C%22caption%22%3A%22Hand%20to%20Hand%22%7D%5D" %}
 
-{% gallery "%5B%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fwimbledon36-web.jpg%22%7D%2C%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fwimbledon35-web.jpg%22%7D%5D" %}
+{% gallery "%5B%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fwimbledon36-web.jpg%22%2C%22alt%22%3A%22Colourful%20tapestry%22%2C%22caption%22%3A%22All%20We%20Need%20is%20Equality%22%7D%2C%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fwimbledon35-web.jpg%22%2C%22alt%22%3A%22Colourful%20tapestry%22%2C%22caption%22%3A%22KLS%20%26%20Wimbledon%22%7D%5D" %}
 
 ![](/assets/uploads/dscf0057-web.jpg)
 

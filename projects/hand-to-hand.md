@@ -18,8 +18,6 @@ related_projects:
 ---
 "Hand to Hand" is part of a series of community-driven tapestries created for the Wimbledon Lawn Tennis Museum in partnership with the Love to Learn Programme at London-based charity Katherine Low Settlement. The artwork celebrates the beauty of equality in sports and tennis, reminiscent of the Wimbledon icons. The panel is a combination of 40 drawings made by 60 members of KLS during intergenerational workshops. Artist Chloe Rochefort and textile artist Livia Papiernik led the production of the artwork, assisted by ten volunteers who used a range of hand embroidery, patchwork, sewing, stitching, and knitting techniques. Project funded by the Wimbledon Foundation.
 
-{% gallery "%5B%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fwimbledon34-web.jpg%22%7D%2C%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fwimbledon33-web.jpg%22%7D%5D" %}
-
 {% note %}
 
 
@@ -30,6 +28,8 @@ Medium: mixed media embroidery
 
 
 {% endnote %}
+
+{% gallery "%5B%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fwimbledon34-web.jpg%22%7D%2C%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fwimbledon33-web.jpg%22%7D%5D" %}
 
 {% gallery "%5B%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fwimbledon35-web.jpg%22%7D%2C%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fwimbledon36-web.jpg%22%7D%5D" %}
 

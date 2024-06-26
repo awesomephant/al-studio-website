@@ -37,8 +37,10 @@ Vidushi Chenna: featuring a bold typographic element, this wall hanging showcase
 
 
 
+
 Dimensions: 200 x 126 cm\
 Medium: mixed media embroidery
+
 
 
 
@@ -53,7 +55,11 @@ Medium: mixed media embroidery
 
 ![](/assets/uploads/img_2389.jpg)
 
+
+
 {% gallery "%5B%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fwimbledon6.jpg%22%7D%2C%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fadalbertov1-07863.jpg%22%7D%5D" %}
+
+{% embed "%7B%22code%22%3A%22%3Cdiv%20style%3D%5C%22padding%3A56.25%25%200%200%200%3Bposition%3Arelative%3B%5C%22%3E%3Ciframe%20src%3D%5C%22https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F969018204%3Fh%3D4aab0a30a0%26autoplay%3D1%26loop%3D1%5C%22%20style%3D%5C%22position%3Aabsolute%3Btop%3A0%3Bleft%3A0%3Bwidth%3A100%25%3Bheight%3A100%25%3B%5C%22%20frameborder%3D%5C%220%5C%22%20allow%3D%5C%22autoplay%3B%20fullscreen%3B%20picture-in-picture%5C%22%20allowfullscreen%3E%3C%2Fiframe%3E%3C%2Fdiv%3E%3Cscript%20src%3D%5C%22https%3A%2F%2Fplayer.vimeo.com%2Fapi%2Fplayer.js%5C%22%3E%3C%2Fscript%3E%5Cn%3Cp%3E%3Ca%20href%3D%5C%22https%3A%2F%2Fvimeo.com%2F969018204%5C%22%3EEverybody%20Champions%20x%20Wimbledon%3C%2Fa%3E%20from%20%3Ca%20href%3D%5C%22https%3A%2F%2Fvimeo.com%2Fuser130762223%5C%22%3EAdalberto%20Lonardi%3C%2Fa%3E%20on%20%3Ca%20href%3D%5C%22https%3A%2F%2Fvimeo.com%5C%22%3EVimeo%3C%2Fa%3E.%3C%2Fp%3E%22%2C%22caption%22%3A%22Everybody%20Champions%20Wall%20Hangings%20-%20Making%20Off%22%7D" %}
 
 {% gallery "%5B%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fadalbertov1-07829.jpg%22%7D%2C%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fadalbertov1-07932.jpg%22%7D%5D" %}
 

@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Everybody Champions
+title: Everybody Champions Workshop
 draft: false
 subtitle: Art Workshop with Wimbledon Learning
 date: 2023-02-26T23:06:08.391Z

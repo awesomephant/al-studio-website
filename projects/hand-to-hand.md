@@ -57,8 +57,8 @@ Medium: mixed media embroidery
 
 ![](/assets/uploads/img_2389.jpg)
 
-{% gallery "%5B%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fwimbledon6.jpg%22%7D%2C%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fadalbertov1-07932.jpg%22%7D%5D" %}
+{% gallery "%5B%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fwimbledon6.jpg%22%7D%2C%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fadalbertov1-07863.jpg%22%7D%5D" %}
 
-{% gallery "%5B%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fadalbertov1-07829.jpg%22%7D%2C%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fadalbertov1-07863.jpg%22%7D%5D" %}
+{% gallery "%5B%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fadalbertov1-07829.jpg%22%7D%2C%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fadalbertov1-07932.jpg%22%7D%5D" %}
 
 ![](/assets/uploads/wimbledon31.jpg)

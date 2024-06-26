@@ -15,9 +15,9 @@ featured_image:
   alt: Tree people talking during an art workshop
   light_image: false
 related_projects:
-  - KLS Collective Art Club
+  - A Love Letter to Verona
 ---
-A series of intergenerational and multicultural workshops was held at Wimbledon Tennis to create a set of illustrations that celebrate the beauty of equality in tennis and recall the icons of Wimbledon. A total of 30 drawings were made by 60 members of London-based charity, Katherine Low Settlement. These illustrations are assembled into four large-scale panels and the designs are assigned to four professional textile artists who will lead the production of the pieces by facilitating sewing and embroidery sessions with the local community.
+A series of intergenerational and multicultural workshops was held at Wimbledon Tennis Lawn Museum to create a set of illustrations that celebrate the beauty of equality in tennis and recall the icons of Wimbledon. 30 drawings were made by 60 members of London-based charity, Katherine Low Settlement. These illustrations have been assembled into four large-scale designs and assigned to professional textile artists leading the production of four wall hangings by facilitating sewing and embroidery sessions with the local community.
 
 ![](/assets/uploads/img_6060.jpg)
 

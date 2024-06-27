@@ -10,8 +10,8 @@ tags:
   - Visual Arts
   - Workshops
 featured_image:
-  landscape: /assets/uploads/527390-2.jpeg
-  portrait: /assets/uploads/527390-2.jpeg
+  landscape: /assets/uploads/wimbledon-hero-web.jpg
+  portrait: /assets/uploads/wimbledon-hero-web.jpg
   alt: Tree people talking during an art workshop
   light_image: false
 related_projects:

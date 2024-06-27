@@ -20,14 +20,12 @@ A site-specific art installation for the 56th year of Vinitaly, as a tribute to
 
 ![](/assets/uploads/adalberto-36.jpg)
 
-![](/assets/uploads/adalberto-43.jpg)
-
 ![](/assets/uploads/adalberto-37.jpg)
-
-![](/assets/uploads/dscf9305.jpg)
 
 ![](/assets/uploads/pasquacoin-167.jpg)
 
 ![](/assets/uploads/pasquacoin-151.jpg)
 
 ![](/assets/uploads/pasquacoin-176.jpg)
+
+![](/assets/uploads/dscf9305.jpg)

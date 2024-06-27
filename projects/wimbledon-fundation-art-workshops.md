@@ -34,5 +34,3 @@ A series of intergenerational and multicultural workshops was held at Wimbledon 
 ![](/assets/uploads/527362-web.jpg "© AELTC / Chloe Knott")
 
 ![](/assets/uploads/527450-web.jpg "© AELTC / Chloe Knott")
-
-![](/assets/uploads/527326-web.jpg "© AELTC / Chloe Knott")

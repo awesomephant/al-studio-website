@@ -7,7 +7,7 @@ date: 2022-03-16T15:55:13.598Z
 start_year: 2022
 end_year: 2022
 tags:
-  - Visual Arts
+  - Public Art
 featured_image:
   landscape: /assets/uploads/dinner-night-2.jpg
   alt: Piccadilly Circus screen with scene from video artwork

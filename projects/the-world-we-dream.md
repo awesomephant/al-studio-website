@@ -10,7 +10,7 @@ tags:
   - Community
   - Workshops
 featured_image:
-  landscape: /assets/uploads/cop26_landscape.jpg
+  landscape: /assets/uploads/workshop_landscape.jpg
   portrait: /assets/uploads/cop26_landscape.jpg
   alt: collage of colourful drawings
   light_image: false

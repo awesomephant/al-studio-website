@@ -2,7 +2,7 @@
 layout: project
 title: The World We Dream
 draft: false
-subtitle: Art project with St. George Primary School
+subtitle: Art project for St. George Primary School
 date: 2021-12-14T23:21:45.428Z
 start_year: 2021
 end_year: 2021

@@ -6,8 +6,7 @@ subtitle: Printed and digital visual artworks for community event in London
 date: 2020-10-23T23:16:34.970Z
 start_year: 2019
 end_year: 2019
-tags:
-  - Visual Arts
+tags: []
 featured_image:
   landscape: /assets/uploads/to-the-time-of-happiness3.jpg
   portrait: /assets/uploads/to-the-time-of-happiness3.jpg

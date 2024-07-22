@@ -6,8 +6,7 @@ subtitle: Self-published colouring book
 date: 2021-12-14T17:00:52.681Z
 start_year: 2021
 end_year: 2021
-tags:
-  - Visual Arts
+tags: []
 featured_image:
   landscape: /assets/uploads/the-abundance-of-nature1.jpg
   portrait: /assets/uploads/familyisforever1.jpg

@@ -7,7 +7,7 @@ date: 2024-01-06T12:52:34.275Z
 start_year: 2023
 end_year: 2023
 tags:
-  - Visual Arts
+  - Public Art
 featured_image:
   landscape: /assets/uploads/©als9-web.jpg
   portrait: /assets/uploads/©als9-web.jpg

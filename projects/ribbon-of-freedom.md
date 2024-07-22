@@ -7,7 +7,7 @@ date: 2023-10-08T16:31:29.297Z
 start_year: 2023
 end_year: 2023
 tags:
-  - Visual Arts
+  - Public Art
 featured_image:
   landscape: /assets/uploads/foster3.jpg
   portrait: /assets/uploads/foster3.jpg

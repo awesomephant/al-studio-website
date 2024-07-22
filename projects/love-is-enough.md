@@ -7,7 +7,7 @@ date: 2023-02-25T21:45:39.599Z
 start_year: 2023
 end_year: 2023
 tags:
-  - Visual Arts
+  - Applied Arts
 featured_image:
   landscape: /assets/uploads/love-is-enough_desktop.jpg
   portrait: /assets/uploads/©mattia-maestri-catalog01422.jpg

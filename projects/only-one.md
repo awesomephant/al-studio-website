@@ -7,7 +7,8 @@ date: 2023-05-16T13:32:07.282Z
 start_year: 2022
 end_year: 2023
 tags:
-  - Visual Arts
+  - Community
+  - Public Art
 featured_image:
   portrait: /assets/uploads/dscf1633.jpg
   light_image: true

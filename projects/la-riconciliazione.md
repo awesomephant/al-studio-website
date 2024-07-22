@@ -7,7 +7,7 @@ date: 2021-04-06T13:28:37.332Z
 start_year: 2021
 end_year: 2021
 tags:
-  - Visual Arts
+  - Public Art
 featured_image:
   landscape: /assets/uploads/riconciliazione-desktop.jpg
   portrait: /assets/uploads/image00002.jpg

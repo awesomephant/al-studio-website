@@ -6,8 +6,7 @@ subtitle: Private commission
 date: 2021-12-13T23:24:38.041Z
 start_year: 2022
 end_year: 2022
-tags:
-  - Visual Arts
+tags: []
 featured_image:
   light_image: false
   landscape: /assets/uploads/cenacolo-desktop-test-1.jpg

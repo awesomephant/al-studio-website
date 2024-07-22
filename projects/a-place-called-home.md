@@ -7,7 +7,7 @@ date: 2021-12-09T00:09:53.751Z
 start_year: 2021
 end_year: 2021
 tags:
-  - Visual Arts
+  - Public Art
 featured_image:
   landscape: /assets/uploads/apch_desktop.jpg
   portrait: /assets/uploads/dscf0691.jpg

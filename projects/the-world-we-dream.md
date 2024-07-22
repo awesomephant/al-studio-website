@@ -23,8 +23,6 @@ The piece of art, commissioned by @christianaiduk and supported by Nine Elms Art
 
 Drawings by Ava, Valerie, Emanuel, Omar, Kezia, Torreon, Talian, Nahir, Tilly, Anas, Nikkita, Alkin, Lucas, Yusef, Nahir, Bernice, Artemij, Lewis, Dylan, and Elliot.
 
-
-
-![children group photo holding their drawings ](/assets/uploads/workshop_landscape.jpg "Y5 St. George Primary School with drawings")
+![children group photo holding their drawings ]( "Y5 St. George Primary School with drawings")
 
 ![The World We Dream – Children artworks exhibited at COP 26](/assets/uploads/the-world-we-dream_web.jpg "The World We Dream – Children artworks exhibited at COP 26")

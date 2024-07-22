@@ -7,7 +7,7 @@ date: 2024-06-24T15:30:25.013Z
 start_year: 2024
 end_year: 2024
 tags:
-  - Visual Arts
+  - Public Art
 featured_image:
   landscape: /assets/uploads/320a8845-hdr-enhanced-sr-2.jpg
   portrait: /assets/uploads/320a8952-enhanced-sr.jpg

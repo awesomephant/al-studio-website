@@ -6,8 +6,7 @@ subtitle: Art centre proposal for children to develop the creative potentials in
 date: 2021-01-09T01:25:41.484Z
 start_year: 2017
 end_year: 2017
-tags:
-  - Architecture
+tags: []
 featured_image:
   landscape: /assets/uploads/kidscenter_concept.jpg
   portrait: /assets/uploads/kidscenter_concept.jpg

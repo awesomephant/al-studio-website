@@ -6,8 +6,7 @@ subtitle: Painting series for private commission
 date: 2021-12-13T22:28:58.736Z
 start_year: 2021
 end_year: 2021
-tags:
-  - Visual Arts
+tags: []
 featured_image:
   landscape: /assets/uploads/family-desktop2.jpg
   portrait: /assets/uploads/motherhood.jpg

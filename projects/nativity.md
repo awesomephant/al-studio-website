@@ -6,8 +6,7 @@ subtitle: A private collection, hand-painted ceramic statues
 date: 2021-12-21T15:43:10.944Z
 start_year: 2021
 end_year: 2021
-tags:
-  - Visual Arts
+tags: []
 featured_image:
   landscape: /assets/uploads/dscf1027.jpg
   portrait: /assets/uploads/dscf1027.jpg

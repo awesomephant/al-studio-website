@@ -7,7 +7,7 @@ date: 2024-04-22T12:20:31.800Z
 start_year: 2024
 end_year: 2024
 tags:
-  - Visual Arts
+  - Public Art
 featured_image:
   landscape: /assets/uploads/coin-web2.jpg
   portrait: /assets/uploads/coin-web2.jpg

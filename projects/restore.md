@@ -7,7 +7,7 @@ date: 2020-12-09T16:14:26.351Z
 start_year: 2020
 end_year: 2020
 tags:
-  - Visual Arts
+  - Public Art
 featured_image:
   landscape: /assets/uploads/restore_desktop2.jpg
   alt: two colorful stained glass windows representing families with animals

@@ -7,7 +7,7 @@ date: 2022-08-22T20:24:07.812Z
 start_year: 2022
 end_year: 2022
 tags:
-  - Visual Arts
+  - Public Art
 featured_image:
   landscape: /assets/uploads/dsc02831-2.jpg
   portrait: /assets/uploads/dsc02831-2.jpg

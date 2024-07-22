@@ -2,7 +2,7 @@
 layout: project
 title: Everybody Champions Workshop
 draft: false
-subtitle: Art Workshop with Wimbledon Learning
+subtitle: Art Workshop for Wimbledon Learning
 date: 2023-02-26T23:06:08.391Z
 start_year: 2023
 end_year: 2023

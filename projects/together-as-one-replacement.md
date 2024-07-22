@@ -6,6 +6,8 @@ subtitle: Mural at Chelsea and Westminster Hospital
 date: 2023-02-25T22:58:21.466Z
 start_year: 2023
 end_year: 2023
+tags:
+  - Public Art
 featured_image:
   landscape: /assets/uploads/taocw-desktop-1.jpg
   portrait: /assets/uploads/img_9235.jpg

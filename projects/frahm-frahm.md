@@ -6,8 +6,7 @@ subtitle: Website design for Frahm & Frahm art producers
 date: 2021-01-08T23:18:30.761Z
 start_year: 2020
 end_year: 2020
-tags:
-  - Visual Communication
+tags: []
 featured_image:
   landscape: /assets/uploads/ff-desktop.jpg
   alt: "Homepage desktop website view "

@@ -6,8 +6,7 @@ subtitle: Ceramic for the Nine Elms Arts Ministry
 date: 2021-12-21T11:57:27.000Z
 start_year: 2021
 end_year: 2021
-tags:
-  - Visual Arts
+tags: []
 featured_image:
   light_image: false
   landscape: /assets/uploads/reconnections-desktop2.jpg

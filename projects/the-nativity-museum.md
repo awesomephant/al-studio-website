@@ -6,8 +6,7 @@ subtitle: Spatial design proposal for the Nativity Museum of London
 date: 2020-11-09T19:17:06.511Z
 start_year: 2019
 end_year: 2019
-tags:
-  - Architecture
+tags: []
 featured_image:
   landscape: /assets/uploads/nativity_desktop.jpg
   portrait: /assets/uploads/nativity_mobile.jpg

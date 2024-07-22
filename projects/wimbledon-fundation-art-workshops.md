@@ -7,7 +7,7 @@ date: 2023-02-26T23:06:08.391Z
 start_year: 2023
 end_year: 2023
 tags:
-  - Visual Arts
+  - Community
   - Workshops
 featured_image:
   landscape: /assets/uploads/wimbledon-hero-web.jpg

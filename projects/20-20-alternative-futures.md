@@ -6,8 +6,7 @@ subtitle: Digital and printed visual identity for PHASE3's spin-off launch event
 date: 2021-01-08T17:23:32.936Z
 start_year: 2019
 end_year: 2019
-tags:
-  - Visual Communication
+tags: []
 featured_image:
   landscape: /assets/uploads/20-20_facebook_banner.jpg
   alt: 20/20 logo repetition in blue over grey background.

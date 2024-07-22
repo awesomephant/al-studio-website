@@ -6,8 +6,7 @@ subtitle: Art direction for exhibition at RCA
 date: 2022-08-30T07:47:17.960Z
 start_year: 2022
 end_year: 2022
-tags:
-  - Visual Communication
+tags: []
 featured_image:
   landscape: /assets/uploads/collage-posters.jpg
   portrait: /assets/uploads/collage-posters.jpg

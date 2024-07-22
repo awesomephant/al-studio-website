@@ -7,7 +7,7 @@ date: 2021-01-10T12:36:03.112Z
 start_year: 2018
 end_year: 2018
 tags:
-  - Visual Arts
+  - Public Art
 featured_image:
   landscape: /assets/uploads/golden-rivers-desktop.jpg
   portrait: /assets/uploads/goldenrivers-mobile.jpg

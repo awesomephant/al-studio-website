@@ -7,7 +7,7 @@ date: 2023-02-25T22:53:53.818Z
 start_year: 2023
 end_year: 2023
 tags:
-  - Visual Arts
+  - Public Art
 featured_image:
   landscape: /assets/uploads/dscf1795.jpg
   portrait: /assets/uploads/dscf1795.jpg

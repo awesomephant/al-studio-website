@@ -7,8 +7,7 @@ title: OGM Plant
 subtitle: Art direction, branding, and campaigns for the OGM sustainable ecosystems
 date: 2020-10-17T21:58:40.611Z
 start_year: 2018
-tags:
-  - Visual Communication
+tags: []
 featured_image:
   landscape: /assets/uploads/ogm-desktop2.jpg
   portrait: /assets/uploads/ogm_mobile.jpg

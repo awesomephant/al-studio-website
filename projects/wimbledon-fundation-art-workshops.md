@@ -14,7 +14,7 @@ featured_image:
   alt: Tree people talking during an art workshop
   light_image: false
 related_projects:
-  - A Love Letter to Verona
+  - Everybody Champions
 ---
 A series of intergenerational and multicultural workshops was held at Wimbledon Tennis Lawn Museum to create a set of illustrations that celebrate the beauty of equality in tennis and recall the icons of Wimbledon. 30 drawings were made by 60 members of London-based charity, Katherine Low Settlement. These illustrations have been assembled into four large-scale designs and assigned to professional textile artists leading the production of four wall hangings by facilitating sewing and embroidery sessions with the local community.
 

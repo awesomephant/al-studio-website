@@ -15,7 +15,7 @@ featured_image:
   light_image: false
   alt: colourful mural on Fire Station building
 related_projects:
-  - The World We Care
+  - Together as One
 ---
 A Place Called Home is an artwork sponsored by [Sloane Stanley](https://www.sloanestanley.com/) supported by King's Road Chelsea Road, and executed with the help of [](https://www.instagram.com/jennyboatdraws/)numerous local children, parents and older volunteers.\
 \

@@ -15,7 +15,7 @@ featured_image:
     vibrant colours
   light_image: false
 related_projects:
-  - A Place Called Home
+  - A Love Letter to Verona
 ---
 *Love is Enough* is a ceramic tableware series with at the centre the idea of universal love and an ode to my hometown Verona. A love without gender, without age, without race. The unconditional virtue that we share every day with our families, friends and neighbours. 
 

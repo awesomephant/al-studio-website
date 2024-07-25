@@ -14,7 +14,7 @@ featured_image:
   light_image: true
   alt: Colourful painting of two persons looking at each other
 related_projects:
-  - The Last Supper
+  - Together as One CW+
 ---
 New research released today by charity [@thtorguk](https://www.instagram.com/thtorguk/) has revealed 74% of people living with HIV in the UK have experienced stigma or discrimination because of their HIV status.
 

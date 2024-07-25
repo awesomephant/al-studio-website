@@ -14,7 +14,7 @@ featured_image:
   alt: collage of colourful drawings
   light_image: false
 related_projects:
-  - Across RCA
+  - Only One
 ---
 A collaborative art project with 27 children of Y5 St. George Primary School in Battersea and exhibited at COP26.
 

@@ -14,7 +14,7 @@ featured_image:
   alt: Elderly people drawing around a table
   light_image: true
 related_projects:
-  - We Are All Artists
+  - The Things that Matter in Life
 ---
 From Creative Health: The Arts for Health and Wellbeing Report (2017): "...Participatory arts activities in healthcare and social care environments help to alleviate anxiety, depression and stress while increasing resilience and wellbeing."
 

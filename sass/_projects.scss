@@ -29,6 +29,8 @@
     border: 0;
     color: $gray;
     transition: $fast;
+    cursor: pointer;
+
     &:after {
       content: ", ";
       color: $gray;
@@ -36,7 +38,6 @@
     &:last-of-type:after {
       content: "";
     }
-    cursor: pointer;
     &:hover, &.active {
       color: $black;
     }
@@ -54,18 +55,18 @@
 
 .project-card {
   grid-column: span 12;
-  @include bp(s){
-    grid-column: span 6;
-  }
-  @include bp(l){
-    grid-column: span 4;
-  }
   list-style: none;
   overflow: hidden;
   font-size: var(--ms-0);
   padding-bottom: 1.5rem;
+  @include bp(s){
+    grid-column: span 6;
+  }
   @include bp(m){
     padding-bottom: 3.5rem;
+  }
+  @include bp(l){
+    grid-column: span 4;
   }
   &.hidden {
     display: none;
@@ -79,7 +80,7 @@
     transition: $fast;
     &:hover, &:focus {
       opacity: .9;
-    } 
+    }
   }
 }
 

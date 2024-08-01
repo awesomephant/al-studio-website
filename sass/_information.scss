@@ -31,13 +31,13 @@
   h2,
   h1 {
     font-size: var(--ms-1);
-    @include bp(m) {
-      font-size: var(--ms-2);
-    }
     font-weight: 600;
     line-height: 1.2;
     margin-bottom: 0.5em;
     hyphens: none;
+    @include bp(m) {
+      font-size: var(--ms-2);
+    }
   }
   p {
     margin-bottom: 1rem;
@@ -62,11 +62,11 @@
     list-style: none;
   }
   li {
+    display: block;
+    font-size: var(--ms-0);
     @include bp(l) {
       white-space: nowrap;
     }
-    display: block;
-    font-size: var(--ms-0);
   }
 }
 .information-blocks,

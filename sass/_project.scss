@@ -18,13 +18,12 @@
   font-size: var(--ms-3);
   margin-top: 0.5em;
   margin-bottom: 0.3em;
-  @include bp(l) {
-    font-size: var(--ms-5);
-  }
-
   font-weight: 600;
   letter-spacing: -0.015em;
   line-height: 1;
+  @include bp(l) {
+    font-size: var(--ms-5);
+  }
 }
 
 .project--tags {
@@ -100,11 +99,11 @@
 
 .note {
   font-size: var(--ms--1);
+  max-width: 45em;
+  padding-top: 1em;
   @include bp(m) {
     font-size: var(--ms-0);
   }
-  max-width: 45em;
-  padding-top: 1em;
   p {
     hyphens: none;
   }
@@ -181,14 +180,14 @@
   }
   ul {
     grid-column: 1 / 13;
+    display: flex;
+    flex-wrap: wrap;
     @include bp(l) {
       grid-column: 3 / 11;
     }
     @include bp(xl) {
       grid-column: 4 / 11;
     }
-    display: flex;
-    flex-wrap: wrap;
   }
   .project-card {
     padding-bottom: 2rem;

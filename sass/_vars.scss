@@ -33,10 +33,10 @@ $slow: 850ms;
 $br: 3px;
 
 %hide-scrollbars {
+  scrollbar-width: none;
   &::-webkit-scrollbar {
     display: none;
   }
-  scrollbar-width: none;
 }
 
 %uppercase {

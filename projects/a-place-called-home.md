@@ -8,7 +8,6 @@ start_year: 2021
 end_year: 2021
 tags:
   - Public Art
-  - Community
 featured_image:
   landscape: /assets/uploads/apch_desktop.jpg
   portrait: /assets/uploads/dscf0691.jpg

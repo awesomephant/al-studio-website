@@ -7,7 +7,7 @@ date: 2021-12-14T23:21:45.428Z
 start_year: 2021
 end_year: 2021
 tags:
-  - Workshops
+  - Community Engagement
 featured_image:
   landscape: /assets/uploads/workshop_landscape.jpg
   portrait: /assets/uploads/cop26_landscape.jpg

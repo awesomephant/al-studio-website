@@ -7,7 +7,7 @@ date: 2024-01-06T12:24:27.549Z
 start_year: 2023
 end_year: 2024
 tags:
-  - Community
+  - Public Art
 featured_image:
   landscape: /assets/uploads/wimbledon-web.jpg
   portrait: /assets/uploads/wimbledon-web.jpg

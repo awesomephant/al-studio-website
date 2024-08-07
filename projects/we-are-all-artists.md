@@ -7,7 +7,6 @@ date: 2022-08-22T20:50:55.904Z
 start_year: 2022
 end_year: 2022
 tags:
-  - Community
   - Public Art
 featured_image:
   landscape: /assets/uploads/mural.jpg

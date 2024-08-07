@@ -7,7 +7,7 @@ date: 2023-02-26T22:55:18.580Z
 start_year: 2020
 end_year: 2022
 tags:
-  - Workshops
+  - Community Engagement
 featured_image:
   landscape: /assets/uploads/kls_low-res_62.jpg
   portrait: /assets/uploads/kls_low-res_62.jpg

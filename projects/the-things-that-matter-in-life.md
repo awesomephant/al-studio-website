@@ -7,7 +7,6 @@ date: 2022-08-22T20:24:07.812Z
 start_year: 2022
 end_year: 2022
 tags:
-  - Community
   - Public Art
 featured_image:
   landscape: /assets/uploads/dsc02831-2.jpg

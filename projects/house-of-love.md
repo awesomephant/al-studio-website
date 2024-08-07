@@ -7,7 +7,6 @@ date: 2023-10-08T17:00:22.480Z
 start_year: 2023
 end_year: 2023
 tags:
-  - Community
   - Public Art
 featured_image:
   landscape: /assets/uploads/965a1897-hdr-2.jpg

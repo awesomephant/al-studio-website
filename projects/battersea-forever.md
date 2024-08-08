@@ -20,7 +20,7 @@ A﻿ series of intergenerational design workshops involving 15 children and youn
 
 ![](/assets/uploads/img_2135-3.jpg)
 
-{% gallery "%5B%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fimg_0564.jpg%22%7D%2C%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fimg_2147.jpg%22%7D%5D" %}
+{% gallery "%5B%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fimg_2147.jpg%22%7D%2C%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fimg_0564.jpg%22%7D%5D" %}
 
 ![](/assets/uploads/img_2141-copy.jpg)
 

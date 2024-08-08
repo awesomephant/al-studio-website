@@ -24,6 +24,4 @@ A﻿ series of intergenerational design workshops involving 15 children and youn
 
 ![](/assets/uploads/img_2141-copy.jpg)
 
-![](/assets/uploads/sketch-colour.png)
-
 ![](/assets/uploads/kls-mural-visual.jpg)

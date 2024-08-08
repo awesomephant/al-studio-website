@@ -6,6 +6,8 @@ subtitle: Mural Design Workshop for Wandsworth Council
 date: 2024-08-08T12:37:44.858Z
 start_year: 2023
 end_year: 2021
+tags:
+  - Community Engagement
 featured_image:
   landscape: /assets/uploads/fullsizerender.jpg
   portrait: /assets/uploads/fullsizerender.jpg

@@ -1,6 +1,6 @@
 ---
 layout: project
-title: The World We Dream
+title: " St. George Primary School Workshop"
 draft: false
 subtitle: Art project for St. George Primary School
 date: 2021-12-14T23:21:45.428Z

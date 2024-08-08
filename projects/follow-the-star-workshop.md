@@ -2,7 +2,7 @@
 layout: project
 title: Follow The Star Workshop
 draft: false
-subtitle: Design workshop for art'otel London BPS
+subtitle: Design Workshop for art'otel London BPS
 date: 2024-08-08T13:51:50.018Z
 start_year: 2023
 end_year: 2023

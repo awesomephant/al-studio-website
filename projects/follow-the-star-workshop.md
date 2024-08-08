@@ -18,6 +18,8 @@ related_projects:
 ---
 An intergenerational workshop in collaboration with the charity, Nine Elms Arts Ministry, at the art'otel London Battersea Power Station. The workshop took place before the production of the Follow the Start mural. It involved seven elders from the Battersea-based charity, Katherine Low Settlement, seven children from St. George Primary School, and their teachers. During the workshop, the older and younger participants engaged with each other, brainstorming and drawing ideas that were later incorporated into the final design of the mural.
 
+![](/assets/uploads/img_6512.jpg)
+
 ![](/assets/uploads/img_2663.jpg)
 
 ![](/assets/uploads/img_2652.jpg)

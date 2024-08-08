@@ -2,7 +2,7 @@
 layout: project
 title: Battersea Forever
 draft: false
-subtitle: Mural Design Workshop for Wandsworth Council
+subtitle: Design Workshop for Wandsworth Council
 date: 2024-08-08T12:37:44.858Z
 start_year: 2023
 end_year: 2021

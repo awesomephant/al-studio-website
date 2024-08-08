@@ -9,7 +9,7 @@ end_year: 2023
 tags:
   - Community Engagement
 featured_image:
-  landscape: /assets/uploads/img_2636.jpg
+  landscape: /assets/uploads/follow-the-star-workshop-hero-image.jpg
   portrait: /assets/uploads/img_2636.jpg
   alt: Old and young person chatting
   light_image: true

@@ -80,9 +80,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@11ty/eleventy@npm:^3.0.0-beta.2":
-  version: 3.0.0-beta.2
-  resolution: "@11ty/eleventy@npm:3.0.0-beta.2"
+"@11ty/eleventy@npm:^3.0.0":
+  version: 3.0.0
+  resolution: "@11ty/eleventy@npm:3.0.0"
   dependencies:
     "@11ty/dependency-tree": ^3.0.1
     "@11ty/dependency-tree-esm": ^1.0.0
@@ -124,7 +124,7 @@ __metadata:
     slugify: ^1.6.6
   bin:
     eleventy: cmd.cjs
-  checksum: a962046a029927c0473897585cfdc48f8c3079daa344e38ad1d638e31b7987339d85e779e1febc3191eb945097c0734d8f1ded326652108f359e286d6babab9e
+  checksum: 47216d6be378b8d99abab130d84e34fa161135ce26ab8b08cb1a5457dfaf99ec240cbbf298e54ce3239182f1f83232d215935770630ebaa222d8cbd47b583c74
   languageName: node
   linkType: hard
 
@@ -1253,7 +1253,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "al-website@workspace:."
   dependencies:
-    "@11ty/eleventy": ^3.0.0-beta.2
+    "@11ty/eleventy": ^3.0.0
     "@11ty/eleventy-plugin-rss": ^2.0.2
     imports-loader: ^5.0.0
     jsdom: ^25.0.1

@@ -9,7 +9,7 @@ end_year: 2024
 tags:
   - Fine Art
 featured_image:
-  landscape: /assets/uploads/finestra-paradiso-hero.jpg
+  landscape: /assets/uploads/img_9121.jpg
   portrait: /assets/uploads/finestra-paradiso-hero.jpg
   alt: Yello, gold and white glass window
   light_image: true

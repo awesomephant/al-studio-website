@@ -9,7 +9,7 @@ end_year: 2024
 tags:
   - Public Art
 featured_image:
-  landscape: /assets/uploads/senza-tempo-web-hero.jpg
+  landscape: /assets/uploads/al_template-desktop1.jpg
   portrait: /assets/uploads/senza-tempo-webmob-hero.jpg
   alt: Colour textile artwork inside decorated stairwell
   light_image: false

@@ -2,11 +2,12 @@
 layout: project
 title: The Drawing Book
 draft: false
-subtitle: Self-published colouring book
+subtitle: Colouring Book
 date: 2021-12-14T17:00:52.681Z
 start_year: 2021
 end_year: 2021
-tags: []
+tags:
+  - Fine Art
 featured_image:
   landscape: /assets/uploads/the-abundance-of-nature1.jpg
   portrait: /assets/uploads/familyisforever1.jpg
@@ -14,10 +15,10 @@ featured_image:
   light_image: false
 related_projects: []
 ---
-![The Drawing Book  – Family is Forever, Parents and children](/assets/uploads/familyisforever1.jpg "The Drawing Book  – Family is Forever, Parents and children")
+![Family is Forever](/assets/uploads/familyisforever1.jpg "Family is Forever")
 
-![The Drawing Book  – The Abundance of Nature, Dinner around the table](/assets/uploads/the-abundance-of-nature2.jpg "The Drawing Book  – The Abundance of Nature, Dinner around the table")
+![The Abundance of Nature](/assets/uploads/the-abundance-of-nature2.jpg "The Abundance of Nature")
 
-![The Drawing Book  – Family is Forever, Parents and children](/assets/uploads/familyisforever3.jpg "The Drawing Book  – Family is Forever, Parents and children")
+![The Drawing Book  – Family is Forever, Parents and children](/assets/uploads/familyisforever3.jpg "Family is Forever")
 
-![The Drawing Book  – Completely Ourselves](/assets/uploads/completelyourselves.jpg "The Drawing Book  – Completely Ourselves")
+![Completely Ourselves](/assets/uploads/completelyourselves.jpg "Completely Ourselves")

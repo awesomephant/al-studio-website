@@ -21,11 +21,11 @@ related_projects:
 This vast, heavenly rose—representing divine love—welcomes guests into the home. The artwork was developed in collaboration with Progetto Arte Poli, a world-leading company specialising in producing Renaissance fine art in Verona. The piece incorporates six types of coloured glass, each meticulously cut and hand-assembled by master craftsmen. 
 
 {% note %}
+
 Dimensions: 170 x  80 cm\
 Medium: hand-cut glass plates
-{% endnote %}
 
-![](/assets/uploads/img_9121.jpg)
+{% endnote %}
 
 ![](/assets/uploads/img_8884.jpg)
 

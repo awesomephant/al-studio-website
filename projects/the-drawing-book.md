@@ -13,11 +13,14 @@ featured_image:
   portrait: /assets/uploads/familyisforever1.jpg
   alt: Colourful book with drawings representing different kinds of families
   light_image: false
-related_projects: []
+related_projects:
+  - The World We Dream
 ---
-![Family is Forever](/assets/uploads/familyisforever1.jpg "Family is Forever")
+
 
 ![The Abundance of Nature](/assets/uploads/the-abundance-of-nature2.jpg "The Abundance of Nature")
+
+![Family is Forever](/assets/uploads/familyisforever1.jpg "Family is Forever")
 
 ![The Drawing Book  – Family is Forever, Parents and children](/assets/uploads/familyisforever3.jpg "Family is Forever")
 

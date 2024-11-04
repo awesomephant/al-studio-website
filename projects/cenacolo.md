@@ -6,14 +6,14 @@ subtitle: Private commission
 date: 2021-12-13T23:24:38.041Z
 start_year: 2022
 end_year: 2022
-tags: []
+tags:
+  - Fine Art
 featured_image:
   light_image: false
   landscape: /assets/uploads/cenacolo-desktop-test-1.jpg
   portrait: /assets/uploads/cenacolo_portrait.jpg
   alt: People eating and conversing at a table
-related_projects:
-  - Family Series
+related_projects: []
 ---
 "Dear Adalberto, I thought again about the meaning of "The Last Supper" you asked. If you consider the human aspect regardless of the theological side, I would say it is the definition of friendship and love. What food and a table surrounded by people can represent? If not something that you give to others to generate a friendship. Cenacolo is the place where you donate yourself to somebody else for love." - Mumun
 

@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Finestra Paradiso
-draft: false
+draft: true
 subtitle: Collaged Glass Bespoke Window
 date: 2024-11-04T22:42:06.343Z
 start_year: 2023

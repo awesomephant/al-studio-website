@@ -13,8 +13,15 @@ featured_image:
   portrait: /assets/uploads/al_template-desktop-porche.jpg
   light_image: true
   alt: colourful mural with cars and number 75
+related_projects:
+  - House of Love
 ---
-Lorem ipsum odor amet, consectetuer adipiscing elit. Sed habitasse mattis class litora aptent etiam arcu dictumst. Consequat auctor tincidunt aliquam laoreet volutpat condimentum molestie iaculis. Nec mattis conubia id vivamus faucibus pellentesque feugiat donec. Lacus turpis curae venenatis ultricies taciti. Conubia commodo nulla vehicula vivamus aenean. Sociosqu penatibus id phasellus eleifend sociosqu metus egestas sed. Rhoncus facilisi turpis dolor nam nisi nulla.
+‘Dream in Colour’ commemorates Porsche Würzburg’s 75  Anniversary by examining the brand’s identity from the 1970s to the present exploring the evolution of models, forms, and colours to capture the adrenaline of a Porsche ride. Drawing inspiration from the brand’s emphasis on speed and motion, the artworks integrate aerodynamic lines with various Porsche models speeding up and down. An extensive exploration of historical hues like Rubystone Red, Irish Green, and Lava Orange was undertaken alongside Porsche’s latest 2024 exterior color range, to create a palette of 15 shades that celebrates Porsche’s timeless innovation. 
+
+{% note %}
+Size: 4 x 5 m <br>
+Medium: acrylic on aluminium
+{% endnote %}
 
 ![](/assets/uploads/1-porche-dream-in-colour.jpg)
 

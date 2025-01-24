@@ -16,11 +16,13 @@ featured_image:
 related_projects:
   - Summer Family
 ---
-‘Dream in Colour’ commemorates Porsche Würzburg’s 75  Anniversary by examining the brand’s identity from the 1970s to the present exploring the evolution of models, forms, and colours to capture the adrenaline of a Porsche ride. Drawing inspiration from the brand’s emphasis on speed and motion, the artworks integrate aerodynamic lines with various Porsche models speeding up and down. An extensive exploration of historical hues like Rubystone Red, Irish Green, and Lava Orange was undertaken alongside Porsche’s latest 2024 exterior color range, to create a palette of 15 shades that celebrates Porsche’s timeless innovation. 
+‘Dream in Colour’ commemorates Porsche Würzburg’s 75t Anniversary by examining the brand’s identity from the 1970s to the present exploring the evolution of models, forms, and colours to capture the adrenaline of a Porsche ride. Drawing inspiration from the brand’s emphasis on speed and motion, the artworks integrate aerodynamic lines with various Porsche models speeding up and down. An extensive exploration of historical hues like Rubystone Red, Irish Green, and Lava Orange was undertaken alongside Porsche’s latest 2024 exterior color range, to create a palette of 15 shades that celebrates Porsche’s timeless innovation. 
 
 {% note %}
+
 Size: 4 x 5 m <br>
 Medium: acrylic on aluminium
+
 {% endnote %}
 
 ![](/assets/uploads/1-porche-dream-in-colour.jpg)

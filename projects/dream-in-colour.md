@@ -9,7 +9,7 @@ end_year: 2025
 tags:
   - Public Art
 featured_image:
-  landscape: /assets/uploads/_dsc41911.jpg
+  landscape: /assets/uploads/_dsc4191.jpg
   portrait: /assets/uploads/_dsc41911.jpg
   light_image: true
   alt: colourful mural with cars and number 75

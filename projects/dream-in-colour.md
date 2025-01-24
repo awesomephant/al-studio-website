@@ -9,8 +9,8 @@ end_year: 2025
 tags:
   - Public Art
 featured_image:
-  landscape: /assets/uploads/al_template-desktop-porche.jpg
-  portrait: /assets/uploads/al_template-desktop-porche.jpg
+  landscape: /assets/uploads/_dsc4191-web.jpg
+  portrait: /assets/uploads/_dsc4191-web.jpg
   light_image: true
   alt: colourful mural with cars and number 75
 related_projects:

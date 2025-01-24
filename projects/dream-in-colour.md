@@ -2,9 +2,9 @@
 layout: project
 title: Dream In Colour
 draft: false
-subtitle: Porsche Würzburg
+subtitle: Mural for Porsche Würzburg
 date: 2025-01-19T09:42:17.329Z
-start_year: 2024
+start_year: 2025
 end_year: 2025
 tags:
   - Public Art

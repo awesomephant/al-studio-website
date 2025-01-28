@@ -2,7 +2,7 @@
 layout: project
 title: Serpentine
 draft: false
-subtitle: Inflatable for the Women & Children's Centre
+subtitle: Inflatable for the Shenzhen Women & Children's Centre
 date: 2025-01-28T08:40:09.167Z
 start_year: 2025
 end_year: 2025

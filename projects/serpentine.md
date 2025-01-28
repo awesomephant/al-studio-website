@@ -19,11 +19,13 @@ related_projects:
 ‘Serpentine’ is an inflatable installation at the Women and Children’s Federal Building, created in collaboration with Cashart, in Shenzhen, China to celebrate the Year of the Snake. The large-scale artwork has been imagined as a giant, playful snake designed to blend into the vibrant surroundings. As snakes in nature are defined by scales and lines, I replicated these patterns on the sculpture itself. A modular, multicoloured scale motif runs along the spine of the artwork, taking cues from the building’s architecture and the five-colour palette introduced by MVRDV. In partnership with T-LIGHT, the sculpture is illuminated to provide a dynamic, day-to-night experience for families and visitors. A digital illustration accompanies the physical installation, depicting a familiar Chinese New Year celebration. 新年快乐
 
 {% note %}
+
 Size: 28 x 11 m <br/>
 Medium: Digitally printed PVC Tarpaulin and LED lights
+
 {% endnote %}
 
-{% embed "%7B%7D" %}
+{% embed "%7B%22code%22%3A%22%3Cdiv%20style%3D%5C%22padding%3A56.25%25%200%200%200%3Bposition%3Arelative%3B%5C%22%3E%3Ciframe%20src%3D%5C%22https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F1051064454%3Fbadge%3D0%26amp%3Bautopause%3D0%26amp%3Bplayer_id%3D0%26amp%3Bapp_id%3D58479%5C%22%20frameborder%3D%5C%220%5C%22%20allow%3D%5C%22autoplay%3B%20fullscreen%3B%20picture-in-picture%3B%20clipboard-write%3B%20encrypted-media%5C%22%20style%3D%5C%22position%3Aabsolute%3Btop%3A0%3Bleft%3A0%3Bwidth%3A100%25%3Bheight%3A100%25%3B%5C%22%20title%3D%5C%22Serpentine%20x%20CASHART%20(2025)%5C%22%3E%3C%2Fiframe%3E%3C%2Fdiv%3E%3Cscript%20src%3D%5C%22https%3A%2F%2Fplayer.vimeo.com%2Fapi%2Fplayer.js%5C%22%3E%3C%2Fscript%3E%22%2C%22caption%22%3A%22Serpentine%20Film%20by%20CASHART%22%7D" %}
 
 ![](/assets/uploads/r0004763-edit.jpg)
 

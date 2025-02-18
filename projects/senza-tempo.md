@@ -16,14 +16,16 @@ featured_image:
 related_projects:
   - A Love Letter to Verona
 ---
-Senza Tempo is a site-responsive, 10 meters textile artwork for Pasqua Wines at the Italian Embassy in London to open Frieze London 2024. Informed by a palindromic poem titled ‘Infinitamente’, the piece celebrates the infinite thread that connects us all with past traditions and future generations.
+Senza Tempo is a site-responsive, textile artwork created in collaboration with Pasqua Wines and hosted at Saatchi Gallery and at the Italian Embassy in London during Frieze 2024. Informed by a palindromic poem written by Lonardi, the piece celebrates the infinite thread that connects us all with past traditions and future generations.
 
-The artwork was created using a combination of digital and handcrafted work. Printed on knitted polyester, the piece was enriched on both sides with 52 hours of hand-made inserts of precious fabrics such as organza, chiffon, and velvet. It also includes details like the silver silk cut-out letters that form the palindromic Italian poem.
+The artwork was created using a combination of digital and handcrafted work. Printed on knitted polyester, the piece was enriched on both sides with 52 hours of hand-made inserts of precious fabrics such as organza, chiffon, and velvet. It also includes details like the silver silk cut-out letters that form the poem "Infinitamente".
 
 {% note %}
 
+
 Dimensions: 10 x 3 m\
 Medium: printed polyester and mixed textiles
+
 
 {% endnote %}
 

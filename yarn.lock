@@ -59,15 +59,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@11ty/eleventy-plugin-rss@npm:^2.0.3":
-  version: 2.0.3
-  resolution: "@11ty/eleventy-plugin-rss@npm:2.0.3"
+"@11ty/eleventy-plugin-rss@npm:^2.0.4":
+  version: 2.0.4
+  resolution: "@11ty/eleventy-plugin-rss@npm:2.0.4"
   dependencies:
     "@11ty/eleventy-utils": ^2.0.0
     "@11ty/posthtml-urls": ^1.0.1
     debug: ^4.4.0
     posthtml: ^0.16.6
-  checksum: 20d64845a685dca909aefda55efe088332773a4f5ffbf3a7821649cbb56e807dd4d7a9f3f3743a497194b71e41f2af17064ee88c3f3ad0250c184f510f39eb3a
+  checksum: 922e6b0a4ff78761169ad78c4252d8dd384b685785546759107ac329b7b6a42557d868adf61b33e9fb21832077ce71383d147a44402135e530f0e07efdc8e885
   languageName: node
   linkType: hard
 
@@ -1489,7 +1489,7 @@ __metadata:
   resolution: "al-website@workspace:."
   dependencies:
     "@11ty/eleventy": ^3.0.0
-    "@11ty/eleventy-plugin-rss": ^2.0.3
+    "@11ty/eleventy-plugin-rss": ^2.0.4
     imports-loader: ^5.0.0
     jsdom: ^26.1.0
     netlify-cms-app: ^2.15.72
